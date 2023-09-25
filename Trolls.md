@@ -25,7 +25,7 @@
 
 **Cold Adapt**: You are resistant to cold damage. 
 
-**Chill Trolls**: When you hit a target with an attack roll and deal damage to it, you can also deal 1d6 cold damage and reduce its Speed by 10 until the start of your next turn. 
+**Chill Trolls**: When you hit a target with an attack roll and deal damage to it, you can also deal 1d6 cold damage and reduce its Speed by 10 until the start of your next turn. You can do this an amount equal to you proficiency bonus before you must take a long rest. 
 
 ## Sand Trolls
 
@@ -33,7 +33,7 @@
 
 **Sneaky**: You are proficient in the Stealth skill. In addition, without squeezing, you can move trough and stop in a space large enough for a small creature. 
 
-**Tumble**: When you hit a Large or smaller creature with an attack roll and deal damage to it, you can knock that target prone. 
+**Tumble**: When you hit a Large or smaller creature with an attack roll and deal damage to it, you can knock that target prone. You can do this an amount equal to you proficiency bonus before you must take a long rest.  
 
 
 
