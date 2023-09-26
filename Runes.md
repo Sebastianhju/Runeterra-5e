@@ -60,7 +60,6 @@ Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for ev
 |9|2d6|
 
 # Domination ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination.png)
-> Burst damage and target access
 
 ## Overview
 **Keystones**
@@ -113,9 +112,15 @@ You can dash as a bonus action. Whenever you dash, you next melee attack gains a
 |9|You gain an additional bonus action that must be used to take tha dash action|
 
 ---
-## Runes
 
 # Sorcery ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery.png)
+## Overview
+**Keystones**
+|**Rune**|**Snippet**|**Icon**|
+|---|---|---|
+|**[Summon Aery](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#summon-aery-)**| Summon a loyal freind that can shield allies| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/SummonAery.png" width=50% height=50%>|
+|**[Arcane Comet](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#arcane-comet-)** | Whenever you deal damage, a large comet deals damage in a circle  |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" width=50% height=50%> |
+|**[Phase Rush](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#phase-rush-)** | Gain a burst of speed and agility in combat| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" width=50% height=50%>|
 
 # Resolve ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve.png)
 
