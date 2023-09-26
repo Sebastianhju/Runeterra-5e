@@ -216,3 +216,16 @@ If you or an ally within 15ft of you takes 10 or more damage, guardian activates
 |**[Unsealed Spellbook](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#unsealed-spellbook-)**| Select different [Summoner Spells] each day to help you|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" width=50% height=50%>|
 |**[First Strike](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#first-strike-)**| Gain money for hitting the enemy before they can hit you|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" width=50% height=50%>|
 ---
+
+## Keystones 
+### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" Align=left width=25% height=25%>
+ 
+
+**Guardian Scaling**
+|Level|Hit Points|
+|---|---|
+|1| 5 temporary hit points|
+|3| 10 temporary hit points|
+|6|17 temporary hit points|
+|9|25 temporary hit points|
+---
