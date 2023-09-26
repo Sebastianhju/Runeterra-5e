@@ -8,7 +8,7 @@
 - [Domination](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#domination-)
 - [Sorcery](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#sorcery-)
 - [Resolve](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#resolve-)
-- [inspiration](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#inspiration-)
+- [Inspiration](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#inspiration-)
 
 ---
 
