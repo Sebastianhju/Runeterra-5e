@@ -1,4 +1,4 @@
-# Races
+# Species
 > The species of the worlds of the Multiverse are numerous and diverse. From the bipedal vastaya to the winged tiger-like protectors, from the magical to the unremarkable.
 ---
 # Table of Content
