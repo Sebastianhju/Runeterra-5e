@@ -109,7 +109,7 @@ You can dash as a bonus action. Whenever you dash, you next melee attack gains a
 |1| Dash as a bonus action and advantage on meele attacks after dashing |
 |3| The attack after the dash deals an additional 1d6 *necrotic* damage|
 |6|Predator has no cooldown|
-|9|You gain an additional bonus action that must be used to take tha dash action|
+|9|You gain an additional bonus action that must be used to take the dash action|
 
 ---
 
