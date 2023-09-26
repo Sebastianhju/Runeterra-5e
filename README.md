@@ -3,7 +3,7 @@ A 5e homebrew based in Runeterra
 
 # Races
 > There are many races in Runeterra. Here are a few of them whom you can play as.
-- [Trolls][(https://github.com/Sebastianhju/Runeterra-5e/blob/main/README.md#runeterra-5e:~:text=can%20play%20as.-,Trolls,-Trolls%20are%2C%20for)](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Trolls.md)
+- [Trolls](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Trolls.md#trolls)
 
 
 # Trolls
