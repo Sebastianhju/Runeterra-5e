@@ -34,6 +34,7 @@ Whenever you damage enemies, you gain stacks of Conqueror. One stack for ranged 
 |6|1d8|
 |9|2d6|
 
+---
 ### Lethal Tempo  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" Align=left width=25% height=25%>
 Whenever you damage enemies, you gain stacks of Lethal Tempo. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you gain 10ft reach on meele weapons, and 10 feet extra range for ranged weapons and spells. In addition you can make an extra attack as a part of your attack action.
 
@@ -45,9 +46,11 @@ Whenever you damage enemies, you gain stacks of Lethal Tempo. One stack for rang
 |6|15 feet reach and 20 feet range |
 |9|15 feet reach and 30 feet range|
 
+---
 ### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" Align=left width=25% height=25%>
 Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move, and five stacks for every attack you hit up to a maximum of 50 stacks. When you have 50 stacks, the next time you deal damage, you deal an additional 1d4 damage, and heal equal to the additional damage. In addition you gian *agility* and 10 feet movementspeed until the end of your turn
 
+---
 **Fleet Footwork Scaling**
 |Level|Damage|
 |---|---|
