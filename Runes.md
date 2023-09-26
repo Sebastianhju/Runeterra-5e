@@ -242,12 +242,12 @@ At the end of a long rest you can select a [Summoner Spell] to have that day. Su
 ---
 
 ### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" Align=left width=25% height=25%>
-At the end of a long rest you can select a [Summoner Spell] to have that day. Summoner spells are powerfull spells that can be used once before they vanish. You can never select the same spell two days in a row. At later levels you can get a new summoner spell when you finish a short rest.  
+Whenever you deal damage against any creature that hasn't taken a turn in the combat yet you gain gold as shown on the table below.
 
 **Mark of Cold Scaling**
 |Level|Hit Points|
 |---|---|
-|1|Long Rest|
-|5|Short Rest|
-|9|Short Rest, Select Two|
+|1|Gold Equal to the damage dealt|
+|6|Gold equal to to time the damage dealt|
+|9|Gold equal to four times the damage dealt|
 ---
