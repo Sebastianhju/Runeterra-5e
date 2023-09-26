@@ -142,21 +142,21 @@ Whenever you deal magical damage to an enemy, a comet shoots out from you, deali
 |Level|Effect|
 |---|---|
 |1| 1d6 damage in a 15 feet radius |
-|3| 2d4 danage in a 15 feet radius|
+|3| 2d6 danage in a 15 feet radius|
 |6|2d6 damage in a 30 feet radius|
 |9|3d6 damage in a 30 feet radius|
 ---
 
-### Summon Aery  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/SummonAery.png" Align=left width=25% height=25%>
-As an action you can cast the find familliar spell, summoning Aery, without using components. Aery is a spirit that can shield your allies or deal damage to enemies. 
+### Phase Rush  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" Align=left width=25% height=25%>
+When you deal damage to a target, they gain a stack of Phase, when a target gets three stacks you gain movementspeed and agility based on your level
 
-**Aery Scaling**
+****
 |Level|Effect|
 |---|---|
-|1| 1d4+2 damage or 5 temporary hit points |
-|3| 1d6+3 damage or 10 temporary hit points|
-|6|2d4+4 damage or 15 temporary hit points|
-|9|2d6+5 damage or 20 temporary hit points|
+|1| You gain 10 feet movement speed and agility|
+|3| You gain 15 feet movement speed and agility|
+|6|You gain 20 feet movement speed and agility|
+|9|You gain 30 feet movement speed and agility|
 ---
 # Resolve ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve.png)
 
