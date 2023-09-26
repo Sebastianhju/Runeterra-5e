@@ -2,6 +2,8 @@
 
 > Trolls are, for the most part, hulking *brutish creatures, found in many of Runeterra’s least hospitable environments. Though not invulnerable, they are blessed with a hardy constitution and the ability to heal more quickly than other mortal races—especially the feeble humans. This means they can endure extremes of climate and scarce resources merely by out-surviving their rivals, and this is the most likely reason some of the largest known tribes still call the mountains of the Freljord home.*
 
+![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Troll.png)
+
 # Racial Traits
 **Creature Type**: You are a Humanoid
 
