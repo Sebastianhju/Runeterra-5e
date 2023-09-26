@@ -1,8 +1,7 @@
-# Runeterra-5e
-A 5e homebrew based in Runeterra
 
 # Races
 > There are many races in Runeterra. Here are a few of them whom you can play as.
+**Table of Content**
 - [Trolls](https://github.com/Sebastianhju/Runeterra-5e/blob/main/README.md#trolls)
 - [Yordles](https://github.com/Sebastianhju/Runeterra-5e/blob/main/README.md#yordles)
 
