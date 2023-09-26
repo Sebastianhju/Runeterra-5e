@@ -10,9 +10,9 @@
 - [Resolve](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#Resolve)
 - [inspiration](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#Inspiration)
 
-# Precision
+# Precision![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Runes-kopi/7200_Precision.png)
 
-# Domination
+# Domination![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Runes-kopi/7201_Domination.png)
 > Burst damage and target access
 ## Overview
 
@@ -21,8 +21,8 @@
 
 ## Runes
 
-# Sorcery
+# Sorcery![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Runes-kopi/7202_Sorcery.png)
 
 # Resolve![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Runes-kopi/7204_Resolve.png)
 
-# Inspiration
+# Inspiration![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Runes-kopi/7203_Whimsy.png)
