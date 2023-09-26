@@ -50,4 +50,25 @@
 ---
 
 # Yordles
+> The **Yordle** are a race of spirits who generally take the appearance of mammalian bipeds. They mostly reside in a mystical place known as Bandle City though some of them have ventured out to live in numerous locations around Runeterra.
+
+# Racial Traits
+**Creature Type**: You are Fey
+
+**Size:** You are Small
+
+**Speed**: Your walking speed is 30 feet. 
+
+**Ability Score Improvement**: When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1.
+
+**Languages**: Your character can read, speak and write Va-Nox, Sylvan and one other Language of your choice
+
+**Fey Ancestry**: You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
+
+**Immortality**: Yordles live immortal lives. Whenever you would die, they are instead teleported back to Bandle City. 
+
+**Magical Talent**: You can attune to almost any magical item due to your magical ancestory. You ignore all feat, class, race, and level requirements on the use of magic items.
+
+**Glamor**: In less enlightened parts of the world, a yordle's appearance could seem frightening or unnatural to mortals. Fortunately, they are adept at blending in, and often protected by a kind of supernatural glamour. You know the disguise self cantrip, and can use it at will. 
+
 
