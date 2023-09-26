@@ -2,4 +2,4 @@
 A 5e homebrew based in Runeterra
 
 # Races
-[[Trolls]]
+# Trolls
