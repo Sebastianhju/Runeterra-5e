@@ -231,7 +231,7 @@ Whenever you immobilize a creature, they and all enemies within 10 feet of the t
 ---
 
 ### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=25% height=25%>
-At the end of a long rest you can select a [Summoner Spell](https://github.com/Sebastianhju/Runeterra-5e/blob/main/SummonerSpells.md) to have that day. Summoner spells are powerfull spells that can be used once before they vanish. You can never select the same spell two days in a row. At later levels you can get a new summoner spell when you finish a short rest.  
+At the end of a long rest you can select a [Summoner Spell](https://github.com/Sebastianhju/Runeterra-5e/blob/main/SummonerSpells.md) to have that day, if you dont use it before you take a long rest it wanishes. Summoner spells are powerfull spells that can be used once before they vanish. You can never select the same spell two days in a row. At later levels you can get a new summoner spell when you finish a short rest.  
 
 **Mark of Cold Scaling**
 |Level|Hit Points|
