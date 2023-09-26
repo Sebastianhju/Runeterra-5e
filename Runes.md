@@ -18,7 +18,7 @@
 **Keystones**
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
-|**[Electrocute](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md###Electrocute)**| Deal additional lightning damage when you hit a target with three attacks| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Electrocute.png" width=50% height=50%>
+|**[Electrocute](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md###Electrocute)**| Deal additional lightning damage when you hit a target with three attacks| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" width=50% height=50%>
 | | | |
 | | | |
 
