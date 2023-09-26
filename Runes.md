@@ -15,11 +15,19 @@
 # Domination ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Runes-kopi/7200_Domination.png)
 > Burst damage and target access
 ## Overview
+**Keystones**
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
-|**Electrocute**| Deal additional lightning damage when you hit a target with three attacks| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Runes-kopi/Domination/Electrocute/Electrocute.png" width=50% height=50%>
+|**[Electrocute](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md###Electrocute)**| Deal additional lightning damage when you hit a target with three attacks| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Runes-kopi/Domination/Electrocute/Electrocute.png" width=50% height=50%>
+| | | |
+| | | |
 
 ## Keystones
+### Electrocute
+
+### Dark Harvest
+
+### Predator
 
 ## Runes
 
