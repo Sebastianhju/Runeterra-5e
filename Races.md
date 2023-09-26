@@ -3,7 +3,7 @@
 ---
 # Table of Content
 - [Trolls]
-- [Yordles]
+- [Yordles](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Races.md#yordles)
 - [Vastayan]
 - [Humans]
 - [Minotaurs]
