@@ -248,6 +248,6 @@ Whenever you deal damage against any creature that hasn't taken a turn in the co
 |Level|Hit Points|
 |---|---|
 |1|Gold Equal to the damage dealt|
-|6|Gold equal to to time the damage dealt|
+|6|Gold equal to two times the damage dealt|
 |9|Gold equal to four times the damage dealt|
 ---
