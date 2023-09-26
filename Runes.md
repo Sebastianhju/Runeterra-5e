@@ -50,7 +50,6 @@ Whenever you damage enemies, you gain stacks of Lethal Tempo. One stack for rang
 ### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" Align=left width=25% height=25%>
 Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move, and five stacks for every attack you hit up to a maximum of 50 stacks. When you have 50 stacks, the next time you deal damage, you deal an additional 1d4 damage, and heal equal to the additional damage. In addition you gian *agility* and 10 feet movementspeed until the end of your turn
 
----
 **Fleet Footwork Scaling**
 |Level|Damage|
 |---|---|
@@ -58,6 +57,7 @@ Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for ev
 |3| 1d6|
 |6|1d8|
 |9|2d6|
+---
 
 # Domination ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination.png)
 
@@ -103,7 +103,7 @@ Whenever you damage a bloody creature you gain a stack of Harvest. In addition t
 ### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=25% height=25%>
 You can dash as a bonus action. Whenever you dash, you next melee attack gains advantage. Once used, it cannot be used again until a minute has passed.
 
-**Harvest Scaling**
+**Predator Scaling**
 |Level|Effect|
 |---|---|
 |1| Dash as a bonus action and advantage on meele attacks after dashing |
@@ -122,6 +122,42 @@ You can dash as a bonus action. Whenever you dash, you next melee attack gains a
 |**[Arcane Comet](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#arcane-comet-)** | Whenever you deal damage, a large comet deals damage in a circle  |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" width=50% height=50%> |
 |**[Phase Rush](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#phase-rush-)** | Gain a burst of speed and agility in combat| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" width=50% height=50%>|
 
+## Keystones
+### Summon Aery  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/SummonAery.png" Align=left width=25% height=25%>
+As an action you can cast the find familliar spell, summoning Aery, without using components. Aery is a spirit that can shield your allies or deal damage to enemies. 
+
+**Aery Scaling**
+|Level|Effect|
+|---|---|
+|1| 1d4+2 damage or 5 temporary hit points |
+|3| 1d6+3 damage or 10 temporary hit points|
+|6|2d4+4 damage or 15 temporary hit points|
+|9|2d6+5 damage or 20 temporary hit points|
+---
+
+### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" Align=left width=25% height=25%>
+Whenever you deal magical damage to an enemy, a comet shoots out from you, dealing magical bludgeoning damage to all targets of your choosing. The damage and area of effect scales with your level. Once used, it cannot be used again until a minute has passed.
+
+**Arcane Comet Scaling**
+|Level|Effect|
+|---|---|
+|1| 1d6 damage in a 15 feet radius |
+|3| 2d4 danage in a 15 feet radius|
+|6|2d6 damage in a 30 feet radius|
+|9|3d6 damage in a 30 feet radius|
+---
+
+### Summon Aery  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/SummonAery.png" Align=left width=25% height=25%>
+As an action you can cast the find familliar spell, summoning Aery, without using components. Aery is a spirit that can shield your allies or deal damage to enemies. 
+
+**Aery Scaling**
+|Level|Effect|
+|---|---|
+|1| 1d4+2 damage or 5 temporary hit points |
+|3| 1d6+3 damage or 10 temporary hit points|
+|6|2d4+4 damage or 15 temporary hit points|
+|9|2d6+5 damage or 20 temporary hit points|
+---
 # Resolve ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve.png)
 
 # Inspiration ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration.png)
