@@ -12,7 +12,7 @@
 
 > Trolls are, for the most part, hulking *brutish creatures, found in many of Runeterra’s least hospitable environments. Though not invulnerable, they are blessed with a hardy constitution and the ability to heal more quickly than other mortal races—especially the feeble humans. This means they can endure extremes of climate and scarce resources merely by out-surviving their rivals, and this is the most likely reason some of the largest known tribes still call the mountains of the Freljord home.*
 
-![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Troll.png)
+![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Troll.png)
 
 # Racial Traits
 **Creature Type**: You are a Humanoid
@@ -51,6 +51,8 @@
 
 # Yordles
 > The **Yordle** are a race of spirits who generally take the appearance of mammalian bipeds. They mostly reside in a mystical place known as Bandle City though some of them have ventured out to live in numerous locations around Runeterra.
+
+![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Yordles.Png)
 
 # Racial Traits
 **Creature Type**: You are Fey
