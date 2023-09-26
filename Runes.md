@@ -198,15 +198,15 @@ When you immobilize a creature, you gain temporary hit points based on your leve
 ---
 
 ### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=25% height=25%>
-If you or an ally within 15ft of you takes 10 or more damage, guardian activates, giving you and selected ally temporary hit points based on your level, as shown on the table below. Once used, it cannot be used again until a 30 seconds has passed. 
+If you or an ally within 15ft of you takes 10 or more damage, guardian activates, giving you and selected ally temporary hit points based on your level, as shown on the table below. Once used, this effect cannot be used again until a minute has passed. 
 
 **Guardian Scaling**
 |Level|Hit Points|
 |---|---|
 |1| 5 temporary hit points|
 |3| 10 temporary hit points|
-|6|17 temporary hit points|
-|9|25 temporary hit points|
+|6| 15 temporary hit points|
+|9| 20 temporary hit points|
 ---
 
 # Inspiration ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration.png)
@@ -219,13 +219,25 @@ If you or an ally within 15ft of you takes 10 or more damage, guardian activates
 
 ## Keystones 
 ### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" Align=left width=25% height=25%>
- 
+Whenever you immobilize a creature, they and all enemies within 10 feet of the target gains a *Mark of Cold* until the end of your next turn. A creature with *Mark of Cold* takes additional cold damage based on your level, as shown on the table below, the first time they are struck. Additionally their speed is halved until the end of their turn. Once used, this effect cannot be used aagain until a minute has passed. 
 
-**Guardian Scaling**
+**Mark of Cold Scaling**
 |Level|Hit Points|
 |---|---|
-|1| 5 temporary hit points|
-|3| 10 temporary hit points|
-|6|17 temporary hit points|
-|9|25 temporary hit points|
+|1|1d4 Cold Damage|
+|3| 1d6 Cold Damage|
+|6|1d8 Cold damage|
+|9|2d6 Cold damage|
+---
+
+### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" Align=left width=25% height=25%>
+Whenever you immobilize a creature, they and all enemies within 10 feet of the target gains a *Mark of Cold* until the end of your next turn. A creature with *Mark of Cold* takes additional cold damage based on your level, as shown on the table below, the first time they are struck. Additionally their speed is halved until the end of their turn. Once used, this effect cannot be used aagain until a minute has passed. 
+
+**Mark of Cold Scaling**
+|Level|Hit Points|
+|---|---|
+|1|1d4 Cold Damage|
+|3| 1d6 Cold Damage|
+|6|1d8 Cold damage|
+|9|2d6 Cold damage|
 ---
