@@ -230,14 +230,24 @@ Whenever you immobilize a creature, they and all enemies within 10 feet of the t
 |9|2d6 Cold damage|
 ---
 
-### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" Align=left width=25% height=25%>
-Whenever you immobilize a creature, they and all enemies within 10 feet of the target gains a *Mark of Cold* until the end of your next turn. A creature with *Mark of Cold* takes additional cold damage based on your level, as shown on the table below, the first time they are struck. Additionally their speed is halved until the end of their turn. Once used, this effect cannot be used aagain until a minute has passed. 
+### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=25% height=25%>
+At the end of a long rest you can select a [Summoner Spell] to have that day. Summoner spells are powerfull spells that can be used once before they vanish. You can never select the same spell two days in a row. At later levels you can get a new summoner spell when you finish a short rest.  
 
 **Mark of Cold Scaling**
 |Level|Hit Points|
 |---|---|
-|1|1d4 Cold Damage|
-|3| 1d6 Cold Damage|
-|6|1d8 Cold damage|
-|9|2d6 Cold damage|
+|1|Long Rest|
+|5|Short Rest|
+|9|Short Rest, Select Two|
+---
+
+### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" Align=left width=25% height=25%>
+At the end of a long rest you can select a [Summoner Spell] to have that day. Summoner spells are powerfull spells that can be used once before they vanish. You can never select the same spell two days in a row. At later levels you can get a new summoner spell when you finish a short rest.  
+
+**Mark of Cold Scaling**
+|Level|Hit Points|
+|---|---|
+|1|Long Rest|
+|5|Short Rest|
+|9|Short Rest, Select Two|
 ---
