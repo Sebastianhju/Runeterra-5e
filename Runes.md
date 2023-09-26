@@ -27,7 +27,7 @@
 |**[Predator](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md###Predator)** | You can dash as a bonus action and gain advantage on rushed attacks | <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" width=50% height=50%>|
 
 ## Keystones
-### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=right width=25% height=25%>
+### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=25% height=25%>
 Damaging an enemy generate a stacks of Electrocute, up to one per attack or spell cast. Applying 3 stacks to a target causes them to be struck by lightning damage.  Once used, it cannot be used again until a minute has passed or you kill a unit.
 
 **Electrocute Damage**
@@ -39,7 +39,7 @@ Damaging an enemy generate a stacks of Electrocute, up to one per attack or spel
 |9|4d8|
 
 ---
-### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=right width=25% height=25%>
+### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=25% height=25%>
 Whenever you damage a bloody creature you gain a stack of Harvest. In addition the bloody creature take additional *Force* damage based on how many stacks of Harvest you have obtained. Once used, it cannot be used again until you kill a unit of CR 1 or higher, or finish a long rest. 
 
 **Harvest damage**
@@ -57,7 +57,7 @@ Whenever you damage a bloody creature you gain a stack of Harvest. In addition t
 | 500            | 4d8 + proficiency bonus Force Damage                                     |
 
 ---
-### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=right width=25% height=25%>
+### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=25% height=25%>
 You can dash as a bonus action. Whenever you dash, you next melee attack gains advantage. Once used, it cannot be used again until a minute has passed.
 
 **Harvest Scaling**
