@@ -10,10 +10,9 @@
   
 # Trolls
 
+![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Troll.png)
 |*Trolls are, for the most part, hulking brutish creatures, found in many of Runeterra’s least hospitable environments. Though not invulnerable, they are blessed with a hardy constitution and the ability to heal more quickly than other mortal races—especially the feeble humans. This means they can endure extremes of climate and scarce resources merely by out-surviving their rivals, and this is the most likely reason some of the largest known tribes still call the mountains of the Freljord home.*|
 |---|
-
-![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Troll.png)
 
 # Racial Traits
 **Creature Type**: You are a Humanoid
@@ -57,11 +56,10 @@
 ---
 
 # Yordles
-|*The **Yordle** are a race of spirits who generally take the appearance of mammalian bipeds. They mostly reside in a mystical place known as Bandle City though some of them have ventured out to live in numerous locations around Runeterra. Yordle culture is gregarious and varied; they require far more social interaction than humans do. They generally are a peaceful and amicable race, often marked with streaks of joviality and light prankishness, with their personality most often pointed toward benevolence. Their desire for social interaction also drives them toward this ethos, as the mental health of a yordle is very much dependent on the positive company he or she keeps.*|
-|---|
 
 ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Yordles.Png)
-
+|*The **Yordle** are a race of spirits who generally take the appearance of mammalian bipeds. They mostly reside in a mystical place known as Bandle City though some of them have ventured out to live in numerous locations around Runeterra. Yordle culture is gregarious and varied; they require far more social interaction than humans do. They generally are a peaceful and amicable race, often marked with streaks of joviality and light prankishness, with their personality most often pointed toward benevolence. Their desire for social interaction also drives them toward this ethos, as the mental health of a yordle is very much dependent on the positive company he or she keeps.*|
+|---|
 # Racial Traits
 **Creature Type**: You are Fey
 
