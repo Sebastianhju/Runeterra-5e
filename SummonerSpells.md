@@ -48,7 +48,7 @@ When you hit a target with an attack, after you've rolled for damage you can use
 ---
 
 
-# Teleport|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Teleport_HD.png" align=right width=10% height=10%>
+# Teleport<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Teleport_HD.png" align=right width=10% height=10%>
 After a ten minute channel you can teleport yourself and up to five allies to a known city or village.|
 
 
