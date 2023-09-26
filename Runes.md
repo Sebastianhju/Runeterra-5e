@@ -4,11 +4,11 @@
 ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Worldrune.png)
 
 # Table of content
-- [Precision]
-- [Domination]
-- [Sorcery]
-- [Resolve]
-- [inspiration]
+- [Precision](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#precision)
+- [Domination](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#Domination)
+- [Sorcery](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#sorcery)
+- [Resolve](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#Resolve)
+- [inspiration](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#Inspiration)
 
   # Precision
 
