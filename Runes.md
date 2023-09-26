@@ -198,7 +198,7 @@ When you immobilize a creature, you gain temporary hit points based on your leve
 ---
 
 ### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=25% height=25%>
-If you or an ally within 15ft of you takes 10 or more damage, guardian activates, giving you and selected ally temporary hit points based on your level, as shown on the table below. Once used, this effect cannot be used again until a minute has passed. 
+If you or an ally within 15ft of you takes leathal or 10 plus damage, guardian activates, giving you and selected ally temporary hit points based on your level, as shown on the table below. Once used, this effect cannot be used again until a minute has passed. 
 
 **Guardian Scaling**
 |Level|Hit Points|
