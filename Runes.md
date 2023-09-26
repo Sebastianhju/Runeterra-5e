@@ -18,8 +18,8 @@
 **Keystones**
 |Rune|Snippet|Icon|
 |---|---|---|
-|**[Conqueror](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md###Conqueror-)**|Gain substain in long combats |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" width=50% height=50%>|
-|**[Lethal Tempo](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md###Conqueror-)**|Get attackspeed in long combats |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" width=50% height=50%>|
+|**[Conqueror](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md###Conqueror-)**|Gain substained damage an restoration in long fights |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" width=50% height=50%>|
+|**[Lethal Tempo](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md###Conqueror-)**|Get attackspeed and range in long fights |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" width=50% height=50%>|
 |**[Fleet Footwork](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md###Conqueror-)**|Gain movement speed and substain while moving in combat |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" width=50% height=50%>|
 
 ## Keystones
