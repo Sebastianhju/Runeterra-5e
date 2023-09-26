@@ -81,4 +81,4 @@
 
 # Humans
 
-![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Human.Png)
+![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Human.png)
