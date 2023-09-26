@@ -76,10 +76,10 @@ Damaging an enemy generate a stacks of Electrocute, up to one per attack or spel
 **Electrocute Damage**
 |Level|Damage|
 |---|---|
-|1| 1d8|
+|1| 2d8|
 |3| 2d8|
 |6|3d8|
-|9|4d8|
+|9|3d8|
 
 ---
 ### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=25% height=25%>
@@ -150,7 +150,7 @@ Whenever you deal magical damage to an enemy, a comet shoots out from you, deali
 ### Phase Rush  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" Align=left width=25% height=25%>
 When you deal damage to a target, they gain a stack of Phase, when a target gets three stacks you gain movementspeed and agility based on your level
 
-****
+**Phase Rush Scaling**
 |Level|Effect|
 |---|---|
 |1| You gain 10 feet movement speed and agility|
@@ -161,8 +161,58 @@ When you deal damage to a target, they gain a stack of Phase, when a target gets
 # Resolve ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve.png)
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
-|**[Grasp of the Undying](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#grasp-of-the-undying-)**| Drain the opponents health to get even healthier|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" width=25% height=25%>|
-|**[Aftershock](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#aftershock-)**| Immobilizing enemies makes you even more tanky|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" width=25% height=25%>|
-|**[Guardian](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#guardian-)**| Protect those close to you|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" width=25% height=25%>|
+|**[Grasp of the Undying](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#grasp-of-the-undying-)**| Drain the opponents health to get even healthier|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" width=50% height=50%>|
+|**[Aftershock](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#aftershock-)**| Immobilizing enemies makes you even more tanky|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" width=50% height=50%>|
+|**[Guardian](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#guardian-)**| Protect those close to you|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" width=50% height=50%>|
+---
+## Keystones
+### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=25% height=25%>
+For every turn in combat, you gain a stack of *Grasp*. When you are at three stacks, your next attack deals 1d4 extra necrotic damage. You heal equal to the necrotic damage dealt and gain stacks of *Undying* equal to the amount dealt. You gain more maximum hit points for each undying stack as shown on the table below. 
+
+**Undying Scaling**
+|Undying Stacks|Hit Points|
+|---|---|
+|20| You gain +3 maximum health|
+|40| Youi gain +3 maximum health|
+|75|You gain +3 maximum health|
+|100|You gain +3 maximum health|
+|130| You gain +3 maximum health|
+|170| You gain +5 maximum health|
+|225| You gain +5 maximum health|
+|300 | You gain +7 maximum health|
+|350| You gain +8 maximum health|
+|400| You gain +10 maximum health|
+|500| You gain +20 maximum health|
+
+---
+### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=25% height=25%>
+When you immobilize a creature, you gain temporary hit points based on your level, as shown on the table below. These temporary hit points last until the start of your next turn, if you still have any remaining at the start of your turn, enemies within 5 feet of you suffer damage equal to your temporary hit points. 
+
+**Aftershock Scaling**
+|Level|Hit Points|
+|---|---|
+|1| 5 temporary hit points|
+|3| 10 temporary hit points|
+|6|17 temporary hit points|
+|9|25 temporary hit points|
+---
+
+### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=25% height=25%>
+If you or an ally within 15ft of you takes 10 or more damage, guardian activates, giving you and selected ally temporary hit points based on your level, as shown on the table below. Once used, it cannot be used again until a 30 seconds has passed. 
+
+**Guardian Scaling**
+|Level|Hit Points|
+|---|---|
+|1| 5 temporary hit points|
+|3| 10 temporary hit points|
+|6|17 temporary hit points|
+|9|25 temporary hit points|
+---
 
 # Inspiration ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration.png)
+|**Rune**|**Snippet**|**Icon**|
+|---|---|---|
+|**[Glacial Augment](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#glacial-augment-)**| Immobilizing creatures increases your teams damage against them|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" width=50% height=50%>|
+|**[Unsealed Spellbook](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#unsealed-spellbook-)**| Select different [Summoner Spells] each day to help you|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" width=50% height=50%>|
+|**[First Strike](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#first-strike-)**| Gain money for hitting the enemy before they can hit you|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" width=50% height=50%>|
+---
