@@ -2,7 +2,7 @@
 > The species of the worlds of the Multiverse are numerous and diverse. From the bipedal vastaya to the winged tiger-like protectors, from the magical to the unremarkable.
 ---
 # Table of Content
-- [Trolls]
+- [Trolls](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Races.md#trolls)
 - [Yordles](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Races.md#yordles)
 - [Vastayan]
 - [Humans]
