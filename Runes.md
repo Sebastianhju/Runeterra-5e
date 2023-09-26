@@ -101,7 +101,7 @@ Once a turn whenever you damage a bloody creature you gain a stack of Harvest. I
 
 ---
 ### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=25% height=25%>
-You can dash as a bonus action. Whenever you dash, you next melee attack gains advantage. Once used, it cannot be used again until a minute has passed.
+You can dash as a bonus action. Whenever you take the dash action on your turn, you have advantage on your next melee attack if you moved atleast 10ft in a straght line towards the taret. Once used, it cannot be used again until a minute has passed or you kill an enemy
 
 **Predator Scaling**
 |Level|Effect|
