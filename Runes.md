@@ -12,7 +12,7 @@
 
 ---
 
-# Precision ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Runes-kopi/7201_Precision.png)
+# Precision ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision.png)
 
 ## Overview
 **Keystones**
@@ -22,8 +22,43 @@
 |**[Lethal Tempo](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md###Conqueror-)**|Get attackspeed in long combats |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" width=50% height=50%>|
 |**[Fleet Footwork](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md###Conqueror-)**|Gain movement speed and substain while moving in combat |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" width=50% height=50%>|
 
-# Domination ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Runes-kopi/7200_Domination.png)
+## Keystones
+### Conqueror  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" Align=left width=25% height=25%>
+Whenever you damage enemies, you gain stacks of Conqueror. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you gain 1d4 additional damage from your attacks, and you heal for the additional damage dealt. 
+
+**Conqueror Scaling**
+|Level|Damage|
+|---|---|
+|1| 1d4 |
+|3| 1d6|
+|6|1d8|
+|9|2d6|
+
+### Lethal Tempo  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" Align=left width=25% height=25%>
+Whenever you damage enemies, you gain stacks of Lethal Tempo. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you gain 10ft reach on meele weapons, and 10 feet extra range for ranged weapons and spells. In addition you can make an extra attack as a part of your attack action.
+
+**Lethal Tempo Scaling**
+|Level|Damage|
+|---|---|
+|1|10 feet reach and 10 feet range |
+|3| 10 feet reach and 15 feet range|
+|6|15 feet reach and 20 feet range |
+|9|15 feet reach and 30 feet range|
+
+### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" Align=left width=25% height=25%>
+Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move, and five stacks for every attack you hit up to a maximum of 50 stacks. When you have 50 stacks, the next time you deal damage, you deal an additional 1d4 damage, and heal equal to the additional damage. In addition you gian *agility* and 10 feet movementspeed until the end of your turn
+
+**Fleet Footwork Scaling**
+|Level|Damage|
+|---|---|
+|1| 1d4 |
+|3| 1d6|
+|6|1d8|
+|9|2d6|
+
+# Domination ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination.png)
 > Burst damage and target access
+
 ## Overview
 **Keystones**
 |**Rune**|**Snippet**|**Icon**|
@@ -69,7 +104,7 @@ You can dash as a bonus action. Whenever you dash, you next melee attack gains a
 **Harvest Scaling**
 |Level|Effect|
 |---|---|
-|1| |
+|1| Dash as a bonus action and advantage on meele attacks after dashing |
 |3| The attack after the dash deals an additional 1d6 *necrotic* damage|
 |6|Predator has no cooldown|
 |9|You gain an additional bonus action that must be used to take tha dash action|
@@ -77,8 +112,8 @@ You can dash as a bonus action. Whenever you dash, you next melee attack gains a
 ---
 ## Runes
 
-# Sorcery ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Runes-kopi/7202_Sorcery.png)
+# Sorcery ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery.png)
 
-# Resolve ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Runes-kopi/7204_Resolve.png)
+# Resolve ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve.png)
 
-# Inspiration ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Runes-kopi/7203_Whimsy.png)
+# Inspiration ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration.png)
