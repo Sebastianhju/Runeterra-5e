@@ -23,7 +23,7 @@
 
 **Ability Score Improvement**: When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1.
 
-**Languages**: Your character can read, speak and write common and Giant
+**Languages**: Your character can read, speak and write Va-Nox
 
 **Darkvision**: You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern Colors in that darkness only as shades of gray. 
 
@@ -39,6 +39,8 @@
 
 **Chill Trolls**: When you hit a target with an attack roll and deal damage to it, you can also deal 1d6 cold damage and reduce its Speed by 10 until the start of your next turn. You can do this an amount equal to you proficiency bonus before you must take a long rest. 
 
+**Languages**: Your character can read, speak and write Freldjordian
+
 ## Sand Trolls
 
 > Sand Trolls are roaming around the Shuriman Deserts. Many doesn't even know of their exisitance. But for a long time the sand trolls were proud members of, the now fallen, Icathia. These days they mostly avoid danger, and are expert hunters. 
@@ -47,10 +49,12 @@
 
 **Tumble**: When you hit a Large or smaller creature with an attack roll and deal damage to it, you can knock that target prone. You can do this an amount equal to you proficiency bonus before you must take a long rest.  
 
+**Languages**: Your character can read, speak and write Ixtali
+
 ---
 
 # Yordles
-> The **Yordle** are a race of spirits who generally take the appearance of mammalian bipeds. They mostly reside in a mystical place known as Bandle City though some of them have ventured out to live in numerous locations around Runeterra.
+> The **Yordle** are a race of spirits who generally take the appearance of mammalian bipeds. They mostly reside in a mystical place known as Bandle City though some of them have ventured out to live in numerous locations around Runeterra. Yordle culture is gregarious and varied; they require far more social interaction than humans do. They generally are a peaceful and amicable race, often marked with streaks of joviality and light prankishness, with their personality most often pointed toward benevolence. Their desire for social interaction also drives them toward this ethos, as the mental health of a yordle is very much dependent on the positive company he or she keeps.
 
 ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Yordles.Png)
 
@@ -72,5 +76,3 @@
 **Magical Talent**: You can attune to almost any magical item due to your magical ancestory. You ignore all feat, class, race, and level requirements on the use of magic items.
 
 **Glamor**: In less enlightened parts of the world, a yordle's appearance could seem frightening or unnatural to mortals. Fortunately, they are adept at blending in, and often protected by a kind of supernatural glamour. You know the disguise self cantrip, and can use it at will. 
-
-
