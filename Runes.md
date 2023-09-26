@@ -23,6 +23,6 @@
 
 # Sorcery
 
-# Resolve
+# Resolve![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Runes-kopi/7204_Resolve.png)
 
 # Inspiration
