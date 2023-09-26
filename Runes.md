@@ -118,9 +118,9 @@ You can dash as a bonus action. Whenever you take the dash action on your turn, 
 **Keystones**
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
-|**[Summon Aery](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#summon-aery-)**| Summon a loyal freind that can shield allies| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/SummonAery.png" width=50% height=50%>|
+|**[Summon Aery](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#summon-aery-)**| Summon a loyal friend that can shield allies or deal damage| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/SummonAery.png" width=50% height=50%>|
 |**[Arcane Comet](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#arcane-comet-)** | Whenever you deal damage, a large comet deals damage in a circle  |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" width=50% height=50%> |
-|**[Phase Rush](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#phase-rush-)** | Gain a burst of speed and agility in combat| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" width=50% height=50%>|
+|**[Phase Rush](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#phase-rush-)** | Gain bursts of speed and agility in combat| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" width=50% height=50%>|
 
 ## Keystones
 ### Summon Aery  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/SummonAery.png" Align=left width=25% height=25%>
@@ -148,7 +148,7 @@ Whenever you deal magical damage to an enemy, a comet shoots out from you, deali
 ---
 
 ### Phase Rush  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" Align=left width=25% height=25%>
-When you deal damage to a target, they gain a stack of Phase, when a target gets three stacks you gain movementspeed and agility based on your level
+When you deal damage to a target, they gain a stack of Phase, when a target gets three stacks you gain movement speed and agility based on your level
 
 **Phase Rush Scaling**
 |Level|Effect|
@@ -173,7 +173,7 @@ For every turn in combat, you gain a stack of *Grasp*. When you are at three sta
 |Undying Stacks|Hit Points|
 |---|---|
 |20| You gain +3 maximum health|
-|40| Youi gain +3 maximum health|
+|40| You gain +3 maximum health|
 |75|You gain +3 maximum health|
 |100|You gain +3 maximum health|
 |130| You gain +3 maximum health|
@@ -198,7 +198,7 @@ When you immobilize a creature, you gain temporary hit points based on your leve
 ---
 
 ### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=25% height=25%>
-If you or an ally within 15ft of you takes leathal or 10 plus damage, guardian activates, giving you and selected ally temporary hit points based on your level, as shown on the table below. Once used, this effect cannot be used again until a minute has passed. 
+If you or an ally within 15ft of you takes 10 or more damage guardian activates, giving you and the selected ally temporary hit points based on your level, as shown on the table below. If a hit would reduce you or an allies hit points to zero hit points, you are instead reduced to one hit point with the temporary hit points. Once used, this effect cannot be used again until a minute has passed. 
 
 **Guardian Scaling**
 |Level|Hit Points|
@@ -206,14 +206,14 @@ If you or an ally within 15ft of you takes leathal or 10 plus damage, guardian a
 |1| 5 temporary hit points|
 |3| 10 temporary hit points|
 |6| 15 temporary hit points|
-|9| 20 temporary hit points|
+|9| 25 temporary hit points|
 ---
 
 # Inspiration ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration.png)
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
-|**[Glacial Augment](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#glacial-augment-)**| Immobilizing creatures increases your teams damage against them|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" width=50% height=50%>|
-|**[Unsealed Spellbook](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#unsealed-spellbook-)**| Select different [Summoner Spells] each day to help you|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" width=50% height=50%>|
+|**[Glacial Augment](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#glacial-augment-)**| Immobilizing creatures increases your allies damage against them|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" width=50% height=50%>|
+|**[Unsealed Spellbook](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#unsealed-spellbook-)**| Select different [Summoner Spells](https://github.com/Sebastianhju/Runeterra-5e/blob/main/SummonerSpells.md) each day to help you|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" width=50% height=50%>|
 |**[First Strike](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#first-strike-)**| Gain money for hitting the enemy before they can hit you|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" width=50% height=50%>|
 ---
 
