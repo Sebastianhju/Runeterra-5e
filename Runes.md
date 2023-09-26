@@ -159,6 +159,8 @@ When you deal damage to a target, they gain a stack of Phase, when a target gets
 |9|You gain 30 feet movement speed and agility|
 ---
 # Resolve ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve.png)
+|**Rune**|**Snippet**|**Icon**|
+|---|---|---|
 |**[Grasp of the Undying](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#grasp-of-the-undying-)**| Drain the opponents health to get even healthier|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" width=25% height=25%>|
 |**[Aftershock](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#aftershock-)**| Immobilizing enemies makes you even more tanky|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" width=25% height=25%>|
 |**[Guardian](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#guardian-)**| Protect those close to you|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" width=25% height=25%>|
