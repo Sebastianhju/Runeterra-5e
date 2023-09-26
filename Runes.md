@@ -159,5 +159,7 @@ When you deal damage to a target, they gain a stack of Phase, when a target gets
 |9|You gain 30 feet movement speed and agility|
 ---
 # Resolve ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve.png)
+|**[Grasp of the Undying](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#grasp-of-the-undying-)**| Drain the opponents health to get even healthier| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspoftheUndying.png" width=50% height=50%>|
+
 
 # Inspiration ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration.png)
