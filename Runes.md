@@ -71,7 +71,7 @@ Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for ev
 
 ## Keystones
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=25% height=25%>
-Damaging an enemy generate a stacks of Electrocute, up to one per attack or spell cast. Applying 3 stacks to a target causes them to be struck by lightning damage.  Once used, it cannot be used again until a minute has passed or you kill a unit.
+Damaging an enemy generate a stacks of Electrocute, up to one per attack or spell cast. Applying 3 stacks to a target causes them to be struck by lightning damage. Once used, it cannot be used again until a minute has passed or you kill a unit.
 
 **Electrocute Damage**
 |Level|Damage|
@@ -83,7 +83,7 @@ Damaging an enemy generate a stacks of Electrocute, up to one per attack or spel
 
 ---
 ### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=25% height=25%>
-Whenever you damage a bloody creature you gain a stack of Harvest. In addition the bloody creature take additional *Force* damage based on how many stacks of Harvest you have obtained. Once used, it cannot be used again until you kill a unit of CR 1 or higher, or finish a long rest. 
+Once a turn whenever you damage a bloody creature you gain a stack of Harvest. In addition the bloody creature take additional *Force* damage based on how many stacks of Harvest you have obtained. Once used, it cannot be used again until you kill a unit of CR 1 or higher, or finish a long rest. 
 
 **Harvest damage**
 | Harvest Stacks | Damage                               |
