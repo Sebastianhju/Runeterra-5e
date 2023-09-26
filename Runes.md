@@ -4,4 +4,18 @@
 ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Worldrune.png)
 
 # Table of content
-- [Keystone]
+- [Precision]
+- [Domination]
+- [Sorcery]
+- [Resolve]
+- [inspiration]
+
+  # Precision
+
+  # Domination
+
+  # Sorcery
+
+  # Resolve
+
+  # Inspiration
