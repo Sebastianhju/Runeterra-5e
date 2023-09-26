@@ -1,6 +1,7 @@
 # Summoner Spells
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Smite_Splash.png">
-> Summoner Spells are powerfull spells that you can find throught the [Unsealed Spellbook] Keystone Rune, or throughout Runeterra.
+> *Summoner Spells are powerfull spells that you can find throught the [Unsealed Spellbook] Keystone Rune, or throughout Runeterra.*
+
 ---
 
 # Barrier <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Barrier_HD.png" align=right width=10% height=10%>
