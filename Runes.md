@@ -10,12 +10,19 @@
 - [Resolve](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#Resolve)
 - [inspiration](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#Inspiration)
 
-  # Precision
+# Precision
 
-  # Domination
+# Domination
+> Burst damage and target access
+## Overview
 
-  # Sorcery
 
-  # Resolve
+## Keystones
 
-  # Inspiration
+## Runes
+
+# Sorcery
+
+# Resolve
+
+# Inspiration
