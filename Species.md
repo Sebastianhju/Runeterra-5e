@@ -178,18 +178,16 @@
 |The names of minotaurs are quite guttural in sound, accounting for beast-like vocal chords. However, they are still based in Noxian script and pronunciation. Minotaurs do not typically have surnames, as they do not track lineage as humans do. If they need to identify themselves, they might do so by affixing the name of their clan to their title|
 |---|
 
-**Creature Type**: You are a Humanoid
+**Creature Type**: You are a Humanoid.
 
-**Size:** You are Large
+**Size**: You are Medium.
 
-**Speed**: Your walking speed is 30 feet. 
+**Speed**: Your walking speed is 30 feet.
 
-**Ability Score Improvement**: When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1.
+**Horns**: You have horns that you can use to make unarmed strikes. When you hit with them, the strike deals 1d6 + your Strength modifier piercing damage, instead of the bludgeoning damage normal for an unarmed strike.
 
-**Languages**: Your character can read, speak and write Va-Nox and one other language of your choice
+**Goring Rush**: Immediately after you take the Dash action on your turn and move at least 20 feet, you can make one melee attack with your Horns as a bonus action.
 
-**Darkvision**: You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern Colors in that darkness only as shades of gray. 
+**Hammering Horns**: Immediately after you hit a creature with a melee attack as part of the Attack action on your turn, you can use a bonus action to attempt to push that target with your horns. The target must be within 5 feet of you and no more than one size larger than you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier, you push it up to 10 feet away from you.
 
-**Horns**: You can use your horns as a natural weapon to make unarmed strikes. If you hit with your horns, you deal bludgeoning damage equal to 1d6 + your Strength modifier.
-
-**Goring Rush**: Immediately after you use the Dash action on your turn and move at least 20 feet, you can make one melee attack with your horns as a free action.
+**Labyrinthine Recall**: You always know which direction is north, and you have advantage on any Wisdom (Survival) check you make to navigate or track.
