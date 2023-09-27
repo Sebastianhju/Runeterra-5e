@@ -157,7 +157,7 @@
 
 **Gifted Keystone**: You can choose a [keystone rune feat](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md) that you start with in level one
 
-# Minutaurs
+# Minotaurs
 |The names of minotaurs are quite guttural in sound, accounting for beast-like vocal chords. However, they are still based in Noxian script and pronunciation. Minotaurs do not typically have surnames, as they do not track lineage as humans do. If they need to identify themselves, they might do so by affixing the name of their clan to their title|
 |---|
 
