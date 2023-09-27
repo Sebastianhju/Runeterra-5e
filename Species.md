@@ -98,15 +98,43 @@
 
 **Spirit Touched**: You have advantage on wisdom, intelligence and charisma saving throws against magic and magical effects.
 
-**Natrual Magic**: You know the druidcraft and goodberry spell. You can cast goodberry once a day without using mana. 
+**Natrual Magic**: You know the druidcraft cantrip.
+
+**Shapeshangers**: You can cast the second level spell *alter self* once a day without using mana. 
 
 ## Shinmon
+|*The Shimon vastaya reside in Ionia. These apelike Vastaya are a wise, cautious people, and as pacifists, chose to build their society away from landwalkers, cultivating their society atop the tallest trees in Ionia. The Shimon see life as an evolutionary climb to wisdom, thus upon death, the Shimon believe they become stones, returning to the soil to begin the climb of life again.*|
+|---|
+
+**Climbers**: You gain climbing speed equal to your walking speed. 
+
+**Natural Acrobats**: You are proficient in the acrobatics skill. In addition, whenever you take the jump action, you can use your dexterity instead of your strength to calculate your jumping distance. 
 
 ## Marai
+|The Marai vastaya have cultural ties with Mount Targon. The Moonstone protects its people from Voidborn, which come from the dark depths of the Guardian's Sea. However, the moonstone's energy needs to be replenished over time, so a Tidecaller of each generation is tasked to retrieve a new one from the contemporary vessel for the Targonian Aspect of the Moon.|
+|---|
+
+**Swimmer**: You gain swimming speed equal to your walking speed.
+
+**Darkvision**: You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern Colors in that darkness only as shades of gray. 
+
+**Oceanborn**: You know the shape water cantrip and when you hit level 5 you learn the *tidal wave* spell and can cast it once a day without spending mana. Wisdom is your spellcasting ability for these spells.
 
 ## Ottrani
+|The Ottarni are goatlike Vastayans that resides on Mount Targon. They are often shepards and farmers that take care of thos who dare climb the celstials challenge. Ottarni are often peaceful and joyfull begins that rather would sit down with a cup of tea, than storm a dragons den.|
+|---|
+
+**Mountain Climber**: You are not affected by difficult terrained caused by rocky terrain or furniture. 
+
+**Caretakers**: You are proficient with the animal handling and medicine skill. 
 
 ## Lhotlan
+|The Lhotlan vastaya have cultural and existential ties with Ionia. Being one of the oldest Vastayan tribes in existence, they have deep ties with their ancestral roots and protect their cultural heritage from the ever encroaching human population of the continent. These birdlike Vastayans are proud of their tribe and history, and often like to show of their feathers|
+|---|
+
+**Burst of Flight**: As a bonus action you can give yourself a burst of movement speed and flight until the end of your turn. You gain 15 feet additinal movement speed and can fly until the end of your turn. However you must end your turn on a surface or take falling damage at the end of your turn. 
+
+**Slow Falling**: You take half damage from falling damage. 
 
 # Humans
 
@@ -129,4 +157,22 @@
 
 **Gifted Keystone**: You can choose a [keystone rune feat](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md) that you start with in level one
 
+# Minutaurs
+|The names of minotaurs are quite guttural in sound, accounting for beast-like vocal chords. However, they are still based in Noxian script and pronunciation. Minotaurs do not typically have surnames, as they do not track lineage as humans do. If they need to identify themselves, they might do so by affixing the name of their clan to their title|
+|---|
 
+**Creature Type**: You are a Humanoid
+
+**Size:** You are Large
+
+**Speed**: Your walking speed is 30 feet. 
+
+**Ability Score Improvement**: When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1.
+
+**Languages**: Your character can read, speak and write Va-Nox and one other language of your choice
+
+**Darkvision**: You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern Colors in that darkness only as shades of gray. 
+
+**Horns**: You can use your horns as a natural weapon to make unarmed strikes. If you hit with your horns, you deal bludgeoning damage equal to 1d6 + your Strength modifier.
+
+**Goring Rush**: Immediately after you use the Dash action on your turn and move at least 20 feet, you can make one melee attack with your horns as a free action.
