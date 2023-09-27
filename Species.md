@@ -53,7 +53,7 @@
 
 **Sneaky**: You are proficient in the Stealth skill. In addition, without squeezing, you can move trough and stop in a space large enough for a small creature. 
 
-**Tumble**: When you hit a Large or smaller creature with an attack roll and deal damage to it, you can knock that target prone. You can do this an amount equal to you proficiency bonus before you must take a long rest.  
+**Tumble**: When you hit a Large or smaller creature with an attack roll and deal damage to it, you can attempt to knock that target prone. The target must be no more than five feet away from you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier it falls prone. You can do this an amount equal to you proficiency bonus before you must take a long rest.  
 
 **Languages**: Your character can read, speak and write Ixtali
 
