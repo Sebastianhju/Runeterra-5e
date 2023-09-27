@@ -4,9 +4,9 @@
 # Table of Content
 - [Trolls](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Species.md#trolls)
 - [Yordles](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Species.md#yordles)
-- [Vastaya]
-- [Humans]
-- [Minotaurs]
+- [Vastaya](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Species.md#yordles)
+- [Humans](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Species.md#yordles)
+- [Minotaurs](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Species.md#yordles)
   
 # Trolls
 
