@@ -31,7 +31,9 @@
 
 **Regeneration**: As a bonus action you can expend a hit dice to heal yourself. The amount healed is equal to your hit dice plus you constitution modifier.  
 
-## Frost Trolls
+---
+## Subspecies
+### Frost Trolls
 
 |*Roaming around the cold tundras of Freljord the frosttrolls are a creature of might and power. They are adapt to the cold environment and the harsh winds of the Freljord. Most of the frost trolls serve the King of Trolls, Trundle. But many other are roaming for their own tribes or even all alone.*|
 |---|
@@ -42,7 +44,9 @@
 
 **Languages**: Your character can read, speak and write Freldjordian
 
-## Sand Trolls
+---
+
+### Sand Trolls
 
 |*Sand Trolls are roaming around the Shuriman Deserts. Many doesn't even know of their exisitance. But for a long time the sand trolls were proud members of, the now fallen, Icathia. These days they mostly avoid danger, and are expert hunters.*|
 |---|
@@ -79,6 +83,8 @@
 
 **Glamor**: In less enlightened parts of the world, a yordle's appearance could seem frightening or unnatural to mortals. Fortunately, they are adept at blending in, and often protected by a kind of supernatural glamour. You know the disguise self cantrip, and can use it at will. 
 
+---
+
 # Vastaya
 
 ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Vastayan.png)
@@ -102,13 +108,18 @@
 
 **Shapeshangers**: You can cast the second level spell *alter self* once a day without using mana. 
 
-## Shinmon
+---
+## Subspecies
+
+### Shinmon
 |*The Shimon vastaya reside in Ionia. These apelike Vastaya are a wise, cautious people, and as pacifists, chose to build their society away from landwalkers, cultivating their society atop the tallest trees in Ionia. The Shimon see life as an evolutionary climb to wisdom, thus upon death, the Shimon believe they become stones, returning to the soil to begin the climb of life again.*|
 |---|
 
 **Climbers**: You gain climbing speed equal to your walking speed. 
 
 **Natural Acrobats**: You are proficient in the acrobatics skill. In addition, whenever you take the jump action, you can use your dexterity instead of your strength to calculate your jumping distance. 
+
+---
 
 ## Marai
 |The Marai vastaya have cultural ties with Mount Targon. The Moonstone protects its people from Voidborn, which come from the dark depths of the Guardian's Sea. However, the moonstone's energy needs to be replenished over time, so a Tidecaller of each generation is tasked to retrieve a new one from the contemporary vessel for the Targonian Aspect of the Moon.|
@@ -120,6 +131,8 @@
 
 **Oceanborn**: You know the shape water cantrip and when you hit level 5 you learn the *tidal wave* spell and can cast it once a day without spending mana. Wisdom is your spellcasting ability for these spells.
 
+---
+
 ## Ottrani
 |The Ottarni are goatlike Vastayans that resides on Mount Targon. They are often shepards and farmers that take care of thos who dare climb the celstials challenge. Ottarni are often peaceful and joyfull begins that rather would sit down with a cup of tea, than storm a dragons den.|
 |---|
@@ -127,6 +140,8 @@
 **Mountain Climber**: You are not affected by difficult terrained caused by rocky terrain or furniture. 
 
 **Caretakers**: You are proficient with the animal handling and medicine skill. 
+
+---
 
 ## Lhotlan
 |The Lhotlan vastaya have cultural and existential ties with Ionia. Being one of the oldest Vastayan tribes in existence, they have deep ties with their ancestral roots and protect their cultural heritage from the ever encroaching human population of the continent. These birdlike Vastayans are proud of their tribe and history, and often like to show of their feathers|
@@ -136,8 +151,9 @@
 
 **Slow Falling**: You take half damage from falling damage. 
 
-# Humans
+---
 
+# Humans
 ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Human.png)
 |Humans are the dominant sapient life forms of Runeterra. While their point of origin on the planet is currently unknown, the majority of human diaspora arrived from either the eastern lands beyond Ionia, Ionia itself, or the Freljord. They have a great variety of appearances, strengths and magical powers. Humans have the chance to be empowered by a variety of magical sources, turning into Ascended, Undead, or Vastayashai’rei. Humans are able to reproduce with Ascended, Vastayashai’rei, and Vastaya, birthing individuals that have some or all of the physical and/or magical abilities of their magically attuned parents. Cyborgs are humans who have augmented themselves by technology, with some individuals going so far as to be completely replace their human body parts with technology, effectively turning into technological Golem.|
 |---|
@@ -156,10 +172,9 @@
 **Skilled**: You are proficient in a skill of your choosing
 
 **Gifted Keystone**: You can choose a [keystone rune feat](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md) that you start with in level one
-
+---
 # Minotaurs
 ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Minotaur.png)
-
 |The names of minotaurs are quite guttural in sound, accounting for beast-like vocal chords. However, they are still based in Noxian script and pronunciation. Minotaurs do not typically have surnames, as they do not track lineage as humans do. If they need to identify themselves, they might do so by affixing the name of their clan to their title|
 |---|
 
