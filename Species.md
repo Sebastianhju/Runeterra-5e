@@ -4,7 +4,7 @@
 # Table of Content
 - [Trolls](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Species.md#trolls)
 - [Yordles](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Species.md#yordles)
-- [Vastayan]
+- [Vastaya]
 - [Humans]
 - [Minotaurs]
   
@@ -79,6 +79,54 @@
 
 **Glamor**: In less enlightened parts of the world, a yordle's appearance could seem frightening or unnatural to mortals. Fortunately, they are adept at blending in, and often protected by a kind of supernatural glamour. You know the disguise self cantrip, and can use it at will. 
 
+# Vastaya
+
+![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Vastayan.png)
+|The Vastaya are a chimeric race of Runeterra that are the weaker magical descendants from enlightened mortals that took the power of the spirit realm into themselves known as the Vastayashai'rei. From the ferocious, bestial feline power of Kiilash to the foxlike allure of Vesani, vastaya can look considerably different from one another, but they all share animal and human characteristics.|
+|---|
+
+*All Vastayans posesses the following common trait*
+**Creature Type**: You are a Humanoid
+
+**Size:** You are Medium
+
+**Speed**: Your walking speed is 30 feet. 
+
+**Ability Score Improvement**: When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1.
+
+**Languages**: Your character can read, speak and write Va-Nox, Vastayan and one other Language of your choice
+
+**Spirit Touched**: You have advantage on wisdom, intelligence and charisma saving throws against magic and magical effects.
+
+**Natrual Magic**: You know the druidcraft and goodberry spell. You can cast goodberry once a day without using mana. 
+
+## Shinmon
+
+## Marai
+
+## Ottrani
+
+## Lhotlan
+
 # Humans
 
 ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Human.png)
+|Humans are the dominant sapient life forms of Runeterra. While their point of origin on the planet is currently unknown, the majority of human diaspora arrived from either the eastern lands beyond Ionia, Ionia itself, or the Freljord. They have a great variety of appearances, strengths and magical powers. Humans have the chance to be empowered by a variety of magical sources, turning into Ascended, Undead, or Vastayashai’rei. Humans are able to reproduce with Ascended, Vastayashai’rei, and Vastaya, birthing individuals that have some or all of the physical and/or magical abilities of their magically attuned parents. Cyborgs are humans who have augmented themselves by technology, with some individuals going so far as to be completely replace their human body parts with technology, effectively turning into technological Golem.|
+|---|
+
+# Racial Traits
+**Creature Type**: You are a humanoid
+
+**Size:** You are Medium
+
+**Speed**: Your walking speed is 30 feet. 
+
+**Ability Score Improvement**: When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1.
+
+**Languages**: Your character can read, speak and write Va-Nox, and one other Language of your choice
+
+**Skilled**: You are proficient in a skill of your choosing
+
+**Gifted Keystone**: You can choose a [keystone rune feat](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md) that you start with in level one
+
+
