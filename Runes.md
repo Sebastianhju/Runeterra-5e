@@ -128,10 +128,10 @@ As an action you can cast the find familliar spell, summoning Aery, without usin
 **Aery Scaling**
 |Level|Effect|
 |---|---|
-|1| 1d4+2 damage or 5 temporary hit points |
-|3| 1d6+3 damage or 10 temporary hit points|
-|6|2d4+4 damage or 15 temporary hit points|
-|9|2d6+5 damage or 20 temporary hit points|
+|1| 1d4+prof damage or 5 temporary hit points |
+|3| 1d4+prof damage or 10 temporary hit points|
+|6|2d4+prof damage or 15 temporary hit points|
+|9|2d4+prof damage or 20 temporary hit points|
 ---
 
 ### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" Align=left width=25% height=25%>
