@@ -65,21 +65,21 @@ Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for ev
 **Keystones**
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
-|**[Electrocute](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#electrocute-)**| Deal additional lightning damage when you hit a target with three attacks| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" width=50% height=50%>|
+|**[Electrocute](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#electrocute-)**| Deal additional lightning damage when you hit a target with consequtive attacks| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" width=50% height=50%>|
 |**[Dark Harvest](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#dark-harvest-)** | Deal additional force damage to bloodied targets  |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" width=50% height=50%> |
 |**[Predator](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#predator-)** | You can dash as a bonus action and gain advantage on rushed attacks | <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" width=50% height=50%>|
 
 ## Keystones
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=25% height=25%>
-Damaging an enemy generate a stacks of Electrocute, up to one per attack or spell cast. Applying 3 stacks to a target causes them to be struck by lightning damage. Once used, it cannot be used again until a minute has passed or you kill a unit.
+Damaging an enemy gives them a mark of electorcute that lasts until the end of your turn. When you damage a creature with a mark, you deal additional lightning damage. This effect can only be used on the same target once a day.
 
 **Electrocute Damage**
 |Level|Damage|
 |---|---|
-|1| 2d8|
-|3| 2d8|
-|6|3d8|
-|9|3d8|
+|1| 1d6|
+|3| 1d10|
+|6|2d6|
+|9|2d10|
 
 ---
 ### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=25% height=25%>
@@ -92,12 +92,11 @@ Once a turn whenever you damage a bloody creature you gain a stack of Harvest. I
 | 15             | 1d6 Force Damage                     |
 | 35             | 1d8 Force Damage                     |
 | 60             | 1d8 + proficiency bonus Force Damage |
-| 100            | 2d6 + proficiency bonus Force Damage |
-| 150            | 2d8 + proficiency bonus Force Damage |
-| 210            | 3d6 + proficiency bonus Force Damage |
-| 280            | 3d8 + proficiency bonus Force Damage |
-| 350            | 4d6 + proficiency bonus Force Damage |
-| 500            | 4d8 + proficiency bonus Force Damage                                     |
+| 100            | 1d10 + proficiency bonus Force Damage |
+| 150            | 1d12 + proficiency bonus Force Damage |
+| 200            | 2d8 + proficiency bonus Force Damage |
+| 300            | 3d8 + proficiency bonus Force Damage |
+| 500            | 4d8 + proficiency bonus Force Damage|
 
 ---
 ### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=25% height=25%>
@@ -107,7 +106,7 @@ You can dash as a bonus action. Whenever you take the dash action on your turn, 
 |Level|Effect|
 |---|---|
 |1| Dash as a bonus action and advantage on meele attacks after dashing |
-|3| The attack after the dash deals an additional 1d6 *necrotic* damage|
+|3| You gain agility whenever you dash|
 |6|Predator has no cooldown|
 |9|You gain an additional bonus action that must be used to take the dash action|
 
@@ -141,14 +140,14 @@ Whenever you deal magical damage to an enemy, a comet shoots out from you, deali
 **Arcane Comet Scaling**
 |Level|Effect|
 |---|---|
-|1| 1d6 damage in a 15 feet radius |
-|3| 2d6 danage in a 15 feet radius|
-|6|2d6 damage in a 30 feet radius|
-|9|3d6 damage in a 30 feet radius|
+|1|1d6 damage in a 10 feet radius |
+|3|1d8 danage in a 25 feet radius|
+|6|1d10 damage in a 30 feet radius|
+|9|1d12 damage in a 45 feet radius|
 ---
 
 ### Phase Rush  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" Align=left width=25% height=25%>
-When you deal damage to a target, they gain a stack of Phase, when a target gets three stacks you gain movement speed and agility based on your level
+When you deal damage to a target, they gain a mark of Phase until the end of your turn. Whenever you damage a creature with a mark of Phase, you gain movement speed and agility based on your level as shown on the table below. 
 
 **Phase Rush Scaling**
 |Level|Effect|
@@ -179,10 +178,10 @@ For every turn in combat, you gain a stack of *Grasp*. When you are at three sta
 |130| You gain +3 maximum health|
 |170| You gain +5 maximum health|
 |225| You gain +5 maximum health|
-|300 | You gain +7 maximum health|
-|350| You gain +8 maximum health|
+|275 | You gain +5 maximum health|
+|325| You gain +5 maximum health|
 |400| You gain +10 maximum health|
-|500| You gain +20 maximum health|
+|500| You gain +10 maximum health|
 
 ---
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=25% height=25%>
