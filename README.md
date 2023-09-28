@@ -1,7 +1,7 @@
 # Introduction
 
 # Go to
-[![Species]("https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Yordles.Png")](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Species.md)
+[![Species](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Yordles.Png)](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Species.md)
 
  **[Species](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Species.md)**
  
