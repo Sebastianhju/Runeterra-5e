@@ -1,5 +1,8 @@
 # Species
-> The species of the worlds of the Multiverse are numerous and diverse. From the bipedal vastaya to the winged tiger-like protectors, from the magical to the unremarkable.
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Species.png">
+
+|The species of the worlds of the Multiverse are numerous and diverse. From the bipedal vastaya to the winged tiger-like protectors, from the magical to the unremarkable.|
+|---|
 ---
 # Table of Content
 - [Trolls](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Species.md#trolls)
@@ -40,7 +43,7 @@
 
 **Cold Adapt**: You are resistant to cold damage. 
 
-**Chill Trolls**: When you hit a target with an attack roll and deal damage to it, you can also deal 1d6 cold damage and reduce its Speed by 10 until the start of your next turn. You can do this an amount equal to you proficiency bonus before you must take a long rest. 
+**Tundrawalkers**: You are not affected by difficult terrain caused by snow and ice. 
 
 **Languages**: Your character can read, speak and write Freldjordian
 
@@ -104,8 +107,6 @@
 
 **Spirit Touched**: You have advantage on wisdom, intelligence and charisma saving throws against magic and magical effects.
 
-**Natrual Magic**: You know the druidcraft cantrip.
-
 **Shapeshangers**: You can cast the second level spell *alter self* once a day without using mana. 
 
 ---
@@ -147,9 +148,11 @@
 |The Lhotlan vastaya have cultural and existential ties with Ionia. Being one of the oldest Vastayan tribes in existence, they have deep ties with their ancestral roots and protect their cultural heritage from the ever encroaching human population of the continent. These birdlike Vastayans are proud of their tribe and history, and often like to show of their feathers|
 |---|
 
-**Burst of Flight**: As a bonus action you can give yourself a burst of movement speed and flight until the end of your turn. You gain 15 feet additinal movement speed and can fly until the end of your turn. However you must end your turn on a surface or take falling damage at the end of your turn. 
+**Burst of Flight**: As a bonus action you can give yourself a burst of movement speed and flight until the end of your turn. You gain 15 feet additinal movement speed and can fly until the end of your turn. However you must end your turn on a surface or take falling damage at the end of your turn. You can do this an amount if times equal to your proficiency bonus before finishing a long rest. 
 
-**Slow Falling**: You take half damage from falling damage. 
+**Slow Fall**: You take half damage from falling damage. 
+
+**Performers**: You are proficient with the performance skill. 
 
 ---
 
@@ -171,7 +174,8 @@
 
 **Skilled**: You are proficient in a skill of your choosing
 
-**Gifted Keystone**: You can choose a [keystone rune feat](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md) that you start with in level one
+**Gifted Keystone**: You gain a [keystone rune feat](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md) of your choice.
+
 ---
 # Minotaurs
 ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Minotaur.png)
