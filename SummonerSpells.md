@@ -1,5 +1,5 @@
 # Summoner Spells
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Smite_Splash.png">
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Art-Smite.png">
 
 |*Summoner Spells are powerfull spells that you can aquire with the [Unsealed Spellbook](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#unsealed-spellbook-) Keystone Rune, or find throughout Runeterra.*|
 |---|
