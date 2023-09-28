@@ -5,4 +5,4 @@
 ---
 [<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/FP-Runes.png" align=left width=50% height=50%>](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md)
 
-[<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/FP-SummonerSpell.png" align=right width=50% height=50%>](https://github.com/Sebastianhju/Runeterra-5e/blob/main/SumonerSpells.md)
+[<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/FP-SummonerSpell.png" align=right width=50% height=50%>](https://github.com/Sebastianhju/Runeterra-5e/blob/main/SummonerSpells.md)
