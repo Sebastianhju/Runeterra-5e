@@ -17,6 +17,7 @@
 |*Trolls are, for the most part, hulking brutish creatures, found in many of Runeterra’s least hospitable environments. Though not invulnerable, they are blessed with a hardy constitution and the ability to heal more quickly than other mortal races—especially the feeble humans. This means they can endure extremes of climate and scarce resources merely by out-surviving their rivals, and this is the most likely reason some of the largest known tribes still call the mountains of the Freljord home.*|
 |---|
 
+*All Trolls posesses the following common trait*
 # Racial Traits
 **Creature Type**: You are a Humanoid
 
@@ -107,8 +108,6 @@
 
 **Spirit Touched**: You have advantage on wisdom, intelligence and charisma saving throws against magic and magical effects.
 
-**Shapeshangers**: You can cast the second level spell *alter self* once a day without using mana. 
-
 ---
 ## Subspecies
 
@@ -140,7 +139,9 @@
 
 **Mountain Climber**: You are not affected by difficult terrained caused by rocky terrain or furniture. 
 
-**Caretakers**: You are proficient with the animal handling and medicine skill. 
+**Caretakers**: You are proficient with the animal handling skill. 
+
+**Animal Whisperer**: You know the first level spell *Speak with Animals* and can cast it once a day without spending mana. 
 
 ---
 
