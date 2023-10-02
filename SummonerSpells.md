@@ -13,19 +13,19 @@ As a *Reaction* upon taking damage, you can give yourself temporary hit points e
 ---
 
 # Exhaust<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Exhaust_HD.png" align=right width=10% height=10%>
-As a *Bonus Action* you can exhaust a creature within 15 feet of you for 30 seconds. Their armorclass is reduced by 2, their attacks deal half damage and their speed is halved|
+As a *Bonus Action* you can exhaust a creature within 15 feet of you for 18 seconds. Their armorclass is reduced by 2, their attacks deal half damage and their speed is halved
 
 
 ---
 
 # Flash<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Flash_HD.png" align=right width=10% height=10%>
-At any time, you can teleport to a location within 15 feet of you, you do not need to see the location.
+At any time, you can teleport to a location within 15 feet of you, you do not need to see the location. If the location targeted is a wall, you are instead placed at the nearest empty area.
 
 
 ---
 
 # Ghost<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Ghost_HD.png" align=right width=10% height=10%>
-As a *Bonus Action* you become invisible for an hour, or until you use another action. For the first minute your movementspeed is doubled.
+As a *Bonus Action* you become invisible for an hour, or until you make an attack or force another creature to make a saving throw. For the first minute your movementspeed is doubled.
 
 
 ---
@@ -49,7 +49,7 @@ When you hit a target with an attack, after you've rolled for damage you can use
 
 
 # Teleport<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Teleport_HD.png" align=right width=10% height=10%>
-After a ten minute channel you can teleport yourself and up to five allies to a known city or village.|
+After a ten minute channel you can teleport yourself and up to five allies to a known city or village.
 
 
 ---
