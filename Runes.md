@@ -164,7 +164,7 @@ When you roll damage, you deal 1d6 additional damage if you are _bloodied_.
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
 |**[Cheap Shot](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cheap-shot-)**|Deal additional damage to creatutures with negative status effects|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/CheapShot.png">|
-|**[Taste of Blood](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#taste-of-blood-)**|Heal when you damage enemies|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/TasteOfBlood.png">|
+|**[Taste of Blood](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#taste-of-blood-)**|Heal when you damage enemies|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png">|
 |**[Sudden Impact](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#sudden-impact-)**|Deal additional damage to creatutures after you dash, blink or teleport|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png">|
 |**[Ghost Poro](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ghost-poro-)**|Gain a haunted Poro companion|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GhostPoro.png">|
 |**[Eyeball Collection](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cheap-shot-)**|Grow stronger as you kill creatures|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/EyeballCollection.png">|
