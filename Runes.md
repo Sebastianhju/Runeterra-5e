@@ -160,6 +160,19 @@ When you roll damage, you deal 1d6 additional damage if you are _bloodied_.
 |**[Dark Harvest](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#dark-harvest-)** | Deal additional force damage to bloodied targets  |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" width=50% height=50%> |
 |**[Predator](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#predator-)** | You can dash as a bonus action and gain advantage on rushed attacks | <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" width=50% height=50%>|
 
+**Lesser Runes**
+|**Rune**|**Snippet**|**Icon**|
+|---|---|---|
+|**[Cheap Shot](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cheap-shot-)**|Deal additional damage to creatutures with negative status effects|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/CheapShot.png">|
+|**[Taste of Blood](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#taste-of-blood-)**|Heal when you damage enemies|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/TasteOfBlood.png">|
+|**[Sudden Impact](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#sudden-impact-)**|Deal additional damage to creatutures after you dash, blink or teleport|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png">|
+|**[Ghost Poro](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ghost-poro-)**|Gain a haunted Poro companion|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GhostPoro.png">|
+|**[Eyeball Collection](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cheap-shot-)**|Grow stronger as you kill creatures|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/EyeballCollection.png">|
+|**[Treasure Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#treasure-hunter-)**|Gain gold whenever you kill creatures|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/TreasureHunter.png">|
+|**[Igenious Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ingenius-hunter-)**|Scoring takedowns grants you stacks that reduce the cooldown of runes and items|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png">|
+|**[Relentless Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#relentless-hunter-)**|Scoring takedowns grants you stacks that increase your mobility|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/RelentlessHunter.png">|
+|**[Ultimate Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ultimate-hunter-)**|Scoring takedowns grants you stacks that reduce the cooldown of your ultimate ability|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/UltimateHunter.png" Height=50% Width=50%>|
+
 ## Keystones
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=25% height=25%>
 Damaging an enemy gives them a mark of electorcute that lasts until the end of your turn. When you damage a creature with a mark, you deal additional lightning damage. This effect can only be used on the same target once a day.
