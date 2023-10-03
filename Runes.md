@@ -22,6 +22,20 @@
 |**[Lethal Tempo](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#lethal-tempo--)**|Get attackspeed and range in long fights |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" width=50% height=50%>|
 |**[Fleet Footwork](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#fleet-footwork--)**|Gain movement speed and substain while moving in combat |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" width=50% height=50%>|
 
+**Lesser Runes**
+|Rune|Snippet|Icon|
+|---|---|---|
+|**[Overheal](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#overheal--)**|Whenever you would be healed while at maximum hit points, gain temporary hit points instead|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Overheal.png" width=120% height=120%>|
+|**[Triumph](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#triumph--)**|Scoring a [Takedown]() on a creature heales you and gives you gold |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Triumph.png" width=120% height=120%>|
+|**[Presence of Mind](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#presence-of-mind--)**|Scoring a [Takedown] () on a creature you gives you mana. |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PresenceOfMind.png" width=120% height=120%>|
+|**[Legend: Alacrity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend:-alacrity--)**|Scoring a [Takedown]() on a creature gives you stacks that eventually gives you an extra attack |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendAlacrity.png" width=120% height=120%>|
+|**[Legend: Tenacity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend:-tenacity--)**|Scoring a [Takedown]() on a creature gives you stacks that boost your mobility|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendTenacity.png" width=120% height=120%>|
+|**[Legend: Bloodline](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend:-bloodline--)**|Scoring a [Takedown]() on a creature heales you and gives you gold |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" width=120% height=120%>|
+|**[Coup de Grace](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#coup-de-crace--)**| Deal increased damage to bloodied creatures |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CoupDeGrace.png" width=120% height=120%>|
+|**[Cut Down](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cut-down--)**|Deal increasd damage to larger targets|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CutDown.png" width=120% height=120%>|
+|**[Last Stand](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#last-stand--)**|While below half health, your attacks deal additional damage|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LastStand.png" width=120% height=120%>|
+
+
 ## Keystones
 ### Conqueror  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" Align=left width=25% height=25%>
 Whenever you damage enemies, you gain stacks of Conqueror. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you gain 1d4 additional damage from your attacks, and you heal for the additional damage dealt. 
