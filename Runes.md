@@ -28,9 +28,9 @@
 |**[Overheal](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#overheal--)**|Whenever you would be healed while at maximum hit points, gain temporary hit points instead|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Overheal.png" width=120% height=120%>|
 |**[Triumph](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#triumph--)**|Scoring a [Takedown]() on a creature heales you and gives you gold |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Triumph.png" width=120% height=120%>|
 |**[Presence of Mind](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#presence-of-mind--)**|Scoring a [Takedown] () on a creature you gives you mana. |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PresenceOfMind.png" width=120% height=120%>|
-|**[Legend: Alacrity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend:-alacrity--)**|Scoring a [Takedown]() on a creature gives you stacks that eventually gives you an extra attack |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendAlacrity.png" width=120% height=120%>|
-|**[Legend: Tenacity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend:-tenacity--)**|Scoring a [Takedown]() on a creature gives you stacks that boost your mobility|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendTenacity.png" width=120% height=120%>|
-|**[Legend: Bloodline](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend:-bloodline--)**|Scoring a [Takedown]() on a creature heales you and gives you gold |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" width=120% height=120%>|
+|**[Legend: Alacrity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend:-alacrity--)**|Scoring a [Takedown]() on a creature grants you stacks that eventually gives you an extra attack |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendAlacrity.png" width=120% height=120%>|
+|**[Legend: Tenacity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend:-tenacity--)**|Scoring a [Takedown]() on a creature grants you stacks that boost your mobility|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendTenacity.png" width=120% height=120%>|
+|**[Legend: Bloodline](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend:-bloodline--)**|Scoring a [Takedown]() on a creature grants you stacks that boost you maximum hit points and gives you healing on your attacks|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" width=120% height=120%>|
 |**[Coup de Grace](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#coup-de-crace--)**| Deal increased damage to bloodied creatures |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CoupDeGrace.png" width=120% height=120%>|
 |**[Cut Down](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cut-down--)**|Deal increasd damage to larger targets|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CutDown.png" width=120% height=120%>|
 |**[Last Stand](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#last-stand--)**|While below half health, your attacks deal additional damage|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LastStand.png" width=120% height=120%>|
@@ -81,20 +81,54 @@ Whenever you are healed while on maximum hit points, you instead gain temporary 
 
 ---
 ### Triumph  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Triumph.png" Align=left width=7% height=7%>
-Whenever you score a takedown, you gain gold equal to four times the creautres _Challenge Rating_. In addition you heal for an amount shown on the table below.
+Whenever you score a takedown, you gain gold equal to four times the creautres _Challenge Rating_. In addition you heal yourself equal to 1d4 plus your proficiency bonus. 
 
-**Triumph Scaling**
-|Level|Healing|
-|---|---|
-|1| 1d6|
-|3| 1d6 + Proficiency Bonus|
-|6| 1d8 + Proficiency Bonus|
-|9| 2d6 + Proficiency Bonus|
 ---
 
 ### Presence of Mind <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PresenceOfMind.png" Align=left width=7% height=7%>
 
 Whenever you score a takedown on a creature of a _Challenge Rating_ of 1 or higher, you gain mana equal to your level. 
+
+---
+
+### Legend: Alacrity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendAlacrity.png" Align=left width=7% height=7%>
+
+Whenever you score takedowns, you gain stacks of Alacrity that gives you benefits according to the table below. Whenever you get a kill you gain three stacks and whenever you gain an assist you gain one stack.
+
+**Alacrity Scaling**
+|Stacks|Feture|
+|---|---|
+|0| You gain +2 to inititative|
+|10| After you take the attack action, you can spend your bonus action to make an extra attack that cannot critically hit.|
+|20| You gain an additional +2 to initiative|
+|30| Whenever you take the attack action, you can make an extra attack as a part of that action|
+
+---
+
+### Legend: Tenacity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendTenacity.png" Align=left width=7% height=7%>
+
+Whenever you score takedowns, you gain stacks of _Tenacity_ that gives you benefits according to the table below. Whenever you get a kill you gain three stacks and whenever you gain an assist you gain one stack.
+
+**Tenacity Scaling**
+|Stacks|Feture|
+|---|---|
+|0| You gain +5ft movement speed|
+|10| Whenever you take the dash action, you ignore difficult terrain|
+|20| You gain an additional +5ft movement speed|
+|30| Whenever you have to roll for immobilizing effects, you can add your proficiency bonus to the roll|
+
+---
+### Legend: Bloodline <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" Align=left width=7% height=7%>
+
+Whenever you score takedowns, you gain stacks of Bloodline that gives you benefits according to the table below. Whenever you get a kill you gain three stacks and whenever you gain an assist you gain one stack.
+
+**Bloodline Scaling**
+|Stacks|Feture|
+|---|---|
+|0| You gain +2 maximum hit points|
+|10| Whenever you hit a creature, you heal 1 hit point|
+|20| You gain +3 maximum hit points|
+|30| Whenever you hit a creature, you heal hit points equal to your proficiency bonus|
 
 ---
 
