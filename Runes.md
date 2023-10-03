@@ -93,41 +93,38 @@ Whenever you score a takedown on a creature of a _Challenge Rating_ of 1 or high
 
 ### Legend: Alacrity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendAlacrity.png" Align=left width=7% height=7%>
 
-Whenever you score takedowns, you gain stacks of Alacrity that gives you benefits according to the table below. Whenever you get a kill you gain three stacks and whenever you gain an assist you gain one stack.
+Whenever you score takedowns on creatures with a _Challenge Rating_ of one or higher, you gain stacks of Alacrity that gives you benefits according to the table below. Whenever you get a kill you gain three stacks and whenever you gain an assist you gain one stack.
 
 **Alacrity Scaling**
 |Stacks|Feture|
 |---|---|
-|0| You gain +2 to inititative|
 |10| After you take the attack action, you can spend your bonus action to make an extra attack that cannot critically hit.|
-|20| You gain an additional +2 to initiative|
+|20| You gain +2 to initiative|
 |30| Whenever you take the attack action, you can make an extra attack as a part of that action|
 
 ---
 
 ### Legend: Tenacity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendTenacity.png" Align=left width=7% height=7%>
 
-Whenever you score takedowns, you gain stacks of _Tenacity_ that gives you benefits according to the table below. Whenever you get a kill you gain three stacks and whenever you gain an assist you gain one stack.
+Whenever you score takedowns on creatures with a _Challenge Rating_ of one or higher, you gain stacks of _Tenacity_ that gives you benefits according to the table below. Whenever you get a kill you gain three stacks and whenever you gain an assist you gain one stack.
 
 **Tenacity Scaling**
 |Stacks|Feture|
 |---|---|
-|0| You gain +5ft movement speed|
 |10| Whenever you take the dash action, you ignore difficult terrain|
-|20| You gain an additional +5ft movement speed|
+|20| You gain +5ft movement speed|
 |30| Whenever you have to roll for immobilizing effects, you can add your proficiency bonus to the roll|
 
 ---
 ### Legend: Bloodline <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" Align=left width=7% height=7%>
 
-Whenever you score takedowns, you gain stacks of Bloodline that gives you benefits according to the table below. Whenever you get a kill you gain three stacks and whenever you gain an assist you gain one stack.
+Whenever you score takedowns on creatures with a _Challenge Rating_ of one or higher, you gain stacks of Bloodline that gives you benefits according to the table below. Whenever you get a kill you gain three stacks and whenever you gain an assist you gain one stack.
 
 **Bloodline Scaling**
 |Stacks|Feture|
 |---|---|
-|0| You gain +2 maximum hit points|
 |10| Whenever you hit a creature, you heal 1 hit point|
-|20| You gain +3 maximum hit points|
+|20| You gain +5 maximum hit points|
 |30| Whenever you hit a creature, you heal hit points equal to your proficiency bonus|
 
 ---
@@ -167,15 +164,15 @@ When you roll damage, you deal 1d6 additional damage if you are _bloodied_.
 |**[Taste of Blood](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#taste-of-blood-)**|Heal when you damage enemies|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png">|
 |**[Sudden Impact](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#sudden-impact-)**|Deal additional damage to creatutures after you dash, blink or teleport|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png">|
 |**[Ghost Poro](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ghost-poro-)**|Gain a haunted Poro companion|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GhostPoro.png">|
-|**[Eyeball Collection](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cheap-shot-)**|Grow stronger as you kill creatures|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/EyeballCollection.png">|
+|**[Eyeball Collection](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ceyeball-collection-)**|As you kill creatures you become more adept in sight revolving tasks|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/EyeballCollection.png">|
 |**[Treasure Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#treasure-hunter-)**|Gain gold whenever you kill creatures|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/TreasureHunter.png">|
-|**[Igenious Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ingenius-hunter-)**|Scoring takedowns grants you stacks that reduce the cooldown of runes and items|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png">|
-|**[Relentless Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#relentless-hunter-)**|Scoring takedowns grants you stacks that increase your mobility|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/RelentlessHunter.png">|
+|**[Igenious Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ingenious-hunter-)**|Scoring takedowns grants you stacks that reduce the cooldown of runes and items|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png">|
+|**[Relentless Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#relentless-hunter-)**|Scoring takedowns grants you stacks that increase your traveling and hunting capabilities|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/RelentlessHunter.png">|
 |**[Ultimate Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ultimate-hunter-)**|Scoring takedowns grants you stacks that reduce the cooldown of your ultimate ability|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/UltimateHunter.png" Height=50% Width=50%>|
 
 ## Keystones
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=25% height=25%>
-Damaging an enemy gives them a mark of electorcute that lasts until the end of your turn. When you damage a creature with a mark, you deal additional lightning damage. This effect can only be used on the same target once a day.
+Damaging an enemy gives them a mark of electorcute that lasts until the end of your turn. When you damage a creature with a mark, you deal additional lightning damage. Once used it cannot be used again until 30 seconds has passed. 
 
 **Electrocute Damage**
 |Level|Damage|
@@ -187,7 +184,7 @@ Damaging an enemy gives them a mark of electorcute that lasts until the end of y
 
 ---
 ### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=25% height=25%>
-Once a turn whenever you damage a _bloodied_ creature you gain a stack of Harvest. In addition the bloody creature take additional *Force* damage based on how many stacks of Harvest you have obtained. Once used, it cannot be used again until you kill a unit of CR 1 or higher, or finish a long rest. 
+Once a turn whenever you damage a _bloodied_ creature you gain a stack of Harvest. In addition the bloody creature take additional *Force* damage based on how many stacks of Harvest you have obtained. Once used, it cannot be used again until you score a takedown on a unit of CR 1 or higher, or 60 seconds pass. 
 
 **Harvest damage**
 | Harvest Stacks | Damage                               |
@@ -204,15 +201,89 @@ Once a turn whenever you damage a _bloodied_ creature you gain a stack of Harves
 
 ---
 ### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=25% height=25%>
-You can dash as a bonus action. Whenever you take the dash action on your turn, you have advantage on your next melee attack if you moved at least 10ft in a straight line towards the target. Once used, it cannot be used again until a minute has passed or you kill an enemy
 
-**Predator Scaling**
-|Level|Effect|
+You can dash as a bonus action. Once used, it cannot be used again until 30 seconds has passed, or you score a takedown on a creature with a _Challenge Rating_ of 1 or higher.
+
+Whenever you take the dash action on your turn, you gain agility and have advantage on your next melee attack if you moved at least 10ft in a straight line towards the target.
+
+.
+
+.
+
+---
+
+## Lesser Runes
+### Cheap Shot <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/CheapShot.png" Align=left width=7% height=7%>
+
+Whenever you damage a creature, you can choose to deal 1d6 extra force damage for every negative status effect they have. Once used, this effect cannot be used again until 30 seconds has passed.
+
+---
+### Taste of Blood <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png" Align=left width=7% height=7%>
+
+Whenever you damage a creature and are below maximum hit points, taste of blood triggers healing you an amount equal to twice your level. Once used, this effect cannot be used again until 30 seeconds has passed. 
+
+---
+### Sudden Impact <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png" Align=left width=7% height=7%>
+
+Whenever you dash, blink or teleport your next damaging attack deals 1d6 more damage and ignores all resistances. 
+
+---
+### Ghost Poro <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GhostPoro.png" Align=left width=7% height=7%>
+
+You learn the find familliar spell, and can cast it once a day without spending mana or material components to summon a [Ghost Poro](). The Ghost Poro works like any other familliar. 
+
+---
+### Eyeball Collection <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/EyeballCollection.png" Align=left width=7% height=7%>
+
+Whenever you _kill_ a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of eyeball collection. You gain the following benefits from collection eyeballs:
+
+**Eyeball Collection Stacks**
+|Amount|Effect|
 |---|---|
-|1| Dash as a bonus action and advantage on meele attacks after dashing |
-|3| You gain agility whenever you dash|
-|6|Predator has no cooldown|
-|9|You gain an additional bonus action that must be used to take the dash action|
+|5| You gain darkvision for 30 feet that can see through magical darkness|
+|10|You gain advantage on perception checks revolving sight. |
+|15|You gain +1 to all saving throws|
+
+---
+### Treasure Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/TreasureHunter.png" Align=left width=7% height=7%>
+
+Whenever you _kill_ a creaute you gain gold equal to ten times their _Challenge Rating_
+
+---
+### Ingenious Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png" Align=left width=7% height=7%>
+
+Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _Ingenoius_ giving you the following benefits
+
+**Ingenius Stacks**
+|Amount|Effect|
+|---|---|
+|10|Your items and runes cooldown is reduced with 6 seconds |
+|20|Your Items and runes cooldown is reduced with another 6 seconds whenever you score a takedown |
+|30|Your items and runes cooldown is recued with 6 seconds|
+
+---
+### Relentless Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/RelentlessHunter.png" Align=left width=7% height=7%>
+
+Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _Relentless_ giving you the following benefits
+
+**Relentless Stacks**
+|Amount|Effect|
+|---|---|
+|10|Your party can move stealthly as they travel without loosing travel speed|
+|20|You gain advantage on survival checks to find game|
+|30|You gain +5 feet movement speed|
+
+---
+### Ultimate Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/UltimateHunter.png" Align=left width=7% height=7%>
+
+Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _Ultimate_ giving you the following benefits
+
+**Ultimate Stacks**
+|Amount|Effect|
+|---|---|
+|10|Your items and runes cooldown is reduced with 6 seconds |
+|20|Your Items and runes cooldown is reduced with another 6 seconds whenever you score a takedown |
+|30|Your items and runes cooldown is recued with 6 seconds|
 
 ---
 
