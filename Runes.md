@@ -323,7 +323,7 @@ As an action you can cast the find familliar spell, summoning Aery, without usin
 ---
 
 ### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" Align=left width=25% height=25%>
-Whenever you deal magical damage to an enemy, a comet shoots out from you, dealing magical bludgeoning damage to all targets of your choosing. The damage and area of effect scales with your level. Once used, it cannot be used again until a minute has passed.
+Whenever you deal magical damage to an enemy, a comet shoots out from you, dealing magical bludgeoning damage to all targets of your choosing. The damage and area of effect scales with your level. Once used, it cannot be used again until a 30 seconds has passed. 
 
 **Arcane Comet Scaling**
 |Level|Effect|
@@ -332,6 +332,7 @@ Whenever you deal magical damage to an enemy, a comet shoots out from you, deali
 |3|1d8 danage in a 25 feet radius|
 |6|1d10 damage in a 30 feet radius|
 |9|1d12 damage in a 45 feet radius|
+
 ---
 
 ### Phase Rush  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" Align=left width=25% height=25%>
@@ -344,7 +345,33 @@ When you deal damage to a target, they gain a mark of Phase until the end of you
 |3| You gain 15 feet movement speed and agility|
 |6|You gain 20 feet movement speed and agility|
 |9|You gain 30 feet movement speed and agility|
+
 ---
+
+## Lesser Runes
+### Nullifying Orb  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/NullifyingOrb.png" Align=left width=7% height=7%>
+
+Whenever you are bloodied and take elemental damage, before the damage occurs you gain temporary hitpoints equal to five times your proficiency bonus. Once used, it this effect cannot be used again until 30 seconds has passed. 
+
+---
+### Manaflow Band  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ManaflowBand.png" Align=left width=7% height=7%>
+
+Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _Manaflow_ giving you the following benefits 
+**Manaflow Scaling**
+|Amount|Effect|
+|---|---|
+|10|You gain +3 maximum mana|
+|20|You gain +3 maximum mana|
+|30|You gain +3 maximum mana|
+
+---
+
+### Nullifying Orb  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/NullifyingOrb.png" Align=left width=7% height=7%>
+
+Whenever you are bloodied and take elemental damage, before the damage occurs you gain temporary hitpoints equal to five times your proficiency bonus. Once used, it this effect cannot be used again until 30 seconds has passed. 
+
+---
+
 # Resolve ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve.png)
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
