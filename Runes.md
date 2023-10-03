@@ -26,11 +26,11 @@
 |Rune|Snippet|Icon|
 |---|---|---|
 |**[Overheal](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#overheal--)**|Whenever you would be healed while at maximum hit points, gain temporary hit points instead|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Overheal.png" width=120% height=120%>|
-|**[Triumph](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#triumph--)**|Scoring a [Takedown]() on a creature heales you and gives you gold |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Triumph.png" width=120% height=120%>|
-|**[Presence of Mind](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#presence-of-mind--)**|Scoring a [Takedown] () on a creature you gives you mana. |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PresenceOfMind.png" width=120% height=120%>|
-|**[Legend: Alacrity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend:-alacrity--)**|Scoring a [Takedown]() on a creature grants you stacks that eventually gives you an extra attack |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendAlacrity.png" width=120% height=120%>|
-|**[Legend: Tenacity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend:-tenacity--)**|Scoring a [Takedown]() on a creature grants you stacks that boost your mobility|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendTenacity.png" width=120% height=120%>|
-|**[Legend: Bloodline](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend:-bloodline--)**|Scoring a [Takedown]() on a creature grants you stacks that boost you maximum hit points and gives you healing on your attacks|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" width=120% height=120%>|
+|**[Triumph](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#triumph--)**|Scoring a _Takedown_ on a creature heales you and gives you gold |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Triumph.png" width=120% height=120%>|
+|**[Presence of Mind](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#presence-of-mind--)**|Scoring a _Takedown_ on a creature you gives you mana. |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PresenceOfMind.png" width=120% height=120%>|
+|**[Legend: Alacrity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend:-alacrity--)**|Scoring a _Takedown_ on a creature grants you stacks that eventually gives you an extra attack |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendAlacrity.png" width=120% height=120%>|
+|**[Legend: Tenacity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend:-tenacity--)**|Scoring a _Takedown_ on a creature grants you stacks that boost your mobility|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendTenacity.png" width=120% height=120%>|
+|**[Legend: Bloodline](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend:-bloodline--)**|Scoring a _Takedown_ on a creature grants you stacks that boost you maximum hit points and gives you healing on your attacks|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" width=120% height=120%>|
 |**[Coup de Grace](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#coup-de-crace--)**| Deal increased damage to bloodied creatures |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CoupDeGrace.png" width=120% height=120%>|
 |**[Cut Down](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cut-down--)**|Deal increasd damage to larger targets|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CutDown.png" width=120% height=120%>|
 |**[Last Stand](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#last-stand--)**|While below half health, your attacks deal additional damage|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LastStand.png" width=120% height=120%>|
@@ -132,6 +132,24 @@ Whenever you score takedowns, you gain stacks of Bloodline that gives you benefi
 
 ---
 
+### Coup De Grace <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CoupDeGrace.png" Align=left width=7% height=7%>
+
+Whenever you roll damage, you deal 1d6 extra damage to _bloodied_ creatures. 
+
+---
+
+### Cut Down <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CutDown.png" Align=left width=7% height=7%>
+
+Whenever you roll damage, you deal 1d6 extra damage to a creature for each size larger than you it is. 
+
+---
+
+### Last Stand <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LastStand.png" Align=left width=7% height=7%>
+
+When you roll damage, you deal 1d6 additional damage if you are _bloodied_. 
+
+---
+
 # Domination ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination.png)
 
 ## Overview
@@ -156,7 +174,7 @@ Damaging an enemy gives them a mark of electorcute that lasts until the end of y
 
 ---
 ### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=25% height=25%>
-Once a turn whenever you damage a bloody creature you gain a stack of Harvest. In addition the bloody creature take additional *Force* damage based on how many stacks of Harvest you have obtained. Once used, it cannot be used again until you kill a unit of CR 1 or higher, or finish a long rest. 
+Once a turn whenever you damage a _bloodied_ creature you gain a stack of Harvest. In addition the bloody creature take additional *Force* damage based on how many stacks of Harvest you have obtained. Once used, it cannot be used again until you kill a unit of CR 1 or higher, or finish a long rest. 
 
 **Harvest damage**
 | Harvest Stacks | Damage                               |
