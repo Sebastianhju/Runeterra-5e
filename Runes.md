@@ -281,9 +281,9 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 **Ultimate Stacks**
 |Amount|Effect|
 |---|---|
-|10|Your items and runes cooldown is reduced with 6 seconds |
-|20|Your Items and runes cooldown is reduced with another 6 seconds whenever you score a takedown |
-|30|Your items and runes cooldown is recued with 6 seconds|
+|10|Your Ultimates cooldown is reduced by 1 |
+|20|Your Ultimates cooldown is reduced by 2 |
+|30|Your Ultimates cooldown is reduced by 3|
 
 ---
 
@@ -295,6 +295,16 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 |**[Summon Aery](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#summon-aery-)**| Summon a loyal friend that can shield allies or deal damage| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/SummonAery.png" width=50% height=50%>|
 |**[Arcane Comet](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#arcane-comet-)** | Whenever you deal damage, a large comet deals damage in a circle  |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" width=50% height=50%> |
 |**[Phase Rush](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#phase-rush-)** | Gain bursts of speed and agility in combat| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" width=50% height=50%>|
+
+**Lesser Runes**
+|**Rune**|**Snippet**|**Icon**|
+|---|---|---|
+|**[Nullifying Orb](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#nullifying-orb-)**|Gain temporary hit points when you take elemental damage|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Nullifying Orb.png">|
+|**[Manaflow Band](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#manaflow-band-)**|Scoring takedowns grants you stacks that increase your maximum mana|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ManaflowBand.png">|
+|**[Nimbus Cloak](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#nimbus-cloak-)**|Using _summoner spells_ gives you _agility_ and movement speed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/6361.png">|
+|**[Transcendence](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#transcendence-)**|Reduce the cooldown of items and runes as you level up|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Transcendence.png">|
+|**[Nullifying Orb](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#nullifying-orb-)**|Gain temporary hit points when you take elemental damage|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Nullifying Orb.png">|
+
 
 ## Keystones
 ### Summon Aery  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/SummonAery.png" Align=left width=25% height=25%>
