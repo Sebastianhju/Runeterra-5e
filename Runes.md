@@ -71,6 +71,31 @@ Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for ev
 |3| 1d6|
 |6|1d8|
 |9|2d6|
+
+---
+## Lesser Runes
+---
+
+### Overheal  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Overheal.png" Align=left width=7% height=7%>
+Whenever you are healed while on maximum hit points, you instead gain temporary hit points equal to the amount healed. I a healing would put you at maximum hit points, you gain temporary hit points equal to the remaining healing. 
+
+---
+### Triumph  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Triumph.png" Align=left width=7% height=7%>
+Whenever you score a takedown, you gain gold equal to four times the creautres _Challenge Rating_. In addition you heal for an amount shown on the table below.
+
+**Triumph Scaling**
+|Level|Healing|
+|---|---|
+|1| 1d6|
+|3| 1d6 + Proficiency Bonus|
+|6| 1d8 + Proficiency Bonus|
+|9| 2d6 + Proficiency Bonus|
+---
+
+### Presence of Mind <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PresenceOfMind.png" Align=left width=7% height=7%>
+
+Whenever you score a takedown on a creature of a _Challenge Rating_ of 1 or higher, you gain mana equal to your level. 
+
 ---
 
 # Domination ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination.png)
