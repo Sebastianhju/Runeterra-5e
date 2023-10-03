@@ -258,8 +258,8 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 |Amount|Effect|
 |---|---|
 |10|Your items and runes cooldown is reduced with 6 seconds |
-|20|Your Items and runes cooldown is reduced with another 6 seconds whenever you score a takedown |
-|30|Your items and runes cooldown is recued with 6 seconds|
+|20|Your Items and runes cooldown is reduced with 12 seconds instead|
+|30|Your items and runes cooldown is recued with 6 seconds everytime you score a takedown|
 
 ---
 ### Relentless Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/RelentlessHunter.png" Align=left width=7% height=7%>
@@ -336,7 +336,7 @@ Whenever you deal magical damage to an enemy, a comet shoots out from you, deali
 ---
 
 ### Phase Rush  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" Align=left width=25% height=25%>
-When you deal damage to a target, they gain a mark of Phase until the end of your turn. Whenever you damage a creature with a mark of Phase, you gain movement speed and agility based on your level as shown on the table below. 
+When you deal damage to a target, they gain a mark of Phase until the end of your turn. Whenever you damage a creature with a mark of Phase, you gain movement speed and agility based on your level as shown on the table below. In addition you can phace through terrain and creatures. 
 
 **Phase Rush Scaling**
 |Level|Effect|
@@ -366,11 +366,29 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 
 ---
 
-### Nullifying Orb  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/NullifyingOrb.png" Align=left width=7% height=7%>
+### Numbus Cloak  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Nimbus Cloak.png" Align=left width=7% height=7%>
 
-Whenever you are bloodied and take elemental damage, before the damage occurs you gain temporary hitpoints equal to five times your proficiency bonus. Once used, it this effect cannot be used again until 30 seconds has passed. 
+Whenever you use a _summoner spell_ you gain agility and your movementspeed is doubled until the end of your turn
 
 ---
+
+### Trancendence  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/NullifyingOrb.png" Align=left width=7% height=7%>
+
+As you level up, the cooldown of your runes and abilities decrease according to the table below. 
+|Level|Effect|
+|---|---|
+|3| Your cooldowns are reduced by 6 seconds|
+|6|Your cooldowns are reduced by 12 seconds|
+|9|Your cooldowns are reduced by 18 seconds|
+
+---
+### Celerity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/TempCelerity.png" Align=left width=7% height=7%>
+
+Whenever you gian movement speed, double it. 
+
+### Abslute Focus  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/AbsoluteFocus.png" Align=left width=7% height=7%>
+
+While above 50% health, you deal 1d6 aditional damage.  
 
 # Resolve ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve.png)
 |**Rune**|**Snippet**|**Icon**|
