@@ -60,14 +60,14 @@ Once a turn whenever you damage a bloody creature you gain a stack of Harvest. I
 | Harvest Stacks | Damage                               |
 | -------------- | ------------------------------------ |
 | 0              | 1d4 Force Damage                     |
-| 15             | 1d6 Force Damage                     |
-| 35             | 1d8 Force Damage                     |
-| 60             | 1d8 + proficiency bonus Force Damage |
-| 100            | 1d10 + proficiency bonus Force Damage |
-| 150            | 1d12 + proficiency bonus Force Damage |
-| 200            | 2d8 + proficiency bonus Force Damage |
-| 300            | 3d8 + proficiency bonus Force Damage |
-| 500            | 4d8 + proficiency bonus Force Damage|
+| 5             | 1d6 Force Damage                     |
+| 20             | 1d8 Force Damage                     |
+| 40             | 1d8 + proficiency bonus Force Damage |
+| 80            | 1d10 + proficiency bonus Force Damage |
+| 110            | 1d12 + proficiency bonus Force Damage |
+| 150            | 2d8 + proficiency bonus Force Damage |
+| 200            | 3d8 + proficiency bonus Force Damage |
+| 300            | 4d8 + proficiency bonus Force Damage|
 
 ---
 ### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=25% height=25%>
