@@ -366,13 +366,13 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 
 ---
 
-### Numbus Cloak  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/NimbusCloak.png" Align=left width=7% height=7%>
+### Nimbus Cloak  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/6361.png" Align=left width=7% height=7%>
 
 Whenever you use a _summoner spell_ you gain agility and your movementspeed is doubled until the end of your turn
 
 ---
 
-### Trancendence  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Trancendence.png" Align=left width=7% height=7%>
+### Transcendence  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Transcendence.png" Align=left width=7% height=7%>
 
 As you level up, the cooldown of your runes and abilities decrease according to the table below. 
 |Level|Effect|
@@ -382,13 +382,15 @@ As you level up, the cooldown of your runes and abilities decrease according to 
 |9|Your cooldowns are reduced by 18 seconds|
 
 ---
-### Celerity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/TempCelerity.png" Align=left width=7% height=7%>
+### Celerity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/CelerityTemp.png" Align=left width=7% height=7%>
 
 Whenever you gian movement speed, double it. 
 
 ### Abslute Focus  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/AbsoluteFocus.png" Align=left width=7% height=7%>
 
 While above 50% health, you deal 1d6 aditional damage.  
+
+---
 
 # Resolve ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve.png)
 |**Rune**|**Snippet**|**Icon**|
