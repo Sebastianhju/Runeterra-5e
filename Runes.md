@@ -351,7 +351,7 @@ When you deal damage to a target, they gain a mark of Phase until the end of you
 ## Lesser Runes
 ### Nullifying Orb  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Nullifying Orb.png" Align=left width=7% height=7%>
 
-Whenever you are bloodied and take elemental damage, before the damage occurs you gain temporary hitpoints equal to five times your proficiency bonus. Once used, it this effect cannot be used again until 30 seconds has passed. 
+Whenever you are bloodied and take elemental damage, before the damage occurs you gain temporary hitpoints equal to five times your proficiency bonus. Once used, this effect cannot be used again until 30 seconds has passed. 
 
 ---
 ### Manaflow Band  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ManaflowBand.png" Align=left width=7% height=7%>
@@ -386,9 +386,29 @@ As you level up, the cooldown of your runes and abilities decrease according to 
 
 Whenever you gian movement speed, double it. 
 
+---
+
 ### Abslute Focus  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/AbsoluteFocus.png" Align=left width=7% height=7%>
 
 While above 50% health, you deal 1d6 aditional damage.  
+
+---
+
+### Scorch  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Scorch.png" Align=left width=7% height=7%>
+
+When you damage an enemy, you set them on fire. The enemy takes 1d4 fire damage at the start of their next three turns. Once used, this effect cannot be used again until 30 seconds have passed. 
+
+---
+
+### Waterwalking  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Waterwalking.png" Align=left width=7% height=7%>
+
+You learn the _Water Walk_ spell and can cast it once a day without spending mana. In addition, whenever you are in watery terrain, you gain +5 to your movementspeed and deal 1d6 extra cold damage whenever you deal cold damage.  
+
+---
+
+### Gathering Storm  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/GatheringStorm.png" Align=left width=7% height=7%>
+
+You learn the _Thunderwave_ and _Call Lightning_ spell and can cast each of them once a day without expending mana. Whenever you deal Lightning or Thunder damage, you can treat any one on the dice roll as a two. 
 
 ---
 
@@ -398,6 +418,20 @@ While above 50% health, you deal 1d6 aditional damage.
 |**[Grasp of the Undying](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#grasp-of-the-undying-)**| Drain the opponents health to get even healthier|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" width=50% height=50%>|
 |**[Aftershock](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#aftershock-)**| Immobilizing enemies makes you even more tanky|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" width=50% height=50%>|
 |**[Guardian](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#guardian-)**| Protect those close to you|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" width=50% height=50%>|
+
+**Lesser Runes**
+|**Rune**|**Snippet**|**Icon**|
+|---|---|---|
+|**[Demolish](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#demolish-)**|Deal bursts of damage to constructs|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Demolish.png">|
+|**[Font of Life](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#font-of-life-)**|Reducing enemies movementspeed heals your allies|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/FontOfLife.png">|
+|**[Shield Bash](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#shield-bash-)**|Gain a strong attack whenever you gain temporary hitpoints|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/MirrorShell.png">|
+|**[Conditioning](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#conditioning-)**|As you score takedowns you gain stacks that grant you armor class|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Conditioning.png">|
+|**[Second Wind](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#second-wind-)**|As a bonus action you can heal yourself|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/SecondWind.png">|
+|**[Bone Plating](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#bone-plating-)**|You gain resistance from the first three damage sources|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/BonePlating.png" height=50% width=50%>|
+|**[Overgrowth](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#overgrowth-)**|As you score takedown you gain stacks that grant you more maximum hit points|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Overgrowth.png">|
+|**[Revitalize](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#revitalize-)**|Increased healing and shielding|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Revitalize.png">|
+|**[Unflinching](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#unflinching-)**|Gain advantage on saving throws against the frightened condition|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Unflinching.png">|
+
 ---
 ## Keystones
 ### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=25% height=25%>
