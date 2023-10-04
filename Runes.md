@@ -349,7 +349,7 @@ When you deal damage to a target, they gain a mark of Phase until the end of you
 ---
 
 ## Lesser Runes
-### Nullifying Orb  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/NullifyingOrb.png" Align=left width=7% height=7%>
+### Nullifying Orb  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Nullifying Orb.png" Align=left width=7% height=7%>
 
 Whenever you are bloodied and take elemental damage, before the damage occurs you gain temporary hitpoints equal to five times your proficiency bonus. Once used, it this effect cannot be used again until 30 seconds has passed. 
 
@@ -366,13 +366,13 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 
 ---
 
-### Numbus Cloak  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Nimbus Cloak.png" Align=left width=7% height=7%>
+### Numbus Cloak  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/NimbusCloak.png" Align=left width=7% height=7%>
 
 Whenever you use a _summoner spell_ you gain agility and your movementspeed is doubled until the end of your turn
 
 ---
 
-### Trancendence  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/NullifyingOrb.png" Align=left width=7% height=7%>
+### Trancendence  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Trancendence.png" Align=left width=7% height=7%>
 
 As you level up, the cooldown of your runes and abilities decrease according to the table below. 
 |Level|Effect|
