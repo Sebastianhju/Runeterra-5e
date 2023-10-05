@@ -558,6 +558,19 @@ You gain immunity to the frightened and charmed condition.
 |**[First Strike](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#first-strike-)**| Gain money for hitting the enemy before they can hit you|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" width=50% height=50%>|
 ---
 
+**Lesser Runes**
+|**Rune**|**Snippet**|**Icon**|
+|---|---|---|
+|**[Hextech Flashtraption](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#hextech-flashtraption-)**|After a small windup, you can blink|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/HextechFlashtraption.png">|
+|**[Magical Footwear](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#magical-footwear-)**|As you score takedowns, you gain magical boots and movement speed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/MagicalFootewear.png">|
+|**[Future's Market](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#futures-market-)**|You gain access to a pocketdimention where you can buy and sell wares|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FuturesMarket.png">|
+|**[Spiritbound](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#spiritbound-)**|At the start of each day, you can select skills to gain proficiency in|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png">|
+|**[Biscuit Delivery](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#biscuit-delivery-)**|Whenever you long rest, you gain a _Buiscuit of Everlasting Will_|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/HextechFlashtraption.png">|
+|**[Cosmic Insight](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cosmic-insight-)**|You learn the _Detect Thoughts_ spell and can cast it once a day without spending mana|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CosmicInsight.png">|
+|**[Approach Velocity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#hextech-flashtraption-)**|Whenever you move towards enemies with reduced speed, you gain additional movementspeed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/ApproachVelocity.png">|
+|**[Time Warp Tonic](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#time-warp-tonic-)**|Whenever you drink potions, you gain additional effects and movementspeed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/TimeWarpTonic.png">|
+
+
 ## Keystones 
 ### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" Align=left width=25% height=25%>
 Whenever you immobilize a creature, they and all enemies within 10 feet of the target gains a *Mark of Cold* until the end of your next turn. A creature with *Mark of Cold* takes additional cold damage based on your level, as shown on the table below, the first time they are struck. Additionally their speed is halved until the end of their turn. Once used, this effect cannot be used aagain until a minute has passed. 
