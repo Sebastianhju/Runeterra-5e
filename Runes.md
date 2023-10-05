@@ -562,13 +562,14 @@ You gain immunity to the frightened and charmed condition.
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
 |**[Hextech Flashtraption](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#hextech-flashtraption-)**|After a small windup, you can blink|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/HextechFlashtraption.png">|
-|**[Magical Footwear](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#magical-footwear-)**|As you score takedowns, you gain magical boots and movement speed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/MagicalFootewear.png">|
+|**[Magical Footwear](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#magical-footwear-)**|As you score takedowns, you gain magical boots and movement speed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/MagicalFootwear.png">|
+|**[Perfect Timing](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#perfect-timing-)**|You gian a stopwatch that is restored as you score takedowns|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/PerfectTiming.png">|
 |**[Future's Market](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#futures-market-)**|You gain access to a pocketdimention where you can buy and sell wares|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FuturesMarket.png">|
 |**[Spiritbound](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#spiritbound-)**|At the start of each day, you can select skills to gain proficiency in|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png">|
 |**[Biscuit Delivery](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#biscuit-delivery-)**|Whenever you long rest, you gain a _Buiscuit of Everlasting Will_|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/HextechFlashtraption.png">|
 |**[Cosmic Insight](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cosmic-insight-)**|You learn the _Detect Thoughts_ spell and can cast it once a day without spending mana|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CosmicInsight.png">|
 |**[Approach Velocity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#hextech-flashtraption-)**|Whenever you move towards enemies with reduced speed, you gain additional movementspeed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/ApproachVelocity.png">|
-|**[Time Warp Tonic](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#time-warp-tonic-)**|Whenever you drink potions, you gain additional effects and movementspeed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/TimeWarpTonic.png">|
+|**[Time Warp Tonic](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#time-warp-tonic-)**|Whenever you drink potions, you gain additional effects and movementspeed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/TimeWarpTonic.png" height=60% Width=60%>|
 
 
 ## Keystones 
