@@ -426,7 +426,7 @@ You learn the _Thunderwave_ and _Call Lightning_ spell and can cast each of them
 |**[Font of Life](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#font-of-life-)**|Reducing enemies movementspeed heals your allies|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/FontOfLife.png">|
 |**[Shield Bash](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#shield-bash-)**|Gain a strong attack whenever you gain temporary hitpoints|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/MirrorShell.png">|
 |**[Conditioning](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#conditioning-)**|As you score takedowns you gain stacks that grant you armor class|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Conditioning.png">|
-|**[Second Wind](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#second-wind-)**|As a bonus action you can heal yourself|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/SecondWind.png">|
+|**[Comeback](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#second-wind-)**|Whenever you are reduced below 50% hit points gain regeneration|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/SecondWind.png">|
 |**[Bone Plating](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#bone-plating-)**|You gain resistance from the first three damaging sources|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/BonePlating.png" height=50% width=50%>|
 |**[Overgrowth](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#overgrowth-)**|As you score takedown you gain stacks that grant you more maximum hit points|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Overgrowth.png">|
 |**[Revitalize](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#revitalize-)**|Increased healing and shielding|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Revitalize.png">|
@@ -490,7 +490,7 @@ Whenever you reduce a creatures movementspeed, they gain a mark of _life_. The n
 
 ---
 
-### Shield Bash  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/ShieldBash.png" Align=left width=7% height=7%>
+### Shield Bash  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/MirrorShell.png" Align=left width=7% height=7%>
 
 Whenever you gain temporary hit points, your next attack deals additional damage. You deal 1d6 additional damage plus 1d6 for every tenth temporary hit points you gained. If you were to gain multiple instances of temporary hit points, only the last one counts for shield bashe's damage. 
 
@@ -508,6 +508,42 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 
 ---
 
+### Comeback  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/SecondWind.png" Align=left width=7% height=7%>
+
+Whenever you are bloodied, you regenereate 1d6 hit points at the start of your turn. 
+
+---
+
+### Bone Plating  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/BonePlating.png" Align=left width=7% height=7%>
+
+The first three times you take damage, you gain resistance to all damage types. Once this effect has ben used, it cannot be used again until you finish a long rest. 
+
+---
+
+### Overgrowth  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Overgrowth.png" Align=left width=7% height=7%>
+
+Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _Overgrowth_ giving you the following benefits:
+**Overgrowth**
+|Amount|Effect|
+|---|---|
+|10|You gain +3 maximum hit points|
+|20|You gain +3 maximum hit points|
+|30|You gaoin +3 maximum hit points|
+For every tenth stack above 30, you gain +1 maximum hit points. 
+
+---
+
+### Revitalize  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Revitalize.png" Align=left width=7% height=7%>
+
+Whenever you regenereate, gain temporary hit points or are healed, you can add you constituton modifier
+
+---
+
+### Unflincing  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Unflinching.png" Align=left width=7% height=7%>
+
+You gain immunity to the frightened and charmed condition.
+
+---
 
 
 # Inspiration ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration.png)
