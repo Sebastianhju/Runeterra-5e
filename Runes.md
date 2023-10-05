@@ -356,7 +356,8 @@ Whenever you are bloodied and take elemental damage, before the damage occurs yo
 ---
 ### Manaflow Band  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ManaflowBand.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _Manaflow_ giving you the following benefits 
+Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _Manaflow_ giving you the following benefits:
+
 **Manaflow Scaling**
 |Amount|Effect|
 |---|---|
@@ -375,6 +376,7 @@ Whenever you use a _summoner spell_ you gain agility and your movementspeed is d
 ### Transcendence  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Transcendence.png" Align=left width=7% height=7%>
 
 As you level up, the cooldown of your runes and abilities decrease according to the table below. 
+
 |Level|Effect|
 |---|---|
 |3| Your cooldowns are reduced by 6 seconds|
@@ -498,8 +500,9 @@ Whenever you gain temporary hit points, your next attack deals additional damage
 
 ### Conditioning  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Conditioning.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _Conditioning_ giving you the following benefits :
-**Conditioning**
+Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _Conditioning_ giving you the following benefits:
+
+**Conditioning Scaling**
 |Amount|Effect|
 |---|---|
 |10|You take 1 less damage from attack damage sources|
@@ -523,7 +526,8 @@ The first three times you take damage, you gain resistance to all damage types. 
 ### Overgrowth  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Overgrowth.png" Align=left width=7% height=7%>
 
 Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _Overgrowth_ giving you the following benefits:
-**Overgrowth**
+
+**Overgrowth Scaling**
 |Amount|Effect|
 |---|---|
 |10|You gain +3 maximum hit points|
