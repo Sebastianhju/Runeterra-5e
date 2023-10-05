@@ -390,7 +390,7 @@ Whenever you gian movement speed, double it.
 
 ### Abslute Focus  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/AbsoluteFocus.png" Align=left width=7% height=7%>
 
-While above 50% health, you deal 1d6 aditional damage.  
+While above 50% health, you deal 1d6 additional damage.  
 
 ---
 
@@ -427,10 +427,10 @@ You learn the _Thunderwave_ and _Call Lightning_ spell and can cast each of them
 |**[Shield Bash](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#shield-bash-)**|Gain a strong attack whenever you gain temporary hitpoints|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/MirrorShell.png">|
 |**[Conditioning](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#conditioning-)**|As you score takedowns you gain stacks that grant you armor class|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Conditioning.png">|
 |**[Second Wind](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#second-wind-)**|As a bonus action you can heal yourself|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/SecondWind.png">|
-|**[Bone Plating](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#bone-plating-)**|You gain resistance from the first three damage sources|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/BonePlating.png" height=50% width=50%>|
+|**[Bone Plating](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#bone-plating-)**|You gain resistance from the first three damaging sources|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/BonePlating.png" height=50% width=50%>|
 |**[Overgrowth](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#overgrowth-)**|As you score takedown you gain stacks that grant you more maximum hit points|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Overgrowth.png">|
 |**[Revitalize](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#revitalize-)**|Increased healing and shielding|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Revitalize.png">|
-|**[Unflinching](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#unflinching-)**|Gain advantage on saving throws against the frightened condition|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Unflinching.png">|
+|**[Unflinching](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#unflinching-)**|You gain immunity to the charmed and frightened condition|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Unflinching.png">|
 
 ---
 ## Keystones
@@ -476,6 +476,39 @@ If you or an ally within 15ft of you takes lethal or 10 or more damage in a sing
 |6| 20 temporary hit points|
 |9| 25 temporary hit points|
 ---
+
+## Lesser Runes
+### Demolish  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Demolish.png" Align=left width=7% height=7%>
+
+Whenever you end your turn within 15 feet of a construct or object that can be destroyed, they gain a stack of demolish(Up to a maximum of five). The next time you deal damage a target with demolish, they take 1d12 additional damage for every stack of demolish the target have.
+
+---
+
+### Font Of Life  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/FontOfLife.png" Align=left width=7% height=7%>
+
+Whenever you reduce a creatures movementspeed, they gain a mark of _life_. The next time an ally damages a creature with _life_ they heal equal to half the damage dealt. 
+
+---
+
+### Shield Bash  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/ShieldBash.png" Align=left width=7% height=7%>
+
+Whenever you gain temporary hit points, your next attack deals additional damage. You deal 1d6 additional damage plus 1d6 for every tenth temporary hit points you gained. If you were to gain multiple instances of temporary hit points, only the last one counts for shield bashe's damage. 
+
+---
+
+### Conditioning  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Conditioning.png" Align=left width=7% height=7%>
+
+Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _Conditioning_ giving you the following benefits :
+**Conditioning**
+|Amount|Effect|
+|---|---|
+|10|You take 1 less damage from attack damage sources|
+|20|You gain +1 to your armor class|
+|30|You take 3 less damage from attack damage sources|
+
+---
+
+
 
 # Inspiration ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration.png)
 |**Rune**|**Snippet**|**Icon**|
