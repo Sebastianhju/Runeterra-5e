@@ -386,13 +386,13 @@ As you level up, the cooldown of your runes and abilities decrease according to 
 ---
 ### Celerity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/CelerityTemp.png" Align=left width=7% height=7%>
 
-Whenever you gian movement speed, double it. 
+Whenever you gain movement speed, double it. 
 
 ---
 
-### Abslute Focus  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/AbsoluteFocus.png" Align=left width=7% height=7%>
+### Absolute Focus  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/AbsoluteFocus.png" Align=left width=7% height=7%>
 
-While above 50% health, you deal 1d6 additional damage.  
+While above 50% health, you deal 1d4 additional damage.  
 
 ---
 
@@ -525,15 +525,8 @@ The first three times you take damage, you gain resistance to all damage types. 
 
 ### Overgrowth  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Overgrowth.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _Overgrowth_ giving you the following benefits:
+Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _overgrowth_. For every tenth stack, you gain +1 maximum hit points.
 
-**Overgrowth Scaling**
-|Amount|Effect|
-|---|---|
-|10|You gain +3 maximum hit points|
-|20|You gain +3 maximum hit points|
-|30|You gaoin +3 maximum hit points|
-For every tenth stack above 30, you gain +1 maximum hit points. 
 
 ---
 
