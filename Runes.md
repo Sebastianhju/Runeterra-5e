@@ -113,19 +113,19 @@ Whenever you score takedowns on creatures with a _Challenge Rating_ of one or hi
 |---|---|
 |10| Whenever you take the dash action, you ignore difficult terrain|
 |20| You gain +5ft movement speed|
-|30| Whenever you have to roll for immobilizing effects, you can add your proficiency bonus to the roll|
+|30| Whenever you have to make a savong throw against immobilizing effects, you have advantage|
 
 ---
 ### Legend: Bloodline <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" Align=left width=7% height=7%>
 
-Whenever you score takedowns on creatures with a _Challenge Rating_ of one or higher, you gain stacks of Bloodline that gives you benefits according to the table below. Whenever you get a kill you gain three stacks and whenever you gain an assist you gain one stack.
+Whenever you score takedowns on creatures with a _Challenge Rating_ of one or higher, you gain a stavk of Bloodline that gives you benefits according to the table below. 
 
 **Bloodline Scaling**
 |Stacks|Feture|
 |---|---|
-|10| Whenever you hit a creature, you heal 1 hit point|
+|10| Whenever you hit a creature, you heal equal to your proficiency bonus|
 |20| You gain +5 maximum hit points|
-|30| Whenever you hit a creature, you heal hit points equal to your proficiency bonus|
+|30| Whenever you hit a creature, you heal hit points equal to your twice your proficiency bonus|
 
 ---
 
@@ -202,7 +202,7 @@ Once a turn whenever you damage a _bloodied_ creature you gain a stack of Harves
 ---
 ### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=25% height=25%>
 
-You can dash as a bonus action. Once used, it cannot be used again until 30 seconds has passed, or you score a takedown on a creature with a _Challenge Rating_ of 1 or higher.
+You can dash as a bonus action. Once used, it cannot be used again until 45 seconds has passed, or you score a takedown on a creature with a _Challenge Rating_ of 1 or higher.
 
 Whenever you take the dash action on your turn, you gain agility and have advantage on your next melee attack if you moved at least 10ft in a straight line towards the target.
 
