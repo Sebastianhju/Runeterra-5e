@@ -131,19 +131,19 @@ Whenever you score takedowns on creatures with a _Challenge Rating_ of one or hi
 
 ### Coup De Grace <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CoupDeGrace.png" Align=left width=7% height=7%>
 
-Whenever you roll damage, you deal 1d6 extra damage to _bloodied_ creatures. 
+Whenever you roll damage, you deal 1d4 extra damage to _bloodied_ creatures. 
 
 ---
 
 ### Cut Down <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CutDown.png" Align=left width=7% height=7%>
 
-Whenever you roll damage, you deal 1d6 extra damage to a creature for each size larger than you it is. 
+Whenever you roll damage, you deal 1d4 extra damage to a creature for each size larger than you it is. 
 
 ---
 
 ### Last Stand <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LastStand.png" Align=left width=7% height=7%>
 
-When you roll damage, you deal 1d6 additional damage if you are _bloodied_. 
+When you roll damage, you deal 1d4 additional damage if you are _bloodied_. 
 
 ---
 
@@ -270,7 +270,7 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 |Amount|Effect|
 |---|---|
 |10|Your party can move stealthly as they travel without loosing travel speed|
-|20|You gain advantage on survival checks to find game|
+|20|You gain advantage on survival checks when you are tracking creatures|
 |30|You gain +5 feet movement speed|
 
 ---
