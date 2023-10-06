@@ -563,7 +563,7 @@ You gain immunity to the frightened and charmed condition.
 |---|---|---|
 |**[Hextech Flashtraption](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#hextech-flashtraption-)**|After a small windup, you can blink|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/HextechFlashtraption.png">|
 |**[Magical Footwear](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#magical-footwear-)**|As you score takedowns, you gain magical boots and movement speed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/MagicalFootwear.png">|
-|**[Perfect Timing](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#perfect-timing-)**|You gian a stopwatch that is restored as you score takedowns|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/PerfectTiming.png">|
+|**[Perfect Timing](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#perfect-timing-)**|You gain a stopwatch and the ability to repair it|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/PerfectTiming.png">|
 |**[Future's Market](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#futures-market-)**|You gain access to a pocketdimention where you can buy and sell wares|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FuturesMarket.png">|
 |**[Spiritbound](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#spiritbound-)**|At the start of each day, you can select skills to gain proficiency in|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png">|
 |**[Biscuit Delivery](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#biscuit-delivery-)**|Whenever you long rest, you gain a _Buiscuit of Everlasting Will_|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/HextechFlashtraption.png">|
@@ -580,7 +580,7 @@ Whenever you immobilize a creature, they and all enemies within 10 feet of the t
 |Level|Hit Points|
 |---|---|
 |1|1d4 Cold Damage|
-|3| 1d6 Cold Damage|
+|3|1d6 Cold Damage|
 |6|1d8 Cold damage|
 |9|2d6 Cold damage|
 ---
@@ -605,4 +605,29 @@ Whenever you deal damage against any creature that hasn't taken a turn in the co
 |1|Gold Equal to the damage dealt|
 |6|Gold equal to two times the damage dealt|
 |9|Gold equal to four times the damage dealt|
+---
+
+## Lesser Runes
+### Hextech Flashtraption  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/HextechFlashtraption.png" Align=left width=7% height=7%>
+
+As a Bonus Action you can target a space within 15ft of you channeling a teleport, you do not have to see the place you are targeting. At the start of your next turn you teleport to the selected location. If the targetet location is a wall, you are instead teleportet to the nearest open area. 
+
+---
+
+### Magical Footwear  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/MagicalFootwear.png" Align=left width=7% height=7%>
+
+Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _Magical Footwear_ giving you the following benefits:
+
+**Magical Footwear Scaling**
+|Amount|Effect|
+|---|---|
+|10|You gain _Boots of Speed_|
+|20|You gain +5 feet movement speed when boots are equipped|
+|30|Your _Boots of Speed_ are upgraded to _Boots of Swiftness_ |
+---
+
+### Perfect Timing  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/PerfectTiming.png" Align=left width=7% height=7%>
+
+You gain a _Stopwatch_ and a set of tinkerers tools. Whenever you take a long rest, you can attempt to repair a stopwatch with your tinkerers tools. Spending one hour and a successfull (Dc 12) sleight of hand check repairs the stopwatch, if you were to fail the check the tinkerers tools are broken. 
+
 ---
