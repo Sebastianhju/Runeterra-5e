@@ -25,7 +25,7 @@
 **Lesser Runes**
 |Rune|Snippet|Icon|
 |---|---|---|
-|**[Overheal](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#overheal--)**|Whenever you would be healed while at maximum hit points, gain temporary hit points instead|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Overheal.png" width=120% height=120%>|
+|**[Overheal](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#overheal--)**|Whenever you would heal while at maximum hit points, gain temporary hit points instead|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Overheal.png" width=120% height=120%>|
 |**[Triumph](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#triumph--)**|Scoring a _Takedown_ on a creature heales you and gives you gold |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Triumph.png" width=120% height=120%>|
 |**[Presence of Mind](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#presence-of-mind-)**|Scoring a _Takedown_ on a creature you gives you mana. |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PresenceOfMind.png" width=120% height=120%>|
 |**[Legend: Alacrity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend-alacrity-)**|Scoring a _Takedown_ on a creature grants you stacks that eventually gives you an extra attack |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendAlacrity.png" width=120% height=120%>|
@@ -62,7 +62,7 @@ Whenever you damage enemies, you gain stacks of Lethal Tempo. One stack for rang
 
 ---
 ### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" Align=left width=25% height=25%>
-Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move, and five stacks for every attack you hit up to a maximum of 50 stacks. When you have 50 stacks, the next time you deal damage, you deal an additional 1d4 damage, and heal equal to the additional damage. In addition you gian *agility* and 10 feet movementspeed until the end of your turn
+Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move, and five stacks for every attack you hit up to a maximum of 80 stacks. When you have maximum stacks, the next time you deal damage, you deal an additional 1d4 damage, and heal equal to the additional damage. In addition you gian *agility* and 15 feet movementspeed until the end of your turn
 
 **Fleet Footwork Scaling**
 |Level|Damage|
@@ -87,7 +87,7 @@ Whenever you score a takedown, you gain gold equal to four times the creautres _
 
 ### Presence of Mind <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PresenceOfMind.png" Align=left width=7% height=7%>
 
-Whenever you score a takedown on a creature of a _Challenge Rating_ of 1 or higher, you gain mana equal to your level. 
+Whenever you score a takedown on a creature of a _Challenge Rating_ of 1 or higher, you gain mana equal to your proficiency bonus. 
 
 ---
 
