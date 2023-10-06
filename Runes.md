@@ -328,10 +328,10 @@ Whenever you deal magical damage to an enemy, a comet shoots out from you, deali
 **Arcane Comet Scaling**
 |Level|Effect|
 |---|---|
-|1|1d6 damage in a 10 feet radius |
-|3|1d8 danage in a 25 feet radius|
-|6|1d10 damage in a 30 feet radius|
-|9|1d12 damage in a 45 feet radius|
+|1|1d6 damage in a 5 feet radius |
+|3|1d8 danage in a 10 feet radius|
+|6|1d10 damage in a 15 feet radius|
+|9|1d12 damage in a 30 feet radius|
 
 ---
 
@@ -362,8 +362,8 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 |Amount|Effect|
 |---|---|
 |10|You gain +3 maximum mana|
-|20|You gain +3 maximum mana|
-|30|You gain +3 maximum mana|
+|20|You gain +6 maximum mana|
+|30|You gain +9 maximum mana|
 
 ---
 
@@ -443,16 +443,16 @@ For every turn in combat, you gain a stack of *Grasp*. When you are at three sta
 |Undying Stacks|Hit Points|
 |---|---|
 |20| You gain +3 maximum health|
-|40| You gain +3 maximum health|
-|75|You gain +3 maximum health|
-|100|You gain +3 maximum health|
-|130| You gain +3 maximum health|
-|170| You gain +5 maximum health|
-|225| You gain +5 maximum health|
-|275 | You gain +5 maximum health|
-|325| You gain +5 maximum health|
-|400| You gain +10 maximum health|
-|500| You gain +10 maximum health|
+|40| You gain +6 maximum health|
+|75|You gain +9 maximum health|
+|100|You gain +12 maximum health|
+|130| You gain +15 maximum health|
+|170| You gain +20 maximum health|
+|225| You gain +25 maximum health|
+|275 | You gain +30 maximum health|
+|325| You gain +35 maximum health|
+|400| You gain +45 maximum health|
+|500| You gain +55 maximum health|
 
 ---
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=25% height=25%>
@@ -476,7 +476,7 @@ If you or an ally within 15ft of you takes lethal or 10 or more damage in a sing
 |1| 10 temporary hit points|
 |3| 15 temporary hit points|
 |6| 20 temporary hit points|
-|9| 25 temporary hit points|
+|9| 30 temporary hit points|
 ---
 
 ## Lesser Runes
