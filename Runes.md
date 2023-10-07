@@ -62,15 +62,15 @@ Whenever you damage enemies, you gain stacks of Lethal Tempo. One stack for rang
 
 ---
 ### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" Align=left width=25% height=25%>
-Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move, and five stacks for every attack you hit up to a maximum of 80 stacks. When you have maximum stacks, the next time you deal damage, you deal an additional 1d4 damage, and heal equal to the additional damage. In addition you gian *agility* and 15 feet movementspeed until the end of your turn
+Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move and five stacks for every attack you hit, up to a maximum of 80 stacks. When you have maximum stacks, the next time you deal damage, you deal additional damage, and heal equal to the damage dealt. In addition you gian *agility* and 15 feet movementspeed until the end of your turn
 
 **Fleet Footwork Scaling**
 |Level|Damage|
 |---|---|
-|1| 1d4 |
-|3| 1d6|
-|6|1d8|
-|9|2d6|
+|1| 1d4 + proficiency bonus |
+|3| 1d6 + proficiency bonus|
+|6|1d8 + proficiency bonus|
+|9|2d6 + proficiency bonus|
 
 ---
 ## Lesser Runes
@@ -179,8 +179,8 @@ Damaging an enemy gives them a mark of electorcute that lasts until the end of y
 |---|---|
 |1| 1d6|
 |3| 1d10|
-|6|2d6|
-|9|2d10|
+|6|2d10|
+|9|3d10|
 
 ---
 ### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=25% height=25%>
@@ -220,7 +220,7 @@ Whenever you damage a creature, you can choose to deal 1d6 extra force damage fo
 ---
 ### Taste of Blood <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png" Align=left width=7% height=7%>
 
-Whenever you damage a creature and are below maximum hit points, taste of blood triggers healing you an amount equal to twice your level. Once used, this effect cannot be used again until 30 seeconds has passed. 
+Whenever you damage a creature while being below maximum hit points, taste of blood triggers healing you an amount equal to twice your level. Once used, this effect cannot be used again until 30 seeconds has passed. 
 
 ---
 ### Sudden Impact <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png" Align=left width=7% height=7%>
@@ -318,8 +318,8 @@ As an action you can cast the find familliar spell, summoning Aery, without usin
 |---|---|
 |1| 1d4+prof damage or 5 temporary hit points |
 |3| 1d4+prof damage or 10 temporary hit points|
-|6|2d4+prof damage or 15 temporary hit points|
-|9|2d4+prof damage or 20 temporary hit points|
+|6|1d4+prof damage or 15 temporary hit points|
+|9|1d4+prof damage or 20 temporary hit points|
 ---
 
 ### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" Align=left width=25% height=25%>
@@ -329,9 +329,9 @@ Whenever you deal magical damage to an enemy, a comet shoots out from you, deali
 |Level|Effect|
 |---|---|
 |1|1d6 damage in a 5 feet radius |
-|3|1d8 danage in a 10 feet radius|
-|6|1d10 damage in a 15 feet radius|
-|9|1d12 damage in a 30 feet radius|
+|3|1d12 danage in a 10 feet radius|
+|6|1d12 damage in a 15 feet radius|
+|9|2d12 damage in a 30 feet radius|
 
 ---
 
@@ -372,6 +372,7 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 Whenever you use a _summoner spell_ you gain agility and your movementspeed is doubled until the end of your turn
 
 ---
+
 
 ### Transcendence  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Transcendence.png" Align=left width=7% height=7%>
 
@@ -437,24 +438,17 @@ You learn the _Thunderwave_ and _Call Lightning_ spell and can cast each of them
 ---
 ## Keystones
 ### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=25% height=25%>
-For every turn in combat, you gain a stack of *Grasp*. When you are at three stacks, your next attack deals 1d4 extra necrotic damage. You heal equal to the necrotic damage dealt and gain stacks of *Undying* equal to the amount dealt. You gain more maximum hit points for each undying stack as shown on the table below. 
+For every turn in combat, you gain a stack of *Grasp*. When you are at three stacks, your next attack deals 1d4 extra necrotic damage. You heal equal to the necrotic damage dealt. 
 
-**Undying Scaling**
-|Undying Stacks|Hit Points|
-|---|---|
-|20| You gain +3 maximum health|
-|40| You gain +6 maximum health|
-|75|You gain +9 maximum health|
-|100|You gain +12 maximum health|
-|130| You gain +15 maximum health|
-|170| You gain +20 maximum health|
-|225| You gain +25 maximum health|
-|275 | You gain +30 maximum health|
-|325| You gain +35 maximum health|
-|400| You gain +45 maximum health|
-|500| You gain +55 maximum health|
+In addition you a stack of *Undying* equal to the bonus necrotic damage. You gain +1 maximum hit points for every tenth stack of *Undying* you have.
+
+
+.
+
+.
 
 ---
+
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=25% height=25%>
 When you immobilize a creature, you gain temporary hit points based on your level, as shown on the table below. These temporary hit points last until the start of your next turn, if you still have any remaining at the start of your turn, enemies within 5 feet of you suffer damage equal to your temporary hit points. 
 
@@ -473,22 +467,22 @@ If you or an ally within 15ft of you takes lethal or 10 or more damage in a sing
 **Guardian Scaling**
 |Level|Hit Points|
 |---|---|
-|1| 10 temporary hit points|
+|1| 7 temporary hit points|
 |3| 15 temporary hit points|
-|6| 20 temporary hit points|
-|9| 30 temporary hit points|
+|6| 25 temporary hit points|
+|9| 40 temporary hit points|
 ---
 
 ## Lesser Runes
 ### Demolish  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Demolish.png" Align=left width=7% height=7%>
 
-Whenever you end your turn within 15 feet of a construct or object that can be destroyed, they gain a stack of demolish(Up to a maximum of five). The next time you deal damage a target with demolish, they take 1d12 additional damage for every stack of demolish the target have.
+Whenever you end your turn within 15 feet of a construct or object that can be destroyed, they gain a stack of demolish (Up to a maximum of five). The next time you deal damage a target with demolish, they take 1d12 additional damage for every stack of demolish the target have.
 
 ---
 
 ### Font Of Life  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/FontOfLife.png" Align=left width=7% height=7%>
 
-Whenever you reduce a creatures movementspeed, they gain a mark of _life_. The next time an ally damages a creature with _life_ they heal equal to half the damage dealt. 
+Whenever you reduce a creatures movement speed, they gain a mark of _life_. The next time an ally damages a creature with _life_ they heal equal to half the damage dealt. 
 
 ---
 
@@ -525,7 +519,7 @@ The first three times you take damage, you gain resistance to all damage types. 
 
 ### Overgrowth  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Overgrowth.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _overgrowth_. For every tenth stack, you gain +1 maximum hit points.
+You gain +5 maximum hit points. Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _overgrowth_. For every tenth stack, you gain +1 maximum hit points.
 
 
 ---
@@ -558,7 +552,7 @@ You gain immunity to the frightened and charmed condition.
 |**[Magical Footwear](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#magical-footwear-)**|As you score takedowns, you gain magical boots and movement speed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/MagicalFootwear.png">|
 |**[Perfect Timing](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#perfect-timing-)**|You gain a stopwatch and the ability to repair it|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/PerfectTiming.png">|
 |**[Future's Market](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#futures-market-)**|You gain access to a pocketdimention where you can buy and sell wares|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FuturesMarket.png">|
-|**[Spiritbound](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#spiritbound-)**|At the start of each day, you can select skills to gain proficiency in|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png">|
+|**[Spiritbound](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#spiritbound-)**|At the start of each day, you can select an ability. You become proficient in all skills of that ability for that day. |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png">|
 |**[Biscuit Delivery](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#biscuit-delivery-)**|Whenever you long rest, you gain a _Buiscuit of Everlasting Will_|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/HextechFlashtraption.png">|
 |**[Cosmic Insight](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cosmic-insight-)**|You learn the _Detect Thoughts_ spell and can cast it once a day without spending mana|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CosmicInsight.png">|
 |**[Approach Velocity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#hextech-flashtraption-)**|Whenever you move towards enemies with reduced speed, you gain additional movementspeed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/ApproachVelocity.png">|
@@ -581,7 +575,7 @@ Whenever you immobilize a creature, they and all enemies within 10 feet of the t
 ### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=25% height=25%>
 At the end of a long rest you can select a [Summoner Spell](https://github.com/Sebastianhju/Runeterra-5e/blob/main/SummonerSpells.md) to have that day, if you dont use it before you take a long rest it wanishes. Summoner spells are powerfull spells that can be used once before they vanish. You can never select the same spell two days in a row. At later levels you can get a new summoner spell when you finish a short rest.  
 
-**Mark of Cold Scaling**
+**Spellbook Scaling**
 |Level|Hit Points|
 |---|---|
 |1|Long Rest|
@@ -592,7 +586,7 @@ At the end of a long rest you can select a [Summoner Spell](https://github.com/S
 ### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" Align=left width=25% height=25%>
 Whenever you deal damage against any creature that hasn't taken a turn in the combat yet you gain gold as shown on the table below.
 
-**Mark of Cold Scaling**
+**First Strike Scaling**
 |Level|Hit Points|
 |---|---|
 |1|Gold Equal to the damage dealt|
@@ -622,5 +616,51 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 ### Perfect Timing  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/PerfectTiming.png" Align=left width=7% height=7%>
 
 You gain a _Stopwatch_ and a set of tinkerers tools. Whenever you take a long rest, you can attempt to repair a stopwatch with your tinkerers tools. Spending one hour and a successfull (Dc 12) sleight of hand check repairs the stopwatch, if you were to fail the check the tinkerers tools are broken. 
+
+---
+
+### Futures Market  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FuturesMarket.png" Align=left width=7% height=7%>
+
+You gain a ring that can teleport you to a pocket dimention with a secret shop. Whenever you visit a shopkeeper, all of their wares become available in the Futures Market.
+
+---
+
+### Spiritbound  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png" Align=left width=7% height=7%>
+
+Whenever you take a long rest you choose an ability. You become proficient in all skills of that ability. 
+
+---
+
+### Biscuit Delivery  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/BiscuitDelivery.png" Align=left width=7% height=7%>
+
+Whyenever you long rest, you gain a [Buiscuit of Everlasting Will]().
+
+---
+
+### Cosmic Insight  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CosmicInsight.png" Align=left width=7% height=7%>
+
+You learn the _Detect Thoughts_ and can cast it once a day without spending mana. The target has disadvantage on the savingthrow if you were to delve deeper into their mind.
+
+---
+
+### Approach Velocity  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/ApproachVelocity.png" Align=left width=7% height=7%>
+
+Whenever you move towards a target that is movement impared, every square only costs 2,5 feet of movement. 
+
+---
+
+
+### Time Warp Tonic  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/TimeWarpTonic.png" Align=left width=7% height=7%>
+
+Whenever you drink a potion, you gain +10 feet movement speed in addition to a special effect from each potion.
+
+**Special Effect**
+|Potion|Efect|
+|---|---|
+|Potion of Healing| You heal 1d4 additional hit points|
+|Potion of Speed| The effects last an additional 6 secondd|
+|Potion of Haste| Your cooldowns are reduced with an additional 6 seconds. 
+
+_Work in progress_
 
 ---
