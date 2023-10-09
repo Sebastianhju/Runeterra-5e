@@ -85,6 +85,8 @@
 
 **Magical Talent**: You can attune to almost any magical item due to your magical ancestory. You ignore all feat, class, race, and level requirements on the use of magic items.
 
+**Arcane Adept**: You are proficient in the Arcana skill. 
+
 **Glamor**: In less enlightened parts of the world, a yordle's appearance could seem frightening or unnatural to mortals. Fortunately, they are adept at blending in, and often protected by a kind of supernatural glamour. You know the disguise self cantrip, and can use it at will. 
 
 ---
