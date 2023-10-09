@@ -321,7 +321,8 @@ Aerys hit points scales with your level. Their hit point maximum equals 5 times 
 ---
 
 ### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" Align=left width=25% height=25%>
-Once a turn whenever you deal magical damage to an enemy, a comet shoots out from you, dealing magical bludgeoning damage to all targets of your choosing. The damage and area of effect scales with your level. Once used, it cannot be used again until a 30 seconds has passed. 
+
+Once a turn, whenever you deal damage to a target a comet crashes centered on the target. All enemies takes magical bludgeoning damage scaling with your level. Once used, it cannot be used again until 30 seconds has passed.
 
 **Arcane Comet Scaling**
 |Level|Effect|
