@@ -43,10 +43,10 @@ Whenever you damage enemies, you gain stacks of Conqueror. One stack for ranged 
 **Conqueror Scaling**
 |Level|Damage|
 |---|---|
-|1| 1d4 |
-|3| 1d6|
-|6|1d8|
+|1| 1d6 |
+|5| 1d8|
 |9|2d6|
+
 
 ---
 ### Lethal Tempo  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" Align=left width=25% height=25%>
@@ -55,9 +55,8 @@ Whenever you damage enemies, you gain stacks of Lethal Tempo. One stack for rang
 **Lethal Tempo Scaling**
 |Level|Damage|
 |---|---|
-|1|10 feet reach and 10 feet range |
-|3| 10 feet reach and 15 feet range|
-|6|15 feet reach and 20 feet range |
+|1|10 feet reach and 15 feet range|
+|5|15 feet reach and 20 feet range |
 |9|15 feet reach and 30 feet range|
 
 ---
@@ -68,9 +67,9 @@ Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for ev
 |Level|Damage|
 |---|---|
 |1| 1d4 + proficiency bonus |
-|3| 1d6 + proficiency bonus|
-|6|1d8 + proficiency bonus|
-|9|2d6 + proficiency bonus|
+|5| 1d6 + proficiency bonus|
+|9|1d8 + proficiency bonus|
+
 
 ---
 ## Lesser Runes
@@ -177,9 +176,8 @@ Damaging an enemy gives them a mark of electorcute that lasts until the end of y
 **Electrocute Damage**
 |Level|Damage|
 |---|---|
-|1| 1d6|
-|3| 1d10|
-|6|2d10|
+|1| 1d10|
+|5|2d10|
 |9|3d10|
 
 ---
@@ -311,15 +309,16 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 
 ## Keystones
 ### Summon Aery  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/SummonAery.png" Align=left width=25% height=25%>
-As an action you can cast the find familliar spell, summoning Aery, without using components. Aery is a spirit that can shield your allies or deal damage to enemies. 
+As an action you can cast the find familliar spell, summoning [Aery](https://www.dndbeyond.com/monsters/3896400-aery), without using components. Aery is a spirit that can shield your allies or deal damage to enemies. 
+
+Aerys hit points scales with your level. Their hit point maximum equals 5 times your level. 
 
 **Aery Scaling**
 |Level|Effect|
 |---|---|
-|1| 1d4+prof damage or 5 temporary hit points |
-|3| 1d4+prof damage or 10 temporary hit points|
-|6|1d4+prof damage or 15 temporary hit points|
-|9|1d4+prof damage or 20 temporary hit points|
+|1| 1d4+prof damage|
+|5|2d4+prof damage|
+
 ---
 
 ### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" Align=left width=25% height=25%>
@@ -329,9 +328,8 @@ Whenever you deal magical damage to an enemy, a comet shoots out from you, deali
 |Level|Effect|
 |---|---|
 |1|1d6 damage in a 5 feet radius |
-|3|1d12 danage in a 10 feet radius|
-|6|1d12 damage in a 15 feet radius|
-|9|2d12 damage in a 30 feet radius|
+|5|1d12 damage in a 10 feet radius|
+|9|2d12 damage in a 15 feet radius|
 
 ---
 
@@ -342,8 +340,7 @@ When you deal damage to a target, they gain a mark of Phase until the end of you
 |Level|Effect|
 |---|---|
 |1| You gain 10 feet movement speed and agility|
-|3| You gain 15 feet movement speed and agility|
-|6|You gain 20 feet movement speed and agility|
+|5|You gain 20 feet movement speed and agility|
 |9|You gain 30 feet movement speed and agility|
 
 ---
@@ -380,8 +377,8 @@ As you level up, the cooldown of your runes and abilities decrease according to 
 
 |Level|Effect|
 |---|---|
-|3| Your cooldowns are reduced by 6 seconds|
-|6|Your cooldowns are reduced by 12 seconds|
+|1| Your cooldowns are reduced by 6 seconds|
+|5|Your cooldowns are reduced by 12 seconds|
 |9|Your cooldowns are reduced by 18 seconds|
 
 ---
@@ -450,27 +447,27 @@ In addition you a stack of *Undying* equal to the bonus necrotic damage. You gai
 ---
 
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=25% height=25%>
-When you immobilize a creature, you gain temporary hit points based on your level, as shown on the table below. These temporary hit points last until the start of your next turn, if you still have any remaining at the start of your turn, enemies within 5 feet of you suffer damage equal to your temporary hit points. 
+When you immobilize a creature, you gain temporary hit points based on your level, as shown on the table below. These temporary hit points last until the start of your next turn, if you still have any remaining at the start of your turn, enemies within 5 feet of you suffer damage equal to your temporary hit points. Once used it cannot be used again until 30 seconds have passed. 
 
 **Aftershock Scaling**
 |Level|Hit Points|
 |---|---|
 |1| 7 temporary hit points|
-|3| 15 temporary hit points|
-|6| 25 temporary hit points|
-|9| 40 temporary hit points|
+|5| 15 temporary hit points|
+|9| 25 temporary hit points|
+
 ---
 
 ### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=25% height=25%>
-If you or an ally within 15ft of you takes lethal or 10 or more damage in a single hit, guardian activates. You and the selected ally immediately gain temporary hitpoints according to the table below. Guardian activates before you would take the initial damage. Once used, this effect cannot be used again until a minute has passed.
+If you or an ally within 15ft of you takes lethal or 10 or more damage in a single hit, guardian activates. You and the selected ally immediately gain temporary hitpoints according to the table below. Guardian activates before you would take the initial damage. Once used, this effect cannot be used again until 30 seconds has passed.
 
 **Guardian Scaling**
 |Level|Hit Points|
 |---|---|
-|1| 7 temporary hit points|
-|3| 15 temporary hit points|
-|6| 25 temporary hit points|
+|1| 10 temporary hit points|
+|5| 20 temporary hit points|
 |9| 40 temporary hit points|
+
 ---
 
 ## Lesser Runes
@@ -499,9 +496,9 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 **Conditioning Scaling**
 |Amount|Effect|
 |---|---|
-|10|You take 1 less damage from attack damage sources|
+|10|You take 2 less damage from attack damage sources|
 |20|You gain +1 to your armor class|
-|30|You take 3 less damage from attack damage sources|
+|30|You take 4 less damage from attack damage sources|
 
 ---
 
@@ -566,32 +563,31 @@ Whenever you immobilize a creature, they and all enemies within 10 feet of the t
 **Mark of Cold Scaling**
 |Level|Hit Points|
 |---|---|
-|1|1d4 Cold Damage|
-|3|1d6 Cold Damage|
-|6|1d8 Cold damage|
-|9|2d6 Cold damage|
+|1|1d6 Cold Damage|
+|5|2d6 Cold Damage|
+|9|3d6 Cold damage|
 ---
 
 ### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=25% height=25%>
-At the end of a long rest you can select a [Summoner Spell](https://github.com/Sebastianhju/Runeterra-5e/blob/main/SummonerSpells.md) to have that day, if you dont use it before you take a long rest it wanishes. Summoner spells are powerfull spells that can be used once before they vanish. You can never select the same spell two days in a row. At later levels you can get a new summoner spell when you finish a short rest.  
+At the end of a long rest you can select a [Summoner Spell](https://github.com/Sebastianhju/Runeterra-5e/blob/main/SummonerSpells.md) to have that day, if you dont use it before you take a long rest it wanishes. Summoner spells are powerfull spells that can be used once before they vanish. You can never select the same spell two days in a row or twice the same day. At later levels you can get a new summoner spell when you finish a short rest.  
 
 **Spellbook Scaling**
 |Level|Hit Points|
 |---|---|
 |1|Long Rest|
 |5|Short Rest|
-|9|Short Rest, Select Two|
+|9|Short Rest - Select Two - No limitations|
 ---
 
 ### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" Align=left width=25% height=25%>
-Whenever you deal damage against any creature that hasn't taken a turn in the combat yet you gain gold as shown on the table below.
+Whenever you deal damage against any creature that hasn't taken a turn in the combat yet you gain gold as shown on the table below. The target also takes additional damage equal to a tenth of the damage you dealt, rounded down. 
 
 **First Strike Scaling**
 |Level|Hit Points|
 |---|---|
-|1|Gold Equal to the damage dealt|
-|6|Gold equal to two times the damage dealt|
-|9|Gold equal to four times the damage dealt|
+|1|Gold Equal to two times the damage dealt|
+|5|Gold equal to three times the damage dealt|
+|9|Gold equal to five times the damage dealt|
 ---
 
 ## Lesser Runes
@@ -652,14 +648,14 @@ Whenever you move towards a target that is movement impared, every square only c
 
 ### Time Warp Tonic  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/TimeWarpTonic.png" Align=left width=7% height=7%>
 
-Whenever you drink a potion, you gain +10 feet movement speed in addition to a special effect from each potion.
+Whenever you drink a potion, you gain additional special effect from each potion.
 
 **Special Effect**
 |Potion|Efect|
 |---|---|
 |Potion of Healing| You heal 1d4 additional hit points|
-|Potion of Speed| The effects last an additional 6 secondd|
-|Potion of Haste| Your cooldowns are reduced with an additional 6 seconds. 
+|Potion of Speed| The effects last an additional 12 seconds|
+|Potion of Haste| Your cooldowns are reduced with an additional 6 seconds every round. 
 
 _Work in progress_
 
