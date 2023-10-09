@@ -61,7 +61,7 @@ Whenever you damage enemies, you gain stacks of Lethal Tempo. One stack for rang
 
 ---
 ### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" Align=left width=25% height=25%>
-Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move and five stacks for every attack you hit, up to a maximum of 80 stacks. When you have maximum stacks, the next time you deal damage, you deal additional damage, and heal equal to the damage dealt. In addition you gian *agility* and 15 feet movementspeed until the end of your turn
+Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move and five stacks for every attack you hit, up to a maximum of 80 stacks. When you have maximum stacks, the next time you deal damage, you deal additional damage, and heal equal to the damage dealt. In addition you gain *agility* and 15 feet movement speed until the end of your turn
 
 **Fleet Footwork Scaling**
 |Level|Damage|
