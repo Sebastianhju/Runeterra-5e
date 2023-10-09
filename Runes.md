@@ -38,7 +38,7 @@
 
 ## Keystones
 ### Conqueror  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" Align=left width=25% height=25%>
-Whenever you damage enemies, you gain stacks of Conqueror. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you gain 1d4 additional damage from your attacks, and you heal for the additional damage dealt. 
+Whenever you damage enemies, you gain stacks of Conqueror. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you gain 1d6 additional damage from your attacks, and you heal for the additional damage dealt. 
 
 **Conqueror Scaling**
 |Level|Damage|
