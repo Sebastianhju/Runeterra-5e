@@ -6,15 +6,10 @@
 
 ---
 
-# Barrier <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Barrier_HD.png" align=right width=10% height=10%>
+# Barrier <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Barrier_HD.png" align=right width=12% height=12%>
 As a bonus action you create a 30 feet radius sphere around yourself and your allies. For enemies the Barrier is solid, but see-through. Creatures, spells and objects cannot pass through it. For you and your allies it's immaterial, meaning everything can pass throught it. The Barrier has an AC the equals 12 + your proficiency bonus. And hit points equal to ten times your level. 
 
-
 ---
-
-# Cleanse <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Cleanse_HD.png" align=right width=10% height=10%>
-At any time you can remove **all** negative effects affecting you and allies within 5 feet of you.
-
 
 # Exhaust<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Exhaust_HD.png" align=right width=10% height=10%>
 As a *Bonus Action* you can exhaust a creature within 15 feet of you for 30 seconds. Their speed is halved, their armorclass is reduced by 2 and their attacks deal half damage.
