@@ -1,25 +1,29 @@
 # Summoner Spells
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Art-Smite.png">
 
-|*Summoner Spells are powerfull spells that you can aquire with the [Unsealed Spellbook](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#unsealed-spellbook-) Keystone Rune, or find throughout Runeterra.*|
+|*Summoner Spells are powerfull spells that you can aquire with the [Unsealed Spellbook](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#unsealed-spellbook-) Keystone Rune, or find throughout Runeterra. Once they are used, they are obliterated*|
 |---|
 
 ---
 
 # Barrier <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Barrier_HD.png" align=right width=10% height=10%>
-As a *Reaction* upon taking damage, you can give yourself temporary hit points equal to ten times your level that last until the start of your turn.
+As a bonus action you create a 30 feet radius sphere around yourself and your allies. For enemies the Barrier is solid, but see-through. Creatures, spells and objects cannot pass through it. For you and your allies it's immaterial, meaning everything can pass throught it. The Barrier has an AC the equals 12 + your proficiency bonus. And hit points equal to ten times your level. 
 
 
 ---
 
+# Cleanse <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Cleanse_HD.png" align=right width=10% height=10%>
+At any time you can remove **all** negative effects affecting you and allies within 5 feet of you.
+
+
 # Exhaust<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Exhaust_HD.png" align=right width=10% height=10%>
-As a *Bonus Action* you can exhaust a creature within 15 feet of you for 18 seconds. Their armorclass is reduced by 2, their attacks deal half damage and their speed is halved
+As a *Bonus Action* you can exhaust a creature within 15 feet of you for 30 seconds. Their speed is halved, their armorclass is reduced by 2 and their attacks deal half damage.
 
 
 ---
 
 # Flash<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Flash_HD.png" align=right width=10% height=10%>
-At any time, you can teleport to a location within 15 feet of you, you do not need to see the location. If the location targeted is a wall, you are instead placed at the nearest empty area.
+At any time, you can teleport to a location within 15 feet of you, you do not need to see the location. If the location targeted is a wall, you are instead placed at the nearest open area.
 
 
 ---
@@ -31,13 +35,13 @@ As a *Bonus Action* you become invisible for an hour, or until you make an attac
 ---
 
 # Heal<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Heal_HD.png" align=right width=10% height=10%>
-At any time, you can heal yourself and all allies within 15 feet of you for an amount equal to five times your level
+At any time, you can heal yourself and all allies within 15 feet of you for an amount equal to four times your level
 
 
 ---
 
 # Ignite<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Ignite_HD.png" align=right width=10% height=10%>
-As a *Bonus Action* you can ignite a target. They gain a stack of [Grievious Wounds] and take 1d4 fire damage at the start of their turn for one minute.
+As a *Bonus Action* you can ignite a target. At the start of their turn, they take 2d4 fire damage and gains a stack of grievous wounds wounds for the next minute. 
 
 
 ---
@@ -49,7 +53,6 @@ When you hit a target with an attack, after you've rolled for damage you can use
 
 
 # Teleport<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Teleport_HD.png" align=right width=10% height=10%>
-After a ten minute channel you can teleport yourself and up to five allies to a known city or village.
-
+After a ten minute channel you can teleport yourself and up to five allies to a city or village you have visited during the campaign.
 
 ---
