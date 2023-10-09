@@ -171,7 +171,7 @@ When you roll damage, you deal 1d4 additional damage if you are _bloodied_.
 
 ## Keystones
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=25% height=25%>
-Damaging an enemy gives them a mark of electorcute that lasts until the end of your turn. When you damage a creature with a mark, you deal additional lightning damage. Once used it cannot be used again until 30 seconds has passed. 
+Damaging an enemy gives them a mark of electorcute that lasts until the end of your turn. When you damage a creature with a mark, you deal additional lightning damage. Once used it cannot be used again on the same target until 30 seconds has passed. 
 
 **Electrocute Damage**
 |Level|Damage|
@@ -187,15 +187,14 @@ Once a turn whenever you damage a _bloodied_ creature you gain a stack of Harves
 **Harvest damage**
 | Harvest Stacks | Damage                               |
 | -------------- | ------------------------------------ |
-| 0              | 1d4 Force Damage                     |
-| 5             | 1d6 Force Damage                     |
+| 0              | 1d6 Force Damage                     |
 | 20             | 1d8 Force Damage                     |
 | 40             | 1d8 + proficiency bonus Force Damage |
-| 80            | 1d10 + proficiency bonus Force Damage |
-| 110            | 1d12 + proficiency bonus Force Damage |
-| 150            | 2d8 + proficiency bonus Force Damage |
-| 200            | 3d8 + proficiency bonus Force Damage |
-| 300            | 4d8 + proficiency bonus Force Damage|
+| 60            | 1d10 + proficiency bonus Force Damage |
+| 100            | 1d12 + proficiency bonus Force Damage |
+| 200           | 2d8 + proficiency bonus Force Damage |
+| 300            | 3d8 + proficiency bonus Force Damage |
+| 400            | 4d8 + proficiency bonus Force Damage|
 
 ---
 ### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=25% height=25%>
@@ -256,7 +255,7 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 |Amount|Effect|
 |---|---|
 |10|Your items and runes cooldown is reduced with 6 seconds |
-|20|Your Items and runes cooldown is reduced with 12 seconds instead|
+|20|Your Items and runes cooldown is reduced with 12 seconds|
 |30|Your items and runes cooldown is recued with 6 seconds everytime you score a takedown|
 
 ---
@@ -322,7 +321,7 @@ Aerys hit points scales with your level. Their hit point maximum equals 5 times 
 ---
 
 ### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" Align=left width=25% height=25%>
-Whenever you deal magical damage to an enemy, a comet shoots out from you, dealing magical bludgeoning damage to all targets of your choosing. The damage and area of effect scales with your level. Once used, it cannot be used again until a 30 seconds has passed. 
+Once a turn whenever you deal magical damage to an enemy, a comet shoots out from you, dealing magical bludgeoning damage to all targets of your choosing. The damage and area of effect scales with your level. Once used, it cannot be used again until a 30 seconds has passed. 
 
 **Arcane Comet Scaling**
 |Level|Effect|
@@ -435,14 +434,17 @@ You learn the _Thunderwave_ and _Call Lightning_ spell and can cast each of them
 ---
 ## Keystones
 ### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=25% height=25%>
-For every turn in combat, you gain a stack of *Grasp*. When you are at three stacks, your next attack deals 1d4 extra necrotic damage. You heal equal to the necrotic damage dealt. 
+For every turn in combat, you gain a stack of *Grasp*. When you are at three stacks, your next attack deals extra necrotic damage. You heal equal to the necrotic damage dealt. 
 
 In addition you a stack of *Undying* equal to the bonus necrotic damage. You gain +1 maximum hit points for every tenth stack of *Undying* you have.
 
+**Grasp Scaling**
+|Level|Damage|
+|---|---|
+|1|1d4|
+|5|1d6|
+|9|1d8|
 
-.
-
-.
 
 ---
 
