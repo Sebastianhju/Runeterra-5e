@@ -38,7 +38,7 @@
 
 ## Keystones
 ### Conqueror  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" Align=left width=25% height=25%>
-Whenever you damage enemies, you gain stacks of Conqueror. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you deal additional damage from your damage sources as shown on the table below, and you heal for the additional damage dealt. 
+Once per attack, whenever you damage enemies, you gain stacks of Conqueror. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you deal additional damage from your damage sources as shown on the table below, and you heal for the additional damage dealt. 
 
 **Conqueror Scaling**
 |Level|Damage|
@@ -50,7 +50,7 @@ Whenever you damage enemies, you gain stacks of Conqueror. One stack for ranged 
 
 ---
 ### Lethal Tempo  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" Align=left width=25% height=25%>
-Whenever you damage enemies, you gain stacks of Lethal Tempo. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you gain 10ft reach on meele weapons, and 10 feet extra range for ranged weapons and spells. In addition you can make an extra attack as a part of your attack action.
+Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you gain 10ft reach on meele weapons, and 10 feet extra range for ranged weapons and spells. In addition you can make an extra attack as a part of your attack action.
 
 **Lethal Tempo Scaling**
 |Level|Damage|
