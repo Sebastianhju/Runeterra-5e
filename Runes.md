@@ -300,11 +300,11 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 |**[Manaflow Band](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#manaflow-band-)**|Scoring takedowns grants you stacks that increase your maximum mana|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ManaflowBand.png">|
 |**[Nimbus Cloak](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#nimbus-cloak-)**|Using _summoner spells_ gives you _agility_ and movement speed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/6361.png" height=50% width=50%>|
 |**[Transcendence](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#transcendence-)**|Reduce the cooldown of items and runes as you level up|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Transcendence.png">|
-|**[Celerity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#celerity-)**|You gain +5 feet movement speed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/CelerityTemp.png">|
+|**[Celerity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#celerity-)**|Your speed improving effects are doubled|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/CelerityTemp.png">|
 |**[Absolute Focus](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#absolute_focus-)**|Deal more damage when you are healthy|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/AbsoluteFocus.png">|
 |**[Scorch](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#scorch-)**|Damaging enemies makes them burn|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Scorch.png">|
 |**[Waterwalking](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#waterwalking-)**|You gain increased movementspeed in watery terrain|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Waterwalking.png">|
-|**[Gathering Storm](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#gathering-storm-)**|Grow stronger as you level up|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/GatheringStorm.png">|
+|**[Gathering Storm](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#gathering-storm-)**|You become adept in thunder and lightning damage|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/GatheringStorm.png">|
 
 ## Keystones
 ### Summon Aery  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/SummonAery.png" Align=left width=25% height=25%>
