@@ -454,9 +454,9 @@ When you immobilize a creature, you gain temporary hit points based on your leve
 **Aftershock Scaling**
 |Level|Hit Points|
 |---|---|
-|1| 7 temporary hit points|
-|5| 15 temporary hit points|
-|9| 25 temporary hit points|
+|1| 10 temporary hit points|
+|5| 20 temporary hit points|
+|9| 30 temporary hit points|
 
 ---
 
