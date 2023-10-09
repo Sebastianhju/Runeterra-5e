@@ -169,7 +169,7 @@
 
 **Speed**: Your walking speed is 30 feet. 
 
-**Ability Score Improvement**: When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1.
+**Ability Score Improvement**: When determining your character’s ability scores, increase two scores by 1. 
 
 **Languages**: Your character can read, speak and write Va-Nox, and one other Language of your choice
 
