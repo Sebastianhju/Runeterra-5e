@@ -112,7 +112,7 @@ Whenever you score takedowns on creatures with a _Challenge Rating_ of one or hi
 |---|---|
 |10| Whenever you take the dash action, you ignore difficult terrain|
 |20| You gain +5ft movement speed|
-|30| Whenever you have to make a savong throw against immobilizing effects, you have advantage|
+|30| Whenever you have to make a saving throw against immobilizing effects, you have advantage|
 
 ---
 ### Legend: Bloodline <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" Align=left width=7% height=7%>
