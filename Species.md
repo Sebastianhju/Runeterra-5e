@@ -151,7 +151,7 @@
 |The Lhotlan vastaya have cultural and existential ties with Ionia. Being one of the oldest Vastayan tribes in existence, they have deep ties with their ancestral roots and protect their cultural heritage from the ever encroaching human population of the continent. These birdlike Vastayans are proud of their tribe and history, and often like to show of their feathers|
 |---|
 
-**Burst of Flight**: As a bonus action you can give yourself a burst of movement speed and flight until the end of your turn. You gain 15 feet additinal movement speed and can fly until the end of your turn. However you must end your turn on a surface or take falling damage at the end of your turn. You can do this an amount if times equal to your proficiency bonus before finishing a long rest. 
+**Burst of Flight**: As a bonus action you can give yourself a burst of movement speed and flight until the end of your turn. You gain 15 feet additional movement speed and can fly until the end of your turn. However you must end your turn on a surface or take falling damage at the end of your turn. You can do this an amount if times equal to your proficiency bonus before finishing a long rest. 
 
 **Slow Fall**: You take half damage from falling damage. 
 
