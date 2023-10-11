@@ -76,7 +76,7 @@ Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for ev
 ---
 
 ### Overheal  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Overheal.png" Align=left width=7% height=7%>
-Whenever you are healed while on maximum hit points, you instead gain temporary hit points equal to the amount healed. I a healing would put you at maximum hit points, you gain temporary hit points equal to the remaining healing. 
+Whenever you are healed while on maximum hit points, you instead gain temporary hit points equal to the amount healed. If a healing would put you at maximum hit points, you gain temporary hit points equal to the remaining healing. 
 
 ---
 ### Triumph  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Triumph.png" Align=left width=7% height=7%>
