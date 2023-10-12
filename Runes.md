@@ -244,7 +244,7 @@ Whenever you _kill_ a creature of a _Challenge Rating_ of 1 or higher, you gain 
 ---
 ### Treasure Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/TreasureHunter.png" Align=left width=7% height=7%>
 
-Whenever you _kill_ a creaute you gain gold equal to ten times their _Challenge Rating_
+Whenever you _kill_ a creature you gain gold equal to ten times their _Challenge Rating_
 
 ---
 ### Ingenious Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png" Align=left width=7% height=7%>
