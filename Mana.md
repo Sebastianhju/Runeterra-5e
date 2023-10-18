@@ -73,12 +73,12 @@ _Regains all mana whenever they take a short rest_
 |Class Level|	Mana	|Used Spell Level|
 |----|---|---|
 |1st|	2	|1st|
-|2nd|	4	|1st|
-|3rd|	6	|2nd|
-|4th	|9	|2nd|
-|5th	|15	|3rd|
-|6th	|15	|3rd|
+|2nd|	5	|1st|
+|3rd|	8	|2nd|
+|4th	|11	|2nd|
+|5th	|16	|3rd|
+|6th	|19	|3rd|
 |7th	|24	|4th|
-|8th|	24|	4th|
-|9th|	28|	5th|
-|10th|	28|	5th|
+|8th|	29|	4th|
+|9th|	34|	5th|
+|10th|	39|	5th|
