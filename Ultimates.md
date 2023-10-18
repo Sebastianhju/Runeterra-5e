@@ -14,7 +14,7 @@ For every time you use this action, the mana cost i doubled and you deal 1d4 add
 
 Eks: Level 5 Wizard 27 mana
 
-|Cast nr.|Damage||Mana to cast|Mana left|
+|Cast nr.|Damage|Mana to cast|Mana left|
 |---|---|---|---|
 |1|1d4|2|27|
 |2|2d4|4|25|
