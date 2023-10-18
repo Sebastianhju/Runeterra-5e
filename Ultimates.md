@@ -17,6 +17,6 @@ For every time you use this action, the mana cost increases and you deal additio
 |---|---|---|
 |1-2|2d6|2|
 |3-4|3d6|4|
-|5-6|4d6|7|
-|7+|5d6|11|
+|5-6|4d6|8|
+|7+|5d6|12|
 
