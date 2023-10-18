@@ -15,8 +15,8 @@ For every time you use this action, the mana cost increases and you deal additio
 
 |Cast nr.|Damage|Mana to cast|
 |---|---|---|
-|1-2|2d6|1|
-|3-4|3d6|3|
-|5-6|4d6|6|
-|7-8|5d6|10|
-|9+|6d6|13|
+|1-2|2d6|2|
+|3-4|3d6|4|
+|5-6|4d6|7|
+|7+|5d6|11|
+
