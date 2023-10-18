@@ -6,7 +6,7 @@ Ultimates often comes with a cooldown. Cooldowns go down by one whenever you fin
 
 ## Riftwalk (Cooldown 6) 
 
-https://github.com/Sebastianhju/Runeterra-5e/blob/main/img%20-%20Ult/Riftwalk.png
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img%20-%20Ult/Riftwalk.png" align=right width=10% height=10%>
 
 As a bonus action, you can spend 2 mana to teleport to a location within 15 feet of you (You do not have to see the location). 
 When you land, all enemies within 5 feet of you take 1d4 acid damage. After using this bonus action, you can use it again an number of times until you start a long rest. 
