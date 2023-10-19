@@ -164,7 +164,7 @@ When you roll damage, you deal 1d4 additional damage if you are _bloodied_.
 |**[Sudden Impact](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#sudden-impact-)**|Deal additional damage to creatutures after you dash, blink or teleport|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png">|
 |**[Ghost Poro](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ghost-poro-)**|Gain a haunted Poro companion|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GhostPoro.png">|
 |**[Eyeball Collection](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ceyeball-collection-)**|As you kill creatures you become more adept in sight revolving tasks|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/EyeballCollection.png">|
-|**[Treasure Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#treasure-hunter-)**|Gain gold whenever you kill creatures|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/TreasureHunter.png">|
+|**[Treasure Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#treasure-hunter-)**|Gain gold whenever you kill a creature|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/TreasureHunter.png">|
 |**[Igenious Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ingenious-hunter-)**|Scoring takedowns grants you stacks that reduce the cooldown of runes and items|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png">|
 |**[Relentless Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#relentless-hunter-)**|Scoring takedowns grants you stacks that increase your traveling and hunting capabilities|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/RelentlessHunter.png">|
 |**[Ultimate Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ultimate-hunter-)**|Scoring takedowns grants you stacks that reduce the cooldown of your ultimate ability|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/UltimateHunter.png" Height=50% Width=50%>|
@@ -435,7 +435,7 @@ You learn the _Thunderwave_ and _Call Lightning_ spell and can cast each of them
 ---
 ## Keystones
 ### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=25% height=25%>
-For every turn in combat, you gain a stack of *Grasp*. When you are at three stacks, your next attack deals extra necrotic damage. You heal equal to the necrotic damage dealt. 
+At the start of your turn in combat, you gain a stack of *Grasp*. When you are at three stacks, your next attack deals extra necrotic damage. You heal equal to the necrotic damage dealt. 
 
 In addition you a stack of *Undying* equal to the bonus necrotic damage rolled. You gain +1 maximum hit points for every tenth stack of *Undying* you have.
 
