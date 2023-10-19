@@ -437,7 +437,7 @@ You learn the _Thunderwave_ and _Call Lightning_ spell and can cast each of them
 ### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=25% height=25%>
 For every turn in combat, you gain a stack of *Grasp*. When you are at three stacks, your next attack deals extra necrotic damage. You heal equal to the necrotic damage dealt. 
 
-In addition you a stack of *Undying* equal to the bonus necrotic damage. You gain +1 maximum hit points for every tenth stack of *Undying* you have.
+In addition you a stack of *Undying* equal to the bonus necrotic damage rolled. You gain +1 maximum hit points for every tenth stack of *Undying* you have.
 
 **Grasp Scaling**
 |Level|Damage|
