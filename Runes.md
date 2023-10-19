@@ -79,9 +79,15 @@ Update*
 ### Overheal  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Overheal.png" Align=left width=7% height=7%>
 Whenever you are healed while on maximum hit points, you instead gain temporary hit points equal to the amount healed. If a healing would put you at maximum hit points, you gain temporary hit points equal to the remaining healing. 
 
+Whenever you are at maximum hit points and have temporary hit points you gain 10 feet movement speed.
+
+update*
+
 ---
 ### Triumph  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Triumph.png" Align=left width=7% height=7%>
-Whenever you score a takedown, you gain gold equal to four times the creautres _Challenge Rating_. In addition you heal yourself equal to 1d4 plus your proficiency bonus. 
+Whenever you score a takedown, you gain gold equal to ten times the creautres _Challenge Rating_. In addition you heal yourself equal to 1d4 plus your proficiency bonus. 
+
+Update*
 
 ---
 
@@ -111,9 +117,11 @@ Whenever you score takedowns on creatures with a _Challenge Rating_ of one or hi
 **Tenacity Scaling**
 |Stacks|Feture|
 |---|---|
-|10| Whenever you take the dash action, you ignore difficult terrain|
-|20| You gain +5ft movement speed|
+|10| You ignore difficult terrain snd your movement speed can't be reduced|
+|20| you gain +5 feet movement speed|
 |30| Whenever you have to make a saving throw against immobilizing effects, you have advantage|
+
+update*
 
 ---
 ### Legend: Bloodline <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" Align=left width=7% height=7%>
@@ -143,7 +151,9 @@ Whenever you roll damage, you deal 1d4 extra damage to a creature for each size 
 
 ### Last Stand <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LastStand.png" Align=left width=7% height=7%>
 
-When you roll damage, you deal 1d4 additional damage if you are _bloodied_. 
+When you roll damage, you deal 1d6 additional damage if you are _bloodied_. 
+
+update*
 
 ---
 
