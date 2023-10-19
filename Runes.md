@@ -656,9 +656,16 @@ Whenever you drink a potion, you gain additional special effect from each potion
 **Special Effect**
 |Potion|Efect|
 |---|---|
-|Potion of Healing| You heal 1d4 additional hit points|
-|Potion of Speed| The effects last an additional 12 seconds|
-|Potion of Haste| Your cooldowns are reduced with an additional 6 seconds every round. 
+|Potion of Healing| You gain resistance to bludgeoning, piercing and slashing damage until the start of your next turn|
+|Potion of Dealayed Healing| You regain all hit points instantaniously|
+|Biscuit of Everlasting Will| You regain all hit points and mana instantaniously|
+|Potion of Speed| The effects last an additional minute|
+|Potion of Haste| Your cooldowns are reduced with an additional 6 seconds. |
+|Potion of Resistance| you become immune for one hour instead|
+|Potion of Giant Strenght| The effect lasts for 8 hours insted|
+|Potion of Fire Breath| The save DC is increased by an amount equal to your proficiency bonus|
+
+
 
 _Work in progress_
 
