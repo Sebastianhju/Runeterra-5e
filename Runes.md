@@ -220,6 +220,8 @@ Whenever you take the dash action on your turn, you gain agility and have advant
 |5|1d6 for every 15 feet traveled|
 |9|1d8 for every 15 feet traveled|
 
+Update*
+
 ---
 
 ## Lesser Runes
@@ -231,6 +233,8 @@ Whenever you damage a creature, you can choose to deal 1d6 extra force damage fo
 ### Taste of Blood <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png" Align=left width=7% height=7%>
 
 Whenever you damage a creature while being below maximum hit points, you can choose to heal an amount equal to twice your level. Once used, this effect cannot be used again until 30 seeconds has passed. 
+
+Update*
 
 ---
 ### Sudden Impact <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png" Align=left width=7% height=7%>
@@ -254,10 +258,14 @@ Whenever you _kill_ a creature of a _Challenge Rating_ of 1 or higher, you gain 
 |10|You gain blind sight for 30 feet |
 |15|You gain +1 to all saving throws|
 
+Update*
+
 ---
 ### Treasure Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/TreasureHunter.png" Align=left width=7% height=7%>
 
-Whenever you _kill_ a creature you gain gold equal to ten times their _Challenge Rating_
+Whenever you defeat a *greater foe* you can make an investegation check to find special loot. The check DC equals to 5 + the creatures _Challenge Rating_.
+
+Update*
 
 ---
 ### Ingenious Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png" Align=left width=7% height=7%>
@@ -282,6 +290,8 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 |10|Your party can move stealthly as they travel without loosing travel speed, in addition you can use the hide action as a bonus action|
 |20|You gain proficiency in the survival check, or expertice if you are already proficient. Whenever you roll a survival check to track creatures, you have advantage. |
 |30|You gain +10 feet movement speed|
+
+Update*
 
 ---
 ### Ultimate Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/UltimateHunter.png" Align=left width=7% height=7%>
@@ -347,14 +357,16 @@ Once a turn, whenever you deal damage to a target a comet crashes centered on th
 ---
 
 ### Phase Rush  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" Align=left width=25% height=25%>
-When you deal damage to a target, they gain a mark of Phase until the end of your turn. Whenever you damage a creature with a mark of Phase, you gain movement speed and agility based on your level as shown on the table below. In addition you can phace through terrain and creatures. 
+When you deal damage to a target, they gain a mark of Phase until the end of your turn. Whenever you damage a creature with a mark of Phase, you gain movement speed based on your level as shown on the table below, agility and can phace through terrain and creatures until the end of your next turn. 
 
 **Phase Rush Scaling**
 |Level|Effect|
 |---|---|
-|1| You gain 10 feet movement speed and agility|
-|5|You gain 20 feet movement speed and agility|
-|9|You gain 30 feet movement speed and agility|
+|1| You gain 10 feet movement speed|
+|5|You gain 20 feet movement speed|
+|9|You gain 30 feet movement speed|
+
+Update*
 
 ---
 
@@ -390,9 +402,11 @@ As you level up, the cooldown of your runes and abilities decrease according to 
 
 |Level|Effect|
 |---|---|
-|1| Your cooldowns are reduced by 6 seconds|
-|5|Your cooldowns are reduced by 12 seconds|
-|9|Your cooldowns are reduced by 18 seconds|
+|1| Your cooldowns are reduced by 12 seconds|
+|5|Your cooldowns are reduced by 18 seconds|
+|9|Your cooldowns are reduced by 24 seconds|
+
+Update*
 
 ---
 ### Celerity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/CelerityTemp.png" Align=left width=7% height=7%>
