@@ -240,7 +240,7 @@ Whenever you dash, blink or teleport your next damaging attack deals 1d6 more da
 ---
 ### Ghost Poro <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GhostPoro.png" Align=left width=7% height=7%>
 
-You learn the find familliar spell, and can cast it once a day without spending mana or material components to summon a [Ghost Poro](). The Ghost Poro works like any other familliar. 
+You learn the find familliar spell, and can cast it once a day without spending mana or material components to summon a [Ghost Poro](https://www.dndbeyond.com/monsters/3896538-ghost-poro). The Ghost Poro works like any other familliar. 
 
 ---
 ### Eyeball Collection <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/EyeballCollection.png" Align=left width=7% height=7%>
@@ -250,8 +250,8 @@ Whenever you _kill_ a creature of a _Challenge Rating_ of 1 or higher, you gain 
 **Eyeball Collection Stacks**
 |Amount|Effect|
 |---|---|
-|5| You gain darkvision for 30 feet that can see through magical darkness|
-|10|You gain advantage on perception checks revolving sight. |
+|5| You gain advantage on perception checks revolving sight. |
+|10|You gain blind sight for 30 feet |
 |15|You gain +1 to all saving throws|
 
 ---
@@ -279,9 +279,9 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 **Relentless Stacks**
 |Amount|Effect|
 |---|---|
-|10|Your party can move stealthly as they travel without loosing travel speed|
-|20|You gain advantage on survival checks when you are tracking creatures|
-|30|You gain +5 feet movement speed|
+|10|Your party can move stealthly as they travel without loosing travel speed, in addition you can use the hide action as a bonus action|
+|20|You gain proficiency in the survival check, or expertice if you are already proficient. Whenever you roll a survival check to track creatures, you have advantage. |
+|30|You gain +10 feet movement speed|
 
 ---
 ### Ultimate Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/UltimateHunter.png" Align=left width=7% height=7%>
