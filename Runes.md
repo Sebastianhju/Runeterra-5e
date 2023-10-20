@@ -222,8 +222,6 @@ Whenever you damage a creature, you can choose to deal 1d6 extra force damage fo
 
 Whenever you damage a creature while being below maximum hit points, you can choose to heal an amount equal to twice your level. Once used, this effect cannot be used again until 30 seeconds has passed. 
 
-Update*
-
 ---
 ### Sudden Impact <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png" Align=left width=7% height=7%>
 
@@ -246,14 +244,10 @@ Whenever you _kill_ a creature of a _Challenge Rating_ of 1 or higher, you gain 
 |10|You gain blind sight for 30 feet |
 |15|You gain +1 to all saving throws|
 
-Update*
-
 ---
 ### Treasure Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/TreasureHunter.png" Align=left width=7% height=7%>
 
 Whenever you defeat a *greater foe* you can make an investegation check to find special loot. The check DC equals to 5 + the creatures _Challenge Rating_.
-
-Update*
 
 ---
 ### Ingenious Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png" Align=left width=7% height=7%>
@@ -278,8 +272,6 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 |10|Your party can move stealthly as they travel without loosing travel speed, in addition you can use the hide action as a bonus action|
 |20|You gain proficiency in the survival check, or expertice if you are already proficient. Whenever you roll a survival check to track creatures, you have advantage. |
 |30|You gain +10 feet movement speed|
-
-Update*
 
 ---
 ### Ultimate Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/UltimateHunter.png" Align=left width=7% height=7%>
@@ -354,8 +346,6 @@ When you deal damage to a target, they gain a mark of Phase until the end of you
 |5|You gain 20 feet movement speed|
 |9|You gain 30 feet movement speed|
 
-Update*
-
 ---
 
 ## Lesser Runes
@@ -393,8 +383,6 @@ As you level up, the cooldown of your runes and abilities decrease according to 
 |1| Your cooldowns are reduced by 12 seconds|
 |5|Your cooldowns are reduced by 18 seconds|
 |9|Your cooldowns are reduced by 24 seconds|
-
-Update*
 
 ---
 ### Celerity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/CelerityTemp.png" Align=left width=7% height=7%>
@@ -461,7 +449,6 @@ In addition you a stack of *Undying* equal to the bonus necrotic damage rolled. 
 |5|1d6|
 |9|1d8|
 
-
 ---
 
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=25% height=25%>
@@ -505,8 +492,6 @@ Whenever you reduce a creatures movement speed, they gain a mark of _life_. The 
 
 Whenever you gain temporary hit points, your next attack deals 1d6 additional damage plus 1d6 for every tenth temporary hit points you currently have. 
 
-Update*
-
 ---
 
 ### Conditioning  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Conditioning.png" Align=left width=7% height=7%>
@@ -537,8 +522,6 @@ The first three times you take damage, you gain resistance to all damage types. 
 ### Overgrowth  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Overgrowth.png" Align=left width=7% height=7%>
 
 You gain +3 maximum hit points. Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _overgrowth_. For every tenth stack, you gain +1 maximum hit points.
-
-Update*
 
 ---
 
@@ -610,8 +593,6 @@ Whenever you deal damage against any creature that hasn't taken a turn in the co
 |5|Gold equal to three times the damage dealt|
 |9|Gold equal to five times the damage dealt|
 
-Update*
-
 ---
 
 ## Lesser Runes
@@ -631,8 +612,6 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 |10|You gain _Boots of Speed_|
 |20|You gain +5 feet movement speed|
 |30|Your _Boots of Speed_ are upgraded to _Boots of Swiftness_ |
-
-Update* 
 
 ---
 
