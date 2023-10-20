@@ -210,13 +210,15 @@ Once a turn whenever you damage a _bloodied_ creature you gain a stack of Harves
 ---
 ### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=25% height=25%>
 
-You can dash as a bonus action. Once used, it cannot be used again until 45 seconds has passed, or you score a takedown on a creature with a _Challenge Rating_ of 1 or higher.
+You can dash as a bonus action, and the next attack that hits this round deals additional damage for every 15 feet you've traveled this turn. Once used, it cannot be used again until 45 seconds has passed.
 
 Whenever you take the dash action on your turn, you gain agility and have advantage on your next melee attack if you moved at least 10ft in a straight line towards the target.
 
-.
-
-.
+|Level|Damage|
+|---|---|
+|1| 1d4 for every 15 feet traveled|
+|5|1d6 for every 15 feet traveled|
+|9|1d8 for every 15 feet traveled|
 
 ---
 
@@ -228,7 +230,7 @@ Whenever you damage a creature, you can choose to deal 1d6 extra force damage fo
 ---
 ### Taste of Blood <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png" Align=left width=7% height=7%>
 
-Whenever you damage a creature while being below maximum hit points, taste of blood triggers healing you an amount equal to twice your level. Once used, this effect cannot be used again until 30 seeconds has passed. 
+Whenever you damage a creature while being below maximum hit points, you can choose to heal an amount equal to twice your level. Once used, this effect cannot be used again until 30 seeconds has passed. 
 
 ---
 ### Sudden Impact <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png" Align=left width=7% height=7%>
