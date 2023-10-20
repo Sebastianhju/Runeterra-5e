@@ -117,7 +117,7 @@ Whenever you score takedowns on creatures with a _Challenge Rating_ of one or hi
 **Tenacity Scaling**
 |Stacks|Feture|
 |---|---|
-|10| You ignore difficult terrain and your movement speed can't be reduced|
+|10| You ignore difficult terrain and your movement speed can't be reduced. You can still be immobilized. |
 |20| you gain +5 feet movement speed|
 |30| Whenever you have to make a saving throw against immobilizing effects, you have advantage|
 
@@ -691,9 +691,5 @@ Whenever you drink a potion, you gain additional special effect from each potion
 |Potion of Resistance| you become immune for one hour instead|
 |Potion of Giant Strenght| The effect lasts for 8 hours insted|
 |Potion of Fire Breath| The save DC is increased by an amount equal to your proficiency bonus|
-
-
-
-_Work in progress_
 
 ---
