@@ -210,9 +210,9 @@ Once a turn whenever you damage a _bloodied_ creature you gain a stack of Harves
 ---
 ### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=25% height=25%>
 
-You can dash as a bonus action, and the next attack that hits this round deals additional damage for every 15 feet you've traveled this turn. Once used, it cannot be used again until 45 seconds has passed.
+You can dash as a bonus action, and the next attack that hits this round deals additional damage for every 15 feet you've traveled directly towards your target this turn. Once used, it cannot be used again until 45 seconds has passed.
 
-Whenever you take the dash action on your turn, you gain agility and have advantage on your next melee attack if you moved at least 10ft in a straight line towards the target.
+Whenever you take the dash action on your turn, you gain agility and have advantage on your next melee attack if you moved at least 15ft in a straight line towards the target.
 
 |Level|Damage|
 |---|---|
