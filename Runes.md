@@ -70,8 +70,6 @@ Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for ev
 |5| 2d6 + proficiency bonus|
 |9|3d6 + proficiency bonus|
 
-Update*
-
 ---
 ## Lesser Runes
 ---
@@ -81,13 +79,9 @@ Whenever you are healed while on maximum hit points, you instead gain temporary 
 
 Whenever you are at maximum hit points and have temporary hit points you gain 10 feet movement speed.
 
-update*
-
 ---
 ### Triumph  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Triumph.png" Align=left width=7% height=7%>
 Whenever you score a takedown, you gain gold equal to ten times the creautres _Challenge Rating_. In addition you heal yourself equal to 1d4 plus your proficiency bonus. 
-
-Update*
 
 ---
 
@@ -121,8 +115,6 @@ Whenever you score takedowns on creatures with a _Challenge Rating_ of one or hi
 |20| you gain +5 feet movement speed|
 |30| Whenever you have to make a saving throw against immobilizing effects, you have advantage|
 
-update*
-
 ---
 ### Legend: Bloodline <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" Align=left width=7% height=7%>
 
@@ -152,8 +144,6 @@ Whenever you roll damage, you deal 1d4 extra damage to a creature for each size 
 ### Last Stand <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LastStand.png" Align=left width=7% height=7%>
 
 When you roll damage, you deal 1d6 additional damage if you are _bloodied_. 
-
-update*
 
 ---
 
@@ -212,15 +202,13 @@ Once a turn whenever you damage a _bloodied_ creature you gain a stack of Harves
 
 You can dash as a bonus action, and the next attack that hits this round deals additional damage for every 15 feet you've traveled directly towards your target this turn. Once used, it cannot be used again until 45 seconds has passed.
 
-Whenever you take the dash action on your turn, you gain agility and have advantage on your next melee attack if you moved at least 15ft in a straight line towards the target.
+Whenever you take the dash action on your turn, you gain advantage on your next melee attack if you moved at least 15ft in a straight line towards the target.
 
 |Level|Damage|
 |---|---|
 |1| 1d4 for every 15 feet traveled|
 |5|1d6 for every 15 feet traveled|
 |9|1d8 for every 15 feet traveled|
-
-Update*
 
 ---
 
