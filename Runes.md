@@ -515,7 +515,9 @@ Whenever you reduce a creatures movement speed, they gain a mark of _life_. The 
 
 ### Shield Bash  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/MirrorShell.png" Align=left width=7% height=7%>
 
-Whenever you gain temporary hit points, your next attack deals additional damage. You deal 1d6 additional damage plus 1d6 for every tenth temporary hit points you gained. If you were to gain multiple instances of temporary hit points, only the last one counts for shield bashe's damage. 
+Whenever you gain temporary hit points, your next attack deals 1d6 additional damage plus 1d6 for every tenth temporary hit points you currently have. 
+
+Update*
 
 ---
 
@@ -546,8 +548,9 @@ The first three times you take damage, you gain resistance to all damage types. 
 
 ### Overgrowth  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Overgrowth.png" Align=left width=7% height=7%>
 
-You gain +5 maximum hit points. Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _overgrowth_. For every tenth stack, you gain +1 maximum hit points.
+You gain +3 maximum hit points. Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _overgrowth_. For every tenth stack, you gain +1 maximum hit points.
 
+Update*
 
 ---
 
@@ -610,7 +613,7 @@ At the end of a long rest you can select a [Summoner Spell](https://github.com/S
 ---
 
 ### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" Align=left width=25% height=25%>
-Whenever you deal damage against any creature that hasn't taken a turn in the combat yet you gain gold as shown on the table below. The target also takes additional damage equal to a tenth of the damage you dealt, rounded down. 
+Whenever you deal damage against any creature that hasn't taken a turn in the combat yet you gain gold as shown on the table below. The target also takes additional damage equal to a tenth of the gold gained, rounded down. 
 
 **First Strike Scaling**
 |Level|Hit Points|
@@ -618,6 +621,9 @@ Whenever you deal damage against any creature that hasn't taken a turn in the co
 |1|Gold Equal to two times the damage dealt|
 |5|Gold equal to three times the damage dealt|
 |9|Gold equal to five times the damage dealt|
+
+Update*
+
 ---
 
 ## Lesser Runes
@@ -635,8 +641,11 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 |Amount|Effect|
 |---|---|
 |10|You gain _Boots of Speed_|
-|20|You gain +5 feet movement speed when boots are equipped|
+|20|You gain +5 feet movement speed|
 |30|Your _Boots of Speed_ are upgraded to _Boots of Swiftness_ |
+
+Update* 
+
 ---
 
 ### Perfect Timing  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/PerfectTiming.png" Align=left width=7% height=7%>
