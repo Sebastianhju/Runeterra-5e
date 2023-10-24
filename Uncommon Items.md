@@ -38,7 +38,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ## N. L. Rod
 
-**Needlessly Large**: Any spell with a radius, cone , cupe or simelar effet gains an extra 5ft to the sice in all dimentions. 
+**Needlessly Large**: Any spell with a radius, cone , cube or simelar effect gains an extra 5ft to the size in all dimentions. 
 
 **Rod**: When you take the attack action you can make attack and damage rolls using your spellcasting ability modifier instead of strenght. 
 
