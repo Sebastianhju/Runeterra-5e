@@ -18,14 +18,14 @@ Once per attack, whenever you damage enemies, you gain stacks of Conqueror. One 
 
 ---
 ### Lethal Tempo  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" Align=left width=25% height=25%>
-Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you gain 10ft reach on meele weapons, and 10 feet extra range for ranged weapons and spells. In addition you can make an extra attack as a part of your attack action.
+Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you can make one extra attack as a part of the attack action and you gain additional range as shown on the table below.
 
 **Lethal Tempo Scaling**
 |Level|Damage|
 |---|---|
-|1|10 feet reach and 15 feet range|
-|5|15 feet reach and 20 feet range |
-|9|15 feet reach and 30 feet range|
+|1|10 feet additional range|
+|5|20 feet additional range |
+|9|30 feet additional range|
 
 ---
 ### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" Align=left width=25% height=25%>
@@ -52,7 +52,7 @@ Damaging an enemy gives them a mark of electorcute that lasts until the end of y
 
 ---
 ### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=25% height=25%>
-Once a turn whenever you damage a bloody creature you gain a stack of *Harvest* and they take additional *Force* damage based on the table below plus 1 for every 15th stack you have. A Once used, it cannot be used again until you score a takedown, or finish a long rest. 
+Once a turn whenever you damage a bloody creature you gain a stack of *Harvest* and they take  1d4 additional *Force* damage table below plus 1 for every 20th stack you have. A Once used, it cannot be used again until you score a takedown, or finish a long rest. 
 
 **Harvest damage**
 | Level | Damage                               |
