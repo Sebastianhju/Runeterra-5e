@@ -11,9 +11,9 @@ Once per attack, whenever you damage enemies, you gain stacks of Conqueror. One 
 **Conqueror Scaling**
 |Level|Damage|
 |---|---|
-|1| 1d6 |
-|5| 1d8|
-|9|2d6|
+|1| 1d4 |
+|5| 1d6|
+|9| 1d10|
 
 
 ---
