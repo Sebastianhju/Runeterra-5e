@@ -54,7 +54,7 @@ Damaging an enemy gives them a mark of electorcute that lasts until the end of y
 
 ---
 ### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=25% height=25%>
-Once a turn whenever you damage a bloody creature you gain a stack of Harvest. In addition the bloody creature take additional *Force* damage based on the table below plus 1 for every 20th stack you have. Once used, it cannot be used again until you kill a unit of CR 1 or higher, or finish a long rest. 
+Once a turn whenever you damage a bloody creature you gain a stack of *Harvest* and they take additional *Force* damage based on the table below plus 1 for every 20th stack you have. A Once used, it cannot be used again until you kill a unit of CR 1 or higher, or finish a long rest. 
 
 **Harvest damage**
 | Level | Damage                               |
