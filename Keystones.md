@@ -13,7 +13,7 @@ Once per attack, whenever you damage enemies, you gain stacks of Conqueror. One 
 |---|---|
 |1| 1d4 |
 |5| 1d6|
-|9| 1d10|
+|9| 2d4|
 
 
 ---
