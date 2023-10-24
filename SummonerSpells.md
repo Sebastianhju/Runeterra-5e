@@ -44,7 +44,7 @@ As a *Bonus Action* you can ignite a target. At the start of their turn, they ta
 ---
 
 # Smite<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Smite_HD.png" align=right width=10% height=10%>
-When you hit a target with an attack, after you've rolled for damage you can use this summoner spell to double the damage dealt.
+When you hit a target with an attack, you can use smite to critically hit instead.
 
 ---
 
