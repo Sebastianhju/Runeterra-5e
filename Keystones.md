@@ -6,51 +6,49 @@
 ---
 
 ### Conqueror  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" Align=left width=25% height=25%>
-Whenever you damage enemies, you gain stacks of Conqueror. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you gain 1d4 additional damage from your attacks, and you heal for the additional damage dealt. 
+Once per attack, whenever you damage enemies, you gain stacks of Conqueror. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you deal additional damage from your damage sources as shown on the table below, and you heal for the additional damage dealt. 
 
 **Conqueror Scaling**
 |Level|Damage|
 |---|---|
-|1| 1d4 |
-|3| 1d6|
-|6|1d8|
+|1| 1d6 |
+|5| 1d8|
 |9|2d6|
+
 
 ---
 ### Lethal Tempo  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" Align=left width=25% height=25%>
-Whenever you damage enemies, you gain stacks of Lethal Tempo. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you gain 10ft reach on meele weapons, and 10 feet extra range for ranged weapons and spells. In addition you can make an extra attack as a part of your attack action.
+Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you gain 10ft reach on meele weapons, and 10 feet extra range for ranged weapons and spells. In addition you can make an extra attack as a part of your attack action.
 
 **Lethal Tempo Scaling**
 |Level|Damage|
 |---|---|
-|1|10 feet reach and 10 feet range |
-|3| 10 feet reach and 15 feet range|
-|6|15 feet reach and 20 feet range |
+|1|10 feet reach and 15 feet range|
+|5|15 feet reach and 20 feet range |
 |9|15 feet reach and 30 feet range|
 
 ---
 ### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" Align=left width=25% height=25%>
-Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move, and five stacks for every attack you hit up to a maximum of 50 stacks. When you have 50 stacks, the next time you deal damage, you deal an additional 1d4 damage, and heal equal to the additional damage. In addition you gian *agility* and 10 feet movementspeed until the end of your turn
+Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move and five stacks for every attack you hit, up to a maximum of 80 stacks. When you have maximum stacks, the next time you deal damage, you deal additional damage, and heal equal to the damage dealt. In addition you gain *agility* and 15 feet movement speed until the end of your turn
 
 **Fleet Footwork Scaling**
 |Level|Damage|
 |---|---|
-|1| 1d4 |
-|3| 1d6|
-|6|1d8|
-|9|2d6|
+|1| 1d6 + proficiency bonus |
+|5| 2d6 + proficiency bonus|
+|9|3d6 + proficiency bonus|
+
 ---
 
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=25% height=25%>
-Damaging an enemy gives them a mark of electorcute that lasts until the end of your turn. When you damage a creature with a mark, you deal additional lightning damage. This effect can only be used on the same target once a day.
+Damaging an enemy gives them a mark of electorcute that lasts until the end of your turn. When you damage a creature with a mark, you deal additional lightning damage. Once used it cannot be used again on the same target until 30 seconds has passed. 
 
 **Electrocute Damage**
 |Level|Damage|
 |---|---|
-|1| 1d6|
-|3| 1d10|
-|6|2d6|
-|9|2d10|
+|1| 1d10|
+|5|2d10|
+|9|3d10|
 
 ---
 ### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=25% height=25%>
@@ -65,129 +63,129 @@ Once a turn whenever you damage a bloody creature you gain a stack of *Harvest* 
 
 
 ---
-### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=25% height=25%>
-You can dash as a bonus action. Whenever you take the dash action on your turn, you have advantage on your next melee attack if you moved at least 10ft in a straight line towards the target. Once used, it cannot be used again until a minute has passed or you kill an enemy
 
-**Predator Scaling**
-|Level|Effect|
+### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=25% height=25%>
+
+You can dash as a bonus action, and the next attack that hits this round deals additional damage for every 15 feet you've traveled directly towards your target this turn. Once used, it cannot be used again until 45 seconds has passed.
+
+Whenever you take the dash action on your turn, you gain advantage on your next melee attack if you moved at least 15ft in a straight line towards the target.
+
+|Level|Damage|
 |---|---|
-|1| Dash as a bonus action and advantage on meele attacks after dashing |
-|3| You gain agility whenever you dash|
-|6|Predator has no cooldown|
-|9|You gain an additional bonus action that must be used to take the dash action|
+|1| 1d4 for every 15 feet traveled|
+|5|1d6 for every 15 feet traveled|
+|9|1d8 for every 15 feet traveled|
 
 ---
 
 ### Summon Aery  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/SummonAery.png" Align=left width=25% height=25%>
-As an action you can cast the find familliar spell, summoning Aery, without using components. Aery is a spirit that can shield your allies or deal damage to enemies. 
+As an action you can cast the find familliar spell, summoning [Aery](https://www.dndbeyond.com/monsters/3896400-aery), without using components. Aery is a spirit that can shield your allies or deal damage to enemies. 
+
+Aerys hit points scales with your level. Their hit point maximum equals 5 times your level. 
 
 **Aery Scaling**
 |Level|Effect|
 |---|---|
-|1| 1d4+prof damage or 5 temporary hit points |
-|3| 1d4+prof damage or 10 temporary hit points|
-|6|2d4+prof damage or 15 temporary hit points|
-|9|2d4+prof damage or 20 temporary hit points|
+|1| 1d4+prof damage|
+|5|2d4+prof damage|
+
 ---
 
 ### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" Align=left width=25% height=25%>
-Whenever you deal magical damage to an enemy, a comet shoots out from you, dealing magical bludgeoning damage to all targets of your choosing. The damage and area of effect scales with your level. Once used, it cannot be used again until a minute has passed.
+
+Whenever you deal damage to a target you can summon a comet that crashes onto the target. The target and all enemies around it takes magical bludgeoning damage scaling with your level. Once used, it cannot be used again until 30 seconds has passed.
 
 **Arcane Comet Scaling**
 |Level|Effect|
 |---|---|
-|1|1d6 damage in a 10 feet radius |
-|3|1d8 danage in a 25 feet radius|
-|6|1d10 damage in a 30 feet radius|
-|9|1d12 damage in a 45 feet radius|
+|1|1d6 damage in a 5 feet radius |
+|5|1d12 damage in a 10 feet radius|
+|9|2d12 damage in a 15 feet radius|
+
 ---
 
+
 ### Phase Rush  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" Align=left width=25% height=25%>
-When you deal damage to a target, they gain a mark of Phase until the end of your turn. Whenever you damage a creature with a mark of Phase, you gain movement speed and agility based on your level as shown on the table below. 
+When you deal damage to a target, they gain a mark of Phase until the end of your turn. Whenever you damage a creature with a mark of Phase, you gain movement speed based on your level as shown on the table below, agility and can phace through terrain and creatures until the end of your next turn. 
 
 **Phase Rush Scaling**
 |Level|Effect|
 |---|---|
-|1| You gain 10 feet movement speed and agility|
-|3| You gain 15 feet movement speed and agility|
-|6|You gain 20 feet movement speed and agility|
-|9|You gain 30 feet movement speed and agility|
+|1| You gain 10 feet movement speed|
+|5|You gain 20 feet movement speed|
+|9|You gain 30 feet movement speed|
+
 ---
 
+## Keystones
 ### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=25% height=25%>
-For every turn in combat, you gain a stack of *Grasp*. When you are at three stacks, your next attack deals 1d4 extra necrotic damage. You heal equal to the necrotic damage dealt and gain stacks of *Undying* equal to the amount dealt. You gain more maximum hit points for each undying stack as shown on the table below. 
+Whenever you deal damage (once per attack) or you take damage from an enemy, you gain a stack of *Grasp*. When you are at three stacks, your next attack deals extra necrotic damage. You heal equal to the necrotic damage dealt. 
 
-**Undying Scaling**
-|Undying Stacks|Hit Points|
+In addition you a stack of *Undying* whenever you drain an opponent using this ability. You gain +1 maximum hit points for every tenth stack of *Undying* you have.
+
+**Grasp Scaling**
+|Level|Damage|
 |---|---|
-|20| You gain +3 maximum health|
-|40| You gain +3 maximum health|
-|75|You gain +3 maximum health|
-|100|You gain +3 maximum health|
-|130| You gain +3 maximum health|
-|170| You gain +5 maximum health|
-|225| You gain +5 maximum health|
-|275 | You gain +5 maximum health|
-|325| You gain +5 maximum health|
-|400| You gain +10 maximum health|
-|500| You gain +10 maximum health|
+|1|1d4|
+|5|1d6|
+|9|1d8|
 
 ---
+
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=25% height=25%>
-When you immobilize a creature, you gain temporary hit points based on your level, as shown on the table below. These temporary hit points last until the start of your next turn, if you still have any remaining at the start of your turn, enemies within 5 feet of you suffer damage equal to your temporary hit points. 
+When you immobilize a creature, you gain temporary hit points based on your level, as shown on the table below. These temporary hit points last until the end of your next turn, if you still have any remaining at the start of your turn, enemies within 5 feet of you suffer damage equal to your temporary hit points. Once used it cannot be used again until 30 seconds have passed. 
 
 **Aftershock Scaling**
 |Level|Hit Points|
 |---|---|
-|1| 7 temporary hit points|
-|3| 15 temporary hit points|
-|6| 25 temporary hit points|
-|9| 40 temporary hit points|
+|1| 10 temporary hit points|
+|5| 20 temporary hit points|
+|9| 30 temporary hit points|
+
 ---
 
 ### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=25% height=25%>
-If you or an ally within 15ft of you takes lethal or 10 or more damage in a single hit, guardian activates. You and the selected ally immediately gain temporary hitpoints according to the table below. Guardian activates before you would take the initial damage. Once used, this effect cannot be used again until a minute has passed.
+If you or an ally within 15ft of you takes damage, you can choose to trigger Guardian. You and the selected ally immediately gain temporary hit points according to the table below. Guardian activates before you would take the initial damage. Once used, this effect cannot be used again until 30 seconds has passed.
 
 **Guardian Scaling**
 |Level|Hit Points|
 |---|---|
 |1| 10 temporary hit points|
-|3| 15 temporary hit points|
-|6| 20 temporary hit points|
-|9| 25 temporary hit points|
+|5| 20 temporary hit points|
+|9| 40 temporary hit points|
+
 ---
 
 ### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" Align=left width=25% height=25%>
-Whenever you immobilize a creature, they and all enemies within 10 feet of the target gains a *Mark of Cold* until the end of your next turn. A creature with *Mark of Cold* takes additional cold damage based on your level, as shown on the table below, the first time they are struck. Additionally their speed is halved until the end of their turn. Once used, this effect cannot be used aagain until a minute has passed. 
+Whenever you immobilize a creature, they and all enemies within 10 feet of the target gains a *Mark of Cold* until the end of your next turn. A creature with *Mark of Cold* takes additional cold damage based on your level, as shown on the table below, the first time they are struck. Additionally their speed is halved until the end of their turn. Once used, this effect cannot be used again until 30 second has passed. 
 
 **Mark of Cold Scaling**
 |Level|Hit Points|
 |---|---|
-|1|1d4 Cold Damage|
-|3| 1d6 Cold Damage|
-|6|1d8 Cold damage|
-|9|2d6 Cold damage|
+|1|1d6 Cold Damage|
+|5|2d6 Cold Damage|
+|9|3d6 Cold damage|
 ---
 
 ### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=25% height=25%>
-At the end of a long rest you can select a [Summoner Spell](https://github.com/Sebastianhju/Runeterra-5e/blob/main/SummonerSpells.md) to have that day, if you dont use it before you take a long rest it wanishes. Summoner spells are powerfull spells that can be used once before they vanish. You can never select the same spell two days in a row. At later levels you can get a new summoner spell when you finish a short rest.  
+At the end of a long rest you can select a [Summoner Spell](https://github.com/Sebastianhju/Runeterra-5e/blob/main/SummonerSpells.md) to have that day, if you dont use it before you take a long rest it wanishes. Summoner spells are powerfull spells that can be used once before they vanish. You can never select the same spell two days in a row or twice the same day. At later levels you can get a new summoner spell when you finish a short rest.  
 
-**Mark of Cold Scaling**
+**Spellbook Scaling**
 |Level|Hit Points|
 |---|---|
 |1|Long Rest|
 |5|Short Rest|
-|9|Short Rest, Select Two|
+|9|Short Rest - Select Two - No limitations|
+
 ---
 
 ### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" Align=left width=25% height=25%>
-Whenever you deal damage against any creature that hasn't taken a turn in the combat yet you gain gold as shown on the table below.
+Whenever you deal damage against any creature that hasn't taken a turn in the combat yet you gain gold as shown on the table below. The target also takes additional damage equal to a tenth of the gold gained, rounded down. 
 
-**Mark of Cold Scaling**
+**First Strike Scaling**
 |Level|Hit Points|
 |---|---|
-|1|Gold Equal to the damage dealt|
-|6|Gold equal to two times the damage dealt|
-|9|Gold equal to four times the damage dealt|
----
+|1|Gold Equal to two times the damage dealt|
+|5|Gold equal to three times the damage dealt|
+|9|Gold equal to five times the damage dealt|
 
