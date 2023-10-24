@@ -98,9 +98,9 @@ Whenever you score takedowns on creatures with a _Challenge Rating_ of one or hi
 **Alacrity Scaling**
 |Stacks|Feture|
 |---|---|
-|10| After you take the attack action, you can spend your bonus action to make an extra attack that cannot critically hit.|
-|20| You gain +2 to initiative|
-|30| Whenever you take the attack action, you can make an extra attack as a part of that action|
+|0| After you take the attack action, you can spend your bonus action to make an extra attack that cannot critically hit.|
+|25| You gain +2 to initiative|
+|50| Whenever you take the attack action, you can make an extra attack as a part of that action|
 
 ---
 
@@ -111,9 +111,9 @@ Whenever you score takedowns on creatures with a _Challenge Rating_ of one or hi
 **Tenacity Scaling**
 |Stacks|Feture|
 |---|---|
-|10| You ignore difficult terrain and your movement speed can't be reduced. You can still be immobilized. |
-|20| you gain +5 feet movement speed|
-|30| Whenever you have to make a saving throw against immobilizing effects, you have advantage|
+|0| You ignore difficult terrain and your movement speed can't be reduced. You can still be immobilized. |
+|25| you gain +5 feet movement speed|
+|50| Whenever you have to make a saving throw against immobilizing effects, you have advantage|
 
 ---
 ### Legend: Bloodline <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" Align=left width=7% height=7%>
@@ -123,9 +123,9 @@ Whenever you score takedowns on creatures with a _Challenge Rating_ of one or hi
 **Bloodline Scaling**
 |Stacks|Feture|
 |---|---|
-|10| Whenever you hit a creature, you heal equal to your proficiency bonus|
-|20| You gain +5 maximum hit points|
-|30| Whenever you hit a creature, you heal hit points equal to your twice your proficiency bonus|
+|0| Whenever you hit a creature, you heal equal to your proficiency bonus|
+|25| You gain +5 maximum hit points|
+|50| Whenever you hit a creature, you heal hit points equal to your twice your proficiency bonus|
 
 ---
 
@@ -240,9 +240,9 @@ Whenever you _kill_ a creature of a _Challenge Rating_ of 1 or higher, you gain 
 **Eyeball Collection Stacks**
 |Amount|Effect|
 |---|---|
-|5| You gain advantage on perception checks revolving sight. |
-|10|You gain blind sight for 30 feet |
-|15|You gain +1 to all saving throws|
+|0| You gain advantage on perception checks revolving sight. |
+|10|You gain blindsight for 30 feet |
+|20|You gain +1 to all saving throws|
 
 ---
 ### Treasure Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/TreasureHunter.png" Align=left width=7% height=7%>
@@ -257,9 +257,9 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 **Ingenius Stacks**
 |Amount|Effect|
 |---|---|
-|10|Your items and runes cooldown is reduced with 6 seconds |
-|20|Your Items and runes cooldown is reduced with 12 seconds|
-|30|Your items and runes cooldown is recued with 6 seconds everytime you score a takedown|
+|0|Your items and runes cooldown is reduced with 6 seconds |
+|25|Your Items and runes cooldown is reduced with 12 seconds|
+|50|Your items and runes cooldown is recued with 6 seconds everytime you score a takedown|
 
 ---
 ### Relentless Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/RelentlessHunter.png" Align=left width=7% height=7%>
@@ -269,9 +269,9 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 **Relentless Stacks**
 |Amount|Effect|
 |---|---|
-|10|Your party can move stealthly as they travel without loosing travel speed, in addition you can use the hide action as a bonus action|
-|20|You gain proficiency in the survival check, or expertice if you are already proficient. Whenever you roll a survival check to track creatures, you have advantage. |
-|30|You gain +10 feet movement speed|
+|0|Your party can move stealthly as they travel without loosing travel speed, in addition you can use the hide action as a bonus action|
+|25|You gain proficiency in the survival check, or expertice if you are already proficient. Whenever you roll a survival check to track creatures, you have advantage. |
+|50|You gain +10 feet movement speed|
 
 ---
 ### Ultimate Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/UltimateHunter.png" Align=left width=7% height=7%>
@@ -281,9 +281,9 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 **Ultimate Stacks**
 |Amount|Effect|
 |---|---|
-|10|Your Ultimates cooldown is reduced by 1 |
-|20|Your Ultimates cooldown is reduced by 2 |
-|30|Your Ultimates cooldown is reduced by 3|
+|0|Your Ultimates cooldown is reduced by 1 |
+|25|Your Ultimates cooldown is reduced by 2 |
+|50|Your Ultimates cooldown is reduced by 3|
 
 ---
 
@@ -325,7 +325,7 @@ Aerys hit points scales with your level. Their hit point maximum equals 5 times 
 
 ### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" Align=left width=25% height=25%>
 
-Once a turn, whenever you deal damage to a target a comet crashes centered on the target. All enemies takes magical bludgeoning damage scaling with your level. Once used, it cannot be used again until 30 seconds has passed.
+Whenever you deal damage to a target you can summon a comet that crashes onto the target. The target and all enemies around it takes magical bludgeoning damage scaling with your level. Once used, it cannot be used again until 30 seconds has passed.
 
 **Arcane Comet Scaling**
 |Level|Effect|
@@ -361,15 +361,17 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 **Manaflow Scaling**
 |Amount|Effect|
 |---|---|
-|10|You gain +3 maximum mana|
-|20|You gain +6 maximum mana|
-|30|You gain +9 maximum mana|
+|0|You gain +3 maximum mana|
+|25|You gain +9 maximum mana|
+|50|You gain +15 maximum mana|
 
 ---
 
 ### Nimbus Cloak  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/6361.png" Align=left width=7% height=7%>
 
-Whenever you use a _summoner spell_ you gain agility and your movementspeed is doubled until the end of your turn
+Summoner spells has a 20% discount in shops. 
+
+Whenever you use a _summoner spell_ you gain agility and your movementspeed is doubled until the end of your turn.
 
 ---
 
@@ -438,9 +440,9 @@ You learn the _Thunderwave_ and _Call Lightning_ spell and can cast each of them
 ---
 ## Keystones
 ### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=25% height=25%>
-At the start of your turn in combat, you gain a stack of *Grasp*. When you are at two stacks, your next attack deals extra necrotic damage. You heal equal to the necrotic damage dealt. 
+Whenever you deal damage (once per attack) or you take damage from an enemy, you gain a stack of *Grasp*. When you are at three stacks, your next attack deals extra necrotic damage. You heal equal to the necrotic damage dealt. 
 
-In addition you a stack of *Undying* equal to the bonus necrotic damage rolled. You gain +1 maximum hit points for every tenth stack of *Undying* you have.
+In addition you a stack of *Undying* whenever you drain an opponent using this ability. You gain +1 maximum hit points for every tenth stack of *Undying* you have.
 
 **Grasp Scaling**
 |Level|Damage|
@@ -464,7 +466,7 @@ When you immobilize a creature, you gain temporary hit points based on your leve
 ---
 
 ### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=25% height=25%>
-If you or an ally within 15ft of you takes lethal or 10 or more damage in a single hit, guardian activates. You and the selected ally immediately gain temporary hit points according to the table below. Guardian activates before you would take the initial damage. Once used, this effect cannot be used again until 30 seconds has passed.
+If you or an ally within 15ft of you takes damage, you can choose to trigger Guardian. You and the selected ally immediately gain temporary hit points according to the table below. Guardian activates before you would take the initial damage. Once used, this effect cannot be used again until 30 seconds has passed.
 
 **Guardian Scaling**
 |Level|Hit Points|
@@ -484,7 +486,7 @@ Whenever you end your turn within 15 feet of a construct or object that can be d
 
 ### Font Of Life  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/FontOfLife.png" Align=left width=7% height=7%>
 
-Whenever you reduce a creatures movement speed, they gain a mark of _life_. The next time an ally damages a creature with _life_ they heal equal to half the damage dealt. 
+Whenever you reduce a creatures movement speed, they gain a mark of _life_. The next time an ally damages a creature with _life_ they heal equal to half the damage dealt.
 
 ---
 
@@ -501,9 +503,9 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 **Conditioning Scaling**
 |Amount|Effect|
 |---|---|
-|10|You take 2 less damage from attack damage sources|
-|20|You gain +1 to your armor class|
-|30|You take 4 less damage from attack damage sources|
+|0|You take 3 less damage from attack damage sources|
+|25|You gain +2 to your armor class|
+|50|You take 6 less damage from attack damage sources|
 
 ---
 
@@ -515,7 +517,7 @@ Whenever you are bloodied, you regenereate 1d6 hit points at the start of your t
 
 ### Bone Plating  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/BonePlating.png" Align=left width=7% height=7%>
 
-The first three times you take damage, you gain resistance to all damage types. Once this effect has ben used, it cannot be used again until you finish a long rest. 
+The first three times you take damage, you gain resistance to all damage types. Once this effect has ben used, it cannot be used again until you finish a short rest. 
 
 ---
 
@@ -533,7 +535,7 @@ Whenever you regenereate, gain temporary hit points or are healed, you can add y
 
 ### Unflincing  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Unflinching.png" Align=left width=7% height=7%>
 
-You gain immunity to the frightened and charmed condition.
+You gain immunity to the frightened and charmed condition and you cannot be moved against your will unless your are grappled or etc.
 
 ---
 
@@ -609,9 +611,9 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 **Magical Footwear Scaling**
 |Amount|Effect|
 |---|---|
-|10|You gain _Boots of Speed_|
-|20|You gain +5 feet movement speed|
-|30|Your _Boots of Speed_ are upgraded to _Boots of Swiftness_ |
+|0|You gain +5 feet movement speed|
+|25|You gain _Boots of Speed_|
+|50|Your _Boots of Speed_ are upgraded to _Boots of Swiftness_ |
 
 ---
 
@@ -635,7 +637,7 @@ Whenever you take a long rest you choose an ability. You become proficient in al
 
 ### Biscuit Delivery  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/BiscuitDelivery.png" Align=left width=7% height=7%>
 
-Whyenever you long rest, you gain a [Buiscuit of Everlasting Will]().
+Whyenever you long rest, you gain a [Buiscuit of Everlasting Will](https://www.dndbeyond.com/magic-items/7496604-biscuit-of-everlasting-will).
 
 ---
 
@@ -647,7 +649,7 @@ You learn the _Detect Thoughts_ and can cast it once a day without spending mana
 
 ### Approach Velocity  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/ApproachVelocity.png" Align=left width=7% height=7%>
 
-Whenever you move towards a target that is movement impared, every square only costs 2,5 feet of movement. 
+Whenever you move towards a target that is movement impared, every square only costs 2,5 feet of movement.
 
 ---
 
