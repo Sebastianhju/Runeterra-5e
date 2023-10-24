@@ -1,4 +1,4 @@
-# Potions and Elixirs
+# Consumables
 
 ## Elixir of Iron
 
@@ -54,26 +54,3 @@ As a bonus action you regain 1d4+1 hit points and 2d4+2 hit points at the start 
 Cost: 70 Gold
 
 As a bonus action you reduce all teh cooldowns of your runes and items by 12 seconds. 
-
-# Uncommom Items
-
-## Dorons Blade
-
-## Dorons Shirld
-
-## Dorons Ring
-
-## Cull
-
----
-
-# Rare items
-
----
-
-# Very Rare Items
-
----
-
-## Everfrost
-
