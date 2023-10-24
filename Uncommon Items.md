@@ -19,3 +19,17 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 **Focus**: Whenever you kill a creautre, you regain mana equal to your proficiency bonus. 
 
 ---
+
+## Amplifying Tome
+
+**Amplifying**: Whenever you roll for elemental damage, you may reroll one damage dice and use the new result.
+
+**Tome**: You may prepare one extra spell from you spellcasting class. 
+
+---
+
+## Blasting Wand
+
+**Blasting**: Whenever you roll for elemental damage, you may reroll two damage dices and use the new results. 
+
+**Wand**: While holding this wand, you gain +1 bonus to spell attack rolls. 
