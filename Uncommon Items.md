@@ -148,4 +148,9 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ---
 
+## Dagger
+
+**Swift strike**: Off hand, bonus action attacks made with this dagger is made with advantage.
+
+---
 
