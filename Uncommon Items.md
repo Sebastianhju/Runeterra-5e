@@ -2,8 +2,8 @@
 
 ## Dorans Blade
 
-100 Gold
-Shortsword
+- 100 Gold
+- Shortsword
 
 **Warmonger**: Whenever you kill a unit using the Doran's Blade, you regain 1d4 + proficiency bonus hit points.
 
@@ -11,8 +11,8 @@ Shortsword
 
 ## Dorans Shield
 
-100 Gold
-Shield
+- 100 Gold
+- Shield
 
 **Endure**: Whenever you take damage, you gain a stack of _regeneration_. 
 
@@ -22,8 +22,8 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ## Dorans Ring
 
-100 Gold
-Arcane Focus
+- 100 Gold
+- Arcane Focus
 
 **Focus**: Whenever you kill a creautre, you regain 1 mana.
 
