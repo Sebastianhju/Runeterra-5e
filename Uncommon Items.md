@@ -2,11 +2,17 @@
 
 ## Dorans Blade
 
+100 Gold
+Shortsword
+
 **Warmonger**: Whenever you kill a unit using the Doran's Blade, you regain 1d4 + proficiency bonus hit points.
 
 ---
 
 ## Dorans Shield
+
+100 Gold
+Shield
 
 **Endure**: Whenever you take damage, you gain a stack of _regeneration_. 
 
@@ -15,6 +21,9 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 ---
 
 ## Dorans Ring
+
+100 Gold
+Arcane Focus
 
 **Focus**: Whenever you kill a creautre, you regain 1 mana.
 
@@ -36,25 +45,35 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ---
 
-## N. L. Rod
+## Needlessly Large Rod
 
-**Needlessly Large**: Any spell with a radius, cone , cube or simelar effect gains an extra 5ft to the size in all dimentions. 
+**Needlessly Large**: Any spell with a radius, cone , cube or similar effect gains an extra 5ft to the size in all dimentions. 
 
 **Rod**: When you take the attack action you can make attack and damage rolls using your spellcasting ability modifier instead of strenght. 
 
+Alternativt **rod** -> **Empower**: Whenever you roll for elemental damage, you may reroll three damage dices and use the new results. 
+
 ---
 
-## Tear
+## Tear of the Goddess
 
 **Focus**: Once each turn when you deal damage to a small or smaller creature you can deal 1d4 extra force damage to it.
 
 **Mana charge**: When taking a short rest you can spend hit dice equal to your proficiancy bonus to replenash mana instead of health. When doing this you regain half of the amount you would normaly heal.
+
+_Alternativ_
+
+**Focus**: Whenever you damage a creature you gain a stack of _focus_. For every tenth stack of focus, you gain +1 maximum mana. up to a maximum of 130 stacks. 
+
+_Upgrade_: When the tear is fully stacked, it can be upgraded into Seraphs Embrace, Muramana or Fimbulwinter.
 
 ---
 
 ## Cloth Armor
 
 **Reinforced Fabric**: AC 13+ Dex.
+
+_Så basicly studded +1?_
 
 ---
 
@@ -66,13 +85,15 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ## Cloak of Agility
 
-**Momentery Focus**: Once pr. long rest you can use a bonus action to enter a state of focus, when in this state your critical strike chanse is increesed by one, for one minute.
+**Momentery Focus**: As a bonus action you can enter a state of fucus, when in this state your critical strike chance is increased by one, for one minute. Once this effect is used it cannot be used again until you finish a long rest. 
 
 ---
 
 ## Rejuvenation Bead
 
-**Rejuvinate**: When rolling hit dice, you can reroll 1, and 2. In addition Once pr. short rest you can roll a hit dice to heal yourself as a bonus action.
+**Rejuvinate**: As a bonus action you can expend a hit dice to heal yourself. The amount healed is equal to your hit dice plus you constitution modifier. Once this effect is used it cannot be used again until you finish a long rest. 
+
+Whenever you roll hit dice to heal, you can reroll ones and twos. 
 
 ---
 
@@ -82,13 +103,19 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 **Dread**: When you deal damage to a target you can expend your stacks of glory to deal necrotic damage to the target equal to the amount of glory spent.
 
+_Alternatciv_
+
+**Glory** Whenever you score a takedown you gain a stack of glory, up to a maximum of 10. Whenever your hit points are reduced to 0 you loose all stacks of glory. 
+
+**Dread**: While at 5 or more stacks, you deal 1d4 additional damage whenever you deal elemental, necrotic, psychic or force damage. This damage increases to 2d4 whenever you are at 10 stacks. 
+
 ---
 
 ## B. F. Sword
 
-**Balance**: This great sword is large size but counts as a medium size weapon for the crature holding it. 
+**Balance**: This great sword is large size but counts as a medium size weapon for the creature holding it. 
 
-**The Bigger the Better**: As a large size weapon the sowrd deals an exstra d6 or damage. And gives an extra 5ft of reach.
+**The Bigger the Better**: You deal 1d6 additional damage when using this weapon and it has _reach_. 
 
 ---
 
