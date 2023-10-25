@@ -17,6 +17,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 ## Dorans Ring
 
 **Focus**: Whenever you kill a creautre, you regain 1 mana.
+
 ---
 
 ## Amplifying Tome
