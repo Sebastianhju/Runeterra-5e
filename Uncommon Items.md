@@ -2,7 +2,7 @@
 
 ## Dorans Blade
 
-- 100 Gold
+- 120 Gold
 - Shortsword
 
 **Warmonger**: Whenever you kill a unit using the Doran's Blade, you regain 1d4 + proficiency bonus hit points.
@@ -11,7 +11,7 @@
 
 ## Dorans Shield
 
-- 100 Gold
+- 120 Gold
 - Shield
 
 **Endure**: Whenever you take damage, you gain a stack of _regeneration_. 
@@ -22,7 +22,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ## Dorans Ring
 
-- 100 Gold
+- 120 Gold
 - Arcane Focus
 
 **Focus**: Whenever you kill a creautre, you regain 1 mana.
@@ -30,6 +30,9 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 ---
 
 ## Amplifying Tome
+
+- 225 Gold
+- Arcane Focus
 
 **Amplifying**: Whenever you roll for elemental damage, you may reroll one damage dice and use the new result.
 
@@ -39,6 +42,9 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ## Blasting Wand
 
+- 325 Gold
+- Arcane Focus
+
 **Blasting**: Whenever you roll for elemental damage, you may reroll two damage dices and use the new results. 
 
 **Wand**: While holding this wand, you gain +1 bonus to spell attack rolls. 
@@ -46,6 +52,9 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 ---
 
 ## Needlessly Large Rod
+
+- 420 Gold
+- Quarterstaff 
 
 **Needlessly Large**: Any spell with a radius, cone , cube or similar effect gains an extra 5ft to the size in all dimentions. 
 
@@ -71,6 +80,9 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Seraphs Embra
 
 ## Cloth Armor
 
+- 225 Gold
+- Studded Leather
+
 **Reinforced Fabric**: AC 13+ Dex.
 
 _Så basicly studded +1?_
@@ -79,17 +91,26 @@ _Så basicly studded +1?_
 
 ## Null-Magic mantle
 
+- 225 Gold
+- Cloak
+
 **Magic Resiliance**: Gives +2 on saves against spells that deal phycical or elemental damage.
 
 ---
 
 ## Cloak of Agility
 
+- 320 Gold
+- Cloak
+
 **Momentery Focus**: As a bonus action you can enter a state of fucus, when in this state your critical strike chance is increased by one, for one minute. Once this effect is used it cannot be used again until you finish a long rest. 
 
 ---
 
 ## Rejuvenation Bead
+
+- 225 Gold
+- Wonderous Item
 
 **Rejuvinate**: As a bonus action you can expend a hit dice to heal yourself. The amount healed is equal to your hit dice plus you constitution modifier. Once this effect is used it cannot be used again until you finish a long rest. 
 
@@ -98,6 +119,9 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 ---
 
 ## Dark Seal
+
+- 300 Gold
+- Arcane Focus (Ring)
 
 **Glory**: When scoring a take down you gain a stack of glory that last until they are used or you finnish a long rest. Maximum of 10 stacks
 
@@ -113,6 +137,9 @@ _Alternatciv_
 
 ## B. F. Sword
 
+- 420 Gold
+- Greatsword
+
 **Balance**: This great sword is large size but counts as a medium size weapon for the creature holding it. 
 
 **The Bigger the Better**: You deal 1d6 additional damage when using this weapon and it has _reach_. 
@@ -121,33 +148,53 @@ _Alternatciv_
 
 ## Sheen
 
-**Spellblade**: Short sword. You can chose to use your spellcasting ability modifyer for attack and damage rolls. 
+- 350 Gold
+- Shortsword
+
+**Spellblade**: You can choose to use your spellcasting ability modifyer for attack and damage rolls. 
 
 **Lingering Power**: After casting a spell, your next attack with Sheen deals an aditiol damage equal to the spells lvl + your proficiency bonus.
 
 ---
 
-## Ruby
+## Ruby Crystal
+- 240 Gold
+- Wonderous Item
 
 **Rubys Health**: You gain 1 extra hit die worth of maximum hit points. 
 
 ---
 
-## Saphire
+## Saphire Crystal
 
-**Saphire Mana**: You gain 6 maximum mana 
+- 240 Gold
+- Wonderous item
+
+**Saphire Mana**: You gain +6 maximum mana 
 
 ---
 
 ## Spellthive's Edge
 
+- 200 gold
+- Dagger (+1)
+
 **Spell Absorbtion**: You can cast the absorb element's spell pro. bonus amount of times pr long rest at first level. 
 
 **Mana Rejuvination**: You regain 1 mana when taking a short rest.
 
+_Alternativ_
+
+**Tribute**: Whenever you deal damage to a target, you gain gold equal to the damage dealt. Up to a maximum of 500 gold.
+
+**Quest**: Whenever you've gained 500 gold using this item, it transforms into _Shard of True Ice. 
+
+
 ---
 
 ## Steel Shoulderguards
+- 250 Gold
+- Wonderous Item
 
 **Looks good**: Melee weapon attacks deal +1 damage 
 
@@ -155,9 +202,18 @@ _Alternatciv_
 
 **Feels Good** When rolling hit dice, add 1 to the total.
 
+_Alternativ_
+
+**Spoils of War**: Whenever you score a takedown, you gain gold equal to twenty times the creatures challenge rating, up to a maximum of 500 gold
+
+**Quest**: Whnever you've gained 500 gold using this item, it transforms into Pauldrons of Whiterock
+
 ---
 
 ## Fearie Charm
+
+- 130 Gold
+- Wonderous Item
 
 **Mana well**: When rolling hit dice you reagain 1 mana for each hit dice spent.
 
@@ -165,19 +221,22 @@ _Alternatciv_
 
 ## Cull
 
-**Blood runes**: The 1ft scythe is filled with a 100 black runes, whenever you score a take down one of the runes becomes red. When the Cull is fully stacked it can be soled for much more. 
+- 200 Gold
+- Scythe (Scimitar)
+
+**Blood runes**: The head of the scythe is filled a hundred small black runes, whenever you score a take down one of the runes becomes red. Whenever you want to sell the cull, its value increses by 20 gold for every rune that glows. 
+
+(Items are sold at 50% value, total sell price with a full cull = 200+2000 -> 2200/2 = 1100  - netto plus = 900)
 
 ---
 
 ## Stopwatch
 
-**Perfect timing**: As a reaction to taking damage you can become invounroble and incapazitaded until the start of your next turn, doing this negates the damage that triggerd the reaction, using this reaction brakes the stopwatch
+- 250 Gold
+- Wonderous Item
+  
+**Perfect timing**: As a reaction upon taking damage, when you know the amount taken, you can become invulnerable and incapazitaded until the start of your next turn, doing this negates the damage that triggerd the reaction, using this reaction breaks the Stopwatch.
 
 ---
 
-## Dagger
-
-**Swift strike**: Off hand, bonus action attacks made with this dagger is made with advantage.
-
----
 
