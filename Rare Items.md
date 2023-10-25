@@ -40,7 +40,7 @@ While wielding this shield you and allies within 10 feet of you gain +2 to their
 - Chain West
 - Attunement
 
-**Thorns**: Whenever you are damaged by an enemies melee attack, they take damage equal to your proficiency bonus and two stacks of grievous wounds. 
+**Thorns**: Whenever you are damaged by an enemies melee attack, they take damage equal to your proficiency bonus and a stack of grievous wounds. 
 
 You gain +1 to your armor class while wearing this magical armour. 
 
@@ -80,10 +80,10 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ### Executioners Calling
 
-- 3300
+- 3300 Gold
 - Long Sword
 
-**Rend**: Whenever you hit a creature with this sword, you apply a stack of grievous wounds to them.
+**Rend**: Whenever you hit a creature with this sword, you apply two stacks of grievous wounds to them.
 
 You gain +1 to hit and damage rolls using this magical weapon.
 
@@ -91,7 +91,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ### Fiendish Codex
 
-- 2250
+- 2250 Gold
 - Spell Focus
 
 **Spell Enhancer**: Whenever you deal damage from a spell you may reroll up to three damage dices. 
@@ -102,7 +102,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ### Forbidden Idol
 
-- 3500
+- 3500 Gold
 - Spell focus
 - Attunement
 
@@ -111,5 +111,48 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
 
+### Glacial Buckler
 
+- 2500 Gold
+- Shield
 
+**CDR**: The cooldown of your runes and items are reduced by 6 seconds. 
+**Mana**: You gain +5 maximum mana.
+
+While wielding this shield you gain +1 to your armor class. 
+
+---
+
+### Giants Belt
+
+- 3500 Gold
+- Wonderous item
+- Attunement
+
+**Giants Might**: While wielding this item your strenght score is set to 19 and your maximum hit points increase by two hit dices. 
+
+---
+
+### Hearthbound Axe
+
+- 2500 Gold
+- Battleaxe
+
+**Nimble**: Whenever you hit a creature with _Hearthbound Axe_ you gain +5 feet movement speed until the end of your next turn. 
+
+You gain +1 to hit and damage rolls using this magical weapon.
+
+---
+
+### Ironspike Whip
+
+- 3000 Gold
+- Whip
+
+**Crescent**: As an action, you can twirl the whip around you. All creatures must succeed a DC 14 dexterity saving throw or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 18 seconds pass. 
+
+You gain +1 to hit and damage rolls using this magical weapon. 
+
+---
+
+### 
