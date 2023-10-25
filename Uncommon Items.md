@@ -68,6 +68,7 @@ Alternativt **rod** -> **Empower**: Whenever you roll for elemental damage, you 
 
 - 500 Gold
 - Spell Focus
+- Attunement
 
 **Focus**: Once each turn when you deal damage to a small or smaller creature you can deal 1d4 extra force damage to it.
 
@@ -175,7 +176,8 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 ## Spellthive's Edge
 
 - 350 gold
-- Dagger (+1)
+- Dagger
+- Attunement
 
 **Spell Absorbtion**: You can cast the absorb element's spell pro. bonus amount of times pr long rest at first level. 
 
@@ -193,6 +195,7 @@ _Alternativ_
 ## Steel Shoulderguards
 - 350 Gold
 - Wonderous Item
+- Attunement
 
 **Looks good**: Melee weapon attacks deal +1 damage 
 
@@ -221,6 +224,7 @@ _Alternativ_
 
 - 500 Gold
 - Scythe (Scimitar)
+- Attunement
 
 **Blood runes**: The head of the scythe is filled a hundred small black runes, whenever you score a take down one of the runes becomes red. Whenever you want to sell the cull, its value increses by 20 gold for every rune that glows. 
 
