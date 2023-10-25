@@ -40,6 +40,76 @@ While wielding this shield you and allies within 10 feet of you gain +2 to their
 - Chain West
 - Attunement
 
-**Thorns**: Whenever you are damaged by an enemies melee attack, they take damage equal to your proficiency bonus and two stacks of grievuos wounds. 
+**Thorns**: Whenever you are damaged by an enemies melee attack, they take damage equal to your proficiency bonus and two stacks of grievous wounds. 
 
 You gain +1 to your armor class while wearing this magical armour. 
+
+---
+
+### Catalyst of Aeons
+
+- 2500 Gold
+- Spell Focus
+- Attunement
+
+**Eternity**: Whenever you take damage, you regain 1 mana for every tenth damage taken. Whenever you cast a spell, you regain health equal to the spells level plus your proficiency bonus. 
+
+---
+
+### Caulfields Hammer
+
+- 2500 Gold
+- Warhammer
+
+**Hammering Haste**: Whenver you hit an attaack using Caulfiends Hammer, the cooldown of your runes and items are reduced by 6 seconds. 
+
+You gain +1 to hit and damage rolls using this magical weapon.
+
+---
+
+### Crystalline Bracer
+
+- 2500 Gold
+- Wonderous Item
+- Attunement
+
+**Piercing Crystals**: While wearing these Bracers your unarmed attacks have +1 to hit and damage rolls. 
+**Healing Crystals**: Once a turn whenver you hit a target, you can choose to heal equal to half the damage dealt. Once this feature is used, ut cannot be used again until 18 seconds have passed. 
+
+---
+
+### Executioners Calling
+
+- 3300
+- Long Sword
+
+**Rend**: Whenever you hit a creature with this sword, you apply a stack of grievous wounds to them.
+
+You gain +1 to hit and damage rolls using this magical weapon.
+
+---
+
+### Fiendish Codex
+
+- 2250
+- Spell Focus
+
+**Spell Enhancer**: Whenever you deal damage from a spell you may reroll up to three damage dices. 
+
+**CDR**: The cooldown of your runes and items are reduced by 6 seconds. 
+
+---
+
+### Forbidden Idol
+
+- 3500
+- Spell focus
+- Attunement
+
+**Healing Power**: Whenever you heal or give a target temporary hit points, you may spend mana to heal or shield equal two twice the mana spent. 
+**Restore Power**: Whenever you heal or shield you regain one mana. 
+
+---
+
+
+
