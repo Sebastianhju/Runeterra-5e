@@ -123,14 +123,9 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 
 ## Dark Seal
 
-- 500 Gold
+- 550 Gold
 - Arcane Focus (Ring)
-
-**Glory**: When scoring a take down you gain a stack of glory that last until they are used or you finnish a long rest. Maximum of 10 stacks
-
-**Dread**: When you deal damage to a target you can expend your stacks of glory to deal necrotic damage to the target equal to the amount of glory spent.
-
-_Alternatciv_
+- Attunement
 
 **Glory** Whenever you score a takedown you gain a stack of glory, up to a maximum of 10. Whenever your hit points are reduced to 0 you loose all stacks of glory. 
 
