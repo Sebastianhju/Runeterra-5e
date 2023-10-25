@@ -173,7 +173,7 @@ _Alternatciv_
 - 550 Gold
 - Wonderous item
 
-**Saphire Mana**: You gain +6 maximum mana 
+**Saphire Mana**: You gain +5 maximum mana 
 
 ---
 
