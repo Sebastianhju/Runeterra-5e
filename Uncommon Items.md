@@ -34,7 +34,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 - 225 Gold
 - Arcane Focus
 
-**Amplifying**: Whenever you roll for elemental damage, you may reroll one damage dice and use the new result.
+**Amplifying**: Whenever you roll for elemental damage, you may reroll two damage dices and use the new results.
 
 **Tome**: You may prepare one extra spell from you spellcasting class. 
 
@@ -45,7 +45,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 - 325 Gold
 - Arcane Focus
 
-**Blasting**: Whenever you roll for elemental damage, you may reroll two damage dices and use the new results. 
+**Blasting**: Whenever you deal damage with a spell, you can choose to deal any type of elemental damage instead of the initial damage type. Once this effect is used, it cannot be used again until you finish a long rest. 
 
 **Wand**: While holding this wand, you gain +1 bonus to spell attack rolls. 
 
@@ -53,14 +53,14 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ## Needlessly Large Rod
 
-- 420 Gold
+- 550 Gold
 - Quarterstaff 
 
 **Needlessly Large**: Any spell with a radius, cone , cube or similar effect gains an extra 5ft to the size in all dimentions. 
 
 **Rod**: When you take the attack action you can make attack and damage rolls using your spellcasting ability modifier instead of strenght. 
 
-Alternativt **rod** -> **Empower**: Whenever you roll for elemental damage, you may reroll three damage dices and use the new results. 
+Alternativt **rod** -> **Empower**: Whenever you roll for elemental damage, you may reroll any amount of damage dices and use the new results. 
 
 ---
 
