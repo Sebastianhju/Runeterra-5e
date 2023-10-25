@@ -151,7 +151,7 @@ _Alternatciv_
 - 350 Gold
 - Shortsword
 
-**Spellblade**: You can choose to use your spellcasting ability modifyer for attack and damage rolls. 
+**Spellblade**: You can choose to use your spellcasting ability modifier for attack and damage rolls. 
 
 **Lingering Power**: After casting a spell, your next attack with Sheen deals an aditiol damage equal to the spells lvl + your proficiency bonus.
 
