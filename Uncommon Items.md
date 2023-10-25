@@ -2,7 +2,7 @@
 
 ## Dorans Blade
 
-- 120 Gold
+- 250 Gold
 - Shortsword
 
 **Warmonger**: Whenever you kill a unit using the Doran's Blade, you regain 1d4 + proficiency bonus hit points.
@@ -11,7 +11,7 @@
 
 ## Dorans Shield
 
-- 120 Gold
+- 250 Gold
 - Shield
 
 **Endure**: Whenever you take damage, you gain a stack of _regeneration_. 
@@ -22,7 +22,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ## Dorans Ring
 
-- 120 Gold
+- 250 Gold
 - Arcane Focus
 
 **Focus**: Whenever you kill a creautre, you regain 1 mana.
@@ -31,7 +31,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ## Amplifying Tome
 
-- 225 Gold
+- 450 Gold
 - Arcane Focus
 
 **Amplifying**: Whenever you roll for elemental damage, you may reroll two damage dices and use the new results.
@@ -42,7 +42,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ## Blasting Wand
 
-- 325 Gold
+- 550 Gold
 - Arcane Focus
 
 **Blasting**: Whenever you deal damage with a spell, you can choose to deal any type of elemental damage instead of the initial damage type. Once this effect is used, it cannot be used again until you finish a long rest. 
@@ -53,7 +53,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ## Needlessly Large Rod
 
-- 550 Gold
+- 750 Gold
 - Quarterstaff 
 
 **Needlessly Large**: Any spell with a radius, cone , cube or similar effect gains an extra 5ft to the size in all dimentions. 
@@ -65,6 +65,9 @@ Alternativt **rod** -> **Empower**: Whenever you roll for elemental damage, you 
 ---
 
 ## Tear of the Goddess
+
+- 500 Gold
+- Spell Focus
 
 **Focus**: Once each turn when you deal damage to a small or smaller creature you can deal 1d4 extra force damage to it.
 
@@ -80,18 +83,18 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Seraphs Embra
 
 ## Cloth Armor
 
-- 225 Gold
-- Studded Leather
+- 625 Gold
+- Wonderous
 
 **Reinforced Fabric**: AC 13+ Dex.
 
-_Så basicly studded +1?_
+
 
 ---
 
 ## Null-Magic mantle
 
-- 225 Gold
+- 625 Gold
 - Cloak
 
 **Magic Resiliance**: Gives +2 on saves against spells that deal phycical or elemental damage.
@@ -100,7 +103,7 @@ _Så basicly studded +1?_
 
 ## Cloak of Agility
 
-- 320 Gold
+- 700 Gold
 - Cloak
 
 **Momentery Focus**: As a bonus action you can enter a state of fucus, when in this state your critical strike chance is increased by one, for one minute. Once this effect is used it cannot be used again until you finish a long rest. 
@@ -109,7 +112,7 @@ _Så basicly studded +1?_
 
 ## Rejuvenation Bead
 
-- 225 Gold
+- 525 Gold
 - Wonderous Item
 
 **Rejuvinate**: As a bonus action you can expend a hit dice to heal yourself. The amount healed is equal to your hit dice plus you constitution modifier. Once this effect is used it cannot be used again until you finish a long rest. 
@@ -120,7 +123,7 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 
 ## Dark Seal
 
-- 300 Gold
+- 500 Gold
 - Arcane Focus (Ring)
 
 **Glory**: When scoring a take down you gain a stack of glory that last until they are used or you finnish a long rest. Maximum of 10 stacks
@@ -137,7 +140,7 @@ _Alternatciv_
 
 ## B. F. Sword
 
-- 420 Gold
+- 750 Gold
 - Greatsword
 
 **Balance**: This great sword is large size but counts as a medium size weapon for the creature holding it. 
@@ -148,7 +151,7 @@ _Alternatciv_
 
 ## Sheen
 
-- 350 Gold
+- 700 Gold
 - Shortsword
 
 **Spellblade**: You can choose to use your spellcasting ability modifier for attack and damage rolls. 
@@ -158,7 +161,7 @@ _Alternatciv_
 ---
 
 ## Ruby Crystal
-- 240 Gold
+- 550 Gold
 - Wonderous Item
 
 **Rubys Health**: You gain 1 extra hit die worth of maximum hit points. 
@@ -167,7 +170,7 @@ _Alternatciv_
 
 ## Saphire Crystal
 
-- 240 Gold
+- 550 Gold
 - Wonderous item
 
 **Saphire Mana**: You gain +6 maximum mana 
@@ -176,7 +179,7 @@ _Alternatciv_
 
 ## Spellthive's Edge
 
-- 200 gold
+- 350 gold
 - Dagger (+1)
 
 **Spell Absorbtion**: You can cast the absorb element's spell pro. bonus amount of times pr long rest at first level. 
@@ -193,7 +196,7 @@ _Alternativ_
 ---
 
 ## Steel Shoulderguards
-- 250 Gold
+- 350 Gold
 - Wonderous Item
 
 **Looks good**: Melee weapon attacks deal +1 damage 
@@ -212,7 +215,7 @@ _Alternativ_
 
 ## Fearie Charm
 
-- 130 Gold
+- 450 Gold
 - Wonderous Item
 
 **Mana well**: When rolling hit dice you reagain 1 mana for each hit dice spent.
@@ -221,18 +224,18 @@ _Alternativ_
 
 ## Cull
 
-- 200 Gold
+- 500 Gold
 - Scythe (Scimitar)
 
 **Blood runes**: The head of the scythe is filled a hundred small black runes, whenever you score a take down one of the runes becomes red. Whenever you want to sell the cull, its value increses by 20 gold for every rune that glows. 
 
-(Items are sold at 50% value, total sell price with a full cull = 200+2000 -> 2200/2 = 1100  - netto plus = 900)
+(Items are sold at 50% value, total sell price with a full cull = 500+2000 -> 2500/2 = 1250  - netto plus = 600)
 
 ---
 
 ## Stopwatch
 
-- 250 Gold
+- 400 Gold
 - Wonderous Item
   
 **Perfect timing**: As a reaction upon taking damage, when you know the amount taken, you can become invulnerable and incapazitaded until the start of your next turn, doing this negates the damage that triggerd the reaction, using this reaction breaks the Stopwatch.
