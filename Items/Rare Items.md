@@ -50,9 +50,9 @@ While wielding this piece of armor you gain +1 to your armor class.
 - Chain Vest
 - Attunement
 
-**Thorns**: Whenever you are damaged by an enemies melee attack, they take damage equal to your proficiency bonus and a stack of grievous wounds. 
+**Thorns**: Whenever you are damaged by a melee attack, the attacker takes damage equal to your proficiency bonus and gains a stack of grievous wounds. 
 
-You gain +1 to your armor class while wearing this magical armour. 
+You gain +1 to your armor class while wearing this magical armor. 
 
 ---
 
@@ -460,7 +460,7 @@ _You gain a +1 to all arcana checks_
 
 **Mitigate**: Whenever you take physical damage, you can reduce the damage taken by an amount equal to your _Mitigate_ stacks. 
 
-While wielding this armour you gain +1 to your armor class. 
+While wielding this armor you gain +1 to your armor class. 
 
 ---
 
@@ -473,7 +473,7 @@ While wielding this armour you gain +1 to your armor class.
 
 **Flight**: You gian +5 feet movement speed and you don't have disadvantage on stealth checks using this plate amrour. 
 
-While wielding this armour you gain +1 to your armor class. 
+While wielding this armor you gain +1 to your armor class. 
 
 ---
 
