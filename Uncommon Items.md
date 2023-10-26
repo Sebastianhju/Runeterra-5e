@@ -36,13 +36,13 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 **Amplifying**: Whenever you roll for elemental damage, you may reroll two damage dices and use the new results.
 
-**Tome**: You may prepare one extra spell from you spellcasting class. 
+**Tome**: You may prepare one extra spell from you spellcasting list. 
 
 ---
 
 ## Blasting Wand
 
-- 550 Gold
+- 600 Gold
 - Arcane Focus
 
 **Blasting**: Whenever you deal damage with a spell, you can choose to deal any type of elemental damage instead of the initial damage type. Once this effect is used, it cannot be used again until you finish a long rest. 
@@ -58,9 +58,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 **Needlessly Large**: Any spell with a radius, cone , cube or similar effect gains an extra 5ft to the size in all dimentions. 
 
-**Rod**: When you take the attack action you can make attack and damage rolls using your spellcasting ability modifier instead of strenght. 
-
-Alternativt **rod** -> **Empower**: Whenever you roll for elemental damage, you may reroll any amount of damage dices and use the new results. 
+**Rod**: Whenever you are attacking with Needlessly Large Rod you can use your spellcasting ability when calculating to-hit rolls and damage instead of strength
 
 ---
 
@@ -68,13 +66,7 @@ Alternativt **rod** -> **Empower**: Whenever you roll for elemental damage, you 
 
 - 500 Gold
 - Spell Focus
-- Attunement
-
-**Focus**: Once each turn when you deal damage to a small or smaller creature you can deal 1d4 extra force damage to it.
-
-**Mana charge**: When taking a short rest you can spend hit dice equal to your proficiancy bonus to replenash mana instead of health. When doing this you regain half of the amount you would normaly heal.
-
-_Alternativ_
+- Atunement
 
 **Focus**: Whenever you damage a creature you gain a stack of _focus_. For every tenth stack of focus, you gain +1 maximum mana. up to a maximum of 130 stacks. 
 
@@ -84,10 +76,10 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Seraphs Embra
 
 ## Cloth Armor
 
-- 625 Gold
+- 575 Gold
 - Wonderous
 
-**Reinforced Fabric**: AC 13+ Dex.
+**Reinforced Fabric**: While wearing this armour your base armour class is set to 13. 
 
 
 
@@ -98,7 +90,7 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Seraphs Embra
 - 625 Gold
 - Cloak
 
-**Magic Resiliance**: Gives +2 on saves against spells that deal phycical or elemental damage.
+**Magic Resiliance**: Whenever you roll a saving throw against spells that deal elemental or physical damage, you gain a +2 to that saving throw. 
 
 ---
 
@@ -107,7 +99,9 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Seraphs Embra
 - 700 Gold
 - Cloak
 
-**Momentery Focus**: As a bonus action you can enter a state of fucus, when in this state your critical strike chance is increased by one, for one minute. Once this effect is used it cannot be used again until you finish a long rest. 
+**Momentery Focus**: As a bonus action you can enter a state of focus that last for a minute, when in this state your critical strike chance is increased by one and you are agile. Once this effect is used it cannot be used again until you finish a long rest. 
+
+You gain a +1 to acrobatics checks. 
 
 ---
 
@@ -124,8 +118,8 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 
 ## Dark Seal
 
-- 550 Gold
-- Arcane Focus (Ring)
+- 1000 Gold
+- Arcane Focus
 - Attunement
 
 **Glory** Whenever you score a takedown you gain a stack of glory, up to a maximum of 10. Whenever your hit points are reduced to 0 you loose all stacks of glory. 
@@ -152,7 +146,7 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 
 **Spellblade**: You can choose to use your spellcasting ability modifier for attack and damage rolls. 
 
-**Lingering Power**: After casting a spell, your next attack with Sheen deals an aditiol damage equal to the spells lvl + your proficiency bonus.
+**Lingering Power**: After casting a spell, your next attack with Sheen deals additional damage equal to the spells level plus your proficiency bonus.
 
 ---
 
@@ -160,7 +154,7 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 - 550 Gold
 - Wonderous Item
 
-**Rubys Health**: You gain 1 extra hit die worth of maximum hit points. 
+**Rubys Health**: You gain one extra hit die worth of maximum hit points. 
 
 ---
 
@@ -179,12 +173,6 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 - Dagger
 - Attunement
 
-**Spell Absorbtion**: You can cast the absorb element's spell pro. bonus amount of times pr long rest at first level. 
-
-**Mana Rejuvination**: You regain 1 mana when taking a short rest.
-
-_Alternativ_
-
 **Tribute**: Whenever you deal damage to a target, you gain gold equal to the damage dealt. Up to a maximum of 500 gold.
 
 **Quest**: Whenever you've gained 500 gold using this item, it transforms into _Shard of True Ice. 
@@ -196,14 +184,6 @@ _Alternativ_
 - 350 Gold
 - Wonderous Item
 - Attunement
-
-**Looks good**: Melee weapon attacks deal +1 damage 
-
-**Hard stuff**: You can add your pro. bonus to your max HP
-
-**Feels Good** When rolling hit dice, add 1 to the total.
-
-_Alternativ_
 
 **Spoils of War**: Whenever you score a takedown, you gain gold equal to twenty times the creatures challenge rating, up to a maximum of 500 gold
 
@@ -228,7 +208,7 @@ _Alternativ_
 
 **Blood runes**: The head of the scythe is filled a hundred small black runes, whenever you score a take down one of the runes becomes red. Whenever you want to sell the cull, its value increses by 20 gold for every rune that glows. 
 
-(Items are sold at 50% value, total sell price with a full cull = 500+2000 -> 2500/2 = 1250  - netto plus = 600)
+(Items are sold at 50% value. Total sell price with a fully stacked cull = 500+2000 -> 2500/2 = 1250 --> netto plus = 750)
 
 ---
 
