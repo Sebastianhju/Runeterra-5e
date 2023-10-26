@@ -28,7 +28,7 @@ While wielding this shield you and allies within 10 feet of you gain +2 to their
 - Wonderous Item
 
 
-**Bamis Health**: Your maximum hit points increase equal to your health 
+**Bamis Health**: Your maximum hit points increase equal to a hit dice
 
 **Bursting Cinder**: As an action, you can make the cinder blow up in fire for a minute. Whenever you enter a space within 5 feet of an enemy or an enemy starts their turn within 5 feet of you, they must succeed a dexterity saving throw (Dc: 14). On a failure they take 2d6 fire damage, halved on a save. 
 
