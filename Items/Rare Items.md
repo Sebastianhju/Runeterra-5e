@@ -4,11 +4,13 @@
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Aegis of the Legion.png" Align=right width=8% height=8%>
 
-- 3500 Gold
+- 3250 Gold
 - Shield
 - Attunement
 
-**Aegis**: While wielding this shield you and allies within 10 feet of you gain +1 to their armor class and +2 to saving throws. 
+**Aegis Aura**: As an action you can activcate the Aegis Aura, giving you and allies +2 to their armor class and saving throws for a minute as long as they are within 10 feet of you for 30 seconds. Once used, it cannot be used again until you finish a long rest. 
+
+While wielding this piece of armor you gain +1 to your armor class. 
 
 ---
 
