@@ -42,7 +42,7 @@
 
 ## Bramble Vest
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bramble Vest.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bramblevest.png" Align=right width=8% height=8%>
 
 - 3000 Gold
 - Chain Vest
@@ -66,9 +66,9 @@ You gain +1 to your armor class while wearing this magical armour.
 
 ---
 
-## Caulfields Hammer
+## Caulfields Warhammer
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Caulfields Hammer.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Caulfield's Warhammer.png" Align=right width=8% height=8%>
 
 - 2500 Gold
 - Warhammer
@@ -94,7 +94,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ## Executioners Calling
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Executioners Calling.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Executioner's CAlling.png" Align=right width=8% height=8%>
 
 - 3300 Gold
 - Long Sword
@@ -226,10 +226,10 @@ You gain a +1 to medicine and animal handling checks.
 
 ## Kircheis Shard
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Kirchei's Shard.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Kircheis Shard.png" Align=right width=8% height=8%>
 
 - 3000 Gold
-- Dagger
+- Spear
 
 **Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain five stacks of _energized_, up to a maximum of 80.
 **Jolt**: Whenver you are at 80 stacks of _energized_, your next attack with _Kircheis Shard_ deals 2d10 additional lightning damage. 
@@ -380,7 +380,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ## Seekers Armguard
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Seekers Armguard.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Seeker's Armguard.png" Align=right width=8% height=8%>
 
 - 2500 Gold
 - Wonderous Item
@@ -408,7 +408,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ## Spectres Cowl
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spectres Cowl.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spectre's Cowl.png" Align=right width=8% height=8%>
 
 - 2600 Gold
 - Wonderous Item 
@@ -449,7 +449,7 @@ _You gain a +1 to all arcana checks_
 
 ## Wardens Mail
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Wardens Mail.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Warden's Mail.png" Align=right width=8% height=8%>
 
 - 2750 Gold
 - Half Plate
