@@ -183,21 +183,17 @@ Damaging an enemy gives them a mark of electorcute that lasts until the end of y
 
 ---
 ### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=25% height=25%>
-Once a turn whenever you damage a _bloodied_ creature you gain a stack of Harvest. In addition the bloody creature take additional *Force* damage based on how many stacks of Harvest you have obtained. Once used, it cannot be used again until you score a takedown on a unit of CR 1 or higher, or 60 seconds pass. 
+Once a turn whenever you damage a bloody creature you gain a stack of *Harvest* and they take  1d4 additional *Force* damage table below plus 1 for every 15th stack you have. A Once used, it cannot be used again until you score a takedown, or finish a long rest. 
 
 **Harvest damage**
-| Harvest Stacks | Damage                               |
+| Level | Damage                               |
 | -------------- | ------------------------------------ |
-| 0              | 1d6 Force Damage                     |
-| 20             | 1d8 Force Damage                     |
-| 40             | 1d8 + proficiency bonus Force Damage |
-| 60            | 1d10 + proficiency bonus Force Damage |
-| 100            | 1d12 + proficiency bonus Force Damage |
-| 200           | 2d8 + proficiency bonus Force Damage |
-| 300            | 3d8 + proficiency bonus Force Damage |
-| 400            | 4d8 + proficiency bonus Force Damage|
+| 1            | 1d4 Force Damage              |
+| 5             | 2d4 Force Damage              |
+| 9             | 3d4 Force Damage               |
 
 ---
+
 ### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=25% height=25%>
 
 You can dash as a bonus action, and the next attack that hits this round deals additional damage for every 15 feet you've traveled directly towards your target this turn. Once used, it cannot be used again until 45 seconds has passed.
