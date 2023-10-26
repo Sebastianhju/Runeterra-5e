@@ -438,7 +438,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Vampiric Scepter.png" Align=right width=8% height=8%>
 
-- 2650 Gold
+- 3650 Gold
 - Quarterstaff
 - Attunement
 
