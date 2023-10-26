@@ -1,6 +1,6 @@
 # Rare items
 
-### Aegis of the Legion
+## Aegis of the Legion
 
 - 3500 Gold
 - Shield
@@ -10,7 +10,7 @@
 
 ---
 
-### Aether Wisp 
+## Aether Wisp 
 
 - 3000 Gold
 - Wonderous Item
@@ -22,19 +22,19 @@
 
 ---
 
-### Bami Cinder
+## Bami Cinder
 
 - 2500 Gold
 - Wonderous Item
 
 
-**Bamis Health**: Your maximum hit points increase equal to a hit dice
+**Bamis Health**: Your maximum hit points increases equal to a hit dice.
 
 **Bursting Cinder**: As an action, you can make the cinder blow up in fire for a minute. Whenever you enter a space within 5 feet of an enemy or an enemy starts their turn within 5 feet of you, they must succeed a dexterity saving throw (Dc: 14). On a failure they take 2d6 fire damage, halved on a save. 
 
 ---
 
-### Bramble West
+## Bramble West
 
 - 3000 Gold
 - Chain Vest
@@ -46,7 +46,7 @@ You gain +1 to your armor class while wearing this magical armour.
 
 ---
 
-### Catalyst of Aeons
+## Catalyst of Aeons
 
 - 2500 Gold
 - Spell Focus
@@ -56,7 +56,7 @@ You gain +1 to your armor class while wearing this magical armour.
 
 ---
 
-### Caulfields Hammer
+## Caulfields Hammer
 
 - 2500 Gold
 - Warhammer
@@ -67,7 +67,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
 
-### Crystalline Bracer
+## Crystalline Bracer
 
 - 2500 Gold
 - Wonderous Item
@@ -78,7 +78,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
 
-### Executioners Calling
+## Executioners Calling
 
 - 3300 Gold
 - Long Sword
@@ -89,7 +89,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
 
-### Fiendish Codex
+## Fiendish Codex
 
 - 2250 Gold
 - Spell Focus
@@ -100,7 +100,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
 
-### Forbidden Idol
+## Forbidden Idol
 
 - 3500 Gold
 - Spell focus
@@ -111,7 +111,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
 
-### Glacial Buckler
+## Glacial Buckler
 
 - 2500 Gold
 - Shield
@@ -123,7 +123,7 @@ While wielding this shield you gain +1 to your armor class.
 
 ---
 
-### Giants Belt
+## Giants Belt
 
 - 3500 Gold
 - Wonderous item
@@ -133,12 +133,12 @@ While wielding this shield you gain +1 to your armor class.
 
 ---
 
-### Hearthbound Axe
+## Hearthbound Axe
 
 - 2500 Gold
 - Battleaxe
 
-**Nimble**: Whenever you hit a creature with _Hearthbound Axe_ you gain +5 feet movement speed until the end of your next turn. 
+**Nimble**: Whenever you hit a creature with _Hearthbound Axe_ you gain +5 feet movement speed and agility until the end of your next turn. 
 
 You gain +1 to survival checks
 
@@ -146,7 +146,28 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
 
-### Ironspike Whip
+## Hexdrinker
+
+- 2700 Gold
+- Longsword
+
+**Lifeline**: If you'd take elemental damage that would down you, you first gain temporary hit points equal to ten times your proficiency bonus that lasts until the end of your turn. 
+
+You gain +1 to hit and damage rolls using this magical weapon.
+
+---
+
+## Hextech Alternator 
+
+- 2550 Gold
+- Wonderous Item
+
+**Revved**: Whenever you damage an enemy, you deal additional lightning damage equal to 1d10 plus your proficiency bonus. Once this effect is used, it cannot be used again until 30 seconds pass. 
+
+_You gain +1 to your investegation checks_
+
+---
+## Ironspike Whip
 
 - 3000 Gold
 - Whip
@@ -157,7 +178,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
 
-### Kindlegem
+## Kindlegem
 
 - 2500 Gold
 - Wonderous
@@ -169,10 +190,10 @@ You gain a +1 to medicine and animal handling checks.
 
 ---
 
-### Kircheis Shard
+## Kircheis Shard
 
 - 3000 Gold
-- Dagger???
+- Dagger
 
 **Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain five stacks of _energized_, up to a maximum of 80.
 **Jolt**: Whenver you are at 80 stacks of _energized_, your next attack with _Kircheis Shard_ deals 2d10 additional lightning damage. 
@@ -181,7 +202,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
 
-### Last Whisper
+## Last Whisper
 
 - 3250 Gold
 - Longbow
@@ -193,19 +214,19 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
 
-### Lifewell Pendant
+## Lifewell Pendant
 
 - 3500 Gold
 - Wonderous Item
 - Attunement
 
 **Hope**: As a bonus action, you can give yourself temporary hit points equal to your level that. You can do this a number of times equal to your proficiency bonus before you must take a long rest. 
-**Well Timds**: Whenever you gain temporary hit points, the cooldowns of your runes and items are reduced by 6 seconds. 
+**Well Timed**: Whenever you gain temporary hit points, the cooldowns of your runes and items are reduced by 6 seconds. 
 **Protection**: You gain a +1 to your armor class while wering the _Lifewell Pendant_.
 
 ---
 
-### Lost Chapter
+## Lost Chapter
 
 - 3500 Gold
 - Arcane Focus
@@ -216,3 +237,181 @@ You gain +1 to spell attack rolls and your saving throw DC.
 
 
 ---
+
+## Negatron Cloak
+
+- 2750 Gold
+- Wonderous Item
+
+**Negate**: Whenever you take physical damage from spells or elemental damage you can reduce that by 3. 
+
+**Resist**: You have advantage on saving throws against spells. 
+
+---
+
+## Noonquiver
+
+- 3000 Gold
+- Wonderous Item
+
+**Statikk Arrows**: The noonquiver is magically loaded with _Statikk Arrows_ that deal 1d4 additional lightning damage. 
+**High Noon**: As a bonus action you can enter a state of focus that lasts for 18 seconds. Whenever you take the attack action you can do an additional attack as a part of that action. Once this action is used, it cannot be used again until you finish a long rest. 
+
+---
+
+## Oblivion Orb
+
+- 2500 Gold
+- Arcane Focus
+
+**Cursed**: Whenever you deal spell damage, you give yourself and the target a stack of grievous wounds. 
+**Oblivion**: Your single target spells deals 1d6 additional necrotic damage. 
+
+---
+
+## Phage
+
+- 3250 Gold
+- Greatclub
+
+**Sturdy**: Whenever you deal damage to a crature with phage, you get a stack of _regeneration_. 
+**Health**: Your maximum hit points increases equal to a hit dice. 
+
+You gain +1 to hit and damage rolls using this magical weapon. 
+
+_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one._
+
+---
+
+## Quicksilver Sash
+
+-2700 Gold
+- Wonderous Item
+
+**Quicksilver** As a reaction upon begin immobilized you can remove all immobilizing effects and cast lesser restoration on yourself. 
+
+**Unstoppable** You gain +2 to saving throws agains immobolizing effects. 
+
+You are proficient in history checks. 
+
+---
+
+## Rageknife
+
+- 3500 Gold
+- Dagger
+
+**Wrath**: This dagger deals 1d6 additional fire damage. 
+
+**Rage**: Whenever you hit a target with the rage knife you gain a stack of rage up to a maximum of 3. You loose all stacks whenever a minute passes without attacking anyone. 
+
+**Seething Strike**: When you take the attack acton on your turn, you can spend three stacks of rage to gain an additional attack as a part of that attack action. 
+
+You gain +1 to hit and damage rolls using this magical weapon. 
+
+---
+
+## Recurve Bow
+
+- 2750 Gold
+- Shortbow
+
+**Swift String**: Whenever you take the attack action using _Recurve Bow_ you can make an extra attack as a part of that action. 
+
+You gain +1 to hit and damage rolls using this magical weapon. 
+
+---
+
+## Seekers Armguard
+
+- 2500 Gold
+- Wonderous Item
+
+**Armguard**: Whenever you score a takedown you gain a stack of *Pact*. When you have 15 stacks, you gain +1 to your armor class. When you have 30 stacks it increases to +2. 
+
+**Witch's Pact**: Whenever you deal elemental damage, that damage is allways converted to cold damage and deals 2d6 additional cold damage. 
+
+---
+
+## Serrated Dirk
+
+- 2900 Gold
+- Dagger
+
+**Gouge**: As a bonus action, you can target a foe within 60 feet of you. If the target is reistant, they instead take full damage from you attacks with _Serrated Dirk_, if they don't have any resistances they are vulnerable.
+
+You gain +1 to stealth checks 
+
+You gain +1 to hit and damage rolls using this magical weapon. 
+
+---
+
+## Spectres Cowl
+
+- 2600 Gold
+- Wonderous Item 
+
+**Incorporeal**: Whenever you take damage from an enemy, you gain three stacks of regeneration. At the start of your turn, you can spend four stacks of regeneration to gain the ability to phase through walls and creatures, while phasing you cannot be restrained or grappled by magical effects. 
+
+**Health**: Your maximum hit points increases equal to a hit dice. 
+
+---
+
+## Tiamat
+
+- 2500 Gold
+- Greataxe
+
+**Cleave**: Whenever you hit a creature with an attack using _Tiamat_, all enemies within 5 feet of the target takes damage equal to your strength modifier. 
+
+You gain +1 to hit and damage rolls using this magical weapon. 
+
+---
+
+## Vampiric Scepter
+
+- 2650 Gold
+- Quarterstaff
+
+**Vampiric**: You learn the Vampiric Touch spell and can cast it once a day without expending any spell slots or using concentration. When you cast the spell you have a +6 to hit, unless your spellcasting class has a better modifier. 
+
+**Bloodharvester**: You heal equal to the necrotic damage you deal. 
+
+_You gain a +1 to all arcana checks_
+
+---
+
+## Wardens Mail
+
+- 2750 Gold
+- Half Plate
+
+**Rock Solid**: Whenever you cast a spell, you gain stacks of _Mitigate_ equal to the spells level plus your proficiency bonus, that last until the start of your next turn. 
+
+**Mitigate**: Whenever you take physical damage, you can reduce the damage taken by an amount equal to your _Mitigate_ stacks. 
+
+While wielding this armour you gain +1 to your armor class. 
+
+---
+
+## Winged Moonplate
+
+- 3000 Gold
+- Plate
+
+**Flight**: You gian +5 feet movement speed and you don't have disadvantage on stealth checks using this plate amrour. 
+
+While wielding this armour you gain +1 to your armor class. 
+
+---
+
+## Zeal
+
+-3250
+- Shortsword
+
+**Sharp Edged** Your critical strike chance is increased by one while wielding Zeal. Whenever you critically hit a target with Zeal, you can make an additional attack with Zeal as a bonus action.
+
+_You gain a +3 to your initiative rolls_ 
+
+You gain +1 to hit and damage rolls using this magical weapon. 
