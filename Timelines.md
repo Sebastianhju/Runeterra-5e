@@ -150,191 +150,98 @@ Humans from Helia, a land in the east, travel towards the Blessed Iles. As they 
 
 ## 1,009 Years Ago (13 BN): The Rune Wars
 
-With Helia no longer able to keep their secret, others find out about World Runes 
+With Helias leaders no longer able to keep their secrets. The world discover their research on magial artifacts called World Runes. 
 
-Tyrus keeps going but eventually can’t resist the Rune’s power, and Ryze has to kill him, secure more World Runes on his own.
+As the world runes get in the wrong hands, the Rune Wars start. Large parts of Valoran are ruined by rune magic. 
 
-Ryze starts hiding the World Runes around Runeterra again.
-
-The Noxii tribes hide out in the Immortal Bastion to stay safe. The Bastion stands despite the chaos of the wars.
-
-Shadow mages create constructs within the Spirit Realm to wage war with. This results in Nocturne, who becomes self aware and kills them in retribution, but is ultimately trapped in his current state and has to use the dreams of mortals to have agency.
-
-The collective torment of the Rune Wars causes Evelynn to be truly born as a full on demon.
-
-Zoe becomes the Aspect of Twilight.
-
-Mihira and Kilam ascend Mount Targon, and Mihira is chosen to become the Aspect of Justice. She is pregnant with twin daughters, Kayle and Morgana, who become naturally magical due to this.
-
-Refugees led by Orlon flee mages in to a forest of petrified trees. These trees seemingly nullify, allowing them to turn the tables.
-
-Along the way Poppy joins Orlon’s knights and becomes a close friend of his
+Refugees led by Orlon flee mages in to a forest of petrified trees in the west if Valoran. These trees seemingly nullify, allowing them to turn the tables.
 
 Orlon founds a fledgling nation called Demacia, and accepts refugees from all across Runeterra.
 
 The Demacians figure that they can use the bark of the trees from before to make a stone called petricite, with the same properties. They use this to build their structures.
 
-Mihira begins merging with the Aspect fully, and Kilam takes Kayle and Morgana to Demacia in fear.
-
-LeBlanc disappears from history for a time.
-
-A group of sorcerers venture through the jungles of Shurima and are attacked by the flowers within the Garden of Zyr. The magic unleashed destroys the area and irradiates it with magic. Centuries later Zyra would emerge from this land; a result of this magical catastrophe.
-
 The Rune Wars end after a period of roughly ten years. The specifics as to why and how are unknown. A vast number of nations are decimated, with the survivors having to rebuild.
 
-Kled leaves Bandle City behind to live among the Noxii tribes.
+---
 
-996 Years Ago (Year 0): Founding of Noxus
+## 996 Years Ago (Year 0): Founding of Noxus
 
 Three years after the end of the Rune Wars, the Noxii tribes pull together as a single people: Noxus. With their nearby lands barren and poor for farming or any kind of natural resources, they begin setting out to claim new territories.
 
-996-704 Years Ago
+---
 
-The Battle of Drugne occurs, where a Noxian warhost faces a barbarian horde. Outnumbered and with their leader being useless as military commanders all seems lost, but then Kled and Skaarl enter the fray for the first time. The battle ends in victory for Noxus and both Kled and Skaarl are immortalized within Noxian culture from then on. The two also proceed to join every military campaign ever waged by Noxus.
-
-LeBlanc and her organization, the Black Rose, begin working behind the scenes in Noxus, subtly twisting the fledgling nation for their own ends.
-
-Kayle and Morgana receive their mother’s sword directly from the heavens and it splits in two. Both twins sprout a pair of wings as a result. The sword's arrival is implied to be a sign of some dire portent within the Celestial Realm, but beyond that nothing else is known.
-
-Kayle and Morgana become figures in Demacian society, contrasting but ultimately trusting each other.
-
-Kayle’s ally Ronas distrusts Morgana, and tries to take her in to custody. Morgana uses her magic to bind him, which kills him. Kayle, enraged, fights Morgana, and the two lay waste to the Great City of Demacia, resulting in numerous deaths, including their father Kilam.
-
-Kayle realizes what she has done and heads for Mount Targon. Her aim is to reach the Celestial Realm to rid herself of her humanity so she can be a completely unbiased judge. Morgana, bitter at what transpired, recedes from society. The two are remembered as mythical figures, with Kayle being synchronized with The Protector while Morgana is known as the Veiled Lady.
-
-Orlon dies, and passes on his hammer to Poppy, saying it was never meant for him. Poppy doesn’t realize it’s meant for her, and so vows to go and find the “hero”.
-
-704 Years Ago (292 AN): Demacian Royalty
+## 704 Years Ago (292 AN): Demacian Royalty
 
 Demacia crowns its first king. This isn’t to say that Demacia didn’t have leaders beforehand, but it’s at this point a true monarchy is established.
 
-647 Years Ago (349 AN): The Noxian Empire
+---
+
+## 647 Years Ago (349 AN): The Noxian Empire
 
 After a series of forced annexations and the fall of the Drakkengate, the noble houses of Noxus swear to unify all of Runeterra under the banner of what will become known as the Noxian Empire.
 
 A “Grand General” is elected to serve as the primary military leader of Noxus.
 
-224 Years Ago (772 AN): Tragedy of the River Pilt
+---
+
+## 224 Years Ago (772 AN): Tragedy of the River Pilt
 
 To open a reliable trade route between the east and west of both Valoran and Shurima, Zaun plans to use chemtech to blow a hole in the isthmus connecting the two continents, opening a sea lane.
 
 The plan works, but in a freak accident way more of isthmus is destroyed than intended, sinking large parts of Zaun and killing thousands.
 
-The people in unison offer their prayers to Janna to save them. Before this worship of her had waned significantly, diminishing her, but with this surge of belief she returns, empowered, and saves thousands.
-
 The date of this event, while a tragedy for Zaun, would later become a national holiday in Piltover known as Progress Day; the day the Sun Gates opened and riches began flowing in earnest.
 
-209 Years Ago (787 AN): Bilgewater
+---
+
+## 209 Years Ago (787 AN): Bilgewater
 
 With Piltover’s boom comes a boom in piracy. This leads to many being stranded around the Serpent Isles. The people of Buhru allow them to stay, and Bilgewater is founded.
 
-The River King makes his way to Bilgewater after his stay in the Serpentine Delta, earning his current name: Tahm Kench. He will later find his way to Piltover.
+---
 
-Around 200-140 Years Ago (780-720 AN): Ferros and the brackern
+## Around 200-140 Years Ago (780-720 AN): Ferros and the brackern
 
 This is an estimate based on Camille’s estimated age and that of her great great aunt, who was alive during this time.
 
-The Ferros Clan in Piltover sets out and eventually discovers the brackern slumbering in the Crystal Scar. They begin attacking them with explosives and ripping out their lifestones.
+The Ferros Clan in Piltover sets out and eventually discovers the brackern slumbering in the Crystal Scar. They begin attacking them with explosives and ripping out their lifestones, that become the orgin of hextech.
 
-Skarner resists the attack and lashes out, killing dozens of humans in the process. He tries to wake his kin but their shared trauma is too great for any of them to awaken, and those without stones that do wake up quickly die. Skarner sets out to recover the lifestones.
+The bracer resists the attack and lashes out, killing dozens of humans in the process.
 
-The story “Dreamsong” happens, several days/weeks after the attack.
+---
+## Around 100-13 years ago
 
-These gems become the origin of hextech, though how long after is unknown.
+Noxus continues to expand their territory, going west towawrds Demacia and over the Conquerors Sea to norh Shurima. 
 
-87 Years Ago (899 AN): The Delverhold and Noxus
+---
 
-The Delverhold citystate swears its allegiance to the Emperor of Noxus.
+## 13 years ago (983 AN): Sylas is captured
 
-24 Years Ago (972 AN): Irelia
+In Demavcia an incident involving a magical girl and the unintended deaths of two mageseekers, a mage named Sylas is forced in to hiding, but is ultimately incarcerated by the Mageseekers.
 
-Irelia is born in to the Xan family in Navori, Ionia.
+---
 
-23 Years Ago (973 AN): Taliyah
+## 10 Years Ago (986 AN): Great Stand of the Placidium
 
-Taliyah of the Nasaaj is born to the Nasaaj tribe in Shurima.
-
-22 Years Ago (974 AN): Basilich and Noxus
-
-The territory of Basilich swears fealty to Noxus. Darius, Draven and their childhood friend Quiletta are conscripted as soldiers.
-
-19 Years Ago (977 AN): Akali
-
-Mayym Jhomen Tethi and her partner Tahno, both members of the Kinkou Order have a child: Akali.
-
-19 Years Ago (977 AN): The Golden Demon
-
-Master Kusho of the Kinkou Order, alongside Shen and Zed, begin investigating the mysterious golden demon.
-
-19 Years Ago (977 AN): Darius and Quiletta
-
-Darius rendezvous with Quiletta and they share an intimate moment. Following this they are both sent to distant parts of the empire as part of their military obligations.
-
-19 Years Ago (977 AN): Lux
-
-Lux is born to the Crownguard family.
-
-18 Years Ago (978 AN): Invetia
-
-Quiletta gives birth to a girl named Invetia.
-
-16 Years Ago (980 AN): Khada Jhin
-
-Master Kusho, Shen and Zed set a trap and finally manage to catch the golden demon that they now know as Jhin. Kusho orders Jhin to be incarcerated in Tuula prison.
-
-15 Years Ago (982 AN): Demacian Heart
-
-After an incident involving a magical girl and the unintended deaths of two mageseekers, Sylas is forced in to hiding, but is ultimately incarcerated by the Mageseekers.
-
-12 Years Ago (984 AN): The Invasion of Ionia
-
-Noxus begins its invasion of Ionia, scouring the western regions of the Navori province, along with other areas.
-
-12-10 Years Ago (980-984 AN): The Yanlei
-
-Zed taps in to the Tears of Shadow, gaining the ability to use shadow magic. For this he is exiled from the Kinkou by Master Kusho. Zed begins making a new order called the Yanlei to fight Noxus.
-
-10 Years Ago (986 AN): Splintering of the Kinkou
-
-After the Siege of Thanze, Zed returns to the Kinkou to claim the Tears of Shadow, so the Yanlei can better fight Noxus. He manages to convince Kusho of his plans, and they orchestrate Kusho's faked murder.
-
-The Order of Shadows, claims the Temple of Thanjuul and offers some of the Kinkou the chance to join them. Some do, some don’t, many die. The surviving Kinkou flee to Shon-Xan to regroup.
-
-Shen becomes the new Eye of Twilight for the Kinkou. Kennen and Mayym are still alive and serving the Kinkou at this time. Akali is nine years old.
-
-Kusho goes on to lead the Navori Brotherhood, though the specifics are when are unknown.
-
-10 Years Ago (986 AN): Great Stand of the Placidium
-
-Jericho Swain, with the aid of some disenfranchised vastaya who willingly turned to join Noxus, the Placidium of Navori is claimed.
+Jericho Swain, with some aid, claim the Placidium of Navori.
 
 Swain holds the citizens hostage to lure other Ionians in to a trap.
 
-One of the hostages, Irelia, manages to get free, greivously wounds Swain and saves the Placidium.
+One of the hostages manages to get free, greivously wounds Swain and saves the Placidium.
 
-Swain’s vastayan allies are killed.
+Swain is disgraced publicly for this defeat, and returns to Noxus to starts planning.
 
-Swain is disgraced publicly for this defeat, and returns to Noxus, but becomes aware the Black Rose is still around and starts planning.
+---
 
-10 Years Ago (986 AN): The Bow, and the Kunai
+## 9 Years Ago (987 AN): Chemical Weapons in Ionia
 
-The story “The Bow and the Kunai” occurs.
+One Commander Emystan approaches a Mad Chemist's help in creating chem-tech weapons to use against the Ionians. The Noxian use the chemicals to conquer Ionia. 
 
-9 Years Ago (987 AN): Chemical Weapons in Ionia
+Some months later the Noxian millitary leave Ionia, some are brutually hurt by the chem-tech weapons used by Noxus in the war. 
 
-One Commander Emystan approaches Singed and procures the Mad Chemist's help in creating chem-tech weapons to use against the Ionians.
+---
 
-Darius and Quiletta witness the aftermath of a Zaunite alchymist’s chemical weapons being used against Ionia’s defenders.
-
-Some months later Darius and Quiletta leave Ionia. Quiletta’s right arm has to be amputated due to chem-poisoning.
-
-12-7 Years Ago (984-989 AN): The Invasion Continues
-
-Most events during the Ionian Invasion have no specific dates, so this part will just consolidate them.
-
-Wukong goes in to hiding after being attacked by Noxians in Zhyun.
-
-Udyr and Lee Sin protect the Shojin Monastery from Noxian invaders. In the process Lee Sin invokes the dragon spirit and his eyes are burned out, but the Noxians are routed.
+## 12-7 Years Ago (984-989 AN): The Invasion Continues
 
 The village of Wuju is obliterated by Noxus after Master Yi and other Wuju disciples joined the war effort. Master Yi is the last survivor of the village of Wuju.
 
