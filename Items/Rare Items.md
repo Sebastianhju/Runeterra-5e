@@ -386,8 +386,9 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 - 2500 Gold
 - Wonderous Item
+- Attunement
 
-**Armguard**: Whenever you score a takedown you gain a stack of *Pact*. When you have 15 stacks, you gain +1 to your armor class. When you have 30 stacks it increases to +2. 
+**Armguard**: Whenever you score a takedown you gain a stack of *Pact*. When you have 30 stacks, you gain +1 to your armor class. When you have 60 stacks it increases to +2. 
 
 **Witch's Pact**: Whenever you deal elemental damage, that damage is allways converted to cold damage and deals 1d8 additional cold damage. 
 
