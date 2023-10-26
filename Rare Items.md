@@ -183,7 +183,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ### Last Whisper
 
-- 3500 Gold
+- 3250 Gold
 - Longbow
 
 **Breathtaking**: Whenever you damage enemies, you ignore resistances to piercing damage. If a creature would be immune to piercing damage, they take half damage from your attacks. 
@@ -195,7 +195,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ### Lifewell Pendant
 
-- 5000 Gold
+- 3500 Gold
 - Wonderous Item
 - Attunement
 
@@ -207,10 +207,10 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ### Lost Chapter
 
-- 3250 Gold
+- 3500 Gold
 - Arcane Focus
 
-**Enlighten**: Whenever you take a short rest, you can spend hit dice to replenish mana instead of health. 
+**Enlighten**: Whenever you take a short rest, you can spend hit dice to replenish mana instead of health. The amount of mana is equal to your proficiency bonus for every hit dice spent. 
 
 You gain +1 to spell attack rolls and your saving throw DC. 
 
