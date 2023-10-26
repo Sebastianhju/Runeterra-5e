@@ -8,7 +8,7 @@
 - Shield
 - Attunement
 
-**Aegis**: While wielding this shield you and allies within 10 feet of you gain +2 to their armor class and saving throws. 
+**Aegis**: While wielding this shield you and allies within 10 feet of you gain +1 to their armor class and saving throws. 
 
 ---
 
