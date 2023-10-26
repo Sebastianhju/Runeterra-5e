@@ -6,7 +6,7 @@
 - Shield
 - Attunement
 
-While wielding this shield you and allies within 10 feet of you gain +2 to their armor class and saving throws. 
+**Aegis**: While wielding this shield you and allies within 10 feet of you gain +2 to their armor class and saving throws. 
 
 ---
 
@@ -37,7 +37,7 @@ While wielding this shield you and allies within 10 feet of you gain +2 to their
 ### Bramble West
 
 - 3000 Gold
-- Chain West
+- Chain Vest
 - Attunement
 
 **Thorns**: Whenever you are damaged by an enemies melee attack, they take damage equal to your proficiency bonus and a stack of grievous wounds. 
@@ -129,7 +129,7 @@ While wielding this shield you gain +1 to your armor class.
 - Wonderous item
 - Attunement
 
-**Giants Might**: While wielding this item your strenght score is set to 19 and your maximum hit points increase by two hit dices. 
+**Giants Might**: While wielding this item your strenght score is set to 22 and your maximum hit points increases by two hit dices. 
 
 ---
 
@@ -140,6 +140,8 @@ While wielding this shield you gain +1 to your armor class.
 
 **Nimble**: Whenever you hit a creature with _Hearthbound Axe_ you gain +5 feet movement speed until the end of your next turn. 
 
+You gain +1 to survival checks
+
 You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
@@ -149,10 +151,68 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 3000 Gold
 - Whip
 
-**Crescent**: As an action, you can twirl the whip around you. All creatures must succeed a DC 14 dexterity saving throw or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 18 seconds pass. 
+**Crescent**: As an action, you can twirl the whip around you. All creatures within 10 feet of you must succeed a DC 14 dexterity saving throw or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 18 seconds pass. 
 
 You gain +1 to hit and damage rolls using this magical weapon. 
 
 ---
 
-### 
+### Kindlegem
+
+- 2500 Gold
+- Wonderous
+
+**CDR**: The cooldowns of your runes and items are reduced by 6 seconds. 
+**Kindles Health**: You gain maximum hit points equal to one hit dice.
+
+You gain a +1 to medicine and animal handling checks. 
+
+---
+
+### Kircheis Shard
+
+- 3000 Gold
+- Dagger???
+
+**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain five stacks of _energized_, up to a maximum of 80.
+**Jolt**: Whenver you are at 80 stacks of _energized_, your next attack with _Kircheis Shard_ deals 2d10 additional lightning damage. 
+
+You gain +1 to hit and damage rolls using this magical weapon. 
+
+---
+
+### Last Whisper
+
+- 3500 Gold
+- Longbow
+
+**Breathtaking**: Whenever you damage enemies, you ignore resistances to piercing damage. If a creature would be immune to piercing damage, they take half damage from your attacks. 
+**Loaded string**: As a bonus action, you load you bow. Your next attack that deals 1d6 additional damage. You can use this effect a number of times equal to your proficiency bonus before you must take a long rest. 
+
+You gain +1 to hit and damage rolls using this magical weapon. 
+
+---
+
+### Lifewell Pendant
+
+- 5000 Gold
+- Wonderous Item
+- Attunement
+
+**Hope**: As a bonus action, you can give yourself temporary hit points equal to your level that. You can do this a number of times equal to your proficiency bonus before you must take a long rest. 
+**Well Timds**: Whenever you gain temporary hit points, the cooldowns of your runes and items are reduced by 6 seconds. 
+**Protection**: You gain a +1 to your armor class while wering the _Lifewell Pendant_.
+
+---
+
+### Lost Chapter
+
+- 3250 Gold
+- Arcane Focus
+
+**Enlighten**: Whenever you take a short rest, you can spend hit dice to replenish mana instead of health. 
+
+You gain +1 to spell attack rolls and your saving throw DC. 
+
+
+---
