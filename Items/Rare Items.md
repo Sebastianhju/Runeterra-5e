@@ -2,6 +2,8 @@
 
 ## Aegis of the Legion
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Aegis of the Legion.png" Align=right width=8% height=8%>
+
 - 3500 Gold
 - Shield
 - Attunement
@@ -11,6 +13,8 @@
 ---
 
 ## Aether Wisp 
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Aether Wisp.png" Align=right width=8% height=8%>
 
 - 3000 Gold
 - Wonderous Item
@@ -24,6 +28,8 @@
 
 ## Bami Cinder
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bami's Cinder.png" Align=right width=8% height=8%>
+
 - 2500 Gold
 - Wonderous Item
 
@@ -34,7 +40,9 @@
 
 ---
 
-## Bramble West
+## Bramble Vest
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bramble Vest.png" Align=right width=8% height=8%>
 
 - 3000 Gold
 - Chain Vest
@@ -48,6 +56,8 @@ You gain +1 to your armor class while wearing this magical armour.
 
 ## Catalyst of Aeons
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Catalyst of Aeons.png" Align=right width=8% height=8%>
+
 - 2500 Gold
 - Spell Focus
 - Attunement
@@ -57,6 +67,8 @@ You gain +1 to your armor class while wearing this magical armour.
 ---
 
 ## Caulfields Hammer
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Caulfields Hammer.png" Align=right width=8% height=8%>
 
 - 2500 Gold
 - Warhammer
@@ -69,6 +81,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ## Crystalline Bracer
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Crystalline Bracer.png" Align=right width=8% height=8%>
+
 - 2500 Gold
 - Wonderous Item
 - Attunement
@@ -79,6 +93,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 ---
 
 ## Executioners Calling
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Executioners Calling.png" Align=right width=8% height=8%>
 
 - 3300 Gold
 - Long Sword
@@ -91,6 +107,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ## Fiendish Codex
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Fiendish Codex.png" Align=right width=8% height=8%>
+
 - 2250 Gold
 - Spell Focus
 
@@ -102,6 +120,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ## Forbidden Idol
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Forbidden Idol.png" Align=right width=8% height=8%>
+
 - 3500 Gold
 - Spell focus
 - Attunement
@@ -112,6 +132,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 ---
 
 ## Glacial Buckler
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Glacial Buckler.png" Align=right width=8% height=8%>
 
 - 2500 Gold
 - Shield
@@ -125,6 +147,8 @@ While wielding this shield you gain +1 to your armor class.
 
 ## Giants Belt
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Giants Belt.png" Align=right width=8% height=8%>
+
 - 3500 Gold
 - Wonderous item
 - Attunement
@@ -134,6 +158,8 @@ While wielding this shield you gain +1 to your armor class.
 ---
 
 ## Hearthbound Axe
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hearthbound Axe.png" Align=right width=8% height=8%>
 
 - 2500 Gold
 - Battleaxe
@@ -148,6 +174,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ## Hexdrinker
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hexdrinker.png" Align=right width=8% height=8%>
+
 - 2700 Gold
 - Longsword
 
@@ -159,6 +187,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ## Hextech Alternator 
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Alternator.png" Align=right width=8% height=8%>
+
 - 2550 Gold
 - Wonderous Item
 
@@ -168,6 +198,8 @@ _You gain +1 to your investegation checks_
 
 ---
 ## Ironspike Whip
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ironspike Whip.png" Align=right width=8% height=8%>
 
 - 3000 Gold
 - Whip
@@ -179,6 +211,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 ---
 
 ## Kindlegem
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Kindlegem.png" Align=right width=8% height=8%>
 
 - 2500 Gold
 - Wonderous
@@ -192,6 +226,8 @@ You gain a +1 to medicine and animal handling checks.
 
 ## Kircheis Shard
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Kirchei's Shard.png" Align=right width=8% height=8%>
+
 - 3000 Gold
 - Dagger
 
@@ -203,6 +239,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 ---
 
 ## Last Whisper
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Last Whisper.png" Align=right width=8% height=8%>
 
 - 3250 Gold
 - Longbow
@@ -216,6 +254,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ## Lifewell Pendant
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lifewell Pendant.png" Align=right width=8% height=8%>
+
 - 3500 Gold
 - Wonderous Item
 - Attunement
@@ -227,6 +267,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 ---
 
 ## Lost Chapter
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lost Chapter.png" Align=right width=8% height=8%>
 
 - 3500 Gold
 - Arcane Focus
@@ -240,6 +282,8 @@ You gain +1 to spell attack rolls and your saving throw DC.
 
 ## Negatron Cloak
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Negatron Cloak.png" Align=right width=8% height=8%>
+
 - 2750 Gold
 - Wonderous Item
 
@@ -251,6 +295,8 @@ You gain +1 to spell attack rolls and your saving throw DC.
 
 ## Noonquiver
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Noonquiver.png" Align=right width=8% height=8%>
+
 - 3000 Gold
 - Wonderous Item
 
@@ -261,6 +307,8 @@ You gain +1 to spell attack rolls and your saving throw DC.
 
 ## Oblivion Orb
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Oblivion Orb.png" Align=right width=8% height=8%>
+
 - 2500 Gold
 - Arcane Focus
 
@@ -270,6 +318,8 @@ You gain +1 to spell attack rolls and your saving throw DC.
 ---
 
 ## Phage
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Phage.png" Align=right width=8% height=8%>
 
 - 3250 Gold
 - Greatclub
@@ -285,6 +335,8 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Quicksilver Sash
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Quicksilver Sash.png" Align=right width=8% height=8%>
+
 -2700 Gold
 - Wonderous Item
 
@@ -297,6 +349,8 @@ You are proficient in history checks.
 ---
 
 ## Rageknife
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rageknife.png" Align=right width=8% height=8%>
 
 - 3500 Gold
 - Dagger
@@ -313,6 +367,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ## Recurve Bow
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Recurve Bow.png" Align=right width=8% height=8%>
+
 - 2750 Gold
 - Shortbow
 
@@ -324,6 +380,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ## Seekers Armguard
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Seekers Armguard.png" Align=right width=8% height=8%>
+
 - 2500 Gold
 - Wonderous Item
 
@@ -334,6 +392,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 ---
 
 ## Serrated Dirk
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Serrated Dirk.png" Align=right width=8% height=8%>
 
 - 2900 Gold
 - Dagger
@@ -348,6 +408,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ## Spectres Cowl
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spectres Cowl.png" Align=right width=8% height=8%>
+
 - 2600 Gold
 - Wonderous Item 
 
@@ -359,6 +421,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ## Tiamat
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tiamat.png" Align=right width=8% height=8%>
+
 - 2500 Gold
 - Greataxe
 
@@ -369,6 +433,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 ---
 
 ## Vampiric Scepter
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Vampiric Scepter.png" Align=right width=8% height=8%>
 
 - 2650 Gold
 - Quarterstaff
@@ -383,6 +449,8 @@ _You gain a +1 to all arcana checks_
 
 ## Wardens Mail
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Wardens Mail.png" Align=right width=8% height=8%>
+
 - 2750 Gold
 - Half Plate
 
@@ -396,6 +464,8 @@ While wielding this armour you gain +1 to your armor class.
 
 ## Winged Moonplate
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Winged Moonplate.png" Align=right width=8% height=8%>
+
 - 3000 Gold
 - Plate
 
@@ -406,6 +476,8 @@ While wielding this armour you gain +1 to your armor class.
 ---
 
 ## Zeal
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Zeal.png" Align=right width=8% height=8%>
 
 -3250
 - Shortsword
