@@ -32,7 +32,7 @@ While wielding this piece of armor you gain +1 to your armor class.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bami's Cinder.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 3000 Gold
 - Wonderous Item
 
 
@@ -141,6 +141,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - Shield
 
 **CDR**: The cooldown of your runes and items are reduced by 6 seconds. 
+
 **Mana**: You gain +5 maximum mana.
 
 While wielding this shield you gain +1 to your armor class. 
