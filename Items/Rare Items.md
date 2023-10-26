@@ -442,9 +442,9 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - Quarterstaff
 - Attunement
 
-**Vampiric**: You learn the Vampiric Touch spell and can cast it once a day without expending any spell slots or using concentration. When you cast the spell you have a +6 to hit, unless your spellcasting class has a better modifier. 
+**Vampiric**: You learn the Vampiric Touch spell and can cast it once a day without expending any mana. When you cast the spell you have a +6 to hit, unless your spellcasting class has a better modifier. 
 
-**Vampirres Curse**: You heal equal to the necrotic damage you deal, but whenever you take radiant damage you gain stacks of grievous wounds equal to the damage taken, as well as you must succeed a constitution saving thow (dc:10 or half the damage taken, whatever is the higher number) or be stunned until the end of your turn.
+**Vampirres Curse**: You heal equal all the necrotic damage you deal, but whenever you take radiant damage you gain stacks of grievous wounds equal to the damage taken, as well as you must succeed a constitution saving thow (dc:10 or half the damage taken, whatever number is higher) or be stunned until the end of your turn.
 
 _You gain a +1 to all arcana checks_
 
@@ -472,7 +472,9 @@ While wielding this armor you gain +1 to your armor class.
 - 3000 Gold
 - Plate
 
-**Flight**: You gian +5 feet movement speed and you don't have disadvantage on stealth checks using this plate amror. 
+**Flight**: You gain the ability to cast fly on yourself once a day without spending mana. 
+
+You don't have disadvantage on stealth checks when wielding this armor. 
 
 While wielding this armor you gain +1 to your armor class. 
 
