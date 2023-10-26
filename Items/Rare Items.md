@@ -469,7 +469,7 @@ While wielding this armor you gain +1 to your armor class.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Winged Moonplate.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 3500 Gold
 - Plate
 
 **Flight**: You gain the ability to cast fly on yourself once a day without spending mana. 
