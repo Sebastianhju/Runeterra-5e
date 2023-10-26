@@ -38,7 +38,7 @@ While wielding this piece of armor you gain +1 to your armor class.
 
 **Bamis Health**: Your maximum hit points increases equal to a hit dice.
 
-**Bursting Cinder**: As an action, you can make the cinder blow up in fire for a minute. Whenever you enter a space within 5 feet of an enemy or an enemy starts their turn within 5 feet of you, they must succeed a dexterity saving throw (Dc: 14). On a failure they take 2d6 fire damage, halved on a save. 
+**Bursting Cinder**: As an action, you can make the cinder blow up in fire for a minute. Whenever an enemy starts their turn within 5 feet of you, they must succeed a dexterity saving throw (DC = 8 + proficiency bonus + constitution modifier). On a failure they take 2d6 fire damage, halved on a save. You can use this action two times before taking a short rest. 
 
 ---
 
@@ -124,12 +124,12 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Forbidden Idol.png" Align=right width=8% height=8%>
 
-- 3500 Gold
+- 3000 Gold
 - Spell focus
 - Attunement
 
-**Healing Power**: Whenever you heal or give a target temporary hit points, you may spend mana to heal or shield equal two twice the mana spent. 
-**Restore Power**: Whenever you heal or shield you regain one mana. 
+**Healing Power**: Whenever you heal an ally, you may spend mana to heal equal two twice the mana spent. 
+**Restore Power**: Whenever you heal allies you regain one mana. 
 
 ---
 
@@ -244,7 +244,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Last Whisper.png" Align=right width=8% height=8%>
 
-- 3250 Gold
+- 2750 Gold
 - Longbow
 
 **Breathtaking**: Whenever you damage enemies, you ignore resistances to piercing damage. If a creature would be immune to piercing damage, they take half damage from your attacks. 
@@ -371,7 +371,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Recurve Bow.png" Align=right width=8% height=8%>
 
-- 2750 Gold
+- 3250 Gold
 - Shortbow
 
 **Swift String**: Whenever you take the attack action using _Recurve Bow_ you can make an extra attack as a part of that action. 
@@ -389,7 +389,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Armguard**: Whenever you score a takedown you gain a stack of *Pact*. When you have 15 stacks, you gain +1 to your armor class. When you have 30 stacks it increases to +2. 
 
-**Witch's Pact**: Whenever you deal elemental damage, that damage is allways converted to cold damage and deals 2d6 additional cold damage. 
+**Witch's Pact**: Whenever you deal elemental damage, that damage is allways converted to cold damage and deals 1d8 additional cold damage. 
 
 ---
 
@@ -400,7 +400,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 2900 Gold
 - Dagger
 
-**Gouge**: As a bonus action, you can target a foe within 60 feet of you. If the target is reistant, they instead take full damage from you attacks with _Serrated Dirk_, if they don't have any resistances they are vulnerable.
+**Gouge**: As a bonus action, you can target a crature within 60 feet of you enhancing your next attack that hits against them with _Serrated Dirk_. If the target is reistant they instead take full damage, if they don't have any resistances they are vulnerable. You can use this effect an amount of times equal to your proficiency bonus before finishing a long rest. 
 
 You gain +1 to stealth checks 
 
@@ -440,12 +440,13 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 - 2650 Gold
 - Quarterstaff
+- Attunement
 
 **Vampiric**: You learn the Vampiric Touch spell and can cast it once a day without expending any spell slots or using concentration. When you cast the spell you have a +6 to hit, unless your spellcasting class has a better modifier. 
 
-**Bloodharvester**: You heal equal to the necrotic damage you deal. 
+**Vampirres Curse**: You heal equal to the necrotic damage you deal, but whenever you take radiant damage you gain stacks of grievous wounds equal to the damage taken, as well as you must succeed a (dc: 12) constitution saving thow or be stunned until the end of your turn.
 
-_You gain a +1 to all arcana checks_
+_You gain a +1 to all arcana checks_But 
 
 ---
 
@@ -471,7 +472,7 @@ While wielding this armor you gain +1 to your armor class.
 - 3000 Gold
 - Plate
 
-**Flight**: You gian +5 feet movement speed and you don't have disadvantage on stealth checks using this plate amrour. 
+**Flight**: You gian +5 feet movement speed and you don't have disadvantage on stealth checks using this plate amror. 
 
 While wielding this armor you gain +1 to your armor class. 
 
