@@ -200,7 +200,7 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 
 ## Spellthive's Edge
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spellthievs Edge.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spellthiefs%20Edge.png" Align=right width=8% height=8%>
 
 - 350 gold
 - Dagger
@@ -213,9 +213,10 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 
 ---
 
+## Steel Shoulderguards
+
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Steel Shoulderguards.png" Align=right width=8% height=8%>
 
-## Steel Shoulderguards
 - 350 Gold
 - Wonderous Item
 - Attunement
