@@ -2,6 +2,8 @@
 
 ## Dorans Blade
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Blade.png" Align=right width=8% height=8%>
+
 - 250 Gold
 - Shortsword
 
@@ -10,6 +12,8 @@
 ---
 
 ## Dorans Shield
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Shield.png" Align=right width=8% height=8%>
 
 - 250 Gold
 - Shield
@@ -22,6 +26,8 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ## Dorans Ring
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Ring.png" Align=right width=8% height=8%>
+
 - 250 Gold
 - Arcane Focus
 
@@ -30,6 +36,8 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 ---
 
 ## Amplifying Tome
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Amplifying Tome.png" Align=right width=8% height=8%>
 
 - 450 Gold
 - Arcane Focus
@@ -42,6 +50,8 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ## Blasting Wand
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Blasting Wand.png" Align=right width=8% height=8%>
+
 - 600 Gold
 - Arcane Focus
 
@@ -53,6 +63,8 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ## Needlessly Large Rod
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Needlessly Large Rod.png" Align=right width=8% height=8%>
+
 - 750 Gold
 - Quarterstaff 
 
@@ -63,6 +75,8 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 ---
 
 ## Tear of the Goddess
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tear of the Goddess.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Spell Focus
@@ -76,16 +90,18 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Seraphs Embra
 
 ## Cloth Armor
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cloth Armor.png" Align=right width=8% height=8%>
+
 - 575 Gold
 - Wonderous
 
 **Reinforced Fabric**: While wearing this armour your base armour class is set to 13. 
 
-
-
 ---
 
-## Null-Magic mantle
+## Null-Magic Mantle
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Null-Magic Mantle.png" Align=right width=8% height=8%>
 
 - 625 Gold
 - Cloak
@@ -95,6 +111,8 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Seraphs Embra
 ---
 
 ## Cloak of Agility
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cloak of Agility.png" Align=right width=8% height=8%>
 
 - 700 Gold
 - Cloak
@@ -107,6 +125,8 @@ You gain a +1 to acrobatics checks.
 
 ## Rejuvenation Bead
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rejuvenation Bead.png" Align=right width=8% height=8%>
+
 - 525 Gold
 - Wonderous Item
 
@@ -117,6 +137,8 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 ---
 
 ## Dark Seal
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dark Seal.png" Align=right width=8% height=8%>
 
 - 1000 Gold
 - Arcane Focus
@@ -130,6 +152,8 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 
 ## B. F. Sword
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/B.F. Sword.png" Align=right width=8% height=8%>
+
 - 750 Gold
 - Greatsword
 
@@ -141,6 +165,8 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 
 ## Sheen
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sheen.png" Align=right width=8% height=8%>
+
 - 700 Gold
 - Shortsword
 
@@ -151,6 +177,9 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 ---
 
 ## Ruby Crystal
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ruby Crystal.png" Align=right width=8% height=8%>
+
 - 550 Gold
 - Wonderous Item
 
@@ -160,14 +189,18 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 
 ## Saphire Crystal
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sapphire Crystal.png" Align=right width=8% height=8%>
+
 - 550 Gold
 - Wonderous item
 
-**Saphire Mana**: You gain +5 maximum mana 
+**Mana**: You gain +5 maximum mana 
 
 ---
 
 ## Spellthive's Edge
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spellthieve's Edge.png" Align=right width=8% height=8%>
 
 - 350 gold
 - Dagger
@@ -180,6 +213,8 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 
 ---
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Steel Shoulderguards.png" Align=right width=8% height=8%>
+
 ## Steel Shoulderguards
 - 350 Gold
 - Wonderous Item
@@ -191,7 +226,9 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 
 ---
 
-## Fearie Charm
+## Faerie Charm
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Faerie Charm.png" Align=right width=8% height=8%>
 
 - 450 Gold
 - Wonderous Item
@@ -200,7 +237,9 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 
 ---
 
-## Cull
+## Cull 
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cull.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Scythe (Scimitar)
@@ -214,6 +253,8 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 
 ## Stopwatch
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stopwatch.png" Align=right width=8% height=8%>
+
 - 400 Gold
 - Wonderous Item
   
@@ -221,12 +262,16 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 
 ---
 
-## Dagger of Swift Strikes
+## Dagger of Swiftness
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dagger.png" Align=right width=8% height=8%>
 
 - 300 Gold
 - Dagger
 
 **Swift strike**: You off-hand attacks with this dagger are made with advantage.
+
+_You gain +1 to your initiative rolls_
 
 ---
 
