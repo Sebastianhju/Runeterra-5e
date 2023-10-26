@@ -200,7 +200,9 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 
 ---
 
-## Cull
+## Cull <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cull.png" Align=right width=25% height=25%>
+
+https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cull.png
 
 - 500 Gold
 - Scythe (Scimitar)
