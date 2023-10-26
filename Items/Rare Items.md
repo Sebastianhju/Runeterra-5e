@@ -191,10 +191,10 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Alternator.png" Align=right width=8% height=8%>
 
-- 2550 Gold
+- 2500 Gold
 - Wonderous Item
 
-**Revved**: Whenever you damage an enemy, you deal additional lightning damage equal to 1d10 plus your proficiency bonus. Once this effect is used, it cannot be used again until 30 seconds pass. 
+**Revved**: Whenever you damage an enemy, you also deal lightning damage equal to 1d10 plus your proficiency bonus. Once this effect is used, it cannot be used again until 30 seconds pass or resets if you would take lightning damage. 
 
 _You gain +1 to your investegation checks_
 
