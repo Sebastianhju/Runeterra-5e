@@ -200,7 +200,7 @@ Whenever you roll hit dice to heal, you can reroll ones and twos.
 
 ## Spellthive's Edge
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spellthieves Edge.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spellthievs Edge.png" Align=right width=8% height=8%>
 
 - 350 gold
 - Dagger
