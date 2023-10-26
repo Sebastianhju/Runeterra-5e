@@ -444,9 +444,9 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Vampiric**: You learn the Vampiric Touch spell and can cast it once a day without expending any spell slots or using concentration. When you cast the spell you have a +6 to hit, unless your spellcasting class has a better modifier. 
 
-**Vampirres Curse**: You heal equal to the necrotic damage you deal, but whenever you take radiant damage you gain stacks of grievous wounds equal to the damage taken, as well as you must succeed a (dc: 12) constitution saving thow or be stunned until the end of your turn.
+**Vampirres Curse**: You heal equal to the necrotic damage you deal, but whenever you take radiant damage you gain stacks of grievous wounds equal to the damage taken, as well as you must succeed a constitution saving thow (dc:10 or half the damage taken, whatever is the higher number) or be stunned until the end of your turn.
 
-_You gain a +1 to all arcana checks_But 
+_You gain a +1 to all arcana checks_
 
 ---
 
