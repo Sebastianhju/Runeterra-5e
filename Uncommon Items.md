@@ -241,4 +241,12 @@ _Alternativ_
 
 ---
 
+## Dagger of Swift Strikes
+
+- 300 Gold
+- Dagger
+
+**Swift strike**: You off-hand attacks with this dagger are made with advantage.
+
+---
 
