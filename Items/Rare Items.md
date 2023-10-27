@@ -129,6 +129,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - Attunement
 
 **Healing Power**: Whenever you heal an ally, you may spend mana to heal equal two twice the mana spent. 
+
 **Restore Power**: Whenever you heal allies you regain one mana. 
 
 ---
@@ -207,7 +208,7 @@ _You gain +1 to your investegation checks_
 - 3000 Gold
 - Whip
 
-**Crescent**: As an action, you can twirl the whip around you. All creatures within 10 feet of you must succeed a DC 14 dexterity saving throw or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 18 seconds pass. 
+**Crescent**: As an action, you can twirl the whip around you. All creatures within 10 feet of you must succeed a dexterity saving throw (DC: 8 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 18 seconds pass. 
 
 You gain +1 to hit and damage rolls using this magical weapon. 
 
@@ -221,6 +222,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - Wonderous
 
 **CDR**: The cooldowns of your runes and items are reduced by 6 seconds. 
+
 **Kindles Health**: You gain maximum hit points equal to one hit dice.
 
 You gain a +1 to medicine and animal handling checks. 
@@ -235,7 +237,8 @@ You gain a +1 to medicine and animal handling checks.
 - Spear
 
 **Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain five stacks of _energized_, up to a maximum of 80.
-**Jolt**: Whenver you are at 80 stacks of _energized_, your next attack with _Kircheis Shard_ deals 2d10 additional lightning damage. 
+
+**Jolt**: Whenver you are at 80 stacks of _energized_, your next attack with _Kircheis Shard_ also deals 2d10 lightning damage after the innitial weapons damage. 
 
 You gain +1 to hit and damage rolls using this magical weapon. 
 
@@ -245,13 +248,15 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Last Whisper.png" Align=right width=8% height=8%>
 
-- 2750 Gold
+- 2900 Gold
 - Longbow
 
-**Breathtaking**: Whenever you damage enemies, you ignore resistances to piercing damage. If a creature would be immune to piercing damage, they take half damage from your attacks. 
+**Breathtaking**: Whenever you damage enemies, you ignore resistances to piercing damage. If a creature would be immune to piercing damage, they take half damage from your attacks.
+
 **Loaded string**: As a bonus action, you load you bow. Your next attack that deals 1d6 additional damage. You can use this effect a number of times equal to your proficiency bonus before you must take a long rest. 
 
-You gain +1 to hit and damage rolls using this magical weapon. 
+_You gain +2 to inititative rolls_ 
+_You gain +1 to hit and damage rolls using this magical weapon._
 
 ---
 
