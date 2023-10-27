@@ -51,5 +51,34 @@ _You have +1 to spell attack rolls and +1 to your spell save DC when attuned to 
 
 _You have +2 to attack rolls and damage rolls using this magical weapon_ 
 
+---
 
+## Shard of True Ice
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Shard Of True Ice.png" Align=right width=8% height=8%>
+
+- A fully stacked Spellthiev's Edge
+- Dagger
+
+**True Ice**: The Shard of Ture Ice deals 1d6 cold damage on hit
+
+**Colds Embrace**: Whenever you deal cold damage to a creature you can try to bind one target to true ice, they must succeed a constitution saving throw (dc: 14 or your spell save dc, whatever is the higher), on a failure they are restrained. The creature can try to break free during their turn, or another creature can help them out spending their action. Once this effect is used, it cannot be used again until 30 seconds pass. 
+
+_You have a +2 to damage and attack rolls using this magical weapon_
+
+---
+
+## Pauldrons of Whiterock
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Pauldrons Of Whiterock.png" Align=right width=8% height=8%>
+
+- A fully stsacked Steel Shoulderguards
+- Wonderous Item
+
+**Petricite**: While wearing the Pauldrons you have advantage on saving throws agains spells and magical effects.
+
+**Shoulderguards**: You armorclass increases with +2 while wearing the Pauldrons. 
+
+**Health**: You maximum hit points increases by one hit dice. 
+
+--- 
