@@ -77,7 +77,7 @@ _You have a +2 to damage and attack rolls using this magical weapon_
 
 **Petricite**: While wearing the Pauldrons you have advantage on saving throws agains spells and magical effects.
 
-**Shoulderguards**: You armorclass increases with +2 while wearing the Pauldrons. 
+**Shoulderguards**: You armor class increases with +2 while wearing the Pauldrons. 
 
 **Health**: You maximum hit points increases by one hit dice. 
 
