@@ -51,6 +51,10 @@ _You have +1 to spell attack rolls and +1 to your spell save DC when attuned to 
 
 **Awe**: Your weapon attacks with Muramana deal 1d4 additinal damage for every 20th maximum mana you have
 
+**Shock**: When you deal damage with muramana, you can spend **five** charges to change the damage dealt to lightning damage, the target must also succeed a constitution saving throw (dc: 14 or you spell save dc, wahtever is higher), on a failed save they are stunned until the end of your next turn. 
+
+**Recharge**: This item has five charges, you regain all charges whenever you take a long rest. You also recharge a slot whenever you spend mana. 
+
 _You have +2 to attack rolls and damage rolls using this magical weapon_ 
 
 ---
@@ -66,7 +70,7 @@ _You have +2 to attack rolls and damage rolls using this magical weapon_
 
 **Colds Embrace**: Whenever you deal cold damage to a creature you can try to bind one target to true ice, they must succeed a constitution saving throw (dc: 14 or your spell save dc, whatever is the higher), on a failure they are restrained. The creature can try to break free during their turn, or another creature can help them out spending their action. Once this effect is used, it cannot be used again until 30 seconds pass. 
 
-_You have a +2 to damage and attack rolls using this magical weapon_
+_You have +2 to damage and attack rolls using this magical weapon_
 
 ---
 
@@ -119,6 +123,15 @@ _You have a +2 to damage and attack rolls using this magical weapon_
 
 ## Seryldas Grudge
 
+- 10,000 Gold
+- Spear
 
+**Haste**: The cooldowns of you runes and items are reduced by 6 seconds. 
+
+**Bitter Cold**: Whenever you deal physical spell damage, the target takes full damage if they are resistant or immune and their movementspeed is reduced by 30 feet until the end of their turn. 
+
+_You have +2 to damage and attack rolls using this magical weapon_
+
+---
 
 
