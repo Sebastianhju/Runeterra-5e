@@ -1,6 +1,8 @@
 # Very Rare Items
 10 - 15k Gold
 
+# Upgradables
+
 ## Fimbulwinter
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Fimbulwinter.png" Align=right width=8% height=8%>
@@ -82,3 +84,41 @@ _You have a +2 to damage and attack rolls using this magical weapon_
 **Health**: You maximum hit points increases by one hit dice. 
 
 --- 
+
+# Freljordian
+
+## Frozen Heart
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Frozen Heart.png" Align=right width=8% height=8%>
+
+- 12,000 Gold
+- Wonderous Item
+
+**Winters Caress**: All enemies within 10 feet of you must make one less weapon attack as a part of their action to a minimum of one attack. 
+
+**Mana**: You gain +5 maximum mana
+
+**Haste**: Your cooldowns on items and runes are reduced by 6 seconds
+
+**Armor**: You gain +1 to your armor class
+
+---
+
+## Rylai's Crystal Scepter
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rylai's Crystal Scepter.png" Align=right width=8% height=8%>
+
+- 11,000
+- Quarterstaff
+
+**Touch of Cold** Whenever you deal elemental damage, you aslo deal 1d8 cold damage.
+
+**Rimefrost**: Whenever you deal cold damage to a creature, their movement speed is reduced by 10 feet.
+
+---
+
+## Seryldas Grudge
+
+
+
+
