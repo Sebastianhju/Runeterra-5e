@@ -82,7 +82,9 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 - Spell Focus
 - Atunement
 
-**Focus**: Whenever you damage a creature you gain a stack of _focus_. For every tenth stack of focus, you gain +1 maximum mana. up to a maximum of 130 stacks. 
+**Mana**: You gain +2 maximum mana
+
+**Focus**: Once a turn when you damage a creature you gain a stack of _focus_. For every tenth stack of focus, you gain +1 maximum mana. up to a maximum of 130 stacks. 
 
 _Upgrade_: When the tear is fully stacked, it can be upgraded into Seraphs Embrace, Muramana or Fimbulwinter.
 
