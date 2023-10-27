@@ -128,7 +128,9 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 **Haste**: The cooldowns of you runes and items are reduced by 6 seconds. 
 
-**Bitter Cold**: Whenever you deal physical spell damage, the target takes full damage if they are resistant or immune and their movementspeed is reduced by 30 feet until the end of their turn. 
+**Spear Swing**: As an action, you can swing around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 8 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 18 seconds pass.
+
+**Bitter Cold**: Whenever you deal physical damage, the target takes full damage if they are resistant or immune and their movementspeed is reduced by 10 feet until the end of their turn. 
 
 _You have +2 to damage and attack rolls using this magical weapon_
 
