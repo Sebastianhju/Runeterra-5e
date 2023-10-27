@@ -55,7 +55,7 @@ _You have +2 to attack rolls and damage rolls using this magical weapon_
 
 ## Shard of True Ice
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Shard Of True Ice.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Shard of True Ice.png" Align=right width=8% height=8%>
 
 - A fully stacked Spellthiev's Edge
 - Dagger
@@ -70,7 +70,7 @@ _You have a +2 to damage and attack rolls using this magical weapon_
 
 ## Pauldrons of Whiterock
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Pauldrons Of Whiterock.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Pauldrons of Whiterock.png" Align=right width=8% height=8%>
 
 - A fully stsacked Steel Shoulderguards
 - Wonderous Item
