@@ -136,4 +136,141 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 ---
 
+# Items of Damacia
 
+---
+
+## name
+
+- xxxx Gold
+- Type
+
+**ability 1**: 
+
+**Ability 2**: 
+
+**Ability 3**:
+
+_pluss bonuses_
+
+---
+
+## name
+
+- xxxx Gold
+- Type
+
+**ability 1**: 
+
+**Ability 2**: 
+
+**Ability 3**:
+
+_pluss bonuses_
+
+---
+
+## name
+
+- xxxx Gold
+- Type
+
+**ability 1**: 
+
+**Ability 2**: 
+
+**Ability 3**:
+
+_pluss bonuses_
+
+---
+
+# Items of Noxus
+
+## name
+
+- xxxx Gold
+- Type
+
+**ability 1**: 
+
+**Ability 2**: 
+
+**Ability 3**:
+
+_pluss bonuses_
+
+---
+## name
+
+- xxxx Gold
+- Type
+
+**ability 1**: 
+
+**Ability 2**: 
+
+**Ability 3**:
+
+_pluss bonuses_
+
+---
+## name
+
+- xxxx Gold
+- Type
+
+**ability 1**: 
+
+**Ability 2**: 
+
+**Ability 3**:
+
+_pluss bonuses_
+
+---
+
+# Items of Freljord
+
+## name
+
+- xxxx Gold
+- Type
+
+**ability 1**: 
+
+**Ability 2**: 
+
+**Ability 3**:
+
+_pluss bonuses_
+
+---
+## name
+
+- xxxx Gold
+- Type
+
+**ability 1**: 
+
+**Ability 2**: 
+
+**Ability 3**:
+
+_pluss bonuses_
+
+---
+## name
+
+- xxxx Gold
+- Type
+
+**ability 1**: 
+
+**Ability 2**: 
+
+**Ability 3**:
+
+_pluss bonuses_
+
+---
