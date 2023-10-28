@@ -44,7 +44,7 @@ _You have +1 to spell attack rolls and +1 to your spell save DC when attuned to 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Muramana.png" Align=right width=8% height=8%>
 
 - A fully stacked tear
-- Javelin
+- Spear
 - Attunement
 
 **Mana**: You gain +15 maximum mana
@@ -97,6 +97,7 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 - 12,000 Gold
 - Wonderous Item
+- Attunement
 
 **Winters Caress**: All enemies within 10 feet of you must make one less weapon attack as a part of their action to a minimum of one attack. 
 
@@ -114,6 +115,7 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 - 11,000
 - Quarterstaff
+- Attunement
 
 **Touch of Cold** Whenever you deal elemental damage, you aslo deal 1d8 cold damage.
 
@@ -121,10 +123,13 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 ---
 
-## Seryldas Grudge
+## Serylda's Grudge
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Serylda's Grudge.png" Align=right width=8% height=8%>
 
 - 10,000 Gold
 - Spear
+- Attunement
 
 **Haste**: The cooldowns of you runes and items are reduced by 6 seconds. 
 
@@ -137,21 +142,56 @@ _You have +2 to damage and attack rolls using this magical weapon_
 ---
 
 ## Everfrost
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Everfrost.png" Align=right width=8% height=8%>
+
 - 11,000 Gold
 - Wonderous Item
+- Attunement
 
-**Glaciate**: Once a day you can cast the cone of cold spell without spending mana. Whenever you use this feature you can spend 3 extra mana to cast it a spell level higher, up to 9th level. Once you've used this feature, it cannot be used again until 42 seconds pass.
+**Glaciate**: Once a day you can cast the cone of cold spell without spending mana. Wisdom is your spellcasting ability unless your class uses another one. Whenever you use this feature you can spend two extra mana to cast it a spell level higher, up to 9th level. Once you've used this feature, it cannot be used again until 42 seconds pass.
 
+**Mana**: You gain +5 maximum mana
 
-**ability 1**: 
+**Haste**: the cooldown of your items and runes are reduced with 6 seconds.
 
-**Ability 2**: 
+_You gain +2 to spell attack rolls and +1 to spell save DCs_
 
-**Ability 3**:
+---
 
-_pluss bonuses_
+## Crown of the Shattered Queen
 
-# Items of Damacia
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Crown of the Shattered Queen.png" Align=right width=8% height=8%>
+
+- 12,000 Gold
+- Wonderous Item
+- Attunement
+
+**Safeguard**: Whenever you are about to take damage, you can use a reaction to activate safeguard. While safeguard is active, you take half damage from all sources and your damaging spells deal 1d8 additional cold damage until the end of your turn. Once this ability is used, it cannot be used again until 42 seconds pass.
+
+**Mana**: You gain +5 maximum mana
+
+**Haste**: the cooldown of your items and runes are reduced with 6 seconds.
+
+---
+
+## Heartsteel
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Heartsteel.png" Align=right width=8% height=8%>
+
+- 13,000 Gold
+- Shield
+- Attunement
+
+**Colossal Consumption**: Whenever you end your turn, all creatures within 5 feet of you are granted a _mark of the colossus_. Whenever you attack a creature with a mark, they take one additional damage for every 25th hit points you have, and you get a stack of _Heartsteel_. You gain one additional hit point for every tenth stack of _Heartsteel_
+
+**Health**: You gain hit points equal to your hit dice. 
+
+_You gain +1 to your armor class while wearing this piece of armor_
+
+---
+
+# Items of Demacia
 
 ---
 
