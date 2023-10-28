@@ -95,9 +95,11 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Seraphs Embra
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cloth Armor.png" Align=right width=8% height=8%>
 
 - 575 Gold
-- Wonderous
+- Studded Leather
 
-**Reinforced Fabric**: While wearing this armour your base armour class is set to 13. 
+**Very Light Fabric**: You don't need to be proficient to wear this armor. 
+
+_You have +1 to your armor class while wearing this magical armor_ 
 
 ---
 
@@ -116,12 +118,12 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Seraphs Embra
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cloak of Agility.png" Align=right width=8% height=8%>
 
-- 700 Gold
+- 550 Gold
 - Cloak
 
 **Momentery Focus**: As a bonus action you can enter a state of focus that last for a minute, when in this state your critical strike chance is increased by one and you are agile. Once this effect is used it cannot be used again until you finish a long rest. 
 
-You gain a +1 to acrobatics checks. 
+_You gain a +1 to acrobatics checks._
 
 ---
 
@@ -134,7 +136,7 @@ You gain a +1 to acrobatics checks.
 
 **Rejuvinate**: As a bonus action you can expend a hit dice to heal yourself. The amount healed is equal to your hit dice plus you constitution modifier. Once this effect is used it cannot be used again until you finish a long rest. 
 
-Whenever you roll hit dice to heal, you can reroll ones and twos. 
+**Potent Healing**: Whenever you roll hit dice to heal, you can reroll ones and twos. 
 
 ---
 
