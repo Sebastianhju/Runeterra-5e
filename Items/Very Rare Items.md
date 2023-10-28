@@ -128,13 +128,28 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 **Haste**: The cooldowns of you runes and items are reduced by 6 seconds. 
 
-**Spear Swing**: As an action, you can swing around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 8 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 18 seconds pass.
+**Spear Swing**: As an action, you can swing around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 8 + dex/str + proficiency bonus) or take damage equal to this weapons damage, this damage counts as spell damage. Once this effect is used, it cannot be used again until 18 seconds pass.
 
-**Bitter Cold**: Whenever you deal physical damage, the target takes full damage if they are resistant or immune and their movementspeed is reduced by 10 feet until the end of their turn. 
+**Bitter Cold**: Whenever you deal physical spell damage, the target takes full damage if they are resistant or immune and their movement speed is reduced by 10 feet until the end of their turn. 
 
 _You have +2 to damage and attack rolls using this magical weapon_
 
 ---
+
+## Everfrost
+- 11,000 Gold
+- Wonderous Item
+
+**Glaciate**: Once a day you can cast the cone of cold spell without spending mana. Whenever you use this feature you can spend 3 extra mana to cast it a spell level higher, up to 9th level. Once you've used this feature, it cannot be used again until 42 seconds pass.
+
+
+**ability 1**: 
+
+**Ability 2**: 
+
+**Ability 3**:
+
+_pluss bonuses_
 
 # Items of Damacia
 
