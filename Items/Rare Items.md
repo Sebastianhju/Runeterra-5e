@@ -462,7 +462,7 @@ _You gain a +1 to all arcana checks_
 - 2750 Gold
 - Half Plate
 
-**Rock Solid**: Whenever you cast a spell, you gain stacks of _Mitigate_ equal to the spells level plus your proficiency bonus, that last until the start of your next turn. 
+**Rock Solid**: Whenever you spend mana, you gain stacks of _Mitigate_ equal mana spent, that last until the start of your next turn. 
 
 **Mitigate**: Whenever you take physical damage, you can reduce the damage taken by an amount equal to your _Mitigate_ stacks. 
 
@@ -489,7 +489,7 @@ While wielding this armor you gain +1 to your armor class.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Zeal.png" Align=right width=8% height=8%>
 
--3250
+- 3250
 - Shortsword
 
 **Sharp Edged** Your critical strike chance is increased by one while wielding Zeal. Whenever you critically hit a target with Zeal, you can make an additional attack with Zeal as a bonus action.
