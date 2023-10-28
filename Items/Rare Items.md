@@ -8,7 +8,7 @@
 - Shield
 - Attunement
 
-**Aegis Aura**: As an action you can activcate the Aegis Aura, giving you and allies +2 to their armor class and saving throws for a minute as long as they are within 10 feet of you for 30 seconds. Once used, it cannot be used again until you finish a long rest. 
+**Aegis Aura**: As an action you can activate the Aegis Aura, giving you and allies +2 to their armor class and saving throws for a minute as long as they are within 10 feet of you for 30 seconds. Once used, it cannot be used again until you finish a long rest. 
 
 While wielding this piece of armor you gain +1 to your armor class. 
 
@@ -22,7 +22,7 @@ While wielding this piece of armor you gain +1 to your armor class.
 - Wonderous Item
 - Attunement
   
-**Charges**: This item has 3 charges, that all replenish whenever you finish a long rest. Whenever you end your turn after moving atleast 45 feet, you regain one charge. 
+**Charges**: This item has 2 charges, that all replenish whenever you finish a long rest. Whenever you end your turn after moving atleast 45 feet, you regain one charge. 
 
 **Spectral Might**: Whenever you deal elemental, force, necrotic or psychic damage, you can spend any amount of charges to deal 1d6 additional damage for each charge spent. 
 
@@ -35,10 +35,9 @@ While wielding this piece of armor you gain +1 to your armor class.
 - 3000 Gold
 - Wonderous Item
 
-
 **Bamis Health**: Your maximum hit points increases equal to a hit dice.
 
-**Bursting Cinder**: As an action, you can make the cinder blow up in fire for a minute. Whenever an enemy starts their turn within 5 feet of you, they must succeed a dexterity saving throw (DC = 8 + proficiency bonus + constitution modifier). On a failure they take 2d6 fire damage, halved on a save. You can use this action two times before taking a short rest. 
+**Bursting Cinder**: As an action, you can make the cinder blow up in fire for a minute. Whenever an enemy starts their turn within 5 feet of you, they must succeed a dexterity saving throw (DC = 8 + proficiency bonus + constitution modifier). On a failure they take 2d6 fire damage, halved on a save. You can use this action two times before taking a long rest. 
 
 ---
 
@@ -128,9 +127,9 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - Spell focus
 - Attunement
 
-**Healing Power**: Whenever you heal an ally, you may spend mana to heal equal two twice the mana spent. 
+**Healing Power**: Whenever you cast a healing spell, you can spend two mana to eighter target another ally with the same spell at the same spell level, or increase the range with 30 feet. 
 
-**Restore Power**: Whenever you heal allies you regain one mana. 
+**Restore Power**: Whenever you cast a healing spell, you regain one mana.
 
 ---
 
@@ -141,7 +140,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 2500 Gold
 - Shield
 
-**CDR**: The cooldown of your runes and items are reduced by 6 seconds. 
+**Steadfast**: Whenever anyone misses a melee attack roll towards you, their movement speed is reduced bu 10 feet. 
 
 **Mana**: You gain +5 maximum mana.
 
@@ -170,8 +169,6 @@ While wielding this shield you gain +1 to your armor class.
 
 **Nimble**: Whenever you hit a creature with _Hearthbound Axe_ you gain +5 feet movement speed and agility until the end of your next turn. 
 
-You gain +1 to survival checks
-
 You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
@@ -183,7 +180,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 2700 Gold
 - Longsword
 
-**Lifeline**: If you'd take elemental damage that would down you, you first gain temporary hit points equal to ten times your proficiency bonus that lasts until the end of your turn. 
+**Lifeline**: If you take elemental damage that would down you, you first gain temporary hit points equal to ten times your proficiency bonus that lasts until the end of your turn. 
 
 You gain +1 to hit and damage rolls using this magical weapon.
 
@@ -196,7 +193,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 2500 Gold
 - Wonderous Item
 
-**Revved**: Whenever you damage an enemy, you also deal lightning damage equal to 1d10 plus your proficiency bonus. Once this effect is used, it cannot be used again until 30 seconds pass or resets if you would take lightning damage. 
+**Revved**: Whenever you damage an enemy, you also deal lightning damage equal to 1d10 plus your proficiency bonus. Once this effect is used, it cannot be used again until 30 seconds pass or if you take lightning damage. 
 
 _You gain +1 to your investegation checks_
 
@@ -268,9 +265,11 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 - Wonderous Item
 - Attunement
 
-**Hope**: As a bonus action, you can give yourself temporary hit points equal to your level that. You can do this a number of times equal to your proficiency bonus before you must take a long rest. 
+**Hope**: As a bonus action, you can give yourself temporary hit points equal to your level. You can do this a number of times equal to your proficiency bonus before you must take a long rest. 
+
 **Well Timed**: Whenever you gain temporary hit points, the cooldowns of your runes and items are reduced by 6 seconds. 
-**Protection**: You gain a +1 to your armor class while wering the _Lifewell Pendant_.
+
+**Protection**: You gain a +1 to your armor class while wearing the _Lifewell Pendant_.
 
 ---
 
@@ -285,7 +284,6 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 You gain +1 to spell attack rolls and your saving throw DC. 
 
-
 ---
 
 ## Negatron Cloak
@@ -295,7 +293,7 @@ You gain +1 to spell attack rolls and your saving throw DC.
 - 2750 Gold
 - Wonderous Item
 
-**Negate**: Whenever you take physical damage from spells or elemental damage you can reduce that by 3. 
+**Negate**: Whenever you take physical or elemental damage from spells you can reduce that by 3. 
 
 **Resist**: You have advantage on saving throws against spells. 
 
@@ -332,7 +330,7 @@ You gain +1 to spell attack rolls and your saving throw DC.
 - 3250 Gold
 - Greatclub
 
-**Sturdy**: Whenever you deal damage to a crature with phage, you get a stack of _regeneration_. 
+**Sturdy**: Whenever you hit a crature with phage, you get two stacks of _regeneration_. 
 **Health**: Your maximum hit points increases equal to a hit dice. 
 
 You gain +1 to hit and damage rolls using this magical weapon. 
@@ -350,9 +348,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 **Quicksilver** As a reaction upon begin immobilized you can remove all immobilizing effects and cast lesser restoration on yourself. 
 
-**Unstoppable** You gain +2 to saving throws agains immobolizing effects. 
-
-You are proficient in history checks. 
+**Unstoppable** You gain +2 to saving throws agains immobilizing effects. 
 
 ---
 
@@ -369,7 +365,7 @@ You are proficient in history checks.
 
 **Seething Strike**: When you take the attack acton on your turn, you can spend three stacks of rage to gain an additional attack as a part of that attack action. 
 
-You gain +1 to hit and damage rolls using this magical weapon. 
+_You gain +1 to hit and damage rolls using this magical weapon._
 
 ---
 
@@ -396,7 +392,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Armguard**: Whenever you score a takedown you gain a stack of *Pact*. When you have 30 stacks, you gain +1 to your armor class. When you have 60 stacks it increases to +2. 
 
-**Witch's Pact**: Whenever you deal elemental damage, that damage is allways converted to cold damage and deals 1d8 additional cold damage. 
+**Witch's Pact**: Whenever you deal elemental damage, that damage is always converted to cold damage and deals 1d8 additional cold damage. 
 
 ---
 
@@ -407,9 +403,9 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 2900 Gold
 - Dagger
 
-**Gouge**: As a bonus action, you can target a crature within 60 feet of you enhancing your next attack that hits against them with _Serrated Dirk_. If the target is reistant they instead take full damage, if they don't have any resistances they are vulnerable. You can use this effect an amount of times equal to your proficiency bonus before finishing a long rest. 
+**Gouge**: As a bonus action, you can target a crature within 60 feet of you enhancing your next attack that hits against them with _Serrated Dirk_. If the target is resistant they instead take full damage, if they don't have any resistances they are vulnerable. You can use this effect an amount of times equal to your proficiency bonus before finishing a long rest. 
 
-You gain +1 to stealth checks 
+You gain +2 to stealth checks 
 
 You gain +1 to hit and damage rolls using this magical weapon. 
 
@@ -422,9 +418,11 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 2600 Gold
 - Wonderous Item 
 
-**Incorporeal**: Whenever you take damage from an enemy, you gain three stacks of regeneration. At the start of your turn, you can spend four stacks of regeneration to gain the ability to phase through walls and creatures, while phasing you cannot be restrained or grappled by magical effects. 
+**Incorporeal**: Whenever you take damage from an enemy, you gain two stacks of regeneration. During your turn, you can spend four stacks of regeneration to gain the ability to phase through walls and creatures until the end of your turn, while phasing you cannot be restrained or grappled. 
 
 **Health**: Your maximum hit points increases equal to a hit dice. 
+
+_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one._
 
 ---
 
