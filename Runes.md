@@ -18,27 +18,27 @@
 **Keystones**
 |Rune|Snippet|Icon|
 |---|---|---|
-|**[Conqueror](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#conqueror--)**|Gain substained damage an restoration in long fights |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" width=50% height=50%>|
-|**[Lethal Tempo](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#lethal-tempo--)**|Get attackspeed and range in long fights |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" width=50% height=50%>|
+|**[Conqueror](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#conqueror--)**|Gain substained damage an restoration in longer fights |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" width=50% height=50%>|
+|**[Lethal Tempo](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#lethal-tempo--)**|Get additional attacks and range in longer fights |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" width=50% height=50%>|
 |**[Fleet Footwork](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#fleet-footwork--)**|Gain movement speed and substain while moving in combat |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" width=50% height=50%>|
 
 **Lesser Runes**
 |Rune|Snippet|Icon|
 |---|---|---|
 |**[Overheal](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#overheal--)**|Whenever you would heal while at maximum hit points, gain temporary hit points instead|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Overheal.png" width=120% height=120%>|
-|**[Triumph](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#triumph--)**|Scoring a _Takedown_ on a creature heales you and gives you gold |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Triumph.png" width=120% height=120%>|
-|**[Presence of Mind](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#presence-of-mind-)**|Scoring a _Takedown_ on a creature you gives you mana. |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PresenceOfMind.png" width=120% height=120%>|
-|**[Legend: Alacrity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend-alacrity-)**|Scoring a _Takedown_ on a creature grants you stacks that eventually gives you an extra attack |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendAlacrity.png" width=120% height=120%>|
-|**[Legend: Tenacity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend-tenacity-)**|Scoring a _Takedown_ on a creature grants you stacks that boost your mobility|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendTenacity.png" width=120% height=120%>|
-|**[Legend: Bloodline](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend-bloodline-)**|Scoring a _Takedown_ on a creature grants you stacks that boost you maximum hit points and gives you healing on your attacks|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" width=120% height=120%>|
+|**[Triumph](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#triumph--)**|Scoring a _Takedown_ on a creature heals you and gives you gold |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Triumph.png" width=120% height=120%>|
+|**[Presence of Mind](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#presence-of-mind-)**|Gain mana whenever you kill creatures|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PresenceOfMind.png" width=120% height=120%>|
+|**[Legend: Alacrity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend-alacrity-)**|Scoring a _Takedowns_ grants you stacks that improves your combat |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendAlacrity.png" width=120% height=120%>|
+|**[Legend: Tenacity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend-tenacity-)**|Scoring a _Takedows_ boost your mobility|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendTenacity.png" width=120% height=120%>|
+|**[Legend: Bloodline](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend-bloodline-)**|Scoring a _Takedowns_ boost you substain in combat|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" width=120% height=120%>|
 |**[Coup de Grace](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#coup-de-grace-)**| Deal increased damage to bloodied creatures |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CoupDeGrace.png" width=120% height=120%>|
-|**[Cut Down](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cut-down-)**|Deal increasd damage to larger targets|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CutDown.png" width=120% height=120%>|
-|**[Last Stand](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#last-stand-)**|While below half health, your attacks deal additional damage|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LastStand.png" width=120% height=120%>|
+|**[Cut Down](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cut-down-)**|Deal increased damage to larger targets|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CutDown.png" width=120% height=120%>|
+|**[Last Stand](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#last-stand-)**|Deal increased damage while low on health|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LastStand.png" width=120% height=120%>|
 
 
 ## Keystones
 ### Conqueror  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" Align=left width=25% height=25%>
-Once per attack, whenever you damage enemies, you gain stacks of Conqueror. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you deal additional damage from your damage sources as shown on the table below, and you heal for the additional damage dealt. 
+Once per attack, whenever you damage enemies, you gain stacks of Conqueror. Two stacks for ranged attacks, and three stacks for melee attacks. Whenever you get 10 stacks, you deal additional damage from your damage sources as shown on the table below, and you heal for the additional damage dealt. 
 
 **Conqueror Scaling**
 |Level|Damage|
@@ -50,7 +50,7 @@ Once per attack, whenever you damage enemies, you gain stacks of Conqueror. One 
 
 ---
 ### Lethal Tempo  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" Align=left width=25% height=25%>
-Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you gain 10ft reach on meele weapons, and 10 feet extra range for ranged weapons and spells. In addition you can make an extra attack as a part of your attack action.
+Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. Two stacks for ranged attacks, and three stacks for melee attacks. Whenever you get 10 stacks, you can make an extra attack as a part of your attack action and gain range based on your level as shown on the table below. 
 
 **Lethal Tempo Scaling**
 |Level|Damage|
@@ -68,7 +68,7 @@ Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for ev
 |---|---|
 |1| 1d6 + proficiency bonus |
 |5| 2d6 + proficiency bonus|
-|9|3d6 + proficiency bonus|
+|9| 3d6 + proficiency bonus|
 
 ---
 ## Lesser Runes
@@ -87,63 +87,62 @@ Whenever you score a takedown, you gain gold equal to ten times the creautres _C
 
 ### Presence of Mind <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PresenceOfMind.png" Align=left width=7% height=7%>
 
-Whenever you score a takedown on a creature of a _Challenge Rating_ of 1 or higher, you gain mana equal to your proficiency bonus. 
+Whenever you kill a creature, you gain mana equal to your proficiency bonus. 
 
 ---
 
 ### Legend: Alacrity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendAlacrity.png" Align=left width=7% height=7%>
 
-Whenever you score takedowns on creatures with a _Challenge Rating_ of one or higher, you gain stacks of Alacrity that gives you benefits according to the table below. Whenever you get a kill you gain three stacks and whenever you gain an assist you gain one stack.
-
+Whenever you score takedowns on creatures with a _Challenge Rating_ of one or higher, you gain a stack of Alacrity that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
 **Alacrity Scaling**
 |Stacks|Feture|
 |---|---|
 |0| After you take the attack action, you can spend your bonus action to make an extra attack that cannot critically hit.|
-|25| You gain +2 to initiative|
-|50| Whenever you take the attack action, you can make an extra attack as a part of that action|
+|30| You gain +2 to initiative|
+|60| Whenever you take the attack action, you can make an extra attack as a part of that action|
 
 ---
 
 ### Legend: Tenacity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendTenacity.png" Align=left width=7% height=7%>
 
-Whenever you score takedowns on creatures with a _Challenge Rating_ of one or higher, you gain stacks of _Tenacity_ that gives you benefits according to the table below. Whenever you get a kill you gain three stacks and whenever you gain an assist you gain one stack.
+Whenever you score takedowns on creatures with a _Challenge Rating_ of one or higher, you gain a stacks of _Tenacity_ that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
 
 **Tenacity Scaling**
 |Stacks|Feture|
 |---|---|
 |0| You ignore difficult terrain and your movement speed can't be reduced. You can still be immobilized. |
-|25| you gain +5 feet movement speed|
-|50| Whenever you have to make a saving throw against immobilizing effects, you have advantage|
+|30| you gain +5 feet movement speed|
+|60| Whenever you have to make a saving throw against immobilizing effects, you have advantage|
 
 ---
 ### Legend: Bloodline <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" Align=left width=7% height=7%>
 
-Whenever you score takedowns on creatures with a _Challenge Rating_ of one or higher, you gain a stavk of Bloodline that gives you benefits according to the table below. 
+Whenever you score takedowns on creatures with a _Challenge Rating_ of one or higher, you gain a stavk of Bloodline that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
 
 **Bloodline Scaling**
 |Stacks|Feture|
 |---|---|
 |0| Whenever you hit a creature, you heal equal to your proficiency bonus|
-|25| You gain +5 maximum hit points|
-|50| Whenever you hit a creature, you heal hit points equal to your twice your proficiency bonus|
+|30| You gain +5 maximum hit points|
+|60| Whenever you hit a creature, you heal hit points equal to your twice your proficiency bonus|
 
 ---
 
 ### Coup De Grace <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CoupDeGrace.png" Align=left width=7% height=7%>
 
-Whenever you roll damage, you deal 1d4 extra damage to _bloodied_ creatures. 
+Whenever you deal damage, you deal 1d4 extra damage to _bloodied_ creatures. 
 
 ---
 
 ### Cut Down <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CutDown.png" Align=left width=7% height=7%>
 
-Whenever you roll damage, you deal 1d4 extra damage to a creature for each size larger than you it is. 
+Whenever you deal damage, you deal 1d4 extra damage to a creature for each size larger than you it is. 
 
 ---
 
 ### Last Stand <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LastStand.png" Align=left width=7% height=7%>
 
-When you roll damage, you deal 1d6 additional damage if you are _bloodied_. 
+When you deal damage, you deal 1d6 additional damage if you are _bloodied_. 
 
 ---
 
@@ -153,9 +152,9 @@ When you roll damage, you deal 1d6 additional damage if you are _bloodied_.
 **Keystones**
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
-|**[Electrocute](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#electrocute-)**| Deal additional lightning damage when you hit a target with consequtive attacks| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" width=50% height=50%>|
-|**[Dark Harvest](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#dark-harvest-)** | Deal additional force damage to bloodied targets  |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" width=50% height=50%> |
-|**[Predator](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#predator-)** | You can dash as a bonus action and gain advantage on rushed attacks | <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" width=50% height=50%>|
+|**[Electrocute](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#electrocute-)**| Deal additional lightning damage when you hit a target with seperate attacks| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" width=50% height=50%>|
+|**[Dark Harvest](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#dark-harvest-)** | Deal additional force damage to bloodied targets|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" width=50% height=50%> |
+|**[Predator](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#predator-)** | You can dash as a bonus action and gain damage and advantage on rushed attacks | <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" width=50% height=50%>|
 
 **Lesser Runes**
 |**Rune**|**Snippet**|**Icon**|
@@ -164,11 +163,11 @@ When you roll damage, you deal 1d6 additional damage if you are _bloodied_.
 |**[Taste of Blood](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#taste-of-blood-)**|Heal when you damage enemies|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png">|
 |**[Sudden Impact](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#sudden-impact-)**|Deal additional damage to creatutures after you dash, blink or teleport|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png">|
 |**[Ghost Poro](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ghost-poro-)**|Gain a haunted Poro companion|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GhostPoro.png">|
-|**[Eyeball Collection](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ceyeball-collection-)**|As you kill creatures you become more adept in sight revolving tasks|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/EyeballCollection.png">|
-|**[Treasure Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#treasure-hunter-)**|Gain gold whenever you kill creatures|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/TreasureHunter.png">|
-|**[Igenious Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ingenious-hunter-)**|Scoring takedowns grants you stacks that reduce the cooldown of runes and items|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png">|
-|**[Relentless Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#relentless-hunter-)**|Scoring takedowns grants you stacks that increase your traveling and hunting capabilities|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/RelentlessHunter.png">|
-|**[Ultimate Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ultimate-hunter-)**|Scoring takedowns grants you stacks that reduce the cooldown of your ultimate ability|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/UltimateHunter.png" Height=50% Width=50%>|
+|**[Eyeball Collection](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ceyeball-collection-)**|As you kill enemies, you senses are enhanced|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/EyeballCollection.png">|
+|**[Treasure Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#treasure-hunter-)**|You gain the possibility to find exclusive boss loot|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/TreasureHunter.png">|
+|**[Igenious Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ingenious-hunter-)**|Scoring takedowns reduce the cooldowns of runes and items|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png">|
+|**[Relentless Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#relentless-hunter-)**|Scoring takedowns increase your traveling and hunting skills|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/RelentlessHunter.png">|
+|**[Ultimate Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ultimate-hunter-)**|Scoring takedowns reduce the cooldown of your ultimate ability|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/UltimateHunter.png" Height=50% Width=50%>|
 
 ## Keystones
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=25% height=25%>
@@ -183,20 +182,20 @@ Damaging an enemy gives them a mark of electorcute that lasts until the end of y
 
 ---
 ### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=25% height=25%>
-Once a turn whenever you damage a bloody creature you gain a stack of *Harvest* and they take  1d4 additional *Force* damage table below plus 1 for every 15th stack you have. A Once used, it cannot be used again until you score a takedown, or finish a long rest. 
+Once a turn whenever you damage a bloody creature you gain a stack of *Harvest* and they take force damage as shown on the table below. A Once used, it cannot be used again until you score a takedown, or finish a long rest. 
 
 **Harvest damage**
 | Level | Damage                               |
 | -------------- | ------------------------------------ |
-| 1            | 1d4 Force Damage              |
-| 5             | 2d4 Force Damage              |
-| 9             | 3d4 Force Damage               |
+| 1            | 1d4 + 1 for every 20th stack          |
+| 5             | 1d4 + 2 for every 20th stack            |
+| 9             | 1d4 + 2 for every 15th stack             |
 
 ---
 
 ### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=25% height=25%>
 
-You can dash as a bonus action, and the next attack that hits this round deals additional damage for every 15 feet you've traveled directly towards your target this turn. Once used, it cannot be used again until 45 seconds has passed.
+You can dash as a bonus action, and the next attack that hits this round deals additional damage for every 15 feet you've traveled directly towards your target this turn. Once used, it cannot be used again until 48 seconds has passed.
 
 Whenever you take the dash action on your turn, you gain advantage on your next melee attack if you moved at least 15ft in a straight line towards the target.
 
@@ -221,7 +220,7 @@ Whenever you damage a creature while being below maximum hit points, you can cho
 ---
 ### Sudden Impact <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png" Align=left width=7% height=7%>
 
-Whenever you dash, blink or teleport your next damaging attack deals 1d6 more damage and ignores all resistances. 
+Whenever you dash, blink or teleport your next damaging attack deals 1d6 additional force damage and ignores all resistances. 
 
 ---
 ### Ghost Poro <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GhostPoro.png" Align=left width=7% height=7%>
@@ -267,7 +266,7 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 |---|---|
 |0|Your party can move stealthly as they travel without loosing travel speed, in addition you can use the hide action as a bonus action|
 |25|You gain proficiency in the survival check, or expertice if you are already proficient. Whenever you roll a survival check to track creatures, you have advantage. |
-|50|You gain +10 feet movement speed|
+|50|You gain +15 feet movement speed|
 
 ---
 ### Ultimate Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/UltimateHunter.png" Align=left width=7% height=7%>
@@ -279,7 +278,7 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 |---|---|
 |0|Your Ultimates cooldown is reduced by 1 |
 |25|Your Ultimates cooldown is reduced by 2 |
-|50|Your Ultimates cooldown is reduced by 3|
+|30|Your Ultimates cooldown is reduced by 3|
 
 ---
 
@@ -289,21 +288,21 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
 |**[Summon Aery](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#summon-aery-)**| Summon a loyal friend that can shield allies or deal damage| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/SummonAery.png" width=50% height=50%>|
-|**[Arcane Comet](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#arcane-comet-)** | Whenever you deal damage, a large comet deals damage in a circle  |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" width=50% height=50%> |
+|**[Arcane Comet](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#arcane-comet-)** | Whenever you deal damage you can summon an arcane comet, dealing damage in a circle |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" width=50% height=50%> |
 |**[Phase Rush](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#phase-rush-)** | Gain bursts of speed and agility in combat| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" width=50% height=50%>|
 
 **Lesser Runes**
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
 |**[Nullifying Orb](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#nullifying-orb-)**|Gain temporary hit points when you take elemental damage|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Nullifying Orb.png">|
-|**[Manaflow Band](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#manaflow-band-)**|Scoring takedowns grants you stacks that increase your maximum mana|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ManaflowBand.png">|
-|**[Nimbus Cloak](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#nimbus-cloak-)**|Using _summoner spells_ gives you _agility_ and movement speed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/6361.png" height=50% width=50%>|
+|**[Manaflow Band](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#manaflow-band-)**|Scoring takedowns increases your maximum mana|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ManaflowBand.png">|
+|**[Nimbus Cloak](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#nimbus-cloak-)**|_Summoner spells are cheaper. Additionaly using _summoner spells_ gives you _agility_ and movement speed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/6361.png" height=50% width=50%>|
 |**[Transcendence](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#transcendence-)**|Reduce the cooldown of items and runes as you level up|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Transcendence.png">|
 |**[Celerity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#celerity-)**|Your speed improving effects are doubled|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/CelerityTemp.png">|
 |**[Absolute Focus](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#absolute_focus-)**|Deal more damage when you are healthy|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/AbsoluteFocus.png">|
-|**[Scorch](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#scorch-)**|Damaging enemies makes them burn|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Scorch.png">|
-|**[Waterwalking](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#waterwalking-)**|You gain increased movementspeed in watery terrain|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Waterwalking.png">|
-|**[Gathering Storm](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#gathering-storm-)**|You become adept in thunder and lightning damage|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/GatheringStorm.png">|
+|**[Scorch](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#scorch-)**|Damaging enemies sets them ablaze|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Scorch.png">|
+|**[Waterwalking](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#waterwalking-)**|You gain increased movement speed and damage in watery terrain|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Waterwalking.png">|
+|**[Gathering Storm](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#gathering-storm-)**|You become adept in tempest spells|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/GatheringStorm.png">|
 
 ## Keystones
 ### Summon Aery  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/SummonAery.png" Align=left width=25% height=25%>
@@ -321,7 +320,7 @@ Aerys hit points scales with your level. Their hit point maximum equals 5 times 
 
 ### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" Align=left width=25% height=25%>
 
-Whenever you deal damage to a target you can summon a comet that crashes onto the target. The target and all enemies around it takes magical bludgeoning damage scaling with your level. Once used, it cannot be used again until 30 seconds has passed.
+Whenever you deal damage to a target you can summon a comet that crashes onto the target. The target and all enemies around it takes magical bludgeoning damage scaling with your level. Once used, it cannot be used again until 36 seconds has passed.
 
 **Arcane Comet Scaling**
 |Level|Effect|
@@ -347,7 +346,7 @@ When you deal damage to a target, they gain a mark of Phase until the end of you
 ## Lesser Runes
 ### Nullifying Orb  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Nullifying Orb.png" Align=left width=7% height=7%>
 
-Whenever you are bloodied and take elemental damage, before the damage occurs you gain temporary hitpoints equal to five times your proficiency bonus. Once used, this effect cannot be used again until 30 seconds has passed. 
+Whenever you are bloodied and take elemental damage, before the damage occurs you gain temporary hitpoints equal to five times your proficiency bonus. Once used, this effect cannot be used again until 42 seconds has passed. 
 
 ---
 ### Manaflow Band  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ManaflowBand.png" Align=left width=7% height=7%>
@@ -397,7 +396,7 @@ While above 50% health, you deal 1d4 additional damage.
 
 ### Scorch  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Scorch.png" Align=left width=7% height=7%>
 
-When you damage an enemy, you set them on fire. The enemy takes 1d4 fire damage at the start of their next three turns. Once used, this effect cannot be used again until 30 seconds have passed. 
+When you damage an enemy, you set them ablaze. The enemy takes 2d4 fire damage at the start of their next three turns. Once used, this effect cannot be used again until 30 seconds have passed. 
 
 ---
 
