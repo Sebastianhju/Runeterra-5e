@@ -115,7 +115,9 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Spell Enhancer**: Whenever you deal damage from a spell you may reroll up to three damage dices. 
 
-**CDR**: The cooldown of your runes and items are reduced by 6 seconds. 
+**Haste**: The cooldown of your runes and items are reduced by 6 seconds. 
+
+**Fiendish Knowledge**: You may prepare one extra spell from you spellcasting list. 
 
 ---
 
@@ -218,7 +220,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 2500 Gold
 - Wonderous
 
-**CDR**: The cooldowns of your runes and items are reduced by 6 seconds. 
+**Haste**: The cooldowns of your runes and items are reduced by 6 seconds. 
 
 **Kindles Health**: You gain maximum hit points equal to one hit dice.
 
