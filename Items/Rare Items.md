@@ -89,6 +89,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - Attunement
 
 **Piercing Crystals**: While wearing these Bracers your unarmed attacks have +1 to hit and damage rolls. 
+
 **Healing Crystals**: Once a turn whenver you hit a target, you can choose to heal equal to half the damage dealt. Once this feature is used, ut cannot be used again until 18 seconds have passed. 
 
 ---
@@ -309,6 +310,7 @@ You gain +1 to spell attack rolls and your saving throw DC.
 - Wonderous Item
 
 **Statikk Arrows**: The noonquiver is magically loaded with _Statikk Arrows_ that deal 1d4 additional lightning damage. 
+
 **High Noon**: As a bonus action you can enter a state of focus that lasts for 18 seconds. Whenever you take the attack action you can do an additional attack as a part of that action. Once this action is used, it cannot be used again until you finish a long rest. 
 
 ---
@@ -321,6 +323,7 @@ You gain +1 to spell attack rolls and your saving throw DC.
 - Arcane Focus
 
 **Cursed**: Whenever you deal spell damage, you give yourself and the target a stack of grievous wounds. 
+
 **Oblivion**: Your single target spells deals 1d6 additional necrotic damage. 
 
 ---
@@ -333,6 +336,7 @@ You gain +1 to spell attack rolls and your saving throw DC.
 - Greatclub
 
 **Sturdy**: Whenever you hit a crature with phage, you get two stacks of _regeneration_. 
+
 **Health**: Your maximum hit points increases equal to a hit dice. 
 
 You gain +1 to hit and damage rolls using this magical weapon. 
