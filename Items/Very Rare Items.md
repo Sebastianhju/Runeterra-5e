@@ -133,7 +133,7 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 **Haste**: The cooldowns of you runes and items are reduced by 6 seconds. 
 
-**Spear Swing**: As an action, you can swing around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 8 + dex/str + proficiency bonus) or take damage equal to this weapons damage, this damage counts as spell damage. Once this effect is used, it cannot be used again until 18 seconds pass.
+**Spear Swing**: As an action, you can swing around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or take damage equal to this weapons damage, this damage counts as spell damage. Once this effect is used, it cannot be used again until 18 seconds pass.
 
 **Bitter Cold**: Whenever you deal physical spell damage, the target takes full damage if they are resistant or immune and their movement speed is reduced by 10 feet until the end of their turn. 
 
@@ -228,18 +228,51 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 
 ---
 
-## name
+## Stridebreaker
 
-- xxxx Gold
-- Type
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stridebreaker.png" Align=right width=8% height=8%>
 
-**ability 1**: 
+- 10,750 Gold
+- Morningstar
 
-**Ability 2**: 
+**Halting Slash**: As an action, you can swing around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or be knocked prone and take damage equal to this weapons damage. Once this ability is used, it cannot be used again until 30 seconds pass. 
 
-**Ability 3**:
+**Heroic Gait**: Whenever you deal physical damage to creatures, you gian +5 movement speed until the end of your turn. 
 
-_pluss bonuses_
+_You have +2 to attack and damage rolls when using this magical weapon. _
+
+---
+
+## Randuin's Omen
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Randuin's Omen.png" Align=right width=8% height=8%>
+
+- 10,000
+- Shield
+
+**Humility**: As a bonus action, you force all creatures within 5 feet of you to succeed a strength savingthrow (dc: 10 + proficiency bonus + constitution modifier). On a failed save they take 2d8 thunder damage and are pushed 15 feet away from you. 
+
+**Critical Resilence**: Attacks cannot critically hit against you while wielding this shield
+
+**Health**: You gain hit points equal to your hit dice. 
+
+_You have +1 to your armor class while wearing this shield_
+
+---
+
+## Knight's Wov
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Knight's Wov.png" Align=right width=8% height=8%>
+
+- 12,000
+- Wonderous
+- Attunement
+
+**Pledge**: As a ritual during your long rest, you can select an ally to be named _Worthy_. The worthy creature can add 1d6 to all ability checks, until you select a new _Worthy_ target. 
+
+**Sacrifice**: Whenever the _Worthy_ ally is within 60 feet of you and takes damage, you take half of that damage as true damage and they take half damage instead. Whenever the _Worthy_ ally deals damage, you heal equal to your proficiency bonus, up to a maximum of five times each round. 
+
+**Health**: You gain hit points equal to your hit dice. 
 
 ---
 
