@@ -250,12 +250,14 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stridebreaker.png" Align=right width=8% height=8%>
 
-- 10,750 Gold
+- 11,000 Gold
 - Morningstar
 
 **Halting Slash**: As an action, you can swing around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or be knocked prone and take damage equal to this weapons damage. Once this ability is used, it cannot be used again until 30 seconds pass. 
 
 **Heroic Gait**: Whenever you deal physical damage to creatures, you gian +5 movement speed until the end of your turn. 
+
+**Haste**: The cooldown of your items and runes are reduced with 6 seconds.
 
 _You have +2 to attack and damage rolls when using this magical weapon. _
 
@@ -265,7 +267,7 @@ _You have +2 to attack and damage rolls when using this magical weapon. _
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Randuin's Omen.png" Align=right width=8% height=8%>
 
-- 10,000
+- 10,000 Gold
 - Shield
 
 **Humility**: As a bonus action, you force all creatures within 5 feet of you to succeed a strength savingthrow (dc: 10 + proficiency bonus + constitution modifier). On a failed save they take 2d8 thunder damage and are pushed 15 feet away from you. 
@@ -326,50 +328,105 @@ _You have +2 to hit and attack rolls using this magical weapon_
 
 # Items of Noxus
 
-## name
+## Immortal Shieldbow
 
-- xxxx Gold
-- Type
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Immortal Shieldbow.png" Align=right width=8% height=8%>
 
-**ability 1**: 
+- 12,000 Gold
+- Shortbow
 
-**Ability 2**: 
+**Lifeline**: If you would take damage that would reduce your hit points to zero, you first gain temporary hit points equal to 5 times your proficiency bonus. As long as you have these temporary hit points, you can make an additianal attack as a part of your attack action. 
 
-**Ability 3**:
+**Critical**: Your Critical strike chance increases by one.  
 
-_pluss bonuses_
+**Lifesteal**: Whenever you hit a target with the _Immortal shieldbow_ you heal equal to your proficieny bonus. 
 
----
-## name
-
-- xxxx Gold
-- Type
-
-**ability 1**: 
-
-**Ability 2**: 
-
-**Ability 3**:
-
-_pluss bonuses_
+_While wielding this bow, you gian +2 to hit and attack rolls and +1 to your armor class_
+_You gain +3 to inititative checks_
 
 ---
-## name
+## Goredrinker
 
-- xxxx Gold
-- Type
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Goredrinker.png" Align=right width=8% height=8%>
 
-**ability 1**: 
+- 11,000 Gold
+- Morningstar
 
-**Ability 2**: 
+**Thirsting Slash**: As an action, you can swing around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or take damage equal to this weapons damage, you heal equal to your proficiency bonus for every target within 5 feet of you. Once this ability is used, it cannot be used again until 30 seconds pass. 
 
-**Ability 3**:
+**Lifesteal**: Whenever you hit a target with _Goredrinker_ you heal equal to your proficiency bonus_ 
 
-_pluss bonuses_
+**Haste**: The cooldown of your items and runes are reduced with 6 seconds.
+
+_You gain +2 to hit and damage rolls with this magical weapon_
 
 ---
 
-# Items of Freljord
+## Lord Dominic's Regard
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lord Dominic's Regard.png" Align=right width=8% height=8%>
+
+- 12,000 Gold
+- Longbow
+
+**Breathtaking**: Whenever you damage enemies, you ignore resistances to piercing damage. If a creature would be immune to piercing damage, they take half damage from your attacks.
+
+**Giant Slayer**: _Lord Dominic's Regard_ deals 1d8 additional damage to targets that are one or more size larger than you. 
+
+**Critical**: Your Critical strike chance increases by one. 
+
+_You gain +2 to hit and attack rolls with this magical weapon_
+_You gain +3 to initiative rolls_
+
+---
+
+## Black Cleaver
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Black Cleaver.png" Align=right width=8% height=8%>
+
+- 12,500 Gold
+- Greataxe
+
+**Carve**: Whenever you hit a creature with Black Cleaver, they gain a stack of _Carve_
+
+**Haste**: The cooldown of your items and runes are reduced with 6 seconds.
+
+**Health**: You gain hit points equal to your hit dice. 
+
+_Carve: Your armor class is reduced by one for every stack of carve you have, up to a maximum of four. Whenever you start your turn, you remove one stack of carve_ 
+
+_You gain +2 to hit and attack rolls using this magical weapon_
+
+---
+
+## Sterak's Gage
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sterak's Gage.png" Align=right width=8% height=8%>
+
+- 10,000 Gold
+- Wonderous Item
+
+**Catching Claws**: You gain +2 to hit and damage on your unarmed attacks. Whenever you hit an unarmed attack, you can use your bonus action to grapple the target. 
+
+**Lifeline**: If you would take damage that would reduce your hit points to zero, you first gain temporary hit points equal to 10 times your proficiency bonus. As long as you have these temporary hit points, your size increases by one and your movement speed cannot be reduced, but you can still be grappled or restrained. 
+
+**Health**: You gain hit points equal to two of your hit dice. 
+
+--
+
+##
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
+
+--
+
+##
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
+--
+
+
+# Iconic Items
 
 ## name
 
