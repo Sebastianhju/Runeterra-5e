@@ -207,7 +207,7 @@ _You gain +1 to your investegation checks_
 - 3000 Gold
 - Whip
 
-**Crescent**: As an action, you can twirl the whip around you. All creatures within 10 feet of you must succeed a dexterity saving throw (DC: 8 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 18 seconds pass. 
+**Crescent**: As an action, you can twirl the whip around you. All creatures within 10 feet of you must succeed a dexterity saving throw (DC: 8 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 30 seconds pass. 
 
 You gain +1 to hit and damage rolls using this magical weapon. 
 
