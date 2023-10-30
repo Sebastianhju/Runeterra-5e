@@ -362,9 +362,9 @@ _You gain +2 to hit and damage rolls with this magical weapon_
 
 ---
 
-## Lord Dominic's Regard
+## Lord Dominic's Regards
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lord Dominic's Regard.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lord Dominic's Regards.png" Align=right width=8% height=8%>
 
 - 12,000 Gold
 - Longbow
