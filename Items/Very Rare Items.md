@@ -213,7 +213,7 @@ _You gain +2 to your armor class while wearing this piece of armor_
 
 ## Lich Bane
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lich Bane.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Litch Bane.png" Align=right width=8% height=8%>
 
 - 11,500 Gold
 - Shortsword
