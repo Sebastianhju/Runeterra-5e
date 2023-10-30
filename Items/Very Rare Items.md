@@ -87,6 +87,24 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 **Health**: You maximum hit points increases by one hit dice. 
 
+---
+
+## Mejai's Soulstealer
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mejai's Soulstealer.png" Align=right width=8% height=8%>
+
+- 5000 Gold
+- Wonderous Item
+- Attunement
+
+**Sealed Tome**: This tome cannot be attuned to unless you unlock it with a fully stacked dark seal. 
+
+**Glory**: Whenever you score a takedown you gain a stack of glory, up to a maximum of 25. Whenever your hit points are reduced to 0 you loose all stacks of glory.
+
+**Dread**: While at 5 or more stacks, you deal 1d4 additional damage whenever you deal elemental, necrotic, psychic or force damage. This damage increases to 2d4 whenever you are at 10 stacks. This damage increases to 3d4 whenever you gain 25 stacks.
+
+**Secretkeeper**: The first time you achive 50 stacks you can increase all ability modifiers by one. Once the book has used in this way, this feature cannot be used again.
+
 --- 
 
 # Freljordian
@@ -260,11 +278,11 @@ _You have +1 to your armor class while wearing this shield_
 
 ---
 
-## Knight's Wov
+## Knight's Vow
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Knight's Wov.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Knight's Vow.png" Align=right width=8% height=8%>
 
-- 12,000
+- 12,000 Gold
 - Wonderous
 - Attunement
 
@@ -273,6 +291,36 @@ _You have +1 to your armor class while wearing this shield_
 **Sacrifice**: Whenever the _Worthy_ ally is within 60 feet of you and takes damage, you take half of that damage as true damage and they take half damage instead. Whenever the _Worthy_ ally deals damage, you heal equal to your proficiency bonus, up to a maximum of five times each round. 
 
 **Health**: You gain hit points equal to your hit dice. 
+
+---
+
+## Guardian Angel
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Guardian Angel.png" Align=right width=8% height=8%>
+
+- 13,000 Gold
+- Greatsword
+
+**Rebirth**: The first time your hit points would be reduced to zero, you are instead left on 1 hit point. You become invulnerable and all incoming healing is doubled until the end of your next turn. 
+
+**Flight**: You gain 30 feet flying speed
+
+_You have +2 to hit and damage rolls with this magical weapon_ 
+
+---
+
+## Essence Reaver
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Essense Reaver.png" Align=right width=8% height=8%>
+
+- 11,000
+- Scimitar (Scyte)
+
+**Stored Potential**: After casting a spell, your next attack with _Essence Reaver_ has a +2 critically strike chance and deals 1d8 additianal slashing damage.
+
+**Manacharge**: Whenever you critically hit a creature, you regain 1 mana. 
+
+_You have +2 to hit and attack rolls using this magical weapon_ 
 
 ---
 
