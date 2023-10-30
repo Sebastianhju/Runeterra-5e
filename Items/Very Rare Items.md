@@ -193,9 +193,9 @@ _You gain +1 to your armor class while wearing this piece of armor_
 
 # Items of Demacia
 
-## Gargoyle's Stoneplate
+## Gargoyle Stoneplate
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Gargoyle's Stoneplate.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Gargoyle Stoneplate.png" Align=right width=8% height=8%>
 
 - 10,000 Gold
 - Plate
