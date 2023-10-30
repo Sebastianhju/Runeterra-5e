@@ -193,20 +193,21 @@ _You gain +1 to your armor class while wearing this piece of armor_
 
 # Items of Demacia
 
----
+## Gargoyle's Stoneplate
 
-## name
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Gargoyle's Stoneplate.png" Align=right width=8% height=8%>
 
-- xxxx Gold
-- Type
+- 10,000 Gold
+- Plate
+- Attunement
 
-**ability 1**: 
+**Fortify**: You take 3 less damage from pysical and elemental damage. 
 
-**Ability 2**: 
+**Monolith**: As a bonus action you can give yourself temporary hit points equal to five times your proficiency modifier. You can do this effect a number of times equal to your proficiency modifier before you must finish a long rest.  
 
-**Ability 3**:
+**Petricite**: Whenever you gain temporary hit points, you can remove one magical effect affecting you.
 
-_pluss bonuses_
+_You gain +2 to your armor class while wearing this piece of armor_
 
 ---
 
