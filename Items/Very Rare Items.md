@@ -149,7 +149,7 @@ _You have +2 to damage and attack rolls using this magical weapon_
 - Wonderous Item
 - Attunement
 
-**Glaciate**: Once a day you can cast the cone of cold spell without spending mana. Wisdom is your spellcasting ability unless your class uses another one. Whenever you use this feature you can spend two extra mana to cast it a spell level higher, up to 9th level. Once you've used this feature, it cannot be used again until 42 seconds pass.
+**Glaciate**: Once a day you can cast the cone of cold spell without spending mana. Wisdom is your spellcasting ability unless your class uses another one. Whenever you use this feature you can spend two extra mana to cast it a spell level higher, up to 9th level. Once you've used this feature, it cannot be used again until you finish a long rest.
 
 **Mana**: You gain +5 maximum mana
 
@@ -171,7 +171,7 @@ _You gain +2 to spell attack rolls and +1 to spell save DCs_
 
 **Mana**: You gain +5 maximum mana
 
-**Haste**: the cooldown of your items and runes are reduced with 6 seconds.
+**Haste**: The cooldown of your items and runes are reduced with 6 seconds.
 
 ---
 
@@ -213,16 +213,18 @@ _You gain +2 to your armor class while wearing this piece of armor_
 
 ## Lich Bane
 
-- xxxx Gold
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lich Bane.png" Align=right width=8% height=8%>
+
+- 11,500 Gold
 - Shortsword
 
 **Spellblade**: You can use you spellcasting ability when determening to hit and damge modifiers for this weapon.
 
 **Lingering Power**: After casting a spell, your next attack deals 2d6 additional psycich damage. 
 
-**Mageslayer**: Whenever you deal damage to a target that is concentrating, they have disadvantage on the conventration check,and their next spell costs 1 additional mana. 
+**Mageslayer**: Whenever you hit a target that is concentrating with _Lich Bane_, they have disadvantage on the conventration check, and their next spell costs 1 additional mana. 
 
-_pluss bonuses_
+_You have +2 to attack and damage rolls when using this magical weapon_
 
 ---
 
