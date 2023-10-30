@@ -211,16 +211,16 @@ _You gain +2 to your armor class while wearing this piece of armor_
 
 ---
 
-## name
+## Lich Bane
 
 - xxxx Gold
-- Type
+- Shortsword
 
-**ability 1**: 
+**Spellblade**: You can use you spellcasting ability when determening to hit and damge modifiers for this weapon.
 
-**Ability 2**: 
+**Lingering Power**: After casting a spell, your next attack deals 2d6 additional psycich damage. 
 
-**Ability 3**:
+**Mageslayer**: Whenever you deal damage to a target that is concentrating, they have disadvantage on the conventration check,and their next spell costs 1 additional mana. 
 
 _pluss bonuses_
 
