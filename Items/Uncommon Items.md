@@ -42,11 +42,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 - 750 Gold
 - Arcane Focus
 
-**Amplifying**: Whenever you roll for elemental damage, you may reroll two damage dices and use the new results.
-
-**Tome**: You may prepare one extra spell from you spellcasting list. 
-
-**Consume Knowledge**: If you read this book for an hour, you can increase one ability score by one. When you do this, the amplifying tome evaporates. 
+**Amplifying**: If you read this book for an hour, you can increase one ability score by one. When you do this, the amplifying tome evaporates. 
 
 ---
 
