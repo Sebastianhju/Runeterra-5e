@@ -294,9 +294,9 @@ _You have +1 to your armor class while wearing this shield_
 
 ---
 
-## Guardian Angel
+## Guardian's Angel
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Guardian Angel.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Guardian's Angel.png" Align=right width=8% height=8%>
 
 - 13,000 Gold
 - Greatsword
@@ -311,7 +311,7 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 ## Essence Reaver
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Essense Reaver.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Essence Reaver.png" Align=right width=8% height=8%>
 
 - 11,000
 - Scimitar (Scyte)
