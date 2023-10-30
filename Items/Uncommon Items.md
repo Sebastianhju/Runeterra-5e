@@ -42,7 +42,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 - 750 Gold
 - Arcane Focus
 
-**Amplifying**: If you read this book for an hour, you can increase one ability score by one. When you do this, the amplifying tome evaporates. 
+**Amplifying**: If you read this book for an hour, you can increase one ability score by one up to a maximum of 20. When you do this, the amplifying tome evaporates. 
 
 ---
 
