@@ -641,7 +641,7 @@ _You gain +2 hit and damage rolls with this magical weapon_
 
 ## Hextech Rocketbelt
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Rocketbelt.png" Align=right width=8% height=8%>
 
 - 10,000 Gold
 - Wonderous
@@ -654,9 +654,9 @@ _You gian +3 to initiative rolls_
 
 ---
 
-## Warmogs Armor
+## Warmog's Armor
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Warmog's Armor.png" Align=right width=8% height=8%>
 
 - 15,000 Gold
 - Breastplate
@@ -688,7 +688,7 @@ _You gain +2 to hit and damage rolls using this magical weapon _
 
 ## Trinity Force
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Trinity Force.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Triforce.png" Align=right width=8% height=8%>
 
 - 20,000 Gold
 - Wonderous Item
