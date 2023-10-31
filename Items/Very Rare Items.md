@@ -537,7 +537,7 @@ _You gian +2 to hit and damage rolls using this magical weapon_
 
 ## Deadman's Plate
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Deadman's Plate.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dead man's Plate.png" Align=right width=8% height=8%>
 
 - xxxx Gold
 - Wonderous Item (Shoulderpad)
@@ -552,9 +552,9 @@ _You gain +1 to your armor class while wearing this piece of equipment_
 
 ---
 
-## Rapid Firecannon
+## Rapid Firecanon
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rapid Firecannon.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rapid Firecanon.png" Align=right width=8% height=8%>
 
 - 12,500 Gold
 - Pistol
@@ -571,9 +571,9 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 ---
 
-## Ruunan's Hurricane
+## Runaan's Hurricane
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ruunan's Hurricane.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Runaan's Hurricane.png" Align=right width=8% height=8%>
 
 - 11,000 Gold
 - Longbow
@@ -656,7 +656,7 @@ _You gian +3 to initiative rolls_
 
 ## Warmog's Armor
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Warmog's Armor.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Warmogs Armor.png" Align=right width=8% height=8%>
 
 - 15,000 Gold
 - Breastplate
