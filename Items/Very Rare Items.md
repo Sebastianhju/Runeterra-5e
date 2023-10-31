@@ -1,5 +1,4 @@
 # Very Rare Items
-10 - 15k Gold
 
 # Upgradables
 
@@ -95,7 +94,7 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mejai's Soulstealer.png" Align=right width=8% height=8%>
 
-- 5000 Gold
+- 7,500 Gold
 - Wonderous Item
 - Attunement
 
@@ -103,7 +102,7 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 **Glory**: Whenever you score a takedown you gain a stack of glory, up to a maximum of 25. Whenever your hit points are reduced to 0 you loose all stacks of glory.
 
-**Dread**: While at 5 or more stacks, you deal 1d4 additional damage whenever you deal elemental, necrotic, psychic or force damage. This damage increases to 2d4 whenever you are at 10 stacks. This damage increases to 3d4 whenever you gain 25 stacks.
+**Dread**: While at 5 or more stacks, you deal 1d4 additional damage whenever you deal elemental, necrotic, psychic or force damage. This damage increases to 2d4 whenever you are at 10 stacks. While at 25 stacks this damage increases to 3d4 and you gain + 10 feet movement speed. 
 
 **Secretkeeper**: The first time you achive 50 stacks you can increase all ability modifiers by one. Once the book has used in this way, this feature cannot be used again.
 
@@ -506,7 +505,54 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 # Iconic Items
 
-## name
+## Duskblade of Draktharr
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Duskblade of Draktharr.png" Align=right width=8% height=8%>
+
+- 14,000 Gold
+- Dagger
+
+**Nightstalker**: When you kill a creature with _Duskblade of Draktharr_, it casts invisibility on you. Once this effect has ben used, it cannot be used again until 30 seconds pass
+
+**Deep Wounds**: Whenever you hit a creature that are unaware of your presence. you, _Duskblade of Draktharr_ deals 2d6 additional force damage. 
+
+**Haste**: The cooldowns of you items and runes are reduced with 12 seconds.  
+
+_You gian +2 to hit and damage rolls using this magical weapon_
+
+---
+
+## Zhonya's Hourglass
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Zhonya's Hourglass.png" Align=right width=8% height=8%>
+
+- 12,000 Gold
+- Wonderous Item
+
+**Perfect Timing**: As a reaction upon taking damage, when you know the amount taken, you can become invulnerable and incapazitaded until the start of your next turn, doing this negates the damage that triggerd the reaction. Once this effect is used, it cannot be used again until 42 secons pass. 
+
+**Rewind**: As an action, you can set yourself and up to five willing creatres one hour back in time. You are all aware of what happened before the rewind. If a creature taken back in time was downed or dead, they suffer an indefinate insanity. Once this effect is used the hourglass is broken. 
+
+---
+
+## Deadman's Plate
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Deadman's Plate.png" Align=right width=8% height=8%>
+
+- xxxx Gold
+- Wonderous Item (Shoulderpad)
+
+**Shipwrecker**: For every fet you move, you gain a stack of momentum. For every tenth stack your next attack deals 1 additinal damage. For every 40 stack, you gain +5 movement speed and your next attack reduces the creatures movement speed by 15 feet. 
+
+**Health**: You gain hit points equal to your hit dice. 
+
+**Speed**: You gain +5 movement speed. 
+
+_You gain +1 to your armor class while wearing this piece of equipment_
+
+---
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
 
 - xxxx Gold
 - Type
@@ -520,7 +566,8 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 _pluss bonuses_
 
 ---
-## name
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
 
 - xxxx Gold
 - Type
@@ -534,7 +581,8 @@ _pluss bonuses_
 _pluss bonuses_
 
 ---
-## name
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
 
 - xxxx Gold
 - Type
@@ -548,3 +596,124 @@ _pluss bonuses_
 _pluss bonuses_
 
 ---
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
+
+- xxxx Gold
+- Type
+
+**ability 1**: 
+
+**Ability 2**: 
+
+**Ability 3**:
+
+_pluss bonuses_
+
+---
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
+
+- xxxx Gold
+- Type
+
+**ability 1**: 
+
+**Ability 2**: 
+
+**Ability 3**:
+
+_pluss bonuses_
+
+---
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
+
+- xxxx Gold
+- Type
+
+**ability 1**: 
+
+**Ability 2**: 
+
+**Ability 3**:
+
+_pluss bonuses_
+
+---
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
+
+- xxxx Gold
+- Type
+
+**ability 1**: 
+
+**Ability 2**: 
+
+**Ability 3**:
+
+_pluss bonuses_
+
+---
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
+
+- xxxx Gold
+- Type
+
+**ability 1**: 
+
+**Ability 2**: 
+
+**Ability 3**:
+
+_pluss bonuses_
+
+---
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
+
+- xxxx Gold
+- Type
+
+**ability 1**: 
+
+**Ability 2**: 
+
+**Ability 3**:
+
+_pluss bonuses_
+
+---
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
+
+- xxxx Gold
+- Type
+
+**ability 1**: 
+
+**Ability 2**: 
+
+**Ability 3**:
+
+_pluss bonuses_
+
+---
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
+
+- xxxx Gold
+- Type
+
+**ability 1**: 
+
+**Ability 2**: 
+
+**Ability 3**:
+
+_pluss bonuses_
+
+---
+
