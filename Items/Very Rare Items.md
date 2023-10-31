@@ -690,7 +690,7 @@ _You gain +2 to hit and damage rolls using this magical weapon _
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Triforce.png" Align=right width=8% height=8%>
 
-- 20,000 Gold
+- 25,000 Gold
 - Wonderous Item
 - Attunement
 
@@ -704,7 +704,7 @@ _You gain +2 to hit and damage rolls using this magical weapon _
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Luden's Tempest.png" Align=right width=8% height=8%>
 
-- xxxx Gold
+- 12,500 Gold
 - Quarterstaff
 - Attunement
 
@@ -715,11 +715,6 @@ _You gain +2 to hit and damage rolls using this magical weapon _
 **Haste**: The cooldowns of your runes and items are redcued by 6. 
 
 _You gain +2 to spell attacks and your save dc while attuned to this magical item_
-
----
-
-
-_pluss bonuses_
 
 ---
 
