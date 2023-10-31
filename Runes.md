@@ -614,7 +614,7 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 
 ### Perfect Timing  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/PerfectTiming.png" Align=left width=7% height=7%>
 
-You gain a _Stopwatch_ and a set of tinkerers tools. Whenever you take a long rest, you can attempt to repair a stopwatch with your tinkerers tools. Spending one hour and a successfull (Dc 12) sleight of hand check repairs the stopwatch, if you were to fail the check the tinkerers tools are broken. 
+You gain a _Stopwatch_ and a set of tinkerers tools. Whenever you take a long rest, you can attempt to repair a stopwatch with your tinkerers tools. Spending one hour and a successfull (Dc 12) sleight of hand check repairs the stopwatch, if you were to fail the check the tinkerers tools are broken. You can also try to repair a broken _Zhonya's Hourglass_ (dc 25)
 
 ---
 
