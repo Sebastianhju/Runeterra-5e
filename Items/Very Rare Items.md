@@ -354,7 +354,7 @@ _You gain +3 to inititative checks_
 
 **Thirsting Slash**: As an action, you can swing around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or take damage equal to this weapons damage, you heal equal to your proficiency bonus for every target within 5 feet of you. Once this ability is used, it cannot be used again until 30 seconds pass. 
 
-**Lifesteal**: Whenever you hit a target with _Goredrinker_ you heal equal to your proficiency bonus_ 
+**Lifesteal**: Whenever you hit a target with _Goredrinker_ you heal equal to your proficiency bonus
 
 **Haste**: The cooldown of your items and runes are reduced with 6 seconds.
 
@@ -393,7 +393,7 @@ _You gain +3 to initiative rolls_
 
 **Health**: You gain hit points equal to your hit dice. 
 
-_Carve: Your armor class is reduced by one for every stack of carve you have, up to a maximum of four. Whenever you start your turn, you remove one stack of carve_ 
+_Carve: Your armor class is reduced by one for every stack of carve you have, up to a maximum of four. Whenever you start your turn, you remove one stack of carve_
 
 _You gain +2 to hit and attack rolls using this magical weapon_
 
@@ -448,7 +448,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 ## Edge of Night
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Edge of Night.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Edge og Night.png" Align=right width=8% height=8%>
 
 - 10,000 Gold
 - Wonderous Item
@@ -493,9 +493,9 @@ _You gain +2 to your spell attack rolls and spell save DC while attuned to this 
 **Lifesteal**: Whenever you hit an attack with _Bloodthirster_ you regain health equal to you proficiency bonus
 
 **Hunger**: Whenever you kill a creature, you gain a stack of _Satisfaction, up to a maximum of 15. If your hitpoints reaches zero, you loose five stacks. For every stack of _Satisfaction_ you gain the following features:
-- (5): You gain +2 to hit and attack rolls
+- (5): You gain +2 to hit and damage rolls
 - (10): All healing from this item is doubled
-- (15): You gain +3 to hit and attack rolls.
+- (15): You gain +3 to hit and damage rolls.
 
 _You gain +1 to hit and damage rolls using this magical weapon_
 
