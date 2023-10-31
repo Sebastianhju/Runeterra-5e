@@ -537,12 +537,12 @@ _You gian +2 to hit and damage rolls using this magical weapon_
 
 ## Deadman's Plate
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dead man's Plate.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dead man's plate.png" Align=right width=8% height=8%>
 
-- xxxx Gold
+- 13,000 Gold
 - Wonderous Item (Shoulderpad)
 
-**Shipwrecker**: For every fet you move, you gain a stack of momentum. For every tenth stack your next attack deals 1 additinal damage. For every 40 stack, you gain +5 movement speed and your next attack reduces the creatures movement speed by 15 feet. 
+**Shipwrecker**: For every fet you move, you gain a stack of momentum. For every tenth stack your next attack deals 1 additional damage. For every 40 stack, you gain +5 movement speed and your next attack reduces the creatures movement speed by 15 feet. 
 
 **Health**: You gain hit points equal to your hit dice. 
 
