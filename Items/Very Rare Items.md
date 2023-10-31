@@ -165,7 +165,7 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 - 11,000 Gold
 - Wonderous Item
-- Attunement
+- Attunement 
 
 **Glaciate**: Once a day you can cast the cone of cold spell without spending mana. Wisdom is your spellcasting ability unless your class uses another one. Whenever you use this feature you can spend two extra mana to cast it a spell level higher, up to 9th level. Once you've used this feature, it cannot be used again until you finish a long rest.
 
@@ -183,7 +183,7 @@ _You gain +2 to spell attack rolls and +1 to spell save DCs_
 
 - 12,000 Gold
 - Wonderous Item
-- Attunement
+- Attunement 
 
 **Safeguard**: Whenever you are about to take damage, you can use a reaction to activate safeguard. While safeguard is active, you take half damage from all sources and your damaging spells deal 1d8 additional cold damage until the end of your turn. Once this ability is used, it cannot be used again until 42 seconds pass.
 
@@ -199,7 +199,7 @@ _You gain +2 to spell attack rolls and +1 to spell save DCs_
 
 - 13,000 Gold
 - Shield
-- Attunement
+- Attunement (Fighter, Cleric, Barbarian)
 
 **Colossal Consumption**: Whenever you end your turn, all creatures within 5 feet of you are granted a _mark of the colossus_. Whenever you attack a creature with a mark, they take one additional damage for every 25th hit points you have, and you get a stack of _Heartsteel_. You gain one additional hit point for every tenth stack of _Heartsteel_
 
@@ -552,166 +552,172 @@ _You gain +1 to your armor class while wearing this piece of equipment_
 
 ---
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
+## Rapid Firecannon
 
-- xxxx Gold
-- Type
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rapid Firecannon.png" Align=right width=8% height=8%>
 
-**ability 1**: 
+- 12,500 Gold
+- Pistol
 
-**Ability 2**: 
+**Enegized**: Whenever you move you gain a stack of energized for every feet you move and whenever you attack you gain five stacks of energized, up to a maximum of 80.
 
-**Ability 3**:
+**Sharpshooted**: Whenver you are at 80 stacks of energized, your next attack with _Rapid Firecannon_ gains 30 feet additinal range and deals 2d10 lightning damage. 
 
-_pluss bonuses_
+**Critical**: Your Critical strike chance increases by one. 
 
----
+**Speed**: You gain +5 movement speed. 
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
-
-- xxxx Gold
-- Type
-
-**ability 1**: 
-
-**Ability 2**: 
-
-**Ability 3**:
-
-_pluss bonuses_
+_You have +2 to hit and damage rolls with this magical weapon_
 
 ---
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
+## Ruunan's Hurricane
 
-- xxxx Gold
-- Type
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ruunan's Hurricane.png" Align=right width=8% height=8%>
 
-**ability 1**: 
+- 11,000 Gold
+- Longbow
 
-**Ability 2**: 
+**Winds Fury**: Whenever you attack a creature with _Ruunan's Hurricane_. Two targets within 10 feet of the original target suffers damage equal to your proficiency bonus..  
 
-**Ability 3**:
+**Critical**: Your critical strike chance increases by 1
 
-_pluss bonuses_
+**Extra Attack**: You can make an extra attack as a part of the attack action with _Ruunan's Hurricane_ 
 
----
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
-
-- xxxx Gold
-- Type
-
-**ability 1**: 
-
-**Ability 2**: 
-
-**Ability 3**:
-
-_pluss bonuses_
+_You gain +2 to hit and damage rolls using Ruunan's Hurricane_
 
 ---
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
+## Blade of the Ruined King
 
-- xxxx Gold
-- Type
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Blade of the Ruined King.png" Align=right width=8% height=8%>
 
-**ability 1**: 
+- 15,000 Gold
+- Longsword
+- Attunement
 
-**Ability 2**: 
+**Mists Edge**: Whenever you damage a creauture, they take damage equal to 2% of their maximum hit points and you heal for that amount.  
 
-**Ability 3**:
+**Siphon**: Damaging creatures gives them a stack of _Siphon_. A creature with five stacks take 3d8 necrotic damage, and you heal equal to the amount. Once this effect is used, it cannot be used again until 30 seconds pass.
 
-_pluss bonuses_
+**Extra Attack**: You can make an extra attack as a part of the attack action.
 
----
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
-
-- xxxx Gold
-- Type
-
-**ability 1**: 
-
-**Ability 2**: 
-
-**Ability 3**:
-
-_pluss bonuses_
+_You gain +2 to hit and attack rolls using this magical weapon_
 
 ---
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
+## Rabadon's Deathcap
 
-- xxxx Gold
-- Type
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rabadon's Deathcap.png" Align=right width=8% height=8%>
 
-**ability 1**: 
+- 15,000 Gold
+- Wonderous Item
+- Attunement
 
-**Ability 2**: 
+**Knowledge is Power**: All your ability scores increases by 1 while attuned to this item
 
-**Ability 3**:
-
-_pluss bonuses_
-
----
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
-
-- xxxx Gold
-- Type
-
-**ability 1**: 
-
-**Ability 2**: 
-
-**Ability 3**:
-
-_pluss bonuses_
+**Power is Knowledge**: You become proficient in all wisdom and intelligence based checks. 
 
 ---
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
+## Statikk Shiv
 
-- xxxx Gold
-- Type
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Statikk Shiv.png" Align=right width=8% height=8%>
 
-**ability 1**: 
+- 15,000 Gold
+- Dagger
 
-**Ability 2**: 
+**Enegized**: Whenever you move you gain a stack of energized for every feet you move and whenever you attack you gain five stacks of energized, up to a maximum of 80.
 
-**Ability 3**:
+**Statikk**: Whenver you are at 80 stacks of energized, your next attack with _Statikk Shiv_ deals 2d10 lightning damage. If the attack hits, the lightning spreads to a new target within 15 feet of the original target, this lightning continues to spreads to new targets until you miss an attack or there are no new targets.  
 
-_pluss bonuses_
+**Critical**: Your Critical strike chance increases by one. 
 
----
+**Speed**: You gain +5 movement speed. 
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
-
-- xxxx Gold
-- Type
-
-**ability 1**: 
-
-**Ability 2**: 
-
-**Ability 3**:
-
-_pluss bonuses_
+_You gain +2 hit and damage rolls with this magical weapon_
 
 ---
 
+## Hextech Rocketbelt
+
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
 
+- 10,000 Gold
+- Wonderous
+
+**Supersonic**: As a bouns action you can activate the rocketbelt. You gain 60 feet flying speed, but you must land on a surface at the end of your turn, when you end your turn, all creatures within 5 feet of you take 2d8 force damage. You can do this a number of times equal to your proficiency bonus before finishing a long rest. 
+
+**Health**: You gain hit points equal to your hit dice. 
+
+_You gian +3 to initiative rolls_
+
+---
+
+## Warmogs Armor
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
+
+- 15,000 Gold
+- Breastplate
+- Attunement (You must have atleast 100 hit points to attune to _Warmogs Armor_)
+
+**Warmogs Heart**: As a bonus action, you can give yourself 10 stacks of regeneration. The max amount of regeneration stacks are doubled. 
+
+**Allways Ready**: Whenever you roll initiative, you start with 75 hit points, unless your current hit points are higher. 
+
+**Health**: You gain hit points equal to two hit dice. 
+
+---
+
+## Infinity Edge
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Infinity Edge.png" Align=right width=8% height=8%>
+
+- 13,000 Gold
+- Greatsword
+- Attunement
+
+**Infinite Potential**: Whenever you critically hit a creature, your damage rolled is tripled instead of doubled. 
+
+**Critical**: Your Critical strike chance increases by one. 
+
+_You gain +2 to hit and damage rolls using this magical weapon _
+
+---
+
+## Trinity Force
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Trinity Force.png" Align=right width=8% height=8%>
+
+- 20,000 Gold
+- Wonderous Item
+- Attunement
+
+**Trifold Strike**: Whenever you hit an attack roll, you gain a stacks of _Regeneration_, 5 feet movement speed and the cooldowns of your runes and items are reduced by 6 seconds. 
+
+**Extra Attack**: You can make an extra attack as a part of the attack action.
+
+---
+
+## Luden's Tempest
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Luden's Tempest.png" Align=right width=8% height=8%>
+
 - xxxx Gold
-- Type
+- Quarterstaff
+- Attunement
 
-**ability 1**: 
+**Echo**: Whenever you deal elemental damage to a creature, you deal 2d8 thunder damage to a target, all creutres within 15 feet of the target must succeed a dexterity saving throw or take 2d8 thunder damage, halved on a save. Once this effect is used, it cannot be used again until 30 seconds pass.
 
-**Ability 2**: 
+**Tempests Servant**: Whenever you deal lightning or thunder damage to a creature, they are knocked prone. 
 
-**Ability 3**:
+**Haste**: The cooldowns of your runes and items are redcued by 6. 
+
+_You gain +2 to spell attacks and your save dc while attuned to this magical item_
+
+---
+
 
 _pluss bonuses_
 
