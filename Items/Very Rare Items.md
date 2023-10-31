@@ -238,7 +238,7 @@ _You gain +2 to your armor class while wearing this piece of armor_
 
 **Spellblade**: You can use you spellcasting ability when determening to hit and damge modifiers for this weapon.
 
-**Lingering Power**: After casting a spell, your next attack deals 2d6 additional psycich damage. 
+**Lingering Power**: After casting a spell, your next attack deals 2d6 additional psychic damage. 
 
 **Mageslayer**: Whenever you hit a target that is concentrating with _Lich Bane_, they have disadvantage on the conventration check, and their next spell costs 1 additional mana. 
 
@@ -412,19 +412,92 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 **Health**: You gain hit points equal to two of your hit dice. 
 
---
+---
 
-##
+## Thornmail
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Thornmail.png" Align=right width=8% height=8%>
 
---
+- 10,000 Gold
+- Chainmail
 
-##
+**Thorns**: Whenever you are damaged by a weapon attack, the attacker takes damage equal to twice your proficiency bonus and gains two stacks of grievous wounds. 
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/.png" Align=right width=8% height=8%>
---
+**Health**: You gain hit points equal to your hit dice. 
 
+_You gain +2 to your armor class while wearing this piece of armor_
+
+---
+
+## Bloodthirster
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bloodthirster.png" Align=right width=8% height=8%>
+
+- 12,500 Gold
+- Greatsword
+
+**Engorge**: While above 50% hit points, your attacks with _Bloodthirster_ deals 1d6 additional damage. 
+
+**Lifestel**: Whenever you hit an attack with _Bloodthirster_ you regain health equal to twice you proficiency bonus
+
+**Critical**: Your Critical strike chance increases by one. 
+
+_You gain +2 to hit and damage rolls using this magical weapon_
+
+---
+
+## Edge of Night
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Edge of Night.png" Align=right width=8% height=8%>
+
+- 10,000 Gold
+- Wonderous Item
+- Attunement
+
+**Annul**: As an reaction upon begin targeted by a spell that targets only you, you can cancel it and gain charges equal to the spells mana cost. You can stack up to a maximum of 50 charges. If you don't have enough charges to contain the spell targeting you, it still affects you. Once you've used this effect, it cannot be used again until 30 seconds pass. 
+
+**Nightfall**: You can spend charges to cast the following spells: 
+- (30) Greater invisibility
+- (20) Pass without a Trace
+- (10) Invisibility 
+
+_You gain +1 to all saving throws_ 
+
+---
+
+## Morellonomicon
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Morellonomicon.png" Align=right width=8% height=8%>
+
+- 11,000
+- Arcane Focus
+- Attunement
+
+**Affliction**: Whenever you deal elemental, force, psychic, necrotic or radiant damage to a target, you both gain two stacks of grievous wounds. Whenever you damage a creature with grievous wounds, you ignore immunities and resistances. 
+
+**Hidden Knowledge**: When you are attuned to this book you can increase two different ability scores by one. 
+
+_You gain +2 to your spell attack rolls and spell save DC while attuned to this magical item_
+
+---
+
+## Ravenous Hydra
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ravenous Hydra.png" Align=right width=8% height=8%>
+
+- 15,000 Gold
+- Greataxe
+
+**Cleave**: Whenever you hit a creature with an attack using Ravenous Hydra, all enemies within 5 feet of the target takes damage equal to your strength modifier. Youl heal 1 hit points for each creature within 5 feet of the original target. 
+
+**Lifesteal**: Whenever you hit an attack with _Bloodthirster_ you regain health equal to you proficiency bonus
+
+**Hunger**: Whenever you kill a creature, you gain a stack of _Satisfaction, up to a maximum of 15. If your hitpoints reaches zero, you loose five stacks. For every stack of _Satisfaction_ you gain the following features:
+- (5): You gain +2 to hit and attack rolls
+- (10): All healing from this item is doubled
+- (15): You gain +3 to hit and attack rolls.
+
+_You gain +1 to hit and damage rolls using this magical weapon_
 
 # Iconic Items
 
