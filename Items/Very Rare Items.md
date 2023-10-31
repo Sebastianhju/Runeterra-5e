@@ -68,7 +68,9 @@ _You have +2 to attack rolls and damage rolls using this magical weapon_
 
 **True Ice**: The Shard of Ture Ice deals 1d6 cold damage on hit
 
-**Colds Embrace**: Whenever you deal cold damage to a creature you can try to bind one target to true ice, they must succeed a constitution saving throw (dc: 14 or your spell save dc, whatever is the higher), on a failure they are restrained. The creature can try to break free during their turn, or another creature can help them out spending their action. Once this effect is used, it cannot be used again until 30 seconds pass. 
+**Spoils of the Tundra**: Whenver you deal cold damage, you gain gold equal to the damage dealt. 
+
+**Warding**: As an action, you can place down a stealth ward. You can do this a number of times equal to your proficiency bons before finishing a long rest
 
 _You have +2 to damage and attack rolls using this magical weapon_
 
@@ -81,7 +83,7 @@ _You have +2 to damage and attack rolls using this magical weapon_
 - A fully stsacked Steel Shoulderguards
 - Wonderous Item
 
-**Petricite**: While wearing the Pauldrons you have advantage on saving throws agains spells and magical effects.
+**Warding**: As an action, you can place down a stealth ward. You can do this a number of times equal to your proficiency bons before finishing a long rest
 
 **Shoulderguards**: You armor class increases with +2 while wearing the Pauldrons. 
 
@@ -147,13 +149,12 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 - 10,000 Gold
 - Spear
-- Attunement
 
 **Haste**: The cooldowns of you runes and items are reduced by 6 seconds. 
 
-**Spear Swing**: As an action, you can swing around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or take damage equal to this weapons damage, this damage counts as spell damage. Once this effect is used, it cannot be used again until 18 seconds pass.
+**Spear Swing**: As an action, you can swing _Serylda's Grudge_ around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or take damage equal to this weapons damage, this damage counts as spell damage. Once this effect is used, it cannot be used again until 18 seconds pass.
 
-**Bitter Cold**: Whenever you deal physical spell damage, the target takes full damage if they are resistant or immune and their movement speed is reduced by 10 feet until the end of their turn. 
+**Bitter Cold**: Whenever you deal physical spell damage, the target takes full damage if they are resistant or immune and their movement speed is reduced by 15 feet until the end of their turn. 
 
 _You have +2 to damage and attack rolls using this magical weapon_
 
@@ -302,6 +303,7 @@ _You have +1 to your armor class while wearing this shield_
 
 - 13,000 Gold
 - Greatsword
+- Attunement
 
 **Rebirth**: The first time your hit points would be reduced to zero, you are instead left on 1 hit point. You become invulnerable and all incoming healing is doubled until the end of your next turn. 
 
@@ -334,6 +336,7 @@ _You have +2 to hit and attack rolls using this magical weapon_
 
 - 12,000 Gold
 - Shortbow
+- Attunement
 
 **Lifeline**: If you would take damage that would reduce your hit points to zero, you first gain temporary hit points equal to 5 times your proficiency bonus. As long as you have these temporary hit points, you can make an additianal attack as a part of your attack action. 
 
@@ -368,6 +371,7 @@ _You gain +2 to hit and damage rolls with this magical weapon_
 
 - 12,000 Gold
 - Longbow
+- Attunement
 
 **Breathtaking**: Whenever you damage enemies, you ignore resistances to piercing damage. If a creature would be immune to piercing damage, they take half damage from your attacks.
 
@@ -386,6 +390,7 @@ _You gain +3 to initiative rolls_
 
 - 12,500 Gold
 - Greataxe
+- Attunemnt
 
 **Carve**: Whenever you hit a creature with Black Cleaver, they gain a stack of _Carve_
 
