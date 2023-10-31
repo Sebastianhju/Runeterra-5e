@@ -492,7 +492,7 @@ _You gain +2 to your spell attack rolls and spell save DC while attuned to this 
 
 **Lifesteal**: Whenever you hit an attack with _Bloodthirster_ you regain health equal to you proficiency bonus
 
-**Hunger**: Whenever you kill a creature, you gain a stack of _Satisfaction, up to a maximum of 15. If your hitpoints reaches zero, you loose five stacks. For every stack of _Satisfaction_ you gain the following features:
+**Hunger**: Whenever you kill a creature, you gain a stack of _Satisfaction, up to a maximum of 15. If your hitpoints reaches zero, you loose ten stacks. For every stack of _Satisfaction_ you gain the following features:
 - (5): You gain +2 to hit and damage rolls
 - (10): All healing from this item is doubled
 - (15): You gain +3 to hit and damage rolls.
