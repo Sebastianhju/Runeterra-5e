@@ -70,3 +70,27 @@ As a bonus action you regain 1d4+1 hit points and 2d4+2 hit points at the start 
 Cost: 70 Gold
 
 As a bonus action you reduce all the cooldowns of your runes and items by 12 seconds. 
+
+---
+
+## Stealth Ward
+
+Cost: 75 Gold
+
+As a bonus action you can place this ward down in the envoirment, after 6 seconds the ward turns invisible. The ward last for one hour and grants you and allies within 30 feet of the ward light wherever the ward stands. If the ward is in a bush or another hiding envoirment, enemies have disadvantage when hiding there. 
+
+As an action you can scry into the ward as long as you are on the same plane as the ward. You can see everything that happens within 30 feet of the ward. 
+
+The ward has an armor class of 10 and hit points equal to twice your level. 
+
+---
+
+## Control Ward
+
+Cost: 150 Gold
+
+As a bonus action you can place this ward down in the envoirment. The ward stays until destoryed and grants you and allies within 30 feet of the ward truesight wherever the ward can see from where it stands. It does not see trough envoirment, exept the envoirment it is placed in. 
+
+As an action you can scry into the ward as long as you are on the same plane as the ward. You can see everything that happens within 30 feet of the ward. 
+
+The ward has an armor class of 10 and hit points equal to four times your level. 
