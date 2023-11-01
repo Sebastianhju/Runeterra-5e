@@ -26,10 +26,6 @@ They return to living among their mortal kin, and breed back in to the mortal po
 
 ---
 
-## 10,000-9,000 Years Ago
-
-
-
 ## 9,000 Years Ago (8,000 BN): War of the Three Sisters
 
 The unity of the three sisters fracture and a civil war erupts across the Iceborn empire.
