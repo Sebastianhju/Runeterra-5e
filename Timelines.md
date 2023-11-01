@@ -28,16 +28,13 @@ They return to living among their mortal kin, and breed back in to the mortal po
 
 ## 9,000 Years Ago (8,000 BN): War of the Three Sisters
 
-The unity of the three sisters fracture and a civil war erupts across the Iceborn empire.
-
-The Watchers begin crossing in to Runeterra during the climactic battle at the Howling Abyss. Lissandra sacrifices her people, sisters, and the magic of the yeti to seal the Watchers in a bed of True Ice, where they have remained since.
+The unity of the three sisters fracture and a civil war erupts across the Iceborn empire i Freljord. This conflict still affects the Freljords to this day. 
 
 ---
 
-7,000 Years Ago (6,000 BN): The Western Diaspora
+## 7,000 Years Ago (6,000 BN): The Western Diaspora
 
 Mortals from the far east (Beyond the map of the known world) expand across the south of the known world, establishing new civilizations. Among them are Ixtal, Buhru, Helia, Kalduga, Kahleek, Icathia, Faraj and the Ascetics of Targon. Most of these nations are on the southern continent, which they call “Shurima”.
-
 
 
 ## 7,000-6,000 Years Ago
@@ -71,7 +68,6 @@ The Ascended are organized in to the Ascended Host; an army that then goes out s
 ## 4,000-3,500 Years Ago (2,500 BN): The Void is unleashed
 
 An earthquake occurs in the Icathian province of Saabera, revealing some currently unknown thing that has ties to the Void. The Icathians plot to use this as a weapon to claim their independence.
-
 
 The Icathians crown a new Mage King and openly rebel against the Shuriman Empire.
 
