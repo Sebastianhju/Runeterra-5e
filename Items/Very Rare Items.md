@@ -251,7 +251,7 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stridebreaker.png" Align=right width=8% height=8%>
 
 - 11,000 Gold
-- Morningstar
+- Whip
 
 **Halting Slash**: As an action, you can swing around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or be knocked prone and take damage equal to this weapons damage. Once this ability is used, it cannot be used again until 30 seconds pass. 
 
