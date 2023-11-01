@@ -243,7 +243,7 @@ Swain throws out the idea of Noxian emperors and installs the Trifarix; a group 
 
 Together they represent the three principles of might; Sight, might and guile. Swain represents sight begin the face of noxus outwards, Darius represents might as the leader of the noxian millitary, and the faceless represents Guile.
 
-Shortly after Swains installation, the Noxian millitary is called back from Ionia. 
+Shortly after Swains installation, the Noxian millitary is called back from Ionia marking the end if the invasion. 
 
 ---
 
