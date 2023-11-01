@@ -20,7 +20,7 @@
 
 **Endure**: Whenever you take damage, you gain a stack of _regeneration_. 
 
-_Regeneration_: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. 
+_Regeneration_: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks equal to four times your proficiency bonus. 
 
 ---
 
