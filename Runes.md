@@ -552,17 +552,17 @@ You gain immunity to the frightened and charmed condition and you cannot be move
 |**[Hextech Flashtraption](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#hextech-flashtraption-)**|After a small windup, you can blink|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/HextechFlashtraption.png">|
 |**[Magical Footwear](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#magical-footwear-)**|As you score takedowns, you gain magical boots and movement speed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/MagicalFootwear.png">|
 |**[Perfect Timing](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#perfect-timing-)**|You gain a stopwatch and the ability to repair it|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/PerfectTiming.png">|
-|**[Future's Market](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#futures-market-)**|You gain access to a pocketdimention where you can buy and sell wares|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FuturesMarket.png">|
+|**[Future's Market](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#futures-market-)**|You gain access to a pocket dimention where you can buy and sell wares|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FuturesMarket.png">|
 |**[Spiritbound](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#spiritbound-)**|At the start of each day, you can select an ability. You become proficient in all skills of that ability for that day. |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png">|
 |**[Biscuit Delivery](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#biscuit-delivery-)**|Whenever you long rest, you gain a _Buiscuit of Everlasting Will_|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/BiscuitDeliviery.png">|
 |**[Cosmic Insight](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cosmic-insight-)**|You learn the _Detect Thoughts_ spell and can cast it once a day without spending mana|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CosmicInsight.png">|
 |**[Approach Velocity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#hextech-flashtraption-)**|Whenever you move towards enemies with reduced speed, you gain additional movementspeed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/ApproachVelocity.png">|
-|**[Time Warp Tonic](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#time-warp-tonic-)**|Whenever you drink potions, you gain additional effects and movementspeed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/TimeWarpTonic.png" height=60% Width=60%>|
+|**[Time Warp Tonic](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#time-warp-tonic-)**|Whenever you drink potions, you gain additional effects|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/TimeWarpTonic.png" height=60% Width=60%>|
 
 
 ## Keystones 
 ### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" Align=left width=25% height=25%>
-Whenever you immobilize a creature, they and all enemies within 10 feet of the target gains a *Mark of Cold* until the end of your next turn. A creature with *Mark of Cold* takes additional cold damage based on your level, as shown on the table below, the first time they are struck. Additionally their speed is halved until the end of their turn. Once used, this effect cannot be used again until 30 second has passed. 
+Whenever you immobilize a creature, they and all enemies within 10 feet of the target gains a *Mark of Cold* until the end of your next turn. A creature with *Mark of Cold* takes additional cold damage based on your level, as shown on the table below, the first time they are struck. Additionally their speed is halved until the end of their turn. Once used, this effect cannot be used again until 42 seconds has passed. 
 
 **Mark of Cold Scaling**
 |Level|Hit Points|
@@ -573,7 +573,7 @@ Whenever you immobilize a creature, they and all enemies within 10 feet of the t
 ---
 
 ### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=25% height=25%>
-At the end of a long rest you can select a [Summoner Spell](https://github.com/Sebastianhju/Runeterra-5e/blob/main/SummonerSpells.md) to have that day, if you dont use it before you take a long rest it wanishes. Summoner spells are powerfull spells that can be used once before they vanish. You can never select the same spell two days in a row or twice the same day. At later levels you can get a new summoner spell when you finish a short rest.  
+At the end of a long rest you can select a [Summoner Spell](https://github.com/Sebastianhju/Runeterra-5e/blob/main/SummonerSpells.md) to have that day, if you dont use it before you take a long rest it vanishes. Summoner spells are powerfull spells that can be used once before they vanish. You can never select the same spell two days in a row or twice the same day. At later levels you can get a new summoner spell when you finish a short rest.  
 
 **Spellbook Scaling**
 |Level|Hit Points|
@@ -598,13 +598,13 @@ Whenever you deal damage against any creature that hasn't taken a turn in the co
 ## Lesser Runes
 ### Hextech Flashtraption  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/HextechFlashtraption.png" Align=left width=7% height=7%>
 
-As a Bonus Action you can target a space within 15ft of you channeling a teleport, you do not have to see the place you are targeting. At the start of your next turn you teleport to the selected location. If the targetet location is a wall, you are instead teleportet to the nearest open area. 
+As a Bonus Action you can target a space within 30ft of you channeling a teleport, you do not have to see the place you are targeting. At the start of your next turn you teleport to the selected location. If the targetet location is a wall, you are instead teleportet to the nearest open area. 
 
 ---
 
 ### Magical Footwear  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/MagicalFootwear.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _Magical Footwear_ giving you the following benefits:
+Whenever you score a _takedown_ on a creature, you gain a stack of _Magical Footwear_ giving you the following benefits:
 
 **Magical Footwear Scaling**
 |Amount|Effect|
@@ -623,7 +623,7 @@ You gain a _Stopwatch_ and a set of tinkerers tools. Whenever you take a long re
 
 ### Futures Market  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FuturesMarket.png" Align=left width=7% height=7%>
 
-You gain a ring that can teleport you to a pocket dimention with a secret shop. Whenever you visit a shopkeeper, all of their wares become available in the Futures Market.
+You gain the ability teleport to a pocket dimention with a secret shop after a ten minute channel. Whenever you visit a shopkeeper after obtaining this rune, all of their wares become available in the Futures Market.
 
 ---
 
