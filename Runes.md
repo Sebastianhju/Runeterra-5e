@@ -351,7 +351,7 @@ Whenever you are bloodied and take elemental damage, before the damage occurs yo
 ---
 ### Manaflow Band  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ManaflowBand.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _Manaflow_ giving you the following benefits:
+Whenever you score a _takedown_ on a creature, you gain a stack of _Manaflow_ giving you the following benefits:
 
 **Manaflow Scaling**
 |Amount|Effect|
@@ -415,27 +415,27 @@ You learn the _Thunderwave_ and _Call Lightning_ spell and can cast each of them
 # Resolve ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve.png)
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
-|**[Grasp of the Undying](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#grasp-of-the-undying-)**| Drain the opponents health to get even healthier|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" width=50% height=50%>|
-|**[Aftershock](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#aftershock-)**| Immobilizing enemies makes you even more tanky|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" width=50% height=50%>|
+|**[Grasp of the Undying](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#grasp-of-the-undying-)**| Drain the opponents health to get even stronger|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" width=50% height=50%>|
+|**[Aftershock](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#aftershock-)**| Immobilizing enemies grants you temporary hit points|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" width=50% height=50%>|
 |**[Guardian](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#guardian-)**| Protect those close to you|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" width=50% height=50%>|
 
 **Lesser Runes**
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
-|**[Demolish](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#demolish-)**|Deal bursts of damage to constructs|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Demolish.png">|
+|**[Demolish](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#demolish-)**|Deal tons of damage to constructs|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Demolish.png">|
 |**[Font of Life](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#font-of-life-)**|Reducing enemies movementspeed heals your allies|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/FontOfLife.png">|
-|**[Shield Bash](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#shield-bash-)**|Gain a strong attack whenever you gain temporary hitpoints|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/MirrorShell.png">|
-|**[Conditioning](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#conditioning-)**|As you score takedowns you gain stacks that grant you armor class|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Conditioning.png">|
+|**[Shield Bash](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#shield-bash-)**|Gain a stronger attack whenever you gain temporary hitpoints|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/MirrorShell.png">|
+|**[Conditioning](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#conditioning-)**|As you score takedowns you gain stacks that grants increased defences|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Conditioning.png">|
 |**[Comeback](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#second-wind-)**|Whenever you are reduced below 50% hit points gain regeneration|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/SecondWind.png">|
 |**[Bone Plating](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#bone-plating-)**|You gain resistance from the first three damaging sources|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/BonePlating.png" height=50% width=50%>|
-|**[Overgrowth](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#overgrowth-)**|As you score takedown you gain stacks that grant you more maximum hit points|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Overgrowth.png">|
-|**[Revitalize](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#revitalize-)**|Increased healing and shielding|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Revitalize.png">|
+|**[Overgrowth](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#overgrowth-)**|As you score takedowns you gain stacks that grant you more maximum hit points|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Overgrowth.png">|
+|**[Revitalize](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#revitalize-)**|Improved healing and shielding|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Revitalize.png">|
 |**[Unflinching](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#unflinching-)**|You gain immunity to the charmed and frightened condition|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Unflinching.png">|
 
 ---
 ## Keystones
 ### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=25% height=25%>
-Whenever you deal damage (once per attack) or you take damage from an enemy, you gain a stack of *Grasp*. When you are at three stacks, your next attack deals extra necrotic damage. You heal equal to the necrotic damage dealt. 
+Whenever you deal damage (once per attack) or you take damage from an enemy, you gain a stack of *Grasp*. When you are at four stacks, your next attack deals extra necrotic damage. You heal equal to the necrotic damage dealt. 
 
 In addition you a stack of *Undying* whenever you drain an opponent using this ability. You gain +1 maximum hit points for every tenth stack of *Undying* you have.
 
@@ -461,7 +461,7 @@ When you immobilize a creature, you gain temporary hit points based on your leve
 ---
 
 ### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=25% height=25%>
-If you or an ally within 15ft of you takes damage, you can choose to trigger Guardian. You and the selected ally immediately gain temporary hit points according to the table below. Guardian activates before you would take the initial damage. Once used, this effect cannot be used again until 30 seconds has passed.
+If you or an ally within 15ft of you takes damage, you can choose to trigger Guardian. You and the selected ally immediately gain temporary hit points according to the table below. Guardian activates before you would take the initial damage. Once used, this effect cannot be used again until 42 seconds has passed.
 
 **Guardian Scaling**
 |Level|Hit Points|
@@ -498,27 +498,30 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 **Conditioning Scaling**
 |Amount|Effect|
 |---|---|
-|0|You take 3 less damage from attack damage sources|
+|0|You take 2 less damage whenever you take physical damage|
 |25|You gain +2 to your armor class|
-|50|You take 6 less damage from attack damage sources|
+|50|You take 4 less damage whenever you take physical damage|
 
 ---
 
 ### Comeback  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/SecondWind.png" Align=left width=7% height=7%>
 
-Whenever you are bloodied, you regenereate 1d6 hit points at the start of your turn. 
+Whenever you are bloodied, you gain 3 stacks of regenerataion at the end of your turns. 
+The maximum stacks of regeneration is increased to five times your proficiency bonus. 
+
+_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to four times your proficiency bonus._
 
 ---
 
 ### Bone Plating  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/BonePlating.png" Align=left width=7% height=7%>
 
-The first three times you take damage, you gain resistance to all damage types. Once this effect has ben used, it cannot be used again until you finish a short rest. 
+The first three times you take damage, you gain resistance to all damage types. Once this effect has ben used, it cannot be used again until 60 seconds pass
 
 ---
 
 ### Overgrowth  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Overgrowth.png" Align=left width=7% height=7%>
 
-You gain +3 maximum hit points. Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _overgrowth_. For every tenth stack, you gain +1 maximum hit points.
+You gain +3 maximum hit points. Whenever you score a _takedown_ on a creature, you gain a stack of _overgrowth_. For every tenth stack, you gain +1 maximum hit points.
 
 ---
 
