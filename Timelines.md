@@ -89,7 +89,7 @@ The Ascended scoured Icathia’s lands, starving out the Void and sealing its gr
 
 ## 3,000 Years Ago (2,000 BN): The fall of Shurima
 
-As Shurima is about to Ascend theie new leader, Azir, a slave steals the ascension, killing Azir and destroying the city of Shurima and killing everyone inside it. 
+As Shurima is about to Ascend theie new leader, a slave steals the ascension, killing Azir and destroying the city of Shurima and killing everyone inside it. 
 
 The Shuriman Empire crumbles as the Ascended Host can’t keep it together.
 
@@ -239,86 +239,28 @@ One Commander Emystan approaches a Mad Chemist's help in creating chem-tech weap
 
 Some months later the Noxian millitary leave Ionia, some are brutually hurt by the chem-tech weapons used by Noxus in the war. 
 
+After a short break, Noxus continues to invade Ionia. 
+
 ---
 
-## 12-7 Years Ago (984-989 AN): The Invasion Continues
+## 7 Years Ago (989 AN): Swain becomes the new leader of Noxus
 
-The village of Wuju is obliterated by Noxus after Master Yi and other Wuju disciples joined the war effort. Master Yi is the last survivor of the village of Wuju.
-
-Karma obliterates a Noxian vessel. This disrupted the balance of her own soul as it caused issues with her connections to her prior lives.
-
-Riven witnesses atrocities as Zaunite mercenaries use chemtech against the Ionians, with such an attack leaving her own regiment destroyed as well. She seeks atonement from one Master Souma, but as he tries to break her sword as part of this, a shard of it impales and kills him. She goes awol, eventually coming to live on a farm alongside an old couple named Shava and Asa.
-
-Yasuo goes to help the war effort but Elder Souma is killed in his absence. Due to the circumstances of his death, it is assumed that Yasuo killed him, when it was in fact an accident. Yasuo is forced to go on the run and eventually has to kill his brother Yone to save himself.
-
-The story “The Bird and the Branch” starts.
-
-Taliyah is found by Noxus and quickly conscripted in to the military. She is sent to Ionia but is unwilling to kill, and as such is left to die. She survives and meets Yasuo, who then becomes her teacher.
-
-7 Years Ago (989 AN): Alistar’s Freedom
-
-A servant girl named Ayelia helps Alistar escape his life of slavery in Noxus. Due to the interference of Noxian agents, the two are separated on their way to a barge that would take them to safety. Alistar fends off the attackers, but Ayelia’s fate is unknown.
-
-7 Years Ago (989 AN): Swain’s Coup
-
-Still in disgrace, Swain plots an overthrow of Boram Darkwill to take Noxus and restore it to its former glory.
-
-They manage to get Urgot, chief headsman of Noxus and a supporter of Darkwill, out of Noxus and incarcerated in Zaun.
-
-With the help of Draven and some unspecified support from General Du couteau he is successful, killing Boram and becoming the new ruler of Noxus.
+Boram is killed and Swain becoming the new ruler of Noxus.
 
 Swain throws out the idea of Noxian emperors and installs the Trifarix; a group of three leaders representing the three principles of Noxus. After some work he gets Darius and an unknown individual known as The Faceless to join him.
 
-7 Years Ago (989 AN): The Invasion’s End
+Together they represent the three principles of might; Sight, might and guile. Swain represents sight begin the face of noxus outwards, Darius represents might as the leader of the noxian millitary, and the faceless represents Guile.
 
-A full retreat from Ionia is called. The war ends.
+Shortly after Swains installation, the Noxian millitary is called back from Ionia. 
 
-Irelia claims victory at the Dalu Bay and kills the general who killed her family.
+---
 
-7 Years Ago (989 AN): Shurima’s Rebirth
+## 7 Years Ago (989 AN): Shurima’s Rebirth
 
-Because of the coup, Cassiopeia’s mum pressures her to find Shurima’s old god-like powers. Cassiopeia had already been searching with the help of Sivir, and they decide to head for the old capital.
+After many years, the Shuriman Empire is starting to reappear on the maps. Their new leader Azir is an acended who returned from his travels, and they start to rebuild their lost cities. 
 
-Cassiopeia betrays Sivir, stabbing her in the back and using the Chalicar to open the Tomb of the Emperors, unwittingly freeing Xerath and a now insane Renekton. For her efforts, Cassiopeia is bitten by the magical tomb guardian, transforming in to her current snake self.
+--
 
-Sivir’s blood triggers ancient magic within the city. This resurrects Azir and he takes Sivir’s body to the restored Oasis of the Dawn, saving her life. Azir is granted his long denied Ascension, which he uses to restore the city.
+## Today (996 AN)
 
-Sivir flees the city, Xerath heads for Nerimazeth to set up a base of operations, and Azir pieces together how he died.
-
-8-6 Years Ago (988-990 AN): Warmother
-
-The comic series "Ashe: Warmother" happens.
-
-7-6 Years Ago (989-990 AN): Rise of the Ascended
-
-Following the restoration of Shurima, the following stories occur:
-
-“Ourobouros”
-
-“Darkness Renews”
-
-“Water”
-
-“The Bird and the Branch” ends.
-
-6 Years Ago (990 AN): Bloodline
-
-The following stories occur:
-
-“Bloodline”
-
-“Homecoming” (Taliyah Cinematic)
-
-“Echoes in the Stone”
-
-“Confessions of a Broken Blade”
-
-“Flesh and Stone”
-
-6 Years Ago (990 AN): Senna is Slain
-
-Senna and Lucian confront Thresh, resulting in Senna’s death. Lucian only finds out what happened to her soul some time later during “Shadow and Fortune”.
-
-3 Years Ago (990 AN): Garen in the Vanguard
-
-Garen is inducted in to the Dauntless Vanguard. Lux, 16 at the time, is at the ceremony with their parents.
+As a new requit of the Noxian millitary, you await orders for your next mission. 
