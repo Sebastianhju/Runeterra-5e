@@ -108,7 +108,7 @@ _You have +1 to your armor class while wearing this magical armor_
 - 625 Gold
 - Cloak
 
-**Magic Resiliance**: Whenever you roll a saving throw against spells that deal elemental or physical damage, you gain a +2 to that saving throw. 
+**Magic Resiliance**: Whenever you roll a saving throw against spells that deal elemental or physical damage, you gain +2 to that saving throw. 
 
 ---
 
@@ -121,7 +121,7 @@ _You have +1 to your armor class while wearing this magical armor_
 
 **Momentery Focus**: As a bonus action you can enter a state of focus that last for a minute, when in this state your critical strike chance is increased by one and you are agile. Once this effect is used it cannot be used again until you finish a long rest. 
 
-_You gain a +1 to acrobatics checks._
+_You gain   +1 to acrobatics checks._
 
 ---
 
@@ -249,8 +249,6 @@ _You gain a +1 to acrobatics checks._
 - Attunement
 
 **Blood runes**: The head of the scythe is filled a hundred small black runes, whenever you score a take down one of the runes becomes red. Whenever you want to sell the cull, its value increses by 20 gold for every rune that glows. 
-
-(Items are sold at 50% value. Total sell price with a fully stacked cull = 500+2000 -> 2500/2 = 1250 --> netto plus = 750)
 
 ---
 
