@@ -450,7 +450,7 @@ In addition you a stack of *Undying* whenever you drain an opponent using this a
 ---
 
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=25% height=25%>
-When you immobilize a creature, you gain resistanfce from elemental and physical damage and temporary hit points based on your level, as shown on the table below. These temporary hit points last until the end of your next turn, if you still have any remaining at the start of your turn, enemies within 5 feet of you suffer damage equal to your temporary hit points. Once used it cannot be used again until 30 seconds have passed. 
+When you immobilize a creature, you gain resistanece to elemental and physical damage and temporary hit points based on your level, as shown on the table below. These temporary hit points last until the end of your next turn, if you still have any remaining at the end of your turn, enemies within 10 feet of you suffer bludgeoning damage equal to your temporary hit points. Once used it cannot be used again until 30 seconds have passed. 
 
 **Aftershock Scaling**
 |Level|Hit Points|
