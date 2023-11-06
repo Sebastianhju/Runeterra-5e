@@ -6,19 +6,19 @@
 ---
 
 ### Conqueror  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" Align=left width=25% height=25%>
-Once per attack, whenever you damage enemies, you gain stacks of Conqueror. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you deal additional damage from your damage sources as shown on the table below, and you heal for the additional damage dealt. 
+Once per attack, whenever you damage enemies, you gain stacks of Conqueror. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 12 stacks, you deal additional damage from your damage sources as shown on the table below, and you heal for the additional damage dealt. If you don't deal damage during your turn, you loose a stack of Conqueror.
 
 **Conqueror Scaling**
 |Level|Damage|
 |---|---|
 |1| 1d4 |
 |5| 1d6|
-|9| 2d4|
+|9|2d4|
 
 
 ---
 ### Lethal Tempo  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" Align=left width=25% height=25%>
-Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. One stack for ranged attacks, and two stacks for melee attacks. Whenever you get 6 stacks, you can make one extra attack as a part of the attack action and you gain additional range as shown on the table below.
+Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 10 stacks, you can make an extra attack as a part of your attack action and gain additional range as shown on the table below (halved for melee attacks). If you don't deal damage during your turn, you loose a stack of Conqueror.
 
 **Lethal Tempo Scaling**
 |Level|Damage|
@@ -36,7 +36,7 @@ Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for ev
 |---|---|
 |1| 1d6 + proficiency bonus |
 |5| 2d6 + proficiency bonus|
-|9|3d6 + proficiency bonus|
+|9| 3d6 + proficiency bonus|
 
 ---
 
@@ -51,15 +51,16 @@ Damaging an enemy gives them a mark of electorcute that lasts until the end of y
 |9|3d10|
 
 ---
+
 ### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=25% height=25%>
-Once a turn whenever you damage a bloody creature you gain a stack of *Harvest* and they take  1d4 additional *Force* damage table below plus 1 for every 15th stack you have. A Once used, it cannot be used again until you score a takedown, or finish a long rest. 
+Once a turn whenever you damage a bloody creature you gain a stack of *Harvest* and they take force damage as shown on the table below. A Once used, it cannot be used again until you score a takedown, or finish a long rest. 
 
 **Harvest damage**
 | Level | Damage                               |
 | -------------- | ------------------------------------ |
-| 1            | 1d4 Force Damage              |
-| 5             | 2d4 Force Damage              |
-| 9             | 3d4 Force Damage               |
+| 1            | 1d4 + 1 additional damage for every 20th stack          |
+| 5             | 1d4 + 2 additional damage for every 20th stack            |
+| 9             | 1d4 + 2 additional damage for every 15th stack           |
 
 
 ---
@@ -93,7 +94,7 @@ Aerys hit points scales with your level. Their hit point maximum equals 5 times 
 
 ### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" Align=left width=25% height=25%>
 
-Whenever you deal damage to a target you can summon a comet that crashes onto the target. The target and all enemies around it takes magical bludgeoning damage scaling with your level. Once used, it cannot be used again until 30 seconds has passed.
+Whenever you deal damage to a target you can summon a comet that crashes onto the target. The target and all enemies around it takes magical bludgeoning damage scaling with your level. Once used, it cannot be used again until 36 seconds has passed.
 
 **Arcane Comet Scaling**
 |Level|Effect|
@@ -119,7 +120,7 @@ When you deal damage to a target, they gain a mark of Phase until the end of you
 
 ## Keystones
 ### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=25% height=25%>
-Whenever you deal damage (once per attack) or you take damage from an enemy, you gain a stack of *Grasp*. When you are at three stacks, your next attack deals extra necrotic damage. You heal equal to the necrotic damage dealt. 
+Whenever you deal damage (once per attack) or you take damage from an enemy, you gain a stack of *Grasp*. When you are at four stacks, your next attack deals extra necrotic damage. You heal equal to the necrotic damage dealt. 
 
 In addition you a stack of *Undying* whenever you drain an opponent using this ability. You gain +1 maximum hit points for every tenth stack of *Undying* you have.
 
@@ -133,14 +134,15 @@ In addition you a stack of *Undying* whenever you drain an opponent using this a
 ---
 
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=25% height=25%>
-When you immobilize a creature, you gain temporary hit points based on your level, as shown on the table below. These temporary hit points last until the end of your next turn, if you still have any remaining at the start of your turn, enemies within 5 feet of you suffer damage equal to your temporary hit points. Once used it cannot be used again until 30 seconds have passed. 
+When you immobilize a creature, you gain resistanfce from elemental and physical damage and temporary hit points based on your level, as shown on the table below. These temporary hit points last until the end of your next turn, if you still have any remaining at the start of your turn, enemies within 5 feet of you suffer damage equal to your temporary hit points. Once used it cannot be used again until 30 seconds have passed. 
 
 **Aftershock Scaling**
 |Level|Hit Points|
 |---|---|
 |1| 10 temporary hit points|
-|5| 20 temporary hit points|
-|9| 30 temporary hit points|
+|5| 15 temporary hit points|
+|9| 20 temporary hit points|
+
 
 ---
 
