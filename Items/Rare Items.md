@@ -341,7 +341,7 @@ You gain +1 to spell attack rolls and your saving throw DC.
 
 You gain +1 to hit and damage rolls using this magical weapon. 
 
-_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one._
+_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
 
 ---
 
@@ -428,7 +428,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Health**: Your maximum hit points increases equal to a hit dice. 
 
-_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one._
+_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
 
 ---
 
