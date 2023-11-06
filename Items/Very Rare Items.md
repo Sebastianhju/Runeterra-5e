@@ -221,9 +221,9 @@ _You gain +1 to your armor class while wearing this piece of armor_
 
 **Fortify**: You take 3 less damage from pysical and elemental damage. 
 
-**Monolith**: As a bonus action you can give yourself temporary hit points equal to five times your proficiency modifier. You can do this effect a number of times equal to your proficiency modifier before you must finish a long rest.  
+**Monolith**: As a bonus action you can give yourself temporary hit points equal to four times your proficiency modifier. You can do this effect a number of times equal to your proficiency modifier before you must finish a long rest.  
 
-**Petricite**: Whenever you gain temporary hit points, you can remove one magical effect affecting you.
+**Petricite**: Whenever you gain temporary hit points, you can remove one magical effect affecting you, unless you are charmed.
 
 _You gain +2 to your armor class while wearing this piece of armor_
 
