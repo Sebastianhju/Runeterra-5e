@@ -662,11 +662,13 @@ _You gian +3 to initiative rolls_
 - Breastplate
 - Attunement (You must have atleast 100 hit points to attune to _Warmogs Armor_)
 
-**Warmogs Heart**: As a bonus action, you can give yourself 10 stacks of regeneration. The max amount of regeneration stacks are doubled. 
+**Warmogs Heart**: As a bonus action, you can give yourself 10 stacks of regeneration. The max amount of regeneration stacks you can gain are doubled. 
 
 **Allways Ready**: Whenever you roll initiative, you start with 75 hit points, unless your current hit points are higher. 
 
 **Health**: You gain hit points equal to two hit dice. 
+
+_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
 
 ---
 
@@ -697,6 +699,8 @@ _You gain +2 to hit and damage rolls using this magical weapon _
 **Trifold Strike**: Whenever you hit an attack roll, you gain a stacks of _Regeneration_, 5 feet movement speed and the cooldowns of your runes and items are reduced by 6 seconds. 
 
 **Extra Attack**: You can make an extra attack as a part of the attack action.
+
+_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
 
 ---
 
