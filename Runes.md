@@ -38,26 +38,26 @@
 
 ## Keystones
 ### Conqueror  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" Align=left width=25% height=25%>
-Once per attack, whenever you damage enemies, you gain stacks of Conqueror. Two stacks for ranged attacks, and three stacks for melee attacks. Whenever you get 10 stacks, you deal additional damage from your damage sources as shown on the table below, and you heal for the additional damage dealt. 
+Once per attack, whenever you damage enemies, you gain stacks of Conqueror. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 12 stacks, you deal additional damage from your damage sources as shown on the table below, and you heal for the additional damage dealt. If you don't deal damage during your turn, you loose a stack of Conqueror.
 
 **Conqueror Scaling**
 |Level|Damage|
 |---|---|
-|1| 1d6 |
-|5| 1d8|
-|9|2d6|
+|1| 1d4 |
+|5| 1d6|
+|9|2d4|
 
 
 ---
 ### Lethal Tempo  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" Align=left width=25% height=25%>
-Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. Two stacks for ranged attacks, and three stacks for melee attacks. Whenever you get 10 stacks, you can make an extra attack as a part of your attack action and gain range based on your level as shown on the table below. 
+Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 10 stacks, you can make an extra attack as a part of your attack action and gain additional range as shown on the table below (halved for melee attacks). If you don't deal damage during your turn, you loose a stack of Conqueror.
 
 **Lethal Tempo Scaling**
 |Level|Damage|
 |---|---|
-|1|10 feet reach and 15 feet range|
-|5|15 feet reach and 20 feet range |
-|9|15 feet reach and 30 feet range|
+|1|10 feet additional range|
+|5|20 feet additional range |
+|9|30 feet additional range|
 
 ---
 ### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" Align=left width=25% height=25%>
@@ -181,21 +181,22 @@ Damaging an enemy gives them a mark of electorcute that lasts until the end of y
 |9|3d10|
 
 ---
+
 ### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=25% height=25%>
 Once a turn whenever you damage a bloody creature you gain a stack of *Harvest* and they take force damage as shown on the table below. A Once used, it cannot be used again until you score a takedown, or finish a long rest. 
 
 **Harvest damage**
 | Level | Damage                               |
 | -------------- | ------------------------------------ |
-| 1            | 1d4 + 1 for every 20th stack          |
-| 5             | 1d4 + 2 for every 20th stack            |
-| 9             | 1d4 + 2 for every 15th stack             |
+| 1            | 1d4 + 1 additional damage for every 20th stack          |
+| 5             | 1d4 + 2 additional damage for every 20th stack            |
+| 9             | 1d4 + 2 additional damage for every 15th stack           |
 
 ---
 
 ### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=25% height=25%>
 
-You can dash as a bonus action, and the next attack that hits this round deals additional damage for every 15 feet you've traveled directly towards your target this turn. Once used, it cannot be used again until 48 seconds has passed.
+You can dash as a bonus action, and the next attack that hits this round deals additional damage for every 15 feet you've traveled directly towards your target this turn. Once used, it cannot be used again until 45 seconds has passed.
 
 Whenever you take the dash action on your turn, you gain advantage on your next melee attack if you moved at least 15ft in a straight line towards the target.
 
@@ -449,14 +450,14 @@ In addition you a stack of *Undying* whenever you drain an opponent using this a
 ---
 
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=25% height=25%>
-When you immobilize a creature, you gain temporary hit points based on your level, as shown on the table below. These temporary hit points last until the end of your next turn, if you still have any remaining at the start of your turn, enemies within 5 feet of you suffer damage equal to your temporary hit points. Once used it cannot be used again until 30 seconds have passed. 
+When you immobilize a creature, you gain resistanfce from elemental and physical damage and temporary hit points based on your level, as shown on the table below. These temporary hit points last until the end of your next turn, if you still have any remaining at the start of your turn, enemies within 5 feet of you suffer damage equal to your temporary hit points. Once used it cannot be used again until 30 seconds have passed. 
 
 **Aftershock Scaling**
 |Level|Hit Points|
 |---|---|
 |1| 10 temporary hit points|
-|5| 20 temporary hit points|
-|9| 30 temporary hit points|
+|5| 15 temporary hit points|
+|9| 20 temporary hit points|
 
 ---
 
