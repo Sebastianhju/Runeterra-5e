@@ -220,7 +220,7 @@ Whenever you damage a creature, you can choose to deal 1d6 extra force damage fo
 ---
 ### Taste of Blood <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png" Align=left width=7% height=7%>
 
-Whenever you damage a creature while being below maximum hit points, you can choose to heal an amount equal to twice your level. Once used, this effect cannot be used again until 30 seeconds has passed. 
+Whenever you damage a creature while being below maximum hit points, you can choose to heal an amount equal to twice your level. Once used, this effect cannot be used again until 30 seconds has passed. 
 
 ---
 ### Sudden Impact <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png" Align=left width=7% height=7%>
@@ -235,14 +235,14 @@ You learn the find familliar spell, and can cast it once a day without spending 
 ---
 ### Eyeball Collection <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/EyeballCollection.png" Align=left width=7% height=7%>
 
-Whenever you _kill_ a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of eyeball collection. You gain the following benefits from collection eyeballs:
+Whenever you score a takedown, you gain a stack of eyeball collection. You gain the following benefits from collection eyeballs:
 
 **Eyeball Collection Stacks**
 |Amount|Effect|
 |---|---|
 |0| You gain advantage on perception checks revolving sight. |
-|10|You gain blindsight for 30 feet |
-|20|You gain +1 to all saving throws|
+|25|You gain blindsight for 30 feet |
+|50|You gain +1 to all saving throws|
 
 ---
 ### Treasure Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/TreasureHunter.png" Align=left width=7% height=7%>
