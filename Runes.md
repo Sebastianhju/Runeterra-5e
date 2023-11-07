@@ -97,7 +97,7 @@ Whenever you score takedowns on creatures with a _Challenge Rating_ of one or hi
 
 **Alacrity Scaling**
 
-|Stacks|Feture|
+|Stacks|Feature|
 |---|---|
 |0| After you take the attack action, you can spend your bonus action to make an extra attack that cannot critically hit.|
 |30| You gain +2 to initiative|
@@ -111,7 +111,7 @@ Whenever you score takedowns on creatures with a _Challenge Rating_ of one or hi
 
 **Tenacity Scaling**
 
-|Stacks|Feture|
+|Stacks|Feature|
 |---|---|
 |0| You ignore difficult terrain and your movement speed can't be reduced. You can still be immobilized. |
 |30| you gain +5 feet movement speed|
@@ -124,7 +124,7 @@ Whenever you score takedowns on creatures with a _Challenge Rating_ of one or hi
 
 **Bloodline Scaling**
 
-|Stacks|Feture|
+|Stacks|Feature|
 |---|---|
 |0| Whenever you hit a creature, you heal equal to your proficiency bonus|
 |30| You gain +5 maximum hit points|
