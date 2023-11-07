@@ -252,7 +252,7 @@ Whenever you defeat a *greater foe* you can make an investegation check to find 
 ---
 ### Ingenious Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _Ingenoius_ giving you the following benefits
+Whenever you score a _takedown_ on a creature, you gain a stack of _Ingenoius_ giving you the following benefits
 
 **Ingenius Stacks**
 |Amount|Effect|
@@ -264,7 +264,7 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 ---
 ### Relentless Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/RelentlessHunter.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _Relentless_ giving you the following benefits
+Whenever you score a _takedown_ on a creature, you gain a stack of _Relentless_ giving you the following benefits
 
 **Relentless Stacks**
 |Amount|Effect|
@@ -276,7 +276,7 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 ---
 ### Ultimate Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/UltimateHunter.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _Ultimate_ giving you the following benefits
+Whenever you score a _takedown_ on a creature, you gain a stack of _Ultimate_ giving you the following benefits
 
 **Ultimate Stacks**
 |Amount|Effect|
