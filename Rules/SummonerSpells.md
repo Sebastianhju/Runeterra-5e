@@ -9,7 +9,7 @@
 # Barrier 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Barrier_HD.png" align=right width=10% height=10%>
-As a bonus action you can create a see-through Barrier in a 15 feet radius sphere centered around you that lasts for a minute. For enemies the barrier is solid. Creatures, missiles and objects cannot pass through it. For you and your allies, the barrier is immaterial. The Barriers AC equals 12 + your proficiency bonus and its hit points maximum equals to eight times your level. 
+As a bonus action you can create a see-through Barrier in a 15 feet radius sphere centered around you that lasts for a minute. For enemies the barrier is solid. Creatures, missiles and objects cannot pass through it. For you and your allies, the barrier is immaterial. The Barriers AC equals 12 + your proficiency bonus and its hit points maximum equals to ten times your proficiency bonus. 
 
 ---
 
@@ -32,14 +32,12 @@ As a *Bonus Action* you become invisible for an hour, or until you make an attac
 ---
 
 # Heal<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Heal_HD.png" align=right width=10% height=10%>
-At any time, you can heal yourself and all allies within 15 feet of you for an amount equal to four times your level
-
+At any time, you can heal yourself and all allies within 15 feet of you for an amount equal to five times your proficiency bonus
 
 ---
 
 # Ignite<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Ignite_HD.png" align=right width=10% height=10%>
-As a *Bonus Action* you can ignite a target. At the start of their turn, they take 2d4 fire damage and gains a stack of grievous wounds wounds for the next minute. 
-
+As a *Bonus Action* you can ignite a target. For the next minute they take 2d4 fire damage and gains a stack of grievous wounds wounds at the start of their turns. 
 
 ---
 
@@ -50,6 +48,6 @@ When you hit a target with an attack, you can use smite to critically hit instea
 
 
 # Teleport<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Teleport_HD.png" align=right width=10% height=10%>
-After a ten minute channel you can teleport yourself and up to five allies to a city or village you have visited during the campaign.
+After a ten minute channel you can teleport yourself and up to five allies to a city or village you have visited earlier during the campaign.
 
 ---
