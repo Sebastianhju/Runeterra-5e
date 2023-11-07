@@ -94,7 +94,9 @@ Whenever you kill a creature, you gain mana equal to your proficiency bonus.
 ### Legend: Alacrity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendAlacrity.png" Align=left width=7% height=7%>
 
 Whenever you score takedowns on creatures with a _Challenge Rating_ of one or higher, you gain a stack of Alacrity that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
+
 **Alacrity Scaling**
+
 |Stacks|Feture|
 |---|---|
 |0| After you take the attack action, you can spend your bonus action to make an extra attack that cannot critically hit.|
@@ -108,6 +110,7 @@ Whenever you score takedowns on creatures with a _Challenge Rating_ of one or hi
 Whenever you score takedowns on creatures with a _Challenge Rating_ of one or higher, you gain a stacks of _Tenacity_ that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
 
 **Tenacity Scaling**
+
 |Stacks|Feture|
 |---|---|
 |0| You ignore difficult terrain and your movement speed can't be reduced. You can still be immobilized. |
@@ -120,6 +123,7 @@ Whenever you score takedowns on creatures with a _Challenge Rating_ of one or hi
 Whenever you score takedowns on creatures with a _Challenge Rating_ of one or higher, you gain a stavk of Bloodline that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
 
 **Bloodline Scaling**
+
 |Stacks|Feture|
 |---|---|
 |0| Whenever you hit a creature, you heal equal to your proficiency bonus|
