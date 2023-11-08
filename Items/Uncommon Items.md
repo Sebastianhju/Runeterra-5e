@@ -208,9 +208,9 @@ _You gain +1 to acrobatics checks._
 - Dagger
 - Attunement
 
-**Tribute**: Whenever you deal damage to a target, you gain gold equal to the damage dealt. Up to a maximum of 500 gold.
+**Tribute**: Whenever you deal damage to a target, you gain gold equal to the damage dealt. Up to a maximum of 300 gold.
 
-**Quest**: Whenever you've gained 500 gold using this item, it transforms into _Shard of True Ice._
+**Quest**: Whenever you've gained 300 gold using this item, it transforms into _Shard of True Ice._
 
 
 ---
@@ -223,9 +223,9 @@ _You gain +1 to acrobatics checks._
 - Wonderous Item
 - Attunement
 
-**Spoils of War**: Whenever you score a takedown, you gain gold equal to twenty times the creatures challenge rating, up to a maximum of 500 gold
+**Spoils of War**: Whenever you score a takedown, you gain gold equal to ten times the creatures challenge rating, up to a maximum of 300 gold
 
-**Quest**: Whnever you've gained 500 gold using this item, it transforms into _Pauldrons of Whiterock_
+**Quest**: Whnever you've gained 300 gold using this item, it transforms into _Pauldrons of Whiterock_
 
 ---
 
