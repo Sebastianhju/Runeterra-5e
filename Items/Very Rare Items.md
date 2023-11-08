@@ -48,11 +48,11 @@ _You have +1 to spell attack rolls and +1 to your spell save DC when attuned to 
 
 **Mana**: You gain +15 maximum mana
 
-**Awe**: Your weapon attacks with Muramana deal 1d4 additinal damage for every 20th maximum mana you have
+**Awe**: Your weapon attacks with Muramana deal 1d4 additional damage for every 20th maximum mana you have
 
 **Shock**: When you deal damage with muramana, you can spend **five** charges to change the damage dealt to lightning damage, the target must also succeed a constitution saving throw (dc: 14 or you spell save dc, wahtever is higher), on a failed save they are stunned until the end of your next turn. 
 
-**Recharge**: This item has five charges, you regain all charges whenever you take a long rest. You also recharge a slot whenever you spend mana. 
+**Recharge**: This item has five charges, you regain all charges whenever you take a long rest. You also recharge a slot whenever you spend one or more mana. 
 
 _You have +2 to attack rolls and damage rolls using this magical weapon_ 
 
@@ -104,7 +104,7 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 **Dread**: While at 5 or more stacks, you deal 1d4 additional damage whenever you deal elemental, necrotic, psychic or force damage. This damage increases to 2d4 whenever you are at 10 stacks. While at 25 stacks this damage increases to 3d4 and you gain + 10 feet movement speed. 
 
-**Secretkeeper**: The first time you achive 50 stacks you can increase all ability modifiers by one. Once the book has used in this way, this feature cannot be used again.
+**Secretkeeper**: The first time you achive 25 stacks you can increase all ability modifiers by one. Once the book has used in this way, this feature cannot be used again.
 
 --- 
 
@@ -132,13 +132,12 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rylai's Crystal Scepter.png" Align=right width=8% height=8%>
 
-- 11,000
+- 9,000
 - Quarterstaff
-- Attunement
 
-**Touch of Cold** Whenever you deal elemental damage, you aslo deal 1d8 cold damage.
+**Touch of Cold** Whenever you deal elemental damage, you aslo deal 1d6 cold damage. The targets movement speed is reduced by an amount equal to five times the number rolled. 
 
-**Rimefrost**: Whenever you deal cold damage to a creature, their movement speed is reduced by 10 feet.
+**Health**: You maximum hit points increases by one hit dice. 
 
 ---
 
@@ -146,7 +145,7 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Serylda's Grudge.png" Align=right width=8% height=8%>
 
-- 10,000 Gold
+- 11,000 Gold
 - Spear
 
 **Haste**: The cooldowns of you runes and items are reduced by 6 seconds. 
@@ -199,9 +198,9 @@ _You gain +2 to spell attack rolls and +1 to spell save DCs_
 
 - 13,000 Gold
 - Shield
-- Attunement (Fighter, Cleric, Barbarian)
+- Attunement
 
-**Colossal Consumption**: Whenever you end your turn, all creatures within 5 feet of you are granted a _mark of the colossus_. Whenever you attack a creature with a mark, they take one additional damage for every 25th hit points you have, and you get a stack of _Heartsteel_. You gain one additional hit point for every tenth stack of _Heartsteel_
+**Colossal Consumption**: Whenever you end your turn, all creatures within 5 feet of you are granted a _mark of the colossus_. Whenever you attack a creature with a mark, they take one additional damage for every 25th hit points you have, and you get a stack of _Heartsteel_. You gain one additional hit point for every third stack of _Heartsteel_ as long as you are attuned to the item.
 
 **Health**: You gain hit points equal to your hit dice. 
 
@@ -240,7 +239,7 @@ _You gain +2 to your armor class while wearing this piece of armor_
 
 **Lingering Power**: After casting a spell, your next attack deals 2d6 additional psychic damage. 
 
-**Mageslayer**: Whenever you hit a target that is concentrating with _Lich Bane_, they have disadvantage on the conventration check, and their next spell costs 1 additional mana. 
+**Mageslayer**: Whenever you hit a target that is concentrating with _Lich Bane_, they have disadvantage on the consentration check, and their next spells manacost is doubled. 
 
 _You have +2 to attack and damage rolls when using this magical weapon_
 
@@ -253,13 +252,13 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 - 11,000 Gold
 - Whip
 
-**Halting Slash**: As an action, you can swing around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or be knocked prone and take damage equal to this weapons damage. Once this ability is used, it cannot be used again until 30 seconds pass. 
+**Halting Slash**: As an action, you can swing _Stridebreaker_ around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or be knocked prone and take damage equal to this weapons damage. Once this ability is used, it cannot be used again until 30 seconds pass. 
 
-**Heroic Gait**: Whenever you deal physical damage to creatures, you gian +5 movement speed until the end of your turn. 
+**Heroic Gait**: Whenever you deal physical damage to creatures, you gian +5 feet movement speed and agility until the end of your turn. 
 
 **Haste**: The cooldown of your items and runes are reduced with 6 seconds.
 
-_You have +2 to attack and damage rolls when using this magical weapon. _
+_You have +2 to attack and damage rolls when using this magical weapon_
 
 ---
 
@@ -317,7 +316,7 @@ _You have +2 to hit and damage rolls with this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Essence Reaver.png" Align=right width=8% height=8%>
 
 - 11,000
-- Scimitar (Scyte)
+- Sikle
 
 **Stored Potential**: After casting a spell, your next attack with _Essence Reaver_ has a +2 critically strike chance and deals 1d8 additianal slashing damage.
 
@@ -337,7 +336,7 @@ _You have +2 to hit and attack rolls using this magical weapon_
 - Shortbow
 - Attunement
 
-**Lifeline**: If you would take damage that would reduce your hit points to zero, you first gain temporary hit points equal to 5 times your proficiency bonus. As long as you have these temporary hit points, you can make an additianal attack as a part of your attack action. 
+**Lifeline**: If you would take damage that would reduce your health below 50% of you maximum, you first gain temporary hit points equal to 5 times your proficiency bonus. As long as you have these temporary hit points, you can make an additianal attack as a part of your attack action. Once this ability has ben used, it cannot be used again until 60 seconds pass. 
 
 **Critical**: Your Critical strike chance increases by one.  
 
@@ -354,7 +353,7 @@ _You gain +3 to inititative checks_
 - 11,000 Gold
 - Morningstar
 
-**Thirsting Slash**: As an action, you can swing around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or take damage equal to this weapons damage, you heal equal to your proficiency bonus for every target within 5 feet of you. Once this ability is used, it cannot be used again until 30 seconds pass. 
+**Thirsting Slash**: As an action, you can swing around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or take damage equal to this weapons damage, you heal 1 hit point for every target within 5 feet of you. Once this ability is used, it cannot be used again until 30 seconds pass. 
 
 **Lifesteal**: Whenever you hit a target with _Goredrinker_ you heal equal to your proficiency bonus
 
@@ -412,7 +411,7 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 **Catching Claws**: You gain +2 to hit and damage on your unarmed attacks. Whenever you hit an unarmed attack, you can use your bonus action to grapple the target. 
 
-**Lifeline**: If you would take damage that would reduce your hit points to zero, you first gain temporary hit points equal to 10 times your proficiency bonus. As long as you have these temporary hit points, your size increases by one and your movement speed cannot be reduced, but you can still be grappled or restrained. 
+**Lifeline**: If you would take damage that would reduce your hit points to zero, you first gain temporary hit points equal to 10 times your proficiency bonus. As long as you have these temporary hit points, your size increases by one, as if affected by the enlarge spell, and your movement speed cannot be reduced, but you can still be immobilized.
 
 **Health**: You gain hit points equal to two of your hit dice. 
 
@@ -458,7 +457,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 - Wonderous Item
 - Attunement
 
-**Annul**: As an reaction upon begin targeted by a spell that targets only you, you can cancel it and gain charges equal to the spells mana cost. You can stack up to a maximum of 50 charges. If you don't have enough charges to contain the spell targeting you, it still affects you. Once you've used this effect, it cannot be used again until 30 seconds pass. 
+**Annul**: As an reaction upon begin targeted by a spell that targets only you, you can cancel it and gain charges equal to the spells mana cost. You can stack up to a maximum of 50 charges. If you don't have enough charges to contain the spell targeting you, it still affects you.
 
 **Nightfall**: You can spend charges to cast the following spells: 
 - (30) Greater invisibility
@@ -494,7 +493,7 @@ _You gain +2 to your spell attack rolls and spell save DC while attuned to this 
 
 **Cleave**: Whenever you hit a creature with an attack using Ravenous Hydra, all enemies within 5 feet of the target takes damage equal to your strength modifier. Youl heal 1 hit points for each creature within 5 feet of the original target. 
 
-**Lifesteal**: Whenever you hit an attack with _Bloodthirster_ you regain health equal to you proficiency bonus
+**Lifesteal**: Whenever you hit an attack with _Ravenous Hydra_ you regain health equal to you proficiency bonus
 
 **Hunger**: Whenever you kill a creature, you gain a stack of _Satisfaction, up to a maximum of 15. If your hitpoints reaches zero, you loose ten stacks. For every stack of _Satisfaction_ you gain the following features:
 - (5): You gain +2 to hit and damage rolls
@@ -542,7 +541,7 @@ _You gian +2 to hit and damage rolls using this magical weapon_
 - 13,000 Gold
 - Wonderous Item (Shoulderpad)
 
-**Shipwrecker**: For every fet you move, you gain a stack of momentum. For every tenth stack your next attack deals 1 additional damage. For every 40 stack, you gain +5 movement speed and your next attack reduces the creatures movement speed by 15 feet. 
+**Shipwrecker**: For every feet you move, you gain a stack of momentum up to a maximum of 80. For every tenth stack your next attack deals 1 additional damage. For every 40 stack, you gain +5 movement speed and your next attack reduces the creatures movement speed by 15 feet. 
 
 **Health**: You gain hit points equal to your hit dice. 
 
@@ -561,11 +560,13 @@ _You gain +1 to your armor class while wearing this piece of equipment_
 
 **Enegized**: Whenever you move you gain a stack of energized for every feet you move and whenever you attack you gain five stacks of energized, up to a maximum of 80.
 
-**Sharpshooted**: Whenver you are at 80 stacks of energized, your next attack with _Rapid Firecannon_ gains 30 feet additinal range and deals 2d10 lightning damage. 
+**Sharpshooted**: Whenver you are at 80 stacks of energized, your next attack with _Rapid Firecannon_ gains 30 feet additional range and deals 2d10 lightning damage. 
 
 **Critical**: Your Critical strike chance increases by one. 
 
 **Speed**: You gain +5 movement speed. 
+
+_You gian +3 to initiative rolls_
 
 _You have +2 to hit and damage rolls with this magical weapon_
 
@@ -578,13 +579,15 @@ _You have +2 to hit and damage rolls with this magical weapon_
 - 11,000 Gold
 - Longbow
 
-**Winds Fury**: Whenever you attack a creature with _Ruunan's Hurricane_. Two targets within 10 feet of the original target suffers damage equal to your proficiency bonus..  
+**Winds Fury**: Whenever you attack a creature with _Ruunan's Hurricane_. Two targets within 10 feet of the original target suffers damage equal to your proficiency bonus.
 
 **Critical**: Your critical strike chance increases by 1
 
 **Extra Attack**: You can make an extra attack as a part of the attack action with _Ruunan's Hurricane_ 
 
 _You gain +2 to hit and damage rolls using Ruunan's Hurricane_
+
+_You gian +3 to initiative rolls_
 
 ---
 
@@ -631,13 +634,15 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 **Enegized**: Whenever you move you gain a stack of energized for every feet you move and whenever you attack you gain five stacks of energized, up to a maximum of 80.
 
-**Statikk**: Whenver you are at 80 stacks of energized, your next attack with _Statikk Shiv_ deals 2d10 lightning damage. If the attack hits, the lightning spreads to a new target within 15 feet of the original target, this lightning continues to spreads to new targets until you miss an attack or there are no new targets.  
+**Statikk**: Whenver you are at 80 stacks of energized, your next attack with _Statikk Shiv_ deals 2d10 lightning damage. If the attack hits, the lightning spreads to a new target within 15 feet of the original target and you must make a new attack roll to deal 2d10 lightning damage, this lightning continues to spreads to new targets until you miss an attack or there are no new targets.  
 
 **Critical**: Your Critical strike chance increases by one. 
 
 **Speed**: You gain +5 movement speed. 
 
 _You gain +2 hit and damage rolls with this magical weapon_
+
+_You gian +3 to initiative rolls_
 
 ---
 
@@ -648,7 +653,7 @@ _You gain +2 hit and damage rolls with this magical weapon_
 - 10,000 Gold
 - Wonderous
 
-**Supersonic**: As a bouns action you can activate the rocketbelt. You gain 60 feet flying speed, but you must land on a surface at the end of your turn, when you end your turn, all creatures within 5 feet of you take 2d8 force damage. You can do this a number of times equal to your proficiency bonus before finishing a long rest. 
+**Supersonic**: As a bouns action you can activate the rocketbelt. You gain 60 feet flying speed and agility, but you must land on a surface at the end of your turn, when you end your turn, all creatures within 5 feet of you take 2d4 force damage. Once this effect is used, it cannot be used again until 30 seconds pass. 
 
 **Health**: You gain hit points equal to your hit dice. 
 
@@ -664,7 +669,9 @@ _You gian +3 to initiative rolls_
 - Breastplate
 - Attunement (You must have atleast 100 hit points to attune to _Warmogs Armor_)
 
-**Warmogs Heart**: As a bonus action, you can give yourself 10 stacks of regeneration. The max amount of regeneration stacks you can gain are doubled. 
+**Substain**: The maximum amount of regeneration stacks you can gain are doubled. 
+
+**Warmogs Heart**: As a bonus action, you can give yoursel stacks of regeneration equal to three times your proficiency bonus. Once this effect is used, it cannot be used again until 30 seconds pass.  
 
 **Allways Ready**: Whenever you roll initiative, you start with 75 hit points, unless your current hit points are higher. 
 
