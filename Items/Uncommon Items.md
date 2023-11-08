@@ -261,7 +261,7 @@ _You gain +1 to acrobatics checks._
 - 400 Gold
 - Wonderous Item
   
-**Perfect timing**: As a reaction upon taking damage, when you know the amount taken, you can become invulnerable and incapazitaded until the start of your next turn, doing this negates the damage that triggerd the reaction, using this reaction breaks the Stopwatch.
+**Perfect timing**: As a reaction upon taking damage, after you know the amount taken, you can become invulnerable and incapazitaded until the start of your next turn, doing this negates the damage that triggerd the reaction, using this reaction breaks the Stopwatch.
 
 ---
 
