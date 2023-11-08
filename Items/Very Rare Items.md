@@ -477,7 +477,7 @@ _You gain +1 to all saving throws_
 - Arcane Focus
 - Attunement
 
-**Affliction**: Whenever you deal elemental, force, psychic, necrotic or radiant damage to a target, you both gain two stacks of grievous wounds. Whenever you damage a creature with grievous wounds, you ignore immunities and resistances. 
+**Affliction**: Whenever you deal elemental, force, psychic, necrotic or radiant damage to a target, you both gain two stacks of grievous wounds. Whenever you damage a creature with grievous wounds, you deal 1d6 additional necrotic damage, and heal equal to the additional damage dealt. 
 
 **Hidden Knowledge**: When you are attuned to this book you can increase two different ability scores by one. 
 
@@ -596,9 +596,9 @@ _You gain +2 to hit and damage rolls using Ruunan's Hurricane_
 - Longsword
 - Attunement
 
-**Mists Edge**: Whenever you damage a creauture, they take damage equal to 2% of their maximum hit points and you heal for that amount.  
+**Mists Edge**: Whenever you damage a creauture with _Blade of the Ruined King_, they take damage equal to 1d4 necrotic damage and you heal for that amount.  
 
-**Siphon**: Damaging creatures gives them a stack of _Siphon_. A creature with five stacks take 3d8 necrotic damage, and you heal equal to the amount. Once this effect is used, it cannot be used again until 30 seconds pass.
+**Siphon**: Damaging creatures gives them a stack of _Siphon_. A creature with five stacks takes 3d8 necrotic damage, and you heal equal to the amount. Once this effect is used, it cannot be used again until 30 seconds pass.
 
 **Extra Attack**: You can make an extra attack as a part of the attack action.
 
@@ -617,6 +617,8 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 **Knowledge is Power**: All your ability scores increases by 1 while attuned to this item
 
 **Power is Knowledge**: You become proficient in all wisdom and intelligence based checks. 
+
+**Fast Casting**: You gain an additional bonus action that can be used to cast any cantrip, ignoring thier casating time.
 
 ---
 
