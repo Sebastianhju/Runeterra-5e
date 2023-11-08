@@ -714,7 +714,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 - Quarterstaff
 - Attunement
 
-**Echo**: Whenever you deal elemental damage to a creature, you deal 2d8 thunder damage to a target, all creutres within 15 feet of the target must succeed a dexterity saving throw or take 2d8 thunder damage, halved on a save. Once this effect is used, it cannot be used again until 30 seconds pass.
+**Echo**: Whenever you deal elemental damage to a creature, you deal 2d8 thunder damage to a target, all creatures within 15 feet of the target must succeed a dexterity saving throw or take 2d8 thunder damage, halved on a save. Once this effect is used, it cannot be used again until 30 seconds pass.
 
 **Tempests Servant**: Whenever you deal lightning or thunder damage to a creature, they are knocked prone. 
 
