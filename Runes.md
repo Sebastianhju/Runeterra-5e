@@ -514,7 +514,7 @@ Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or hi
 Whenever you are bloodied, you gain 3 stacks of regenerataion at the end of your turns. 
 The maximum stacks of regeneration is increased to five times your proficiency bonus. 
 
-_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to four times your proficiency bonus._
+_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
 
 ---
 
