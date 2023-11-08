@@ -53,9 +53,9 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 - 600 Gold
 - Arcane Focus
 
-**Blasting**: Whenever you deal damage with a spell, you can choose to deal any type of elemental damage instead of the initial damage type. Once this effect is used, it cannot be used again until you finish a long rest. 
+**Blasting**: Whenever you deal damage with a spell, you can choose to deal any type of elemental damage instead of the initial damage type. Once this effect is used, it cannot be used again until 30 seconds pass. 
 
-**Wand**: While holding this wand, you gain +1 bonus to spell attack rolls. 
+_You gain +1 bonus to spell attack rolls_
 
 ---
 
@@ -66,7 +66,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 - 750 Gold
 - Quarterstaff 
 
-**Needlessly Large**: Any spell with a radius, cone , cube or similar effect gains an extra 5ft to the size in all dimentions. 
+**Needlessly Large**: Any spell with a radius, cone, cube or similar effect gains an extra 5ft to the size in all dimentions. 
 
 **Rod**: Whenever you are attacking with Needlessly Large Rod you can use your spellcasting ability when calculating to-hit rolls and damage instead of strength
 
@@ -108,7 +108,7 @@ _You have +1 to your armor class while wearing this magical armor_
 - 625 Gold
 - Cloak
 
-**Magic Resiliance**: Whenever you roll a saving throw against spells that deal elemental or physical damage, you gain +2 to that saving throw. 
+**Magic Resiliance**: Whenever you roll a saving throw against spells that deal damage, you gain +2 to that saving throw. 
 
 ---
 
@@ -121,7 +121,7 @@ _You have +1 to your armor class while wearing this magical armor_
 
 **Momentery Focus**: As a bonus action you can enter a state of focus that last for a minute, when in this state your critical strike chance is increased by one and you are agile. Once this effect is used it cannot be used again until you finish a long rest. 
 
-_You gain   +1 to acrobatics checks._
+_You gain +1 to acrobatics checks._
 
 ---
 
@@ -210,7 +210,7 @@ _You gain   +1 to acrobatics checks._
 
 **Tribute**: Whenever you deal damage to a target, you gain gold equal to the damage dealt. Up to a maximum of 500 gold.
 
-**Quest**: Whenever you've gained 500 gold using this item, it transforms into _Shard of True Ice. 
+**Quest**: Whenever you've gained 500 gold using this item, it transforms into _Shard of True Ice._
 
 
 ---
@@ -225,7 +225,7 @@ _You gain   +1 to acrobatics checks._
 
 **Spoils of War**: Whenever you score a takedown, you gain gold equal to twenty times the creatures challenge rating, up to a maximum of 500 gold
 
-**Quest**: Whnever you've gained 500 gold using this item, it transforms into Pauldrons of Whiterock
+**Quest**: Whnever you've gained 500 gold using this item, it transforms into _Pauldrons of Whiterock_
 
 ---
 
@@ -236,7 +236,7 @@ _You gain   +1 to acrobatics checks._
 - 450 Gold
 - Wonderous Item
 
-**Mana well**: When rolling hit dice you reagain 1 mana for each hit dice spent.
+**Mana well**: Whenever you spend a hit dice you reagain 1 mana.
 
 ---
 
@@ -248,7 +248,9 @@ _You gain   +1 to acrobatics checks._
 - Scythe (Scimitar)
 - Attunement
 
-**Blood runes**: The head of the scythe is filled a hundred small black runes, whenever you score a take down one of the runes becomes red. Whenever you want to sell the cull, its value increses by 20 gold for every rune that glows. 
+**Lifesteal**: Whenever you hit a target with _Cull_ you regain hit points equal to half your proficiency bonus
+
+**Blood runes**: The head of the scythe is filled a hundred small black runes, whenever you score a takedown one of the runes becomes red. Whenever you want to sell the cull, its value increses by 10 gold for every rune that glows. 
 
 ---
 
