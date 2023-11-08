@@ -8,7 +8,7 @@
 - Shield
 - Attunement
 
-**Aegis Aura**: As an action you can activate the Aegis Aura, giving you and allies +2 to their armor class and saving throws for a minute as long as they are within 10 feet of you for 30 seconds. Once used, it cannot be used again until you finish a long rest. 
+**Aegis Aura**: As an action you can activate the Aegis Aura, giving you and allies +2 to their armor class and saving throws for a minute as long as they are within 10 feet of you. Once used, it cannot be used again until you finish a long rest. 
 
 While wielding this piece of armor you gain +1 to your armor class. 
 
@@ -90,7 +90,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Piercing Crystals**: While wearing these Bracers your unarmed attacks have +1 to hit and damage rolls. 
 
-**Healing Crystals**: Once a turn whenver you hit a target, you can choose to heal equal to half the damage dealt. Once this feature is used, ut cannot be used again until 18 seconds have passed. 
+**Healing Crystals**: Once a turn whenver you hit a target, you can choose to heal equal to half the damage dealt.
 
 ---
 
@@ -111,14 +111,14 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Fiendish Codex.png" Align=right width=8% height=8%>
 
-- 2250 Gold
+- 2500 Gold
 - Spell Focus
 
 **Spell Enhancer**: Whenever you deal damage from a spell you may reroll up to three damage dices. 
 
-**Haste**: The cooldown of your runes and items are reduced by 6 seconds. 
-
 **Fiendish Knowledge**: You may prepare one extra spell from you spellcasting list. 
+
+**Haste**: The cooldown of your runes and items are reduced by 6 seconds. 
 
 ---
 
@@ -143,7 +143,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 2500 Gold
 - Shield
 
-**Steadfast**: Whenever anyone misses a melee attack roll towards you, their movement speed is reduced bu 10 feet. 
+**Steadfast**: Whenever anyone misses a melee attack roll towards you, their movement speed is reduced by 10 feet. 
 
 **Mana**: You gain +5 maximum mana.
 
@@ -183,7 +183,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 2700 Gold
 - Longsword
 
-**Lifeline**: If you take elemental damage that would down you, you first gain temporary hit points equal to ten times your proficiency bonus that lasts until the end of your turn. 
+**Lifeline**: If you take elemental damage that would reduce your hitpoints to zero, you first gain temporary hit points equal to ten times your proficiency bonus that lasts until the end of your turn. 
 
 You gain +1 to hit and damage rolls using this magical weapon.
 
@@ -198,9 +198,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Revved**: Whenever you damage an enemy, you also deal lightning damage equal to 1d10 plus your proficiency bonus. Once this effect is used, it cannot be used again until 30 seconds pass or if you take lightning damage. 
 
-_You gain +1 to your investegation checks_
-
 ---
+
 ## Ironspike Whip
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ironspike Whip.png" Align=right width=8% height=8%>
@@ -221,7 +220,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 2500 Gold
 - Wonderous
 
-**Haste**: The cooldowns of your runes and items are reduced by 6 seconds. 
+**Haste**: The cooldowns of your runes and items are reduced by 12 seconds. 
 
 **Kindles Health**: You gain maximum hit points equal to one hit dice.
 
@@ -268,7 +267,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 - Wonderous Item
 - Attunement
 
-**Hope**: As a bonus action, you can give yourself temporary hit points equal to your level. You can do this a number of times equal to your proficiency bonus before you must take a long rest. 
+**Hope**: As a bonus action, you can give yourself temporary hit points equal to twice your proficiency bonus. Once you do this it cannot be done again until 30 seconds pass.
 
 **Well Timed**: Whenever you gain temporary hit points, the cooldowns of your runes and items are reduced by 6 seconds. 
 
@@ -283,7 +282,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 - 3500 Gold
 - Arcane Focus
 
-**Enlighten**: Whenever you take a short rest, you can spend hit dice to replenish mana instead of health. The amount of mana is equal to your proficiency bonus for every hit dice spent. 
+**Enlighten**: Whenever you take a short rest, you can spend hit dice to replenish mana and gain a small amount of health instead. The amount of mana and health is equal to your proficiency bonus for every hit dice spent. 
 
 You gain +1 to spell attack rolls and your saving throw DC. 
 
@@ -352,7 +351,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 -2700 Gold
 - Wonderous Item
 
-**Quicksilver** As a reaction upon begin immobilized you can remove all immobilizing effects and cast lesser restoration on yourself. 
+**Quicksilver** As a reaction upon begin immobilized you can remove all immobilizing effects and cast lesser restoration on yourself. Once this effect is used it cannot be used again until 30 seconds pass.  
 
 **Unstoppable** You gain +2 to saving throws agains immobilizing effects. 
 
@@ -367,7 +366,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 **Wrath**: This dagger deals 1d6 additional fire damage. 
 
-**Rage**: Whenever you hit a target with the rage knife you gain a stack of rage up to a maximum of 3. You loose all stacks whenever a minute passes without attacking anyone. 
+**Rage**: Whenever you hit a target with _Rage knife_ you gain a stack of rage up to a maximum of 3. You loose all stacks whenever a minute passes without attacking anyone. 
 
 **Seething Strike**: When you take the attack acton on your turn, you can spend three stacks of rage to gain an additional attack as a part of that attack action. 
 
@@ -384,7 +383,10 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 **Swift String**: Whenever you take the attack action using _Recurve Bow_ you can make an extra attack as a part of that action. 
 
-You gain +1 to hit and damage rolls using this magical weapon. 
+_You gain +2 to innitiative checks_
+
+_You gain +1 to hit and damage rolls using this magical weapon_
+
 
 ---
 
@@ -409,11 +411,11 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 2900 Gold
 - Dagger
 
-**Gouge**: As a bonus action, you can target a crature within 60 feet of you enhancing your next attack that hits against them with _Serrated Dirk_. If the target is resistant they instead take full damage, if they don't have any resistances they are vulnerable. You can use this effect an amount of times equal to your proficiency bonus before finishing a long rest. 
+**Gouge**: As a bonus action, you can target a crature within 60 feet of you enhancing your next attack that you hit. If the target is resistant they instead take full damage, if they don't have any resistances they are vulnerable. Once this effect is used it cannot be used again until 30 seconds pass. 
 
-You gain +2 to stealth checks 
+_You gain +2 to stealth checks_
 
-You gain +1 to hit and damage rolls using this magical weapon. 
+_You gain +1 to hit and damage rolls using this magical weapon._
 
 ---
 
@@ -455,7 +457,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Vampiric**: You learn the Vampiric Touch spell and can cast it once a day without expending any mana. When you cast the spell you have a +6 to hit, unless your spellcasting class has a better modifier. 
 
-**Vampirres Curse**: You heal equal all the necrotic damage you deal, but whenever you take radiant damage you gain stacks of grievous wounds equal to the damage taken, as well as you must succeed a constitution saving thow (dc:10 or half the damage taken, whatever number is higher) or be stunned until the end of your turn.
+**Vampires Curse**: You heal equal to half the necrotic damage you deal, but whenever you take radiant damage you gain stacks of grievous wounds equal to the damage taken.
 
 _You gain a +1 to all arcana checks_
 
@@ -470,9 +472,9 @@ _You gain a +1 to all arcana checks_
 
 **Rock Solid**: Whenever you spend mana, you gain stacks of _Mitigate_ equal mana spent, that last until the start of your next turn. 
 
-**Mitigate**: Whenever you take physical damage, you can reduce the damage taken by an amount equal to your _Mitigate_ stacks. 
+**Mitigate**: Whenever you take physical damage, you reduce the damage taken by an amount equal to your _Mitigate_ stacks. 
 
-While wielding this armor you gain +1 to your armor class. 
+While wielding this armor you gain +1 to your armor class_
 
 ---
 
@@ -487,7 +489,7 @@ While wielding this armor you gain +1 to your armor class.
 
 You don't have disadvantage on stealth checks when wielding this armor. 
 
-While wielding this armor you gain +1 to your armor class. 
+_While wielding this armor you gain +1 to your armor class_
 
 ---
 
@@ -498,8 +500,10 @@ While wielding this armor you gain +1 to your armor class.
 - 3250
 - Shortsword
 
-**Sharp Edged** Your critical strike chance is increased by one while wielding Zeal. Whenever you critically hit a target with Zeal, you can make an additional attack with Zeal as a bonus action.
+**Critical**: Your critical strike chance is increased by one.
 
-_You gain a +3 to your initiative rolls_ 
+**Sharp Edged**: Whenever you critically hit a target with Zeal, you can make an additional attack with Zeal as a bonus action.
 
-You gain +1 to hit and damage rolls using this magical weapon. 
+_You gain a +2 to your initiative rolls_ 
+
+_You gain +1 to hit and damage rolls using this magical weapon_
