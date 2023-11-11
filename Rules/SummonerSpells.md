@@ -13,6 +13,14 @@ As a bonus action you can create a see-through Barrier in a 15 feet radius spher
 
 ---
 
+# Cleanse
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Cleanse.png" align=right width=10% height=10%>
+
+As a bonus action, you can remove all negative effects affecting a creaure within 15 feet of you. This doens not remove curses or wounds. 
+
+---
+
 # Exhaust<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Exhaust_HD.png" align=right width=10% height=10%>
 As a *Bonus Action* you can exhaust a creature within 15 feet of you for 30 seconds. Their speed is halved, their armorclass is reduced by 2 and their attacks deal half damage.
 
