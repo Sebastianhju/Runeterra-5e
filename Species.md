@@ -178,21 +178,9 @@
 **Runeterran Born**: You gain a feat of your choice.
 
 ---
-# Minotaurs
-![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Minotaur.png)
-|The names of minotaurs are quite guttural in sound, accounting for beast-like vocal chords. However, they are still based in Noxian script and pronunciation. Minotaurs do not typically have surnames, as they do not track lineage as humans do. If they need to identify themselves, they might do so by affixing the name of their clan to their title|
-|---|
 
-**Creature Type**: You are a Humanoid.
-
-**Size**: You are Medium.
-
-**Speed**: Your walking speed is 30 feet.
-
-**Horns**: You have horns that you can use to make unarmed strikes. When you hit with them, the strike deals 1d6 + your Strength modifier piercing damage, instead of the bludgeoning damage normal for an unarmed strike.
-
-**Goring Rush**: Immediately after you take the Dash action on your turn and move at least 20 feet, you can make one melee attack with your Horns as a bonus action.
-
-**Hammering Horns**: Once a turn, immediately after you hit a creature with a melee attack as part of the Attack action on your turn, you can attempt to push that target with your horns. The target must be within 5 feet of you and no more than one size larger than you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier, you push it up to 10 feet away from you.
-
-**Labyrinthine Recall**: You always know which direction is north, and you have advantage on any Wisdom (Survival) check you make to navigate or track.
+**You can also select the following races from Dungeons and Dragons:**
+- Minotaur (Noxus)
+- Warforged (Piltover & Zaun)
+- Undead lineage (Shadowiles)
+- Centaur (Ionia) 
