@@ -175,7 +175,7 @@
 
 **Skilled**: You are proficient in a skill of your choosing
 
-**Runeterran Born**: You gain a [keystone rune feat](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Keystones.md) of your choice.
+**Runeterran Born**: You gain a feat of your choice.
 
 ---
 # Minotaurs
