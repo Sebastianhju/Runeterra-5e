@@ -283,7 +283,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Ultimate_ gi
 |---|---|
 |0|Your Ultimates cooldown is reduced by 1 |
 |25|Your Ultimates cooldown is reduced by 2 |
-|30|Your Ultimates cooldown is reduced by 3|
+|50|Your Ultimates cooldown is reduced by 3|
 
 ---
 
@@ -498,7 +498,7 @@ Whenever you gain temporary hit points, your next attack deals 1d6 additional da
 
 ### Conditioning  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Conditioning.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ on a creature of a _Challenge Rating_ of 1 or higher, you gain a stack of _Conditioning_ giving you the following benefits:
+Whenever you score a _takedown_ on a creature, you gain a stack of _Conditioning_ giving you the following benefits:
 
 **Conditioning Scaling**
 |Amount|Effect|
@@ -578,14 +578,15 @@ Whenever you immobilize a creature, they and all enemies within 10 feet of the t
 ---
 
 ### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=25% height=25%>
-At the end of a long rest you can select a [Summoner Spell](https://github.com/Sebastianhju/Runeterra-5e/blob/main/SummonerSpells.md) to have that day, if you dont use it before you take a long rest it vanishes. Summoner spells are powerfull spells that can be used once before they vanish. You can never select the same spell two days in a row or twice the same day. At later levels you can get a new summoner spell when you finish a short rest.  
+At the end of a long rest you gain a [Summoner Spell](https://github.com/Sebastianhju/Runeterra-5e/blob/main/SummonerSpells.md) for that day, if you dont use it before you take a long rest it vanishes. You roll 1d10 and gain the according summonerspell. If you roll a 10 on the dice, you can select the summoner spell yourself. 
+Summoner spells are powerfull spells that can be used once before they vanish. You can never select the same spell two days in a row or twice the same day. At later levels you can get a new summoner spell when you finish a short rest.  
 
 **Spellbook Scaling**
 |Level|Hit Points|
 |---|---|
 |1|Long Rest|
 |5|Short Rest|
-|9|Short Rest - Select Two - No limitations|
+|9|Short Rest - You gain two|
 ---
 
 ### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" Align=left width=25% height=25%>
@@ -652,7 +653,7 @@ You learn the _Detect Thoughts_ and can cast it once a day without spending mana
 
 ### Approach Velocity  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/ApproachVelocity.png" Align=left width=7% height=7%>
 
-Whenever you move towards a target that is movement impared, every square only costs 2,5 feet of movement.
+Whenever you move towards a target that is movement impared, every square only costs 3 feet of movement.
 
 ---
 
