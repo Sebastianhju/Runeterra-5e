@@ -193,6 +193,6 @@
 
 **Goring Rush**: Immediately after you take the Dash action on your turn and move at least 20 feet, you can make one melee attack with your Horns as a bonus action.
 
-**Hammering Horns**: Immediately after you hit a creature with a melee attack as part of the Attack action on your turn, you can use a bonus action to attempt to push that target with your horns. The target must be within 5 feet of you and no more than one size larger than you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier, you push it up to 10 feet away from you.
+**Hammering Horns**: Once a turn, immediately after you hit a creature with a melee attack as part of the Attack action on your turn, you can attempt to push that target with your horns. The target must be within 5 feet of you and no more than one size larger than you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier, you push it up to 10 feet away from you.
 
 **Labyrinthine Recall**: You always know which direction is north, and you have advantage on any Wisdom (Survival) check you make to navigate or track.
