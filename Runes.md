@@ -581,6 +581,19 @@ Whenever you immobilize a creature, they and all enemies within 10 feet of the t
 At the end of a long rest you gain a [Summoner Spell](https://github.com/Sebastianhju/Runeterra-5e/blob/main/SummonerSpells.md) for that day, if you dont use it before you take a long rest it vanishes. You roll 1d10 and gain the according summonerspell. If you roll a 10 on the dice, you can select the summoner spell yourself. 
 Summoner spells are powerfull spells that can be used once before they vanish. You can never select the same spell two days in a row or twice the same day. At later levels you can get a new summoner spell when you finish a short rest.  
 
+|1d10 Roll|Summoner Spell|
+|---|---|
+|1|Barrier|
+|2|Clease|
+|3|Exhaust|
+|4|Flash|
+|5|Ghost|
+|6|Heal|
+|7|Ignite|
+|8|Smite|
+|9|Teleport|
+|10|Select any|
+
 **Spellbook Scaling**
 |Level|Hit Points|
 |---|---|
