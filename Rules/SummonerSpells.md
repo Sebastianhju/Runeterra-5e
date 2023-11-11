@@ -13,11 +13,9 @@ As a bonus action you can create a see-through Barrier in a 15 feet radius spher
 
 ---
 
-# Cleanse
+# Cleanse <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Cleanse.png" align=right width=10% height=10%>
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Cleanse.png" align=right width=10% height=10%>
-
-As a bonus action, you can remove all negative effects affecting a creaure within 15 feet of you. This doens not remove curses or wounds. 
+At any time, you can remove all negative effects affecting a creaure within 15 feet of you. This doens not remove curses or wounds. 
 
 ---
 
