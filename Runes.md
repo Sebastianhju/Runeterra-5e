@@ -578,8 +578,16 @@ Whenever you immobilize a creature, they and all enemies within 10 feet of the t
 ---
 
 ### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=25% height=25%>
+
 At the end of a long rest you gain a [Summoner Spell](https://github.com/Sebastianhju/Runeterra-5e/blob/main/SummonerSpells.md) for that day, if you dont use it before you take a long rest it vanishes. You roll 1d10 and gain the according summonerspell. If you roll a 10 on the dice, you can select the summoner spell yourself. 
 Summoner spells are powerfull spells that can be used once before they vanish. You can never select the same spell two days in a row or twice the same day. At later levels you can get a new summoner spell when you finish a short rest.  
+
+**Spellbook Scaling**
+|Level|Hit Points|
+|---|---|
+|1|Long Rest|
+|5|Short Rest|
+|9|Short Rest - You gain two|
 
 |1d10 Roll|Summoner Spell|
 |---|---|
@@ -594,12 +602,6 @@ Summoner spells are powerfull spells that can be used once before they vanish. Y
 |9|Teleport|
 |10|Select any|
 
-**Spellbook Scaling**
-|Level|Hit Points|
-|---|---|
-|1|Long Rest|
-|5|Short Rest|
-|9|Short Rest - You gain two|
 ---
 
 ### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" Align=left width=25% height=25%>
