@@ -43,7 +43,7 @@ At any time, you can heal yourself and all allies within 15 feet of you for an a
 ---
 
 # Ignite<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Ignite_HD.png" align=right width=10% height=10%>
-As a *Bonus Action* you can ignite a target. For the next minute they take 2d4 fire damage and gains a stack of grievous wounds wounds at the start of their turns. 
+As a *Bonus Action* you can ignite a target within 30 feet of you. They gain stacks of *burn* equal to twice your proficiency bonus and gains an equal amount of grievous wounds. 
 
 ---
 
