@@ -731,3 +731,31 @@ _You gain +2 to spell attacks and your save dc while attuned to this magical ite
 
 ---
 
+## The Collector
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/The Collector.png" Align=right width=8% height=8%>
+
+- 12,500 Gold
+- Flintlock (2d8 - Reload 1)
+
+**Critical**: Your Critical strike chance increases by one. 
+
+**Death and Taxes**: If a hit from _The Collector_ would leave a creature below 5% of their maximum hit points, you execute them. If you execute a creature, you gain gold equal to ten times your proficiency bonus. 
+
+_You gain +2 to hit and damage rolls using this magical weapon_
+
+---
+
+## Liandry's Torment
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/The Collector.png" Align=right width=8% height=8%>
+
+- 14,000 Gold
+- Wonderous Item
+- Attunement
+
+**Torment**: Dealing elementa, radiant, necrotic, force or psycich damage to creatures applies two stacks of *Burn* to the target. 
+
+_You gain +2 to spell attacks and your save dc while attuned to this magical item_
+
+_Burn: At the start of their turn, a creature with burn stacks takes force damage equal to the stacks of burn and remove the amount of stacks by one._
