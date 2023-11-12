@@ -120,7 +120,7 @@ Whenever you score takedowns on creatures with a _Challenge Rating_ of one or hi
 ---
 ### Legend: Bloodline <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" Align=left width=7% height=7%>
 
-Whenever you score takedowns on creatures with a _Challenge Rating_ of one or higher, you gain a stavk of Bloodline that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
+Whenever you score takedowns on creatures with a _Challenge Rating_ of one or higher, you gain a stack of Bloodline that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
 
 **Bloodline Scaling**
 
@@ -401,7 +401,9 @@ While above 50% health, you deal 1d4 additional damage.
 
 ### Scorch  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Scorch.png" Align=left width=7% height=7%>
 
-When you damage an enemy, you set them ablaze. The enemy takes 2d4 fire damage at the start of their next three turns. Once used, this effect cannot be used again until 30 seconds have passed. 
+When you damage an enemy, you give them stacks of burn equal 1+ your proficiency bonus. 
+
+Burn: At the start of their turn, a creature with burn stacks takes force damage equal to the stacks of burn and remove the amount of stacks by one.
 
 ---
 
