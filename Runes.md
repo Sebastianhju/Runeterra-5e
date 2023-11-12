@@ -50,7 +50,7 @@ Once per attack, whenever you damage enemies, you gain stacks of Conqueror. Thre
 
 ---
 ### Lethal Tempo  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" Align=left width=25% height=25%>
-Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 10 stacks, you can make an extra attack as a part of your attack action and gain additional range as shown on the table below (halved for melee attacks). If you don't deal damage during your turn, you loose a stack of Lethal Tempo.
+Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 12 stacks, you can make an extra attack as a part of your attack action and gain additional range as shown on the table below (halved for melee attacks). If you don't deal damage during your turn, you loose a stack of Lethal Tempo.
 
 **Lethal Tempo Scaling**
 |Level|Damage|
