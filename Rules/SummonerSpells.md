@@ -20,7 +20,7 @@ At any time, you can remove all negative effects affecting a creaure within 15 f
 ---
 
 # Exhaust<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Exhaust_HD.png" align=right width=10% height=10%>
-As a *Bonus Action* you can exhaust a creature within 15 feet of you for 30 seconds. Their speed is halved, their armorclass is reduced by 2 and their attacks deal half damage.
+As a *Bonus Action* you can exhaust a creature within 15 feet of you for 12 seconds. Their speed is halved, their armorclass is reduced by 2 and their attacks deal half damage.
 
 
 ---
