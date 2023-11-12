@@ -90,7 +90,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Piercing Crystals**: While wearing these Bracers your unarmed attacks have +1 to hit and damage rolls. 
 
-**Healing Crystals**: Once a turn whenver you hit a target, you can choose to heal equal to half the damage dealt.
+**Healing Crystals**: Once a turn whenver you hit a target with a weapon attack, you can choose to heal equal to half the damage dealt.
 
 ---
 
