@@ -126,9 +126,9 @@ Whenever you score takedowns on creatures with a _Challenge Rating_ of one or hi
 
 |Stacks|Feature|
 |---|---|
-|0| Whenever you hit a creature, you heal equal to your proficiency bonus|
+|0| Whenever you hit a creature with a weapon attack, you heal equal to your proficiency bonus|
 |30| You gain +5 maximum hit points|
-|60| Whenever you hit a creature, you heal hit points equal to your twice your proficiency bonus|
+|60| Whenever you hit a creature with a weapon attack, you heal hit points equal to your twice your proficiency bonus|
 
 ---
 
