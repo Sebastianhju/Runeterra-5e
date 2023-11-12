@@ -746,9 +746,9 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 ---
 
-## Liandry's Torment
+## Liandry's Anguish
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Liandry's Torment.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Liandry's Anguish.png" Align=right width=8% height=8%>
 
 - 14,000 Gold
 - Wonderous Item
