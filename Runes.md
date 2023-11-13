@@ -120,7 +120,7 @@ Whenever you score a _takedown_ you gain a stacks of _Tenacity_ that gives you b
 ---
 ### Legend: Bloodline <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedowns_ you gain a stack of Bloodline that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
+Whenever you score a _takedown_ you gain a stack of Bloodline that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
 
 **Bloodline Scaling**
 
@@ -134,19 +134,19 @@ Whenever you score a _takedowns_ you gain a stack of Bloodline that gives you be
 
 ### Coup De Grace <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CoupDeGrace.png" Align=left width=7% height=7%>
 
-Whenever you deal damage, you deal 1d4 extra damage to _bloodied_ creatures. 
+Once a turn when you deal damage, you deal 1d6 extra damage to _bloodied_ creatures. 
 
 ---
 
 ### Cut Down <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CutDown.png" Align=left width=7% height=7%>
 
-Whenever you deal damage, you deal 1d4 extra damage to a creature for each size larger than you it is. 
+Once a turn when you deal damage, you deal 1d6 extra damage to a creature for each size larger than you it is. 
 
 ---
 
 ### Last Stand <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LastStand.png" Align=left width=7% height=7%>
 
-When you deal damage, you deal 1d6 additional damage if you are _bloodied_. 
+Once a turn when you deal damage, you deal 1d8 additional damage if you are _bloodied_. 
 
 ---
 
