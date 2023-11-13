@@ -721,7 +721,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 - Quarterstaff
 - Attunement
 
-**Echo**: Whenever you deal elemental damage to a creature, you deal 2d8 thunder damage to a target, all creatures within 15 feet of the target must succeed a dexterity saving throw or take 2d8 thunder damage, halved on a save. Once this effect is used, it cannot be used again until 30 seconds pass.
+**Echo**: Whenever you deal elemental damage to a creature, you can choose to force all creatures within 15 feet of the target to roll a dexterity saving throw or take 2d8 thunder damage, halved on a save. Once this effect is used, it cannot be used again until 30 seconds pass.
 
 **Tempests Servant**: Whenever you deal lightning or thunder damage to a creature, they are knocked prone. 
 
@@ -736,11 +736,11 @@ _You gain +2 to spell attacks and your save dc while attuned to this magical ite
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/The Collector.png" Align=right width=8% height=8%>
 
 - 12,500 Gold
-- Flintlock (2d8 - Reload 1)
+- Blunderbuss
 
 **Critical**: Your Critical strike chance increases by one. 
 
-**Death and Taxes**: If a hit from _The Collector_ would leave a creature below 5% of their maximum hit points, you execute them. If you execute a creature, you gain gold equal to ten times your proficiency bonus. 
+**Death and Taxes**: If a hit from _The Collector_ would leave a creature below 5% of their maximum hit points, you execute them and gain gold equal to ten times your proficiency bonus. 
 
 _You gain +2 to hit and damage rolls using this magical weapon_
 
