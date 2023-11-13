@@ -134,19 +134,19 @@ Whenever you score a _takedown_ you gain a stack of Bloodline that gives you ben
 
 ### Coup De Grace <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CoupDeGrace.png" Align=left width=7% height=7%>
 
-Once a turn when you deal damage, you deal 1d6 extra damage to _bloodied_ creatures. 
+Whenever you deal damage, you deal 1d4 extra damage to _bloodied_ creatures. 
 
 ---
 
 ### Cut Down <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CutDown.png" Align=left width=7% height=7%>
 
-Once a turn when you deal damage, you deal 1d6 extra damage to a creature for each size larger than you it is. 
+Whenever you deal damage, you deal 1d4 extra damage to a creature for each size larger than you it is. 
 
 ---
 
 ### Last Stand <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LastStand.png" Align=left width=7% height=7%>
 
-Once a turn when you deal damage, you deal 1d8 additional damage if you are _bloodied_. 
+Whenever you deal damage, you deal 1d6 additional damage if you are _bloodied_. 
 
 ---
 
@@ -175,14 +175,14 @@ Once a turn when you deal damage, you deal 1d8 additional damage if you are _blo
 
 ## Keystones
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=25% height=25%>
-Damaging an enemy gives them a mark of electorcute that lasts until the end of your turn. When you damage a creature with a mark, you deal additional lightning damage. Once used it cannot be used again on the same target until 30 seconds has passed. 
+Damaging an enemy gives them a mark of electorcute that lasts until the end of your turn. When you damage a creature with a mark, you deal additional lightning damage. Once used it cannot be used again on the same target until 48 seconds has passed. 
 
 **Electrocute Damage**
 |Level|Damage|
 |---|---|
-|1| 1d10|
-|5|2d10|
-|9|3d10|
+|1| 1d6 + proficiency bonus |
+|5| 2d6 + proficiency bonus|
+|9| 3d6 + proficiency bonus|
 
 ---
 
