@@ -93,7 +93,7 @@ Whenever you kill a creature, you gain mana equal to your proficiency bonus.
 
 ### Legend: Alacrity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendAlacrity.png" Align=left width=7% height=7%>
 
-Whenever you score takedowns on creatures with a _Challenge Rating_ of one or higher, you gain a stack of Alacrity that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
+Whenever you score a _takedown_, you gain a stack of Alacrity that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
 
 **Alacrity Scaling**
 
@@ -107,7 +107,7 @@ Whenever you score takedowns on creatures with a _Challenge Rating_ of one or hi
 
 ### Legend: Tenacity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendTenacity.png" Align=left width=7% height=7%>
 
-Whenever you score takedowns on creatures with a _Challenge Rating_ of one or higher, you gain a stacks of _Tenacity_ that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
+Whenever you score a _takedown_ you gain a stacks of _Tenacity_ that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
 
 **Tenacity Scaling**
 
@@ -120,15 +120,15 @@ Whenever you score takedowns on creatures with a _Challenge Rating_ of one or hi
 ---
 ### Legend: Bloodline <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" Align=left width=7% height=7%>
 
-Whenever you score takedowns on creatures with a _Challenge Rating_ of one or higher, you gain a stack of Bloodline that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
+Whenever you score a _takedowns_ you gain a stack of Bloodline that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
 
 **Bloodline Scaling**
 
 |Stacks|Feature|
 |---|---|
-|0| Whenever you hit a creature with a weapon attack, you heal equal to your proficiency bonus|
+|0| Once a turn when you deal damage to a creature, you heal equal to your proficiency bonus|
 |30| You gain +5 maximum hit points|
-|60| Whenever you hit a creature with a weapon attack, you heal hit points equal to your twice your proficiency bonus|
+|60| Once a turn when you deal damage to a creature, you heal hit points equal to your twice your proficiency bonus|
 
 ---
 
