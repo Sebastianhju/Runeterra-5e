@@ -175,14 +175,14 @@ Whenever you deal damage, you deal 1d6 additional damage if you are _bloodied_.
 
 ## Keystones
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=25% height=25%>
-Damaging an enemy gives them a mark of electorcute that lasts until the end of your turn. When you damage a creature with a mark, you deal additional lightning damage. Once used it cannot be used again on the same target until 48 seconds has passed. 
+Damaging an enemy gives them a mark of electorcute that lasts until the end of your turn. When you damage a creature with a mark, you deal additional lightning damage. Once used it cannot be used again on the same target until 36 seconds has passed. 
 
 **Electrocute Damage**
 |Level|Damage|
 |---|---|
-|1| 1d6 + proficiency bonus |
-|5| 2d6 + proficiency bonus|
-|9| 3d6 + proficiency bonus|
+|1| 1d10 |
+|5| 2d10|
+|9| 3d10|
 
 ---
 
