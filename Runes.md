@@ -627,14 +627,14 @@ As a Bonus Action you can target a space within 30ft of you channeling a telepor
 
 ### Magical Footwear  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/MagicalFootwear.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ on a creature, you gain a stack of _Magical Footwear_ giving you the following benefits:
+You gain a sweet pair boots of speed. Whenever you score a _takedown_ on a creature, you gain a stack of _Magical Footwear_ giving you the boots the following benefits:
 
 **Magical Footwear Scaling**
 |Amount|Effect|
 |---|---|
-|0|You gain +5 feet movement speed|
-|25|You gain _Boots of Speed_|
-|50|Your _Boots of Speed_ are upgraded to _Boots of Swiftness_ |
+|0|+5 feet movement speed|
+|25|You can dash as a bonus action|
+|50|You gain +10 movement speed and your speed cannot be reduced. You can still be grappled and etc.  |
 
 ---
 
