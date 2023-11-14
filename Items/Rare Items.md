@@ -217,9 +217,9 @@ You gain +1 to hit and damage rolls using this magical weapon.
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Revolver.png" Align=right width=8% height=8%>
 
 - 2500 Gold
-- Palm Pistol
+- Pistol
 
-**Lightning Bolt*: Once a day you can cast the lightning Bolt spell without spending mana, when doing so all creautres that fail the saving throw are also stunned until the end of their turn. 
+**Shock**: When you hit an attack with _Hextech Revolver_ you can choose to force the target to succeed a constitution saving throw, the DC equal to 8 + proficiency bonus + dexterity modifier, on a failed save they take 2d8 lightning damage and are stunned until the end of their turn. On a success they are not stunned and take half damage. Once this effect is used, it cannot be used again until 30 seconds have passed.
 
 _You gain +1 to hit and damage rolls with this magical weapon_ 
 
