@@ -145,12 +145,12 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Serylda's Grudge.png" Align=right width=8% height=8%>
 
-- 11,000 Gold
+- 12,000 Gold
 - Pyke
 
 **Haste**: The cooldowns of you runes and items are reduced by 6 seconds. 
 
-**Spear Swing**: As an action, you can swing _Serylda's Grudge_ around you. All creatures within your reach must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or take damage equal to this weapons damage, this damage counts as spell damage. Once this effect is used, it cannot be used again until 18 seconds pass.
+**Pole Swing**: As an action, you can swing _Serylda's Grudge_ around you. All creatures within your reach must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or take damage equal to this weapons damage, this damage counts as spell damage. Once this effect is used, it cannot be used again until 24 seconds pass.
 
 **Bitter Cold**: Whenever you deal physical spell damage, the target takes full damage if they are resistant or immune and their movement speed is reduced by 15 feet until the end of their turn. 
 
