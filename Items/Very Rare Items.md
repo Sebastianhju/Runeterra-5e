@@ -328,6 +328,20 @@ _You have +2 to hit and attack rolls using this magical weapon_
 
 # Items of Noxus
 
+## Banner of Command
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Banner of Command.png" Align=right width=8% height=8%>
+
+- 12,500 Gold
+- Wonderous Item
+- Attunement
+
+**Rally**: All creatures within 15 feet of you heal 1d4 + proficiency bonus at the start of their turn. 
+
+**Promote**: All creatures within 30 feet of you take two less damage whenever they take elemental or physical damage.
+
+_You gain +1 to your armor class while attuned to this item_
+
 ## Immortal Shieldbow
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Immortal Shieldbow.png" Align=right width=8% height=8%>
