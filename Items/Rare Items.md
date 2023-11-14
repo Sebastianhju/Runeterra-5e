@@ -128,8 +128,6 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 2500 Gold
 - Spell Focus
 
-**Spell Enhancer**: Whenever you deal damage from a spell you may reroll up to three damage dices. 
-
 **Fiendish Knowledge**: You may prepare one extra spell from you spellcasting list. 
 
 **Haste**: The cooldown of your runes and items are reduced by 6 seconds. 
