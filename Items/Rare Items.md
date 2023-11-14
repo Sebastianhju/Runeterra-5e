@@ -212,6 +212,19 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
 
+## Hextech Revolver
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Revolver.png" Align=right width=8% height=8%>
+
+- 2500 Gold
+- Palm Pistol
+
+**Lightning Bolt*: Once a day you can cast the lightning Bolt spell without spending mana, when doing so all creautres that fail the saving throw are also stunned until the end of their turn. 
+
+_You gain +1 to hit and damage rolls with this magical weapon_ 
+
+---
+
 ## Ironspike Whip
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ironspike Whip.png" Align=right width=8% height=8%>
@@ -221,7 +234,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Crescent**: As an action, you can twirl the whip around you. All creatures within 10 feet of you must succeed a dexterity saving throw (DC: 8 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 30 seconds pass. 
 
-You gain +1 to hit and damage rolls using this magical weapon. 
+_You gain +1 to hit and damage rolls using this magical weapon_ 
 
 ---
 
