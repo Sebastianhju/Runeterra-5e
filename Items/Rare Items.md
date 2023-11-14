@@ -8,7 +8,7 @@
 - Shield
 - Attunement
 
-**Aegis Aura**: As an action you can activate the Aegis Aura, giving you and allies +2 to their armor class and saving throws for a minute as long as they are within 10 feet of you. Once used, it cannot be used again until you finish a long rest. 
+**Aegis Aura**: As an action you can activate the Aegis Aura, giving you and allies +1 to their armor class and saving throws for 18 seconds as long as they are within 10 feet of you. Once used, it cannot be used again until 30 seconds pass
 
 While wielding this piece of armor you gain +1 to your armor class. 
 
