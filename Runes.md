@@ -401,7 +401,7 @@ While above 50% health, you deal 1d4 additional damage.
 
 ### Scorch  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Scorch.png" Align=left width=7% height=7%>
 
-When you damage an enemy, you give them stacks of burn equal 1+ your proficiency bonus. 
+When you damage an enemy, you can choose to give them stacks of burn equal 1+ your proficiency bonus. Once this effect is used, it cannot be used again until 36 seconds have passed. 
 
 Burn: At the start of their turn, a creature with burn stacks takes force damage equal to the stacks of burn and remove the amount of stacks by one.
 
