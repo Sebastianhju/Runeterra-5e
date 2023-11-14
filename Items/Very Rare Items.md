@@ -556,7 +556,7 @@ _You gain +1 to your armor class while wearing this piece of equipment_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rapid Firecanon.png" Align=right width=8% height=8%>
 
 - 12,500 Gold
-- Pistol
+- Pepperbox
 
 **Enegized**: Whenever you move you gain a stack of energized for every feet you move and whenever you attack you gain five stacks of energized, up to a maximum of 80.
 
