@@ -342,6 +342,8 @@ _You have +2 to hit and attack rolls using this magical weapon_
 
 _You gain +1 to your armor class while attuned to this item_
 
+---
+
 ## Immortal Shieldbow
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Immortal Shieldbow.png" Align=right width=8% height=8%>
