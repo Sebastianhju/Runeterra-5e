@@ -28,6 +28,20 @@ While wielding this piece of armor you gain +1 to your armor class.
 
 ---
 
+## Banner of Command
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Banner of Command.png" Align=right width=8% height=8%>
+
+- 2500 Gold
+- Wonderous Item
+- Attunement
+
+**Promote**: As a bonus action you can activate the _Banner of Command_ for 18 seconds. All creatures within 15 feet of the banner heal 1d4 + proficiency bonus now and at the start of their turn. Once this effect is used, it cannot be used again until 12 seconds pass
+
+_You gain +1 to your armor class while attuned to this item_
+
+---
+
 ## Bami Cinder
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bami's Cinder.png" Align=right width=8% height=8%>
