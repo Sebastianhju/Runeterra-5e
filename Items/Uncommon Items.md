@@ -39,10 +39,12 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Amplifying Tome.png" Align=right width=8% height=8%>
 
-- 750 Gold
+- 450 Gold
 - Arcane Focus
 
-**Amplifying**: If you read this book for an hour, you can increase one ability score by one up to a maximum of 20. When you do this, the amplifying tome evaporates. 
+**Spell Enhancer**: Whenever you deal damage from a spell you may reroll up to three damage dices. 
+
+**Tomes Knowledge**: You can prepare one additional spell each day
 
 ---
 
