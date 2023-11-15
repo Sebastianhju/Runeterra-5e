@@ -36,7 +36,7 @@ While wielding this piece of armor you gain +1 to your armor class.
 - Wonderous Item
 - Attunement
 
-**Promote**: As a bonus action you can activate the _Banner of Command_ for 18 seconds. All creatures within 15 feet of the banner heal 1d4 + proficiency bonus now and at the start of their turns and gain agility. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
+**Promote**: As a bonus action you can activate the _Banner of Command_ for 18 seconds. All creatures within 15 feet of the banner heal 1d4 + proficiency bonus now and at the start of their turns. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
 
 _You gain +1 to your armor class while attuned to this item_
 
