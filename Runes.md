@@ -337,7 +337,7 @@ Whenever you deal damage to a target you can summon a comet that crashes onto th
 ---
 
 ### Phase Rush  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" Align=left width=25% height=25%>
-When you deal damage to a target, they gain a mark of Phase until the end of your turn. Whenever you damage a creature with a mark of Phase, you gain movement speed based on your level as shown on the table below, agility and can phace through terrain and creatures until the end of your next turn. 
+When you deal damage to a target, they gain a mark of Phase until the end of your turn. Whenever you damage a creature with a mark of Phase, you gain movement speed based on your level as shown on the table below, agility and can phase through terrain and creatures until the end of your next turn. 
 
 **Phase Rush Scaling**
 |Level|Effect|
