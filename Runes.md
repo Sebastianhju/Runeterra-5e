@@ -330,9 +330,9 @@ Whenever you deal damage to a target you can summon a comet that crashes onto th
 **Arcane Comet Scaling**
 |Level|Effect|
 |---|---|
-|1|1d6 damage in a 5 feet radius |
-|5|1d12 damage in a 10 feet radius|
-|9|2d12 damage in a 15 feet radius|
+|1|1d6 + proficiency bonus in a 5 feet radius |
+|5|2d6 + proficiency bonus in a 10 feet radius|
+|9|3d6 + proficiency bonus in a 15 feet radius|
 
 ---
 
