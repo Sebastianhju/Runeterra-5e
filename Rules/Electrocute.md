@@ -43,7 +43,7 @@ Damaging an enemy gives them a mark of electorcute. When you damage a creature w
 
 ---
 
-|Alt. 4: Flere Stacks som varer, Grei damage, kan targete flere|
+|Alt. 3: Flere Stacks som varer, Grei damage, kan targete flere|
 |---|
 
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=25% height=25%>
