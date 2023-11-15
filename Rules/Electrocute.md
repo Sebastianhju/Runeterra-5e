@@ -40,3 +40,18 @@ Damaging an enemy gives them a mark of electorcute. When you damage a creature w
 |1|1d6|
 |5|2d6|
 |9|3d6|
+
+---
+
+|Alt. 4: Flere Stacks som varer, Grei damage, kan targete flere|
+|---|
+
+### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=25% height=25%>
+Damaging an enemy gives them a mark of electorcute. When you damage a creature with two marks, you deal additional lightning damage. Once used it cannot be used again on the same target until 36 seconds has passed. 
+
+**Electrocute Damage**
+|Level|Damage|
+|---|---|
+|1|1d8 + proficiency bonus|
+|5|2d8 + proficiency bonus|
+|9|3d8 + proficiency bonus|
