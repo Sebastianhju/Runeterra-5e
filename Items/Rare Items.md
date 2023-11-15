@@ -49,7 +49,7 @@ _You gain +1 to your armor class while attuned to this item_
 - 3000 Gold
 - Wonderous Item
 
-**Bamis Health**: Your maximum hit points increases equal to a hit dice.
+**Bamis Health**: You gain maximum hit points equal to half your hit dice.  
 
 **Bursting Cinder**: As an action, you can make the cinder blow up in fire for a minute. Whenever an enemy starts their turn within 5 feet of you, they must succeed a dexterity saving throw (DC = 8 + proficiency bonus + constitution modifier). On a failure they take 2d6 fire damage, halved on a save. You can use this action two times before taking a long rest. 
 
@@ -171,7 +171,9 @@ While wielding this shield you gain +1 to your armor class.
 - Wonderous item
 - Attunement
 
-**Giants Might**: While wielding this item your strenght score is set to 22 and your maximum hit points increases by two hit dices. 
+**Giants Might**: While wielding this item your strenght score is set to 22.
+
+**Health**: You gain maximum hit points equal to half your hit dice. 
 
 ---
 
@@ -208,7 +210,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 2500 Gold
 - Wonderous Item
 
-**Revved**: Whenever you damage an enemy, you also deal lightning damage equal to 1d10 plus your proficiency bonus. Once this effect is used, it cannot be used again until 30 seconds pass or if you take lightning damage. 
+**Revved**: Whenever you damage an enemy, you also deal lightning damage equal to 1d8 plus your proficiency bonus. Once this effect is used, it cannot be used again until 30 seconds pass or if you take lightning damage. 
 
 ---
 
@@ -219,7 +221,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 2500 Gold
 - Pistol
 
-**Shock**: When you hit an attack with _Hextech Revolver_ you can choose to force the target to succeed a constitution saving throw, the DC equal to 8 + proficiency bonus + dexterity modifier, on a failed save they take 2d8 lightning damage and are stunned until the end of their turn. On a success they are not stunned and take half damage. Once this effect is used, it cannot be used again until 30 seconds have passed.
+**Shock**: When you hit an attack with _Hextech Revolver_ you can choose to force the target to succeed a constitution saving throw, the DC equal to 8 + proficiency bonus + dexterity modifier, on a failed save they take 2d8 lightning damage and are stunned until the end of their turn. On a success they are not stunned and take half damage. Once this effect is used, it cannot be used again until 36 seconds have passed.
 
 _You gain +1 to hit and damage rolls with this magical weapon_ 
 
@@ -247,7 +249,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 **Haste**: The cooldowns of your runes and items are reduced by 12 seconds. 
 
-**Kindles Health**: You gain maximum hit points equal to one hit dice.
+**Health**: You gain maximum hit points equal to half your hit dice. 
 
 You gain a +1 to medicine and animal handling checks. 
 
@@ -262,7 +264,7 @@ You gain a +1 to medicine and animal handling checks.
 
 **Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain five stacks of _energized_, up to a maximum of 80.
 
-**Jolt**: Whenver you are at 80 stacks of _energized_, your next attack with _Kircheis Shard_ also deals 2d10 lightning damage after the innitial weapons damage. 
+**Jolt**: Whenver you are at 80 stacks of _energized_, your next attack with _Kircheis Shard_ also deals 2d8 lightning damage after the innitial weapons damage. 
 
 You gain +1 to hit and damage rolls using this magical weapon. 
 
@@ -335,7 +337,7 @@ You gain +1 to spell attack rolls and your saving throw DC.
 
 **Statikk Arrows**: The noonquiver is magically loaded with _Statikk Arrows_ that deal 1d4 additional lightning damage. 
 
-**High Noon**: As a bonus action you can enter a state of focus that lasts for 18 seconds. Whenever you take the attack action you can do an additional attack as a part of that action. Once this action is used, it cannot be used again until you finish a long rest. 
+**High Noon**: As a bonus action you can enter a state of focus that lasts for 12 seconds. Whenever you take the attack action you can do an additional attack as a part of that action. Once this action is used it cannot be used again until 60 second pass. Whenever you score a takedown, this cooldown is reduced by 6 seconds. 
 
 ---
 
@@ -345,10 +347,13 @@ You gain +1 to spell attack rolls and your saving throw DC.
 
 - 2500 Gold
 - Arcane Focus
+- Attunement
 
 **Cursed**: Whenever you deal spell damage, you give yourself and the target a stack of grievous wounds. 
 
-**Oblivion**: Your single target spells deals 1d6 additional necrotic damage. 
+**Oblivion**: Your single target spells deals 2d6 additional necrotic damage if the target has atleast a stack of grievous wounds.
+
+_You gain +2 to spell attack rolls_
 
 ---
 
@@ -361,7 +366,7 @@ You gain +1 to spell attack rolls and your saving throw DC.
 
 **Sturdy**: Whenever you hit a crature with phage, you get two stacks of _regeneration_. 
 
-**Health**: Your maximum hit points increases equal to a hit dice. 
+**Health**: You gain maximum hit points equal to half your hit dice. 
 
 You gain +1 to hit and damage rolls using this magical weapon. 
 
@@ -436,7 +441,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 - 2900 Gold
 - Dagger
 
-**Gouge**: As a bonus action, you can target a crature within 60 feet of you enhancing your next attack that you hit. If the target is resistant they instead take full damage, if they don't have any resistances they are vulnerable. Once this effect is used it cannot be used again until 30 seconds pass. 
+**Gouge**: Whenever you deal damage to a creature with temporary hit points using _Serrated Dirk_, you first remove the temporary hit points and deal 2d6 additional damage. 
 
 _You gain +2 to stealth checks_
 
@@ -453,7 +458,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 **Incorporeal**: Whenever you take damage from an enemy, you gain two stacks of regeneration. During your turn, you can spend four stacks of regeneration to gain the ability to phase through walls and creatures until the end of your turn, while phasing you cannot be restrained or grappled. 
 
-**Health**: Your maximum hit points increases equal to a hit dice. 
+**Health**: You gain maximum hit points equal to half your hit dice. 
 
 _Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
 
