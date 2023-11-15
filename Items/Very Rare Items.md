@@ -32,7 +32,7 @@ _While wearing this armor you have a +2 to your armor class_
 
 **Awe**: Your spells deal additional damage equal to the mana spent to cast that spell. 
 
-**Lifeline**: Whenever you would take damage that would down you, before that you gain temporary hit points equal to half your maximum mana. Once this effect is used, it cannot be used again until you finish a long rest. 
+**Lifeline**: Whenever you take damage that would reduce your hit points to zero, you first gain temporary hit points equal to half your maximum mana. Once this effect is used, it cannot be used again until you finish a long rest. 
 
 _You have +1 to spell attack rolls and +1 to your spell save DC when attuned to this item_
 
@@ -50,7 +50,7 @@ _You have +1 to spell attack rolls and +1 to your spell save DC when attuned to 
 
 **Awe**: Your weapon attacks with Muramana deal 1d4 additional damage for every 20th maximum mana you have
 
-**Shock**: When you deal damage with muramana, you can spend **five** charges to change the damage dealt to lightning damage, the target must also succeed a constitution saving throw (dc: 14 or you spell save dc, wahtever is higher), on a failed save they are stunned until the end of your next turn. 
+**Shock**: When you deal damage with muramana, you can spend **five** charges to change the damage dealt to lightning damage, the target must also succeed a constitution saving throw (dc: 14 or you spell save dc, whatever is higher), on a failed save they are stunned until the end of your next turn. 
 
 **Recharge**: This item has five charges, you regain all charges whenever you take a long rest. You also recharge a slot whenever you spend one or more mana. 
 
@@ -67,9 +67,9 @@ _You have +2 to attack rolls and damage rolls using this magical weapon_
 
 **True Ice**: The Shard of Ture Ice deals 1d6 cold damage on hit
 
-**Spoils of the Tundra**: Whenver you deal cold damage, you gain gold equal to the damage dealt. 
+**Spoils of the Tundra**: Once a turn when you deal cold damge to a creature, you gain gold equal to the damage dealt. 
 
-**Warding**: As an action, you can place down a stealth ward. You can do this a number of times equal to your proficiency bons before finishing a long rest
+**Warding**: As an action, you can place down a stealth ward. You can do this a number of times equal to your proficiency bonus before finishing a long rest
 
 _You have +2 to damage and attack rolls using this magical weapon_
 
@@ -82,7 +82,7 @@ _You have +2 to damage and attack rolls using this magical weapon_
 - A fully stsacked Steel Shoulderguards
 - Wonderous Item
 
-**Warding**: As an action, you can place down a stealth ward. You can do this a number of times equal to your proficiency bons before finishing a long rest
+**Warding**: As an action, you can place down a stealth ward. You can do this a number of times equal to your proficiency bonus before finishing a long rest
 
 **Shoulderguards**: You armor class increases with +2 while wearing the Pauldrons. 
 
@@ -184,7 +184,7 @@ _You gain +2 to spell attack rolls and +1 to spell save DCs_
 - Wonderous Item
 - Attunement 
 
-**Safeguard**: Whenever you are about to take damage, you can use a reaction to activate safeguard. While safeguard is active, you take half damage from all sources and your damaging spells deal 1d8 additional cold damage until the end of your turn. Once this ability is used, it cannot be used again until 42 seconds pass.
+**Safeguard**: Whenever you are about to take damage, you can use a reaction to activate safeguard. While safeguard is active, you take half damage from all sources and your damaging spells deal 1d8 additional cold damage until the end of your turn. Once this ability is used, it cannot be used again until 48 seconds pass.
 
 **Mana**: You gain +5 maximum mana
 
@@ -239,7 +239,7 @@ _You gain +2 to your armor class while wearing this piece of armor_
 
 **Lingering Power**: After casting a spell, your next attack deals 2d6 additional psychic damage. 
 
-**Mageslayer**: Whenever you hit a target that is concentrating with _Lich Bane_, they have disadvantage on the consentration check, and their next spells manacost is doubled. 
+**Mageslayer**: Whenever you hit a target that is concentrating with _Lich Bane_, they have disadvantage on the consentration check, and their next spell costs 3 more mana. 
 
 _You have +2 to attack and damage rolls when using this magical weapon_
 
@@ -269,7 +269,7 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 - 10,000 Gold
 - Shield
 
-**Humility**: As a bonus action, you force all creatures within 5 feet of you to succeed a strength savingthrow (dc: 10 + proficiency bonus + constitution modifier). On a failed save they take 2d8 thunder damage and are pushed 15 feet away from you. 
+**Humility**: As a bonus action, you force all creatures within 5 feet of you to succeed a strength savingthrow (dc: 10 + proficiency bonus + constitution modifier). On a failed save they take 2d8 thunder damage and are pushed 15 feet away from you. Once this action is used, it cannot be used again until 30 seconds pass. 
 
 **Critical Resilence**: Attacks cannot critically hit against you while wielding this shield
 
@@ -287,9 +287,9 @@ _You have +1 to your armor class while wearing this shield_
 - Wonderous
 - Attunement
 
-**Pledge**: As a ritual during your long rest, you can select an ally to be named _Worthy_. The worthy creature can add 1d6 to all ability checks, until you select a new _Worthy_ target. 
+**Pledge**: As a ritual during your long rest, you can select an ally to be named _Worthy_. The worthy creature can add 1d6 to all ability checks and saving throws until you select a new _Worthy_ target. 
 
-**Sacrifice**: Whenever the _Worthy_ ally is within 60 feet of you and takes damage, you take half of that damage as true damage and they take half damage instead. Whenever the _Worthy_ ally deals damage, you heal equal to your proficiency bonus, up to a maximum of five times each round. 
+**Sacrifice**: Whenever the _Worthy_ ally is within 60 feet of you and takes damage, you take half of that damage as nonmigatiable damage and they take half damage instead. Whenever the _Worthy_ ally deals damage, you heal equal to your proficiency bonus, up to a maximum of five times each round. 
 
 **Health**: You gain hit points equal to your hit dice. 
 
@@ -316,11 +316,11 @@ _You have +2 to hit and damage rolls with this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Essence Reaver.png" Align=right width=8% height=8%>
 
 - 11,000
-- Sikle
+- Sickle
 
 **Stored Potential**: After casting a spell, your next attack with _Essence Reaver_ has a +2 critically strike chance and deals 1d8 additianal slashing damage.
 
-**Manacharge**: Whenever you critically hit a creature, you regain 1 mana. 
+**Manacharge**: Whenever you critically hit a creature, you regain mana equal to your proficiency bonus. 
 
 _You have +2 to hit and attack rolls using this magical weapon_ 
 
@@ -336,7 +336,7 @@ _You have +2 to hit and attack rolls using this magical weapon_
 - Shortbow
 - Attunement
 
-**Lifeline**: If you would take damage that would reduce your health below 50% of you maximum, you first gain temporary hit points equal to 5 times your proficiency bonus. As long as you have these temporary hit points, you can make an additianal attack as a part of your attack action. Once this ability has ben used, it cannot be used again until 60 seconds pass. 
+**Lifeline**: If you would take damage that would make you bloodied, you first gain temporary hit points equal to 10 times your proficiency bonus. As long as you have these temporary hit points, you can make an additional attack as a part of your attack action. Once this ability has been used it cannot be used again until you finish a short rest. 
 
 **Critical**: Your Critical strike chance increases by one.  
 
@@ -411,7 +411,7 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 **Catching Claws**: You gain +2 to hit and damage on your unarmed attacks. Whenever you hit an unarmed attack, you can use your bonus action to grapple the target. 
 
-**Lifeline**: If you would take damage that would reduce your hit points to zero, you first gain temporary hit points equal to 10 times your proficiency bonus. As long as you have these temporary hit points, your size increases by one, as if affected by the enlarge spell, and your movement speed cannot be reduced, but you can still be immobilized.
+**Lifeline**: If you would take damage that would reduce your hit points to zero, you first gain temporary hit points equal to 10 times your proficiency bonus. As long as you have these temporary hit points, your size increases by one, as if affected by the enlarge spell, and you are immune to all immobilizing effects. 
 
 **Health**: You gain hit points equal to two of your hit dice. 
 
@@ -441,7 +441,7 @@ _You gain +2 to your armor class while wearing this piece of armor_
 
 **Engorge**: While above 50% hit points, your attacks with _Bloodthirster_ deals 1d6 additional damage. 
 
-**Lifestel**: Whenever you hit an attack with _Bloodthirster_ you regain health equal to twice you proficiency bonus
+**Lifestel**: Whenever you hit an attack with _Bloodthirster_ you regain health equal to twice your proficiency bonus
 
 **Critical**: Your Critical strike chance increases by one. 
 
@@ -472,11 +472,11 @@ _You gain +1 to all saving throws_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Morellonomicon.png" Align=right width=8% height=8%>
 
-- 11,000
+- 13,000
 - Arcane Focus
 - Attunement
 
-**Affliction**: Whenever you deal elemental, force, psychic, necrotic or radiant damage to a target, you both gain two stacks of grievous wounds. Whenever you damage a creature with grievous wounds, you deal 1d6 additional necrotic damage, and heal equal to the additional damage dealt. 
+**Affliction**: Whenever you deal nonpysical damage to a target, you both gain two stacks of grievous wounds. Whenever you damage a creature with grievous wounds, you deal 2d6 additional necrotic damage, and heal equal to the additional damage dealt. 
 
 **Hidden Knowledge**: When you are attuned to this book you can increase two different ability scores by one. 
 
@@ -599,7 +599,7 @@ _You gian +3 to initiative rolls_
 - Longsword
 - Attunement
 
-**Mists Edge**: Whenever you damage a creauture with _Blade of the Ruined King_, they take damage equal to 1d4 necrotic damage and you heal for that amount.  
+**Mists Edge**: Whenever you damage a creauture with _Blade of the Ruined King_, they take 1d4 additional necrotic damage and you heal for that amount.  
 
 **Siphon**: Damaging creatures gives them a stack of _Siphon_. A creature with five stacks takes 3d8 necrotic damage, and you heal equal to the amount. Once this effect is used, it cannot be used again until 30 seconds pass.
 
@@ -675,7 +675,7 @@ _You gian +3 to initiative rolls_
 
 **Allways Ready**: Whenever you roll initiative, you start with 75 hit points, unless your current hit points are higher. 
 
-**Health**: You gain hit points equal to two hit dice. 
+**Health**: You gain hit points equal to your hit dice. 
 
 _Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
 
@@ -723,7 +723,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 **Echo**: Whenever you deal elemental damage to a creature, you can choose to force all creatures within 15 feet of the target to roll a dexterity saving throw or take 2d8 thunder damage, halved on a save. Once this effect is used, it cannot be used again until 30 seconds pass.
 
-**Tempests Servant**: Whenever you deal lightning or thunder damage to a creature, they are knocked prone. 
+**Tempests Servant**: Whenever you deal lightning or thunder damage to a creature, you can choose to knock them prone. 
 
 **Haste**: The cooldowns of your runes and items are redcued by 6. 
 
@@ -740,7 +740,9 @@ _You gain +2 to spell attacks and your save dc while attuned to this magical ite
 
 **Critical**: Your Critical strike chance increases by one. 
 
-**Death and Taxes**: If a hit from _The Collector_ would leave a creature below 5% of their maximum hit points, you execute them and gain gold equal to ten times your proficiency bonus. 
+**Death**: If a hit from _The Collector_ would leave a creature below 5% of their maximum hit points, you execute them.
+
+**Taxes**: Whenever you kill a creature you gain gold equal to ten times your proficiency bonus. 
 
 _You gain +2 to hit and damage rolls using this magical weapon_
 
@@ -754,8 +756,8 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 - Wonderous Item
 - Attunement
 
-**Torment**: Dealing elementa, radiant, necrotic, force or psycich damage to creatures applies two stacks of *Burn* to the target. 
+**Torment**: When you deal spelldamage to a new creature that turn you can apply stacks of *Burn* equal to your proficiency bonus to the target. 
 
 _You gain +2 to spell attacks and your save dc while attuned to this magical item_
 
-_Burn: At the start of their turn, a creature with burn stacks takes force damage equal to the stacks of burn and remove the amount of stacks by one._
+_Burn: At the start of their turn, a creature with burn stacks takes force damage equal to the stacks of burn and remove the amount of stacks by one. A creature can have a maximum of stacks equal to five times your proficiency bonus_
