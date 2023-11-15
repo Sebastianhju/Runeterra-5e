@@ -55,7 +55,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 - 600 Gold
 - Arcane Focus
 
-**Blasting**: Whenever you deal damage with a spell, you can choose to deal any type of elemental damage instead of the initial damage type. Once this effect is used, it cannot be used again until 30 seconds pass. 
+**Blasting**: Whenever you deal damage with a spell, you can choose to deal any type of elemental damage instead of the initial damage type.
 
 _You gain +1 bonus to spell attack rolls_
 
@@ -187,7 +187,7 @@ _You gain +1 to acrobatics checks._
 - 550 Gold
 - Wonderous Item
 
-**Rubys Health**: You gain one extra hit die worth of maximum hit points. 
+**Rubys Health**: You gain maximum hit points equal to half your hit dice.  
 
 ---
 
@@ -238,7 +238,7 @@ _You gain +1 to acrobatics checks._
 - 450 Gold
 - Wonderous Item
 
-**Mana well**: Whenever you spend a hit dice you reagain 1 mana.
+**Mana well**: Whenever you spend a hit dice you reagain 2 mana.
 
 ---
 
