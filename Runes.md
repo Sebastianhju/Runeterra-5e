@@ -659,7 +659,7 @@ Whenever you take a long rest you choose an ability. You become proficient in al
 
 ### Biscuit Delivery  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/BiscuitDelivery.png" Align=left width=7% height=7%>
 
-Whyenever you long rest, you gain a [Buiscuit of Everlasting Will](https://www.dndbeyond.com/magic-items/7496604-biscuit-of-everlasting-will).
+Whyenever you take a long rest, you gain a [Buiscuit of Everlasting Will](https://www.dndbeyond.com/magic-items/7496604-biscuit-of-everlasting-will).
 
 ---
 
