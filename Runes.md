@@ -231,7 +231,7 @@ Whenever you dash, blink or teleport your next damaging attack deals 1d6 additio
 ---
 ### Ghost Poro <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GhostPoro.png" Align=left width=7% height=7%>
 
-You learn the find familliar spell, and can cast it once a day without spending mana or material components to summon a [Ghost Poro](https://www.dndbeyond.com/monsters/3896538-ghost-poro). The Ghost Poro works like any other familliar. 
+You learn the find familliar spell, and can cast it once a day without spending mana or material components to summon a [Ghost Poro](https://www.dndbeyond.com/monsters/3896538-ghost-poro). The Ghost Poro has its own turn in initiative after you and are not restricted by the find familliar spell druing its turn. 
 
 ---
 ### Eyeball Collection <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/EyeballCollection.png" Align=left width=7% height=7%>
