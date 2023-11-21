@@ -238,7 +238,7 @@ _You gain +1 to acrobatics checks._
 - 450 Gold
 - Wonderous Item
 
-**Mana well**: Whenever you spend a hit dice you reagain 2 mana.
+**Mana well**: Whenever you spend a hit dice you regain 1 mana.
 
 ---
 
