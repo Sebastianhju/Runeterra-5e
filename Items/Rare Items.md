@@ -28,6 +28,33 @@ While wielding this piece of armor you gain +1 to your armor class.
 
 ---
 
+## Bami Cinder
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bami's Cinder.png" Align=right width=8% height=8%>
+
+- 3000 Gold
+- Wonderous Item
+
+**Health**: You gain maximum hit points equal to half your hit dice.  
+
+**Bursting Cinder**: As an action, you can make the cinder blow up in fire for a minute. Whenever an enemy starts their turn within 5 feet of you, they must succeed a dexterity saving throw (DC = 8 + proficiency bonus + constitution modifier). On a failure they take 2d6 fire damage, halved on a save. You can use this action two times before taking a long rest. 
+
+---
+
+## Bandleglass Mirror
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bandleglass Mirror.png" Align=right width=8% height=8%>
+
+- 3200 Gold
+- Wonderous Item
+- Attunement
+
+**Spell Reflection**: As a reaction whenever you see a spell that forces a creature to make a saving throw, you can spend up to 10 mana to lower the dc by one for every other mana spent. 
+
+**Mana Restoration**: Whenever you take a short rest, you can choose expend two hit dice to regain mana equal to three times your proficiency bonus. 
+
+---
+
 ## Banner of Command
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Banner of Command.png" Align=right width=8% height=8%>
@@ -36,25 +63,24 @@ While wielding this piece of armor you gain +1 to your armor class.
 - Wonderous Item
 - Attunement
 
-**Promote**: As a bonus action you can activate the _Banner of Command_ for 18 seconds. All creatures within 15 feet of the banner heal 1d4 + proficiency bonus now and at the start of their turns. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
+**Promote**: As a bonus action you can activate the _Banner of Command_ for 18 seconds. All creatures within 10 feet of the banner heal 1d4 + proficiency bonus now and at the start of their turns. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
+
+You can place the banner anywhere within 5 feet of you as a free action.
 
 _You gain +1 to your armor class while attuned to this item_
 
 ---
 
-## Bami Cinder
+## Blighting Jewel
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bami's Cinder.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Blighting Jewel.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 2500 Gold
 - Wonderous Item
 
-**Bamis Health**: You gain maximum hit points equal to half your hit dice.  
-
-**Bursting Cinder**: As an action, you can make the cinder blow up in fire for a minute. Whenever an enemy starts their turn within 5 feet of you, they must succeed a dexterity saving throw (DC = 8 + proficiency bonus + constitution modifier). On a failure they take 2d6 fire damage, halved on a save. You can use this action two times before taking a long rest. 
+**Void Pen**: Your damage dealing spells ignore the targets temporary hit points. 
 
 ---
-
 ## Bramble Vest
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bramblevest.png" Align=right width=8% height=8%>
@@ -77,7 +103,7 @@ You gain +1 to your armor class while wearing this magical armor.
 - Spell Focus
 - Attunement
 
-**Eternity**: Whenever you take damage, you regain 1 mana for every tenth damage taken. Whenever you cast a spell, you regain health equal to the spells level plus your proficiency bonus. 
+**Eternity**: Whenever you take damage, you regain 1 mana for every tenth damage taken. Whenever you cast a spell, you regain health equal to the mana spent.
 
 ---
 
@@ -91,6 +117,19 @@ You gain +1 to your armor class while wearing this magical armor.
 **Hammering Haste**: Whenver you hit an attaack using Caulfiends Hammer, the cooldown of your runes and items are reduced by 6 seconds. 
 
 You gain +1 to hit and damage rolls using this magical weapon.
+
+---
+
+## Chalice of Blessing
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chalice of Blessing.png" Align=right width=8% height=8%>
+
+- 2500 Gold
+- Wonderous Item
+
+**Harmony**: Whenever you regain health you gain 1 mana.  
+
+**Health**: You gain maximum hit points equal to half your hit dice.  
 
 ---
 
