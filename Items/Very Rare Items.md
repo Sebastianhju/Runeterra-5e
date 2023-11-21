@@ -621,7 +621,7 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 **Power is Knowledge**: You become proficient in all wisdom and intelligence based checks. 
 
-**Fast Casting**: You gain an additional bonus action that can be used to cast any cantrip, ignoring thier casating time.
+**Fast Casting**: You gain an additional bonus action that can be used to cast any cantrip, ignoring their casting time.
 
 ---
 
@@ -667,7 +667,7 @@ _You gian +3 to initiative rolls_
 
 - 15,000 Gold
 - Breastplate
-- Attunement (You must have atleast 100 hit points to attune to _Warmogs Armor_)
+- Attunement (You must have atleast 75 hit points to attune to _Warmogs Armor_)
 
 **Substain**: The maximum amount of regeneration stacks you can gain are doubled. 
 
@@ -721,7 +721,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 - Quarterstaff
 - Attunement
 
-**Echo**: Whenever you deal elemental damage to a creature, you can choose to force all creatures within 15 feet of the target to roll a dexterity saving throw or take 2d8 thunder damage, halved on a save. Once this effect is used, it cannot be used again until 30 seconds pass.
+**Echo**: Whenever you deal elemental damage to a creature, you can choose to force all creatures within 10 feet of the target to roll a dexterity saving throw or take 2d8 thunder damage, halved on a save. Once this effect is used, it cannot be used again until 30 seconds pass.
 
 **Tempests Servant**: Whenever you deal lightning or thunder damage to a creature, you can choose to knock them prone. 
 
