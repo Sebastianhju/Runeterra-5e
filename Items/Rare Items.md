@@ -80,6 +80,8 @@ _You gain +1 to your armor class while attuned to this item_
 
 **Void Pen**: Your damage dealing spells ignore the targets temporary hit points. 
 
+**Voids Embrace**: Whenever you deal Poision, Acid or Necrotic damage, you can treat any 1 on the dice as a 2
+
 ---
 ## Bramble Vest
 
