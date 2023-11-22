@@ -128,8 +128,9 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 - 2500 Gold
 - Wonderous Item
+- Attunement
 
-**Harmony**: Whenever you regain health you gain 1 mana.  
+**Blessing**: You learn the bless spell and can cast it once a day without using a spell slot. Whenever you cast bless, you can spend 4 mana to empower it. An empowered bless spells dice increses to 1d6 and heals the blessed creature equal to the number rolled on the bless dice whenever they make an attack roll or saving throw. 
 
 **Health**: You gain maximum hit points equal to half your hit dice.  
 
