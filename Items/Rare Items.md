@@ -124,7 +124,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ## Chalice of Blessing
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mikael's Blessing.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chalice of Blessing.png" Align=right width=8% height=8%>
 
 - 2500 Gold
 - Wonderous Item
