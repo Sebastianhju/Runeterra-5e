@@ -14,7 +14,7 @@ _All spellcasters_
 
 You enhance the bandage in your hands and toss them towards a target that is within 30 feet of you, the bandages hit the first target struck. The target takes 2d6 necrotic damage and are restrained until the end of their turn. You are then pulled to the closest empty location within 5 feet of the target. 
 
-**At Higher Levels.**: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 and the range increases by 10 feet for each slot above 1st. 
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 and the range increases by 10 feet for each slot above 1st. 
 
 *_A small piece of bandage_
 
