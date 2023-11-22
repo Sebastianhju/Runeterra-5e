@@ -6,6 +6,8 @@
 
 **Bandage Toss**
 
+_All spellcasters_
+
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
 |1st|1 Action|30 ft line|V,S,M*|Instantainous|Transmutation|Attack|
@@ -30,6 +32,8 @@ You enhance the bandage in your hands and toss them towards a target that is wit
 # Format
 
 **Name**
+
+_Classes_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
