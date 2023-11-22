@@ -26,7 +26,7 @@ _Wizard, Sorcerer, Druid, Light Domain_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|1st|1 Action|30 feet|V,S,M*|Instantanious|Dexterity|
+|1st|1 Action|30 feet|V,S,M*|Instantanious|Evocation|Dexterity|
 
 You launch a ball of fire towards your target. The target must succeed on a Dexterity saving throw or take 3d6 fire damage, halved on a save, and applies 2 stacks of burn. If a target that fails the saving throw has any stacks of burn, they are also stunned until the end of their turn. 
 
