@@ -43,7 +43,7 @@ While wielding this piece of armor you gain +1 to your armor class.
 
 ## Bandleglass Mirror
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bandleglass Mirror.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bandleglass mirror.png" Align=right width=8% height=8%>
 
 - 3200 Gold
 - Wonderous Item
