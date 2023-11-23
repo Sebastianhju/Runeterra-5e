@@ -46,7 +46,7 @@ _Wizard, Sorcerer, Druid, Light Domain_
 
 You launch a ball of fire towards your target. The target must succeed on a Dexterity saving throw or take 3d6 fire damage, halved on a save, and applies 2 stacks of burn. If a target that fails the saving throw has any stacks of burn, they are also stunned until the end of their turn. 
 
-**At Higeher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6. 
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6. 
 
 *_A lump or charcoal_
 
@@ -62,7 +62,7 @@ _Wizard, Sorcerer, Artificer_
 
 You hurl a ball of condensed force towards a target. If the attack hits the ball sticks too the target and explodes after 18 secounds Dealing 2d6 force damage to all targets within 10ft of the target. Should you how ever hit the target with a secound time bomb before the first one explodes, they bouth explode instantanious and all targets in the explotions must make a con save or become stunned untill the end of their next turn. 
 
-**At Higeher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6. 
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6. 
 
 *_A watch_
 
@@ -78,7 +78,7 @@ _Wizard, Sorcerer, Artificer_
 
 You target a creature within reach and time rewinds around them decreesing the cooldown of the targets runes and items by 6 secounds. 
 
-**At Higeher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target an additional creature for each spell slot above 1. 
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target an additional creature for each spell slot above 1. 
 
 ---
 
@@ -96,7 +96,7 @@ _Wizard, Sorcerer, Warlock_
 
 The earth cracks and erupts as void spikes shoot out of the ground in a 10ft diameter. All creatures in the area must make a dex save. On a failed save the creature takes 2d8 force damage and is knocked 15ft in to the air, falling to the ground at the end of it’s next turn. While suspended in the air it’s speed is 0.
 
-**At Higeher Levels.** When cast with a spell slot of lvl 3 or higher the damage and hight of the knock up by 1d8 and 5ft respectively.
+**At Higher Levels.** When cast with a spell slot of lvl 3 or higher the damage and hight of the knock up by 1d8 and 5ft respectively.
 
 ---
 
@@ -112,7 +112,7 @@ Two nodes appear in the air 10 feet appart and electric energy crackles between 
 
 As a bonus action on your turn you can move the gate 30ft.
 
-**At Higeher Levels.** When cast with a spell slot of lvl 3 or higher the speed of the creature and the damage is increased by 5ft and 1d6 respectively.
+**At Higher Levels.** When cast with a spell slot of lvl 3 or higher the speed of the creature and the damage is increased by 5ft and 1d6 respectively.
 
 ---
 
@@ -130,7 +130,7 @@ _Wizard, Sorcerer, Warlock_
 
 You summon a dark purple pentagonal wall keeping the enemies inside as your allies can move freely thru the walls. Each wall is 20ft tall and 20 ft long, an enemy that tries to pass through the wall must make a wisdom save or become stunned until the end of it’s next turn, after which it can move thru the part of the wall it got stunned on. On a successful save the creature can move through the wall.
 
-**At Higeher Levels.** If cast at 5th lvl or higher a failed save makes the creature paralyzed instead of stunned.
+**At Higher Levels.** If cast at 5th lvl or higher a failed save makes the creature paralyzed instead of stunned.
 
 ---
 
@@ -150,7 +150,7 @@ As you touch a willing creature and say the incantation a bond is made between y
 
 The target needs to be on the same plane of exictance as yourself.
 
-**At Higeher Levels.** If the spell is cast at 5th lvl or higher the targets gets an additional +1 to ac for each spell level above 4 as long as the temporary hit points are active.
+**At Higher Levels.** If the spell is cast at 5th lvl or higher the targets gets an additional +1 to ac for each spell level above 4 as long as the temporary hit points are active.
 
 ---
 
@@ -168,6 +168,6 @@ _Classes_
 
 Text
 
-**At Higeher Levels.**
+**At Higher Levels.**
 
 ---
