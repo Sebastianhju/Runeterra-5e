@@ -52,6 +52,36 @@ You launch a ball of fire towards your target. The target must succeed on a Dext
 
 ---
 
+**Time Bomb**
+
+_Wizard, Sorcerer, Artificer_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|1st|1 Action|30 feet|V,S,M*|Instantanious|Evocation|Attack|
+
+You hurl a ball of condensed force towards a target. If the attack hits the ball sticks too the target and explodes after 18 secounds Dealing 2d6 force damage to all targets within 10ft of the target. Should you how ever hit the target with a secound time bomb before the first one explodes, they bouth explode instantanious and all targets in the explotions must make a con save or become stunned untill the end of their next turn. 
+
+**At Higeher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6. 
+
+*_A watch_
+
+---
+
+**Rewind**
+
+_Wizard, Sorcerer, Artificer_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|1st|1 Action|30 feet|S|Instantanious|Abjuration|None|
+
+You target a creature within reach and time rewinds around them decreesing the cooldown of the targets runes and items by 6 secounds. 
+
+**At Higeher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target an additional creature for each spell slot above 1. 
+
+---
+
 ## Second Level Spells
 
 ---
