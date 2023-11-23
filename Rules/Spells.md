@@ -42,9 +42,9 @@ _Wizard, Sorcerer, Druid, Light Domain_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|1st|1 Action|30 feet|V,S,M*|Instantanious|Evocation|Dexterity|
+|1st|1 Action|30 feet|V,S,M*|Instantanious|Evocation|Attack|
 
-You launch a ball of fire towards your target. The target must succeed on a Dexterity saving throw or take 3d6 fire damage, halved on a save, and applies 2 stacks of burn. If a target that fails the saving throw has any stacks of burn, they are also stunned until the end of their turn. 
+You launch a bolt of fire towards your target. If the attack hits they take 3d6 fire damage, if they aldready have stracks of burn they are also stunned until the end of their turn. If the target doesn't have any stacks of burn, you apply two stacks of burn on them, regardless if the attack hit or missed. 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6. 
 
@@ -116,6 +116,22 @@ As a bonus action on your turn you can move the gate 30ft.
 
 ---
 
+**Pillar of Flame**
+
+_Wizard, Sorcerer, Druid, Light Domain_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|2nd|1 Action|60 feet|V,S|Instantanious|Evocation|Dexterity|
+
+A cinder blows up to a pillar of flames in a 15 feet diamater, 40 feet tall sphere. All creatues within the area must succeed a Dexterity saving throw or take 3d6 fire damage, if they already have stacks of burrn, this damage increases to 5d6 fire damage, halved on a save. All creatures also gain 2 stacks of burn regardless if they succeed the saving throw or not. 
+
+**At Higher Levels.** When cast with a spell slot of 3rd level or higher, the damage increases by 1d6. 
+
+---
+
+
+
 ## Third Level Spells
 
 ---
@@ -131,6 +147,20 @@ _Wizard, Sorcerer, Warlock_
 You summon a dark purple pentagonal wall keeping the enemies inside as your allies can move freely thru the walls. Each wall is 20ft tall and 20 ft long, an enemy that tries to pass through the wall must make a wisdom save or become stunned until the end of it’s next turn, after which it can move thru the part of the wall it got stunned on. On a successful save the creature can move through the wall.
 
 **At Higher Levels.** If cast at 5th lvl or higher a failed save makes the creature paralyzed instead of stunned.
+
+---
+
+**Miasma**
+
+_Wizard, Sorcerer, Warlock, Druid of the Spores_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|2nd|1 Action|120 feet|V,S|Instantanious|Evocation|None|
+
+You throw out three 5ft radius spheres of miasma that stay for one minute, creatures that start their turn in the migma suffers 2d6 poision damage and cannot use any dash, teleport or blink action. All creatures within the sphere must succeed on a Constitution saving throw. On a failure, they are poisioned for one minte. 
+
+**At Higher Levels.**
 
 ---
 
