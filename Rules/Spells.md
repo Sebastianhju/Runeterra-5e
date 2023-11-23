@@ -46,7 +46,9 @@ _Wizard, Sorcerer, Druid, Light Domain_
 
 You launch a ball of fire towards your target. The target must succeed on a Dexterity saving throw or take 3d6 fire damage, halved on a save, and applies 2 stacks of burn. If a target that fails the saving throw has any stacks of burn, they are also stunned until the end of their turn. 
 
-**At Higeher Levels.**
+**At Higeher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6. 
+
+*_A lump or charcoal_
 
 ---
 
