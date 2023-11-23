@@ -10,11 +10,11 @@ _Wizard, Sorcerer, Bard_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|0|1 Bonus Action|30 ft|V,S,M*|Instantainous|Transmutation|Wisdome|
+|0|1 Bonus Action|30 ft|V,S,M*|Instantainous|Transmutation|Wisdom|
 
-You warp the time around a creature either hastening them or slowing them. A hasted target gets +5 to their movement speed and a slowed targets gets -5 to their movementspeed untill the end of their next turn. A target can chose to make a wisdome save to resist the effect. 
+You warp the time around a creature either hastening them or slowing them. A hasted target gets +5 to their movement speed and a slowed targets gets -5 to their movementspeed untill the end of their next turn. A target can chose to make a wisdome save to resist the effect. A slowed creature must succeed a Wisdom saving throw or have their speed reduced by 5 feet. 
 
-**Cantrip Scaling.** The speed increese and decreese advance by 5 at lvl 5, 11, and 17.
+**Cantrip Scaling.** The speed increese and decreese advance by 5 feet at lvl 5, 11, and 17.
 
 ---
 
