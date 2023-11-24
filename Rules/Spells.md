@@ -158,9 +158,9 @@ _Wizard, Sorcerer, Warlock, Druid of the Spores_
 |---|---|---|---|---|---|---|
 |2nd|1 Action|120 feet|V,S|Instantanious|Evocation|None|
 
-You throw out three 5ft radius spheres of miasma that stay for one minute, creatures that start their turn in the migma suffers 2d6 poision damage and cannot use any dash, teleport or blink action. All creatures within the sphere must succeed on a Constitution saving throw. On a failure, they are poisioned for one minte. 
+You throw out three 5ft radius spheres of miasma that stay for one minute, creatures that start their turn in the miasma suffers 2d6 poision damage and cannot use any dash, teleport or blink action until the end of their turn. All creatures within the sphere on impact must succeed on a Constitution saving throw. On a failure, they are poisioned for one minte. 
 
-**At Higher Levels.**
+**At Higher Levels.** Whenever you cast this spell at 5th level or higher, the radius of the spheres increase by 5 feet. 
 
 ---
 
