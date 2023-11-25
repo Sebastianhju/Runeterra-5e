@@ -12,15 +12,28 @@ _Wizard, Sorcerer, Bard_
 |---|---|---|---|---|---|---|
 |0|1 Bonus Action|30 ft|V,S,M*|Instantainous|Transmutation|Wisdom|
 
-You warp the time around a creature either hastening them or slowing them. A hasted target gets 5 affitional feet to their movement speed until the end of their nect turn. A slowed creature must succeed a Wisdom saving throw or have their speed reduced by 5 feet. 
+You warp the time around a creature either hastening them or slowing them. A hasted target gets 5 additional feet to their movement speed and agility until the end of their next turn. A slowed creature must succeed a Wisdom saving throw or have their speed reduced by 5 feet until the end of their next turn. 
 
-**Cantrip Scaling.** The speed increese and decreese advance by 5 feet at lvl 5, 11, and 17.
+**Cantrip Scaling.** The speed increases and decreeses with 5 feet at level 5, 11, and 17.
 
 ---
 
+**Infected Bonesaw**
+
+_Wizard, Sorcerer, Warlock, Death Domain_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|0|1 Action|60 feet|V,S|Instantanious|Necrotic|Attack|
+
+You cleave yourself with a conjured bonesaw, dealing 1d4 nonmigatiable damage to yourself. Then you throw the bonesaw towards a target you can see within range, dealing 1d10 necrotic damage on a hit. If you hit the target you regain twice the damage you suffered from this spell. 
+
+**Cantrip Scaling.** The damage increases by 1d10 at level 5, 11 and 17. 
+
+---
 ## First Level Spells
 
-**Bandage Toss**
+**Bandage Toss**seba
 
 _All spellcasters_
 
@@ -82,6 +95,20 @@ You target a creature within reach and time rewinds around them decreesing the c
 
 ---
 
+**Transfusion**
+
+_Wizard, Warlock, Death Domain_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|1st|1 Action|30 Feet|V,S|Instantanious|Necrotic|Constitution|
+
+You attempt to drain an enemy of their life essence. You deal 1d8 nonmigatiable damage to yourself. A creature that you can see within range must succeed a Constitution saving throw taking 3d8 necrotic damage on a failure, halved on a success. If they fail the saving throw, you heal equal to twice the damage taken by this spell. 
+
+**At Higher Levels.** When cast with a spell slot of 2nd level or higher the damage increases by 1d8. 
+
+---
+
 ## Second Level Spells
 
 ---
@@ -130,8 +157,6 @@ A cinder blows up to a pillar of flames in a 15 feet diamater, 40 feet tall sphe
 
 ---
 
-
-
 ## Third Level Spells
 
 ---
@@ -161,6 +186,20 @@ _Wizard, Sorcerer, Warlock, Druid of the Spores_
 You throw out three 5ft radius spheres of miasma that stay for one minute, creatures that start their turn in the miasma suffers 2d6 poision damage and cannot use any dash, teleport or blink action until the end of their turn. All creatures within the sphere on impact must succeed on a Constitution saving throw. On a failure, they are poisioned for one minte. 
 
 **At Higher Levels.** Whenever you cast this spell at 5th level or higher, the radius of the spheres increase by 5 feet. 
+
+---
+
+**Sanguine Pool**
+
+_Wizard, Warlock, Death Domain_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|3rd|1 Reaction|Self, 10 feet|S|Intantanious|Necrotic|Constitution|
+
+When you are about to take damage, you can use your reaction to turn into a pool of blood. You take necrotic damage equal to three times your proficiency bonus. All creatures within 10 feet of you must then make a Constitution saving throw taking 1d8 necrotic damage on a failure. You heal equal to half the damage dealt. 
+
+**At Higher Levels.**
 
 ---
 
