@@ -33,7 +33,7 @@ You cleave yourself with a conjured bonesaw, dealing 1d4 nonmigatiable damage to
 ---
 ## First Level Spells
 
-**Bandage Toss**seba
+**Bandage Toss**
 
 _All spellcasters_
 
