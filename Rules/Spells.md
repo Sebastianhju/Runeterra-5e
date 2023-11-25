@@ -28,7 +28,7 @@ _Wizard, Sorcerer, Warlock, Death Domain_
 
 You cleave yourself with a conjured bonesaw, dealing 1d4 nonmigatiable damage to yourself. Then you throw the bonesaw towards a target you can see within range, dealing 1d8 necrotic damage on a hit. If you hit the target you regain twice the damage you suffered from this spell. 
 
-**Cantrip Scaling.** The damage increases by 1d10 at level 5, 11 and 17. 
+**Cantrip Scaling.** The damage increases by 1d8 at level 5, 11 and 17. 
 
 ---
 ## First Level Spells
