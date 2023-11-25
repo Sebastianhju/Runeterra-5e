@@ -31,7 +31,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 - 250 Gold
 - Arcane Focus
 
-**Focus**: Whenever you kill a creautre, you regain 1 mana.
+**Focus**: Whenever you score a takedown, you gain a stack of _Manaflow_. Whenever you have 5 stacks of manaflow, you regain mana equal to your proficiency bonus. 
 
 ---
 
