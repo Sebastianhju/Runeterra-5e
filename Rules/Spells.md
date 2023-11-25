@@ -167,7 +167,7 @@ _Wizard, Sorcerer, Warlock_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|3nd|1 Action|90 feet|V,S,M|Instantanious|Conjuration|Wisdom|
+|3rd|1 Action|90 feet|V,S,M|Instantanious|Conjuration|Wisdom|
 
 You summon a dark purple pentagonal wall keeping the enemies inside as your allies can move freely thru the walls. Each wall is 20ft tall and 20 ft long, an enemy that tries to pass through the wall must make a wisdom save or become stunned until the end of it’s next turn, after which it can move thru the part of the wall it got stunned on. On a successful save the creature can move through the wall.
 
@@ -181,11 +181,11 @@ _Wizard, Sorcerer, Warlock, Druid of the Spores_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|2nd|1 Action|120 feet|V,S|Instantanious|Evocation|None|
+|3rd|1 Action|120 feet|V,S|Instantanious|Evocation|None|
 
-You throw out three 5ft radius spheres of miasma that stay for one minute, creatures that start their turn in the miasma suffers 2d6 poision damage and cannot use any dash, teleport or blink action until the end of their turn. All creatures within the sphere on impact must succeed on a Constitution saving throw. On a failure, they are poisioned for one minte. 
+You throw out three 5ft radius spheres of miasma that stay for one minute, creatures that start their turn in the miasma cannot use any dash, teleport or blink action until the end of their turn. All creatures within the sphere on impact must succeed on a Constitution saving throw or take 2d6 poision damage and are poisioned, taking only half damage on a success. 
 
-**At Higher Levels.** Whenever you cast this spell at 4th level or higher, the radius of the spheres increase by 5 feet. 
+**At Higher Levels.** Whenever you cast this spell at 4th level or higher, you can throw out an additional sphere. 
 
 ---
 
