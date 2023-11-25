@@ -87,7 +87,7 @@ _Wizard, Sorcerer, Artificer_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|1st|1 Action|30 feet|S|Instantanious|Abjuration|None|
+|1st|1 Bonus Action|30 feet|S|Instantanious|Abjuration|None|
 
 You target a creature you can see within reach and time rewinds around them decreesing the cooldown of the targets runes and items by 6 secounds. 
 
