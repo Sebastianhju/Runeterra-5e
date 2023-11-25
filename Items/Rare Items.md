@@ -24,7 +24,7 @@ While wielding this piece of armor you gain +1 to your armor class.
   
 **Charges**: This item has 2 charges, that all replenish whenever you finish a long rest. Whenever you end your turn after moving atleast 45 feet, you regain one charge. 
 
-**Spectral Might**: Whenever you deal elemental, force, necrotic or psychic damage, you can spend any amount of charges to deal 1d6 additional damage for each charge spent. 
+**Spectral Might**: Whenever you deal spell damage you can spend any amount of charges to deal 1d6 additional damage for each charge spent. 
 
 ---
 
@@ -157,7 +157,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 3300 Gold
 - Long Sword
 
-**Rend**: Whenever you hit a creature with this sword, you apply two stacks of grievous wounds to them.
+**Rend**: Whenever you hit a creature with this weapon, you apply two stacks of grievous wounds to them.
 
 You gain +1 to hit and damage rolls using this magical weapon.
 
@@ -170,7 +170,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 2500 Gold
 - Spell Focus
 
-**Fiendish Knowledge**: You may prepare one extra spell from you spellcasting list. 
+**Fiendish Knowledge**: You may prepare two extra spell from you spellcasting list. 
 
 **Haste**: The cooldown of your runes and items are reduced by 6 seconds. 
 
@@ -213,7 +213,7 @@ While wielding this shield you gain +1 to your armor class.
 - Wonderous item
 - Attunement
 
-**Giants Might**: While wielding this item your strenght score is set to 22.
+**Giants Might**: While wielding this item your strength score is set to 22.
 
 **Health**: You gain maximum hit points equal to half your hit dice. 
 
@@ -239,7 +239,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 2700 Gold
 - Longsword
 
-**Lifeline**: If you take elemental damage that would reduce your hitpoints to zero, you first gain temporary hit points equal to ten times your proficiency bonus that lasts until the end of your turn. 
+**Lifeline**: If you take elemental, poision or acid damage that would reduce your hitpoints to zero, you first gain temporary hit points equal to ten times your proficiency bonus that lasts until the end of your turn. 
 
 You gain +1 to hit and damage rolls using this magical weapon.
 
@@ -252,7 +252,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 2500 Gold
 - Wonderous Item
 
-**Revved**: Whenever you damage an enemy, you also deal lightning damage equal to 1d8 plus your proficiency bonus. Once this effect is used, it cannot be used again until 30 seconds pass or if you take lightning damage. 
+**Revved**: Whenever you damage an enemy, you also deal lightning damage equal to 1d8 plus your proficiency bonus. Once this effect is used, it cannot be used again until 30 seconds pass. The cooldown of this item decreases by 12 seconds whenever you deal or take lightning damage. 
 
 ---
 
@@ -276,7 +276,7 @@ _You gain +1 to hit and damage rolls with this magical weapon_
 - 3000 Gold
 - Whip
 
-**Crescent**: As an action, you can twirl the whip around you. All creatures within 10 feet of you must succeed a dexterity saving throw (DC: 8 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 30 seconds pass. 
+**Crescent**: As an action, you can twirl the whip around you. All creatures within 10 feet of you must succeed a dexterity saving throw (DC: 9 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 30 seconds pass. 
 
 _You gain +1 to hit and damage rolls using this magical weapon_ 
 
@@ -289,11 +289,11 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 - 2500 Gold
 - Wonderous
 
-**Haste**: The cooldowns of your runes and items are reduced by 12 seconds. 
+**Haste**: The cooldowns of your runes and items are reduced by 6 seconds. 
 
-**Health**: You gain maximum hit points equal to half your hit dice. 
+**Health**: You gain maximum hit points equal to your hit dice. 
 
-You gain a +1 to medicine and animal handling checks. 
+_You gain +2 to you Constitution saving throws_
 
 ---
 
@@ -321,7 +321,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Breathtaking**: Whenever you damage enemies, you ignore resistances to piercing damage. If a creature would be immune to piercing damage, they take half damage from your attacks.
 
-**Loaded string**: As a bonus action, you load you bow. Your next attack that deals 1d6 additional damage. You can use this effect a number of times equal to your proficiency bonus before you must take a long rest. 
+**Loaded string**: As a bonus action, you load you bow. Your next attack that hits deals 1d6 additional damage. You can use this effect a number of times equal to your proficiency bonus before you must take a long rest. 
 
 _You gain +2 to inititative rolls_ 
 _You gain +1 to hit and damage rolls using this magical weapon._
@@ -364,9 +364,9 @@ You gain +1 to spell attack rolls and your saving throw DC.
 - 2750 Gold
 - Wonderous Item
 
-**Negate**: Whenever you take physical or elemental damage from spells you can reduce that by 3. 
+**Negate**: Whenever you take Physical, Elemental, Acid, or Poision damage from spells you can reduce that by 3. 
 
-**Resist**: You have advantage on saving throws against spells. 
+**Resistance**: You have advantage on saving throws against spells. 
 
 ---
 
@@ -377,7 +377,7 @@ You gain +1 to spell attack rolls and your saving throw DC.
 - 3000 Gold
 - Wonderous Item
 
-**Statikk Arrows**: The noonquiver is magically loaded with _Statikk Arrows_ that deal 1d4 additional lightning damage. 
+**Statikk Ammunition**: The noonquiver is magically loaded with _Statikk Ammunition_ that deal 1d4 additional lightning damage. 
 
 **High Noon**: As a bonus action you can enter a state of focus that lasts for 12 seconds. Whenever you take the attack action you can do an additional attack as a part of that action. Once this action is used it cannot be used again until 60 second pass. Whenever you score a takedown, this cooldown is reduced by 6 seconds. 
 
@@ -391,9 +391,9 @@ You gain +1 to spell attack rolls and your saving throw DC.
 - Arcane Focus
 - Attunement
 
-**Cursed**: Whenever you deal spell damage, you give yourself and the target a stack of grievous wounds. 
+**Cursed**: Whenever you deal spell damage, you give yourself and the target two stacks of grievous wounds. 
 
-**Oblivion**: Your single target spells deals 2d6 additional necrotic damage if the target has atleast a stack of grievous wounds.
+**Oblivion**: Your single target spells deals 2d6 additional necrotic damage if the target has atleast one stack of grievous wounds.
 
 _You gain +2 to spell attack rolls_
 
@@ -404,9 +404,9 @@ _You gain +2 to spell attack rolls_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Phage.png" Align=right width=8% height=8%>
 
 - 3250 Gold
-- Greatclub
+- Maul
 
-**Sturdy**: Whenever you hit a crature with phage, you get two stacks of _regeneration_. 
+**Sturdy**: Whenever you hit a crature with phage, you get a stacks of _regeneration_. 
 
 **Health**: You gain maximum hit points equal to half your hit dice. 
 
@@ -498,7 +498,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 - 2600 Gold
 - Wonderous Item 
 
-**Incorporeal**: Whenever you take damage from an enemy, you gain two stacks of regeneration. During your turn, you can spend four stacks of regeneration to gain the ability to phase through walls and creatures until the end of your turn, while phasing you cannot be restrained or grappled. 
+**Incorporeal**: Whenever you take damage from a spell, you gain two stacks of regeneration. During your turn, you can spend three stacks of regeneration to gain the ability to phase through walls and creatures until the end of your turn, while phasing you cannot be restrained or grappled. 
 
 **Health**: You gain maximum hit points equal to half your hit dice. 
 
@@ -529,9 +529,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Vampiric**: You learn the Vampiric Touch spell and can cast it once a day without expending any mana. When you cast the spell you have a +6 to hit, unless your spellcasting class has a better modifier. 
 
-**Vampires Curse**: You heal equal to half the necrotic damage you deal, but whenever you take radiant damage you gain stacks of grievous wounds equal to the damage taken.
-
-_You gain a +1 to all arcana checks_
+**Vampires Curse**: You heal equal to half the necrotic damage you deal, but whenever you take radiant damage you gain stacks of grievous wounds equal to the damage taken. If you gain ten or more stacks of grievois wonds in one hit, you gain two stacks of exhaustion.
 
 ---
 
@@ -572,7 +570,7 @@ _While wielding this armor you gain +1 to your armor class_
 - 3250
 - Shortsword
 
-**Critical**: Your critical strike chance is increased by one.
+**Critical**: Your critical strike chance increases by one.
 
 **Sharp Edged**: Whenever you critically hit a target with Zeal, you can make an additional attack with Zeal as a bonus action.
 
