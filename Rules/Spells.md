@@ -12,7 +12,7 @@ _Wizard, Sorcerer, Bard_
 |---|---|---|---|---|---|---|
 |0|1 Bonus Action|30 ft|V,S,M*|Instantainous|Transmutation|Wisdom|
 
-You warp the time around a creature either hastening them or slowing them. A hasted target gets 5 additional feet to their movement speed and agility until the end of their next turn. A slowed creature must succeed a Wisdom saving throw or have their speed reduced by 5 feet until the end of their next turn. 
+You warp the time around a creature either hastening them or slowing them. A hasted target gets 5 additional feet to their movement speed until the end of their next turn. A slowed creature must succeed a Wisdom saving throw or have their speed reduced by 5 feet until the end of their next turn. 
 
 **Cantrip Scaling.** The speed increases and decreeses with 5 feet at level 5, 11, and 17.
 
@@ -73,7 +73,7 @@ _Wizard, Sorcerer, Artificer_
 |---|---|---|---|---|---|---|
 |1st|1 Action|30 feet|V,S,M*|Instantanious|Evocation|Attack|
 
-You hurl a ball of condensed force towards a target. If the attack hits the ball sticks too the target and explodes after 18 secounds Dealing 2d6 force damage to all targets within 10ft of the target. Should you how ever hit the target with a secound time bomb before the first one explodes, they bouth explode instantanious and all targets in the explotions must make a con save or become stunned untill the end of their next turn. 
+You hurl a ball of condensed force towards a target. If the attack hits the ball sticks too the target and explodes after 12 secounds Dealing 2d6 force damage to all targets within 10ft of the target. If you hit a target that already has a timebomb on them, they both explode and all targets within 10 feet of the target must make a Constitution saving throw or be stunned until the end of their next turn. 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6. 
 
@@ -89,9 +89,9 @@ _Wizard, Sorcerer, Artificer_
 |---|---|---|---|---|---|---|
 |1st|1 Action|30 feet|S|Instantanious|Abjuration|None|
 
-You target a creature within reach and time rewinds around them decreesing the cooldown of the targets runes and items by 6 secounds. 
+You target a creature you can see within reach and time rewinds around them decreesing the cooldown of the targets runes and items by 6 secounds. 
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target an additional creature for each spell slot above 1. 
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target an additional creature for each spell slot above first. 
 
 ---
 
