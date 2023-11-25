@@ -48,7 +48,7 @@ _You have +1 to spell attack rolls and +1 to your spell save DC when attuned to 
 
 **Mana**: You gain +15 maximum mana
 
-**Awe**: Your weapon attacks with Muramana deal 1d4 additional damage for every 20th maximum mana you have
+**Awe**: Your weapon attacks with Muramana deal one additional damage for every 10th maximum mana you have
 
 **Shock**: When you deal damage with muramana, you can spend **five** charges to change the damage dealt to lightning damage, the target must also succeed a constitution saving throw (dc: 14 or you spell save dc, whatever is higher), on a failed save they are stunned until the end of your next turn. 
 
@@ -102,7 +102,7 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 **Glory**: Whenever you score a takedown you gain a stack of glory, up to a maximum of 25. Whenever your hit points are reduced to 0 you loose all stacks of glory.
 
-**Dread**: While at 5 or more stacks, you deal 1d4 additional damage whenever you deal elemental, necrotic, psychic or force damage. This damage increases to 2d4 whenever you are at 10 stacks. While at 25 stacks this damage increases to 3d4 and you gain + 10 feet movement speed. 
+**Dread**: While at 5 or more stacks, you deal 1d4 additional damage whenever you deal spell damage. This damage increases to 2d4 whenever you are at 10 stacks. While at 25 stacks this damage increases to 3d4 and you gain + 10 feet movement speed. 
 
 **Secretkeeper**: The first time you achive 25 stacks you can increase all ability modifiers by one. Once the book has used in this way, this feature cannot be used again.
 
@@ -146,13 +146,14 @@ _You have +2 to damage and attack rolls using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Serylda's Grudge.png" Align=right width=8% height=8%>
 
 - 12,000 Gold
-- Pyke
+- Pike
+- Attunement
 
 **Haste**: The cooldowns of you runes and items are reduced by 6 seconds. 
 
-**Pole Swing**: As an action, you can swing _Serylda's Grudge_ around you. All creatures within your reach must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or take damage equal to this weapons damage, this damage counts as spell damage. Once this effect is used, it cannot be used again until 24 seconds pass.
+**Pole Swing**: As an action, you can swing _Serylda's Grudge_ around you. All creatures within your reach must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 24 seconds pass.
 
-**Bitter Cold**: Whenever you deal physical spell damage, the target takes full damage if they are resistant or immune and their movement speed is reduced by 15 feet until the end of their turn. 
+**Bitter Cold**: Whenever you deal physical damage, the target takes full damage if they are resistant or immune and their movement speed is reduced by 15 feet until the end of their turn. 
 
 _You have +2 to damage and attack rolls using this magical weapon_
 
@@ -184,7 +185,7 @@ _You gain +2 to spell attack rolls and +1 to spell save DCs_
 - Wonderous Item
 - Attunement 
 
-**Safeguard**: Whenever you are about to take damage, you can use a reaction to activate safeguard. While safeguard is active, you take half damage from all sources and your damaging spells deal 1d8 additional cold damage until the end of your turn. Once this ability is used, it cannot be used again until 48 seconds pass.
+**Safeguard**: Whenever you are about to take damage, you can use a reaction to activate safeguard. While safeguard is active, you take half damage from all sources and your damaging spells deal 1d8 additional cold damage until the end of your turn. Once this ability is used, it cannot be used again until 60 seconds pass.
 
 **Mana**: You gain +5 maximum mana
 
@@ -220,9 +221,9 @@ _You gain +1 to your armor class while wearing this piece of armor_
 
 **Fortify**: You take 3 less damage from pysical and elemental damage. 
 
-**Monolith**: As a bonus action you can give yourself temporary hit points equal to four times your proficiency modifier. You can do this effect a number of times equal to your proficiency modifier before you must finish a long rest.  
+**Monolith**: As a bonus action you can give yourself temporary hit points equal to four times your proficiency modifier. Once this effect is used it cannot be used again until 30 seconds pass.  
 
-**Petricite**: Whenever you gain temporary hit points, you can remove one magical effect affecting you, unless you are charmed.
+**Petricite**: Whenever you gain temporary hit points you can remove one magical effect affecting you, unless you are charmed.
 
 _You gain +2 to your armor class while wearing this piece of armor_
 
@@ -254,7 +255,7 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 
 **Halting Slash**: As an action, you can swing _Stridebreaker_ around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or be knocked prone and take damage equal to this weapons damage. Once this ability is used, it cannot be used again until 30 seconds pass. 
 
-**Heroic Gait**: Whenever you deal physical damage to creatures, you gian +5 feet movement speed and agility until the end of your turn. 
+**Heroic Gait**: Whenever you deal physical damage to creatures, you gain +5 feet movement speed and agility until the end of your turn. 
 
 **Haste**: The cooldown of your items and runes are reduced with 6 seconds.
 
@@ -267,11 +268,12 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Randuin's Omen.png" Align=right width=8% height=8%>
 
 - 10,000 Gold
-- Shield
+- Wonderous Item
+- Attunement
 
 **Humility**: As a bonus action, you force all creatures within 5 feet of you to succeed a strength savingthrow (dc: 10 + proficiency bonus + constitution modifier). On a failed save they take 2d8 thunder damage and are pushed 15 feet away from you. Once this action is used, it cannot be used again until 30 seconds pass. 
 
-**Critical Resilence**: Attacks cannot critically hit against you while wielding this shield
+**Critical Resilence**: Attacks cannot critically hit against you.
 
 **Health**: You gain hit points equal to your hit dice. 
 
@@ -289,7 +291,7 @@ _You have +1 to your armor class while wearing this shield_
 
 **Pledge**: As a ritual during your long rest, you can select an ally to be named _Worthy_. The worthy creature can add 1d6 to all ability checks and saving throws until you select a new _Worthy_ target. 
 
-**Sacrifice**: Whenever the _Worthy_ ally is within 60 feet of you and takes damage, you take half of that damage as nonmigatiable damage and they take half damage instead. Whenever the _Worthy_ ally deals damage, you heal equal to your proficiency bonus, up to a maximum of five times each round. 
+**Sacrifice**: Whenever the _Worthy_ ally is within 60 feet of you and takes damage, you take half of that damage as nonmigatiable damage and they take half damage instead. Whenever the _Worthy_ ally deals damage to a creature, you heal equal to your proficiency bonus, up to a maximum of four times each round. 
 
 **Health**: You gain hit points equal to your hit dice. 
 
@@ -303,7 +305,7 @@ _You have +1 to your armor class while wearing this shield_
 - Greatsword
 - Attunement
 
-**Rebirth**: The first time your hit points would be reduced to zero, you are instead left on 1 hit point. You become invulnerable and all incoming healing is doubled until the end of your next turn. 
+**Rebirth**: The first time your hit points would be reduced to zero, you are instead left on 1 hit point. You become invulnerable and all incoming healing is doubled until the end of your next turn. Once this effect is used, it cannot be used again until you finish a long rest. 
 
 **Flight**: You gain 30 feet flying speed
 
@@ -317,6 +319,7 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 - 11,000
 - Sickle
+- Attunement
 
 **Stored Potential**: After casting a spell, your next attack with _Essence Reaver_ has a +2 critically strike chance and deals 1d8 additianal slashing damage.
 
@@ -336,7 +339,7 @@ _You have +2 to hit and attack rolls using this magical weapon_
 - Shortbow
 - Attunement
 
-**Lifeline**: If you would take damage that would make you bloodied, you first gain temporary hit points equal to 10 times your proficiency bonus. As long as you have these temporary hit points, you can make an additional attack as a part of your attack action. Once this ability has been used it cannot be used again until you finish a short rest. 
+**Lifeline**: If you would take damage that would make you bloodied, you first gain temporary hit points equal to 10 times your proficiency bonus. As long as you have these temporary hit points, you can make an additional attack as a part of your attack action. Once this effect is used, it cannot be used again until you finish a long rest.
 
 **Critical**: Your Critical strike chance increases by one.  
 
@@ -353,9 +356,9 @@ _You gain +3 to inititative checks_
 - 11,000 Gold
 - Morningstar
 
-**Thirsting Slash**: As an action, you can swing around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or take damage equal to this weapons damage, you heal 1 hit point for every target within 5 feet of you. Once this ability is used, it cannot be used again until 30 seconds pass. 
+**Thirsting Slash**: As an action, you can swing the Goredrinker around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or take damage equal to this weapons damage, you heal 1 hit point for every target within 5 feet of you. Once this ability is used, it cannot be used again until 30 seconds pass. 
 
-**Lifesteal**: Whenever you hit a target with _Goredrinker_ you heal equal to your proficiency bonus
+**Lifesteal**: Whenever you deal damage to a target with _Goredrinker_ you heal equal to your proficiency bonus
 
 **Haste**: The cooldown of your items and runes are reduced with 6 seconds.
 
@@ -369,7 +372,6 @@ _You gain +2 to hit and damage rolls with this magical weapon_
 
 - 12,000 Gold
 - Longbow
-- Attunement
 
 **Breathtaking**: Whenever you damage enemies, you ignore resistances to piercing damage. If a creature would be immune to piercing damage, they take half damage from your attacks.
 
@@ -390,13 +392,13 @@ _You gain +3 to initiative rolls_
 - Greataxe
 - Attunemnt
 
-**Carve**: Whenever you hit a creature with Black Cleaver, they gain a stack of _Carve_
+**Carve**: Whenever you hit a creature with Black Cleaver, they gain two stacks of _Carve_
 
 **Haste**: The cooldown of your items and runes are reduced with 6 seconds.
 
 **Health**: You gain hit points equal to your hit dice. 
 
-_Carve: Your armor class is reduced by one for every stack of carve you have, up to a maximum of four. Whenever you start your turn, you remove one stack of carve_
+_Carve: Your armor class is reduced by one for every other stack of carve you have, up to a maximum of eight. Whenever you start your turn, you remove one stack of carve_
 
 _You gain +2 to hit and attack rolls using this magical weapon_
 
@@ -411,9 +413,9 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 **Catching Claws**: You gain +2 to hit and damage on your unarmed attacks. Whenever you hit an unarmed attack, you can use your bonus action to grapple the target. 
 
-**Lifeline**: If you would take damage that would reduce your hit points to zero, you first gain temporary hit points equal to 10 times your proficiency bonus. As long as you have these temporary hit points, your size increases by one, as if affected by the enlarge spell, and you are immune to all immobilizing effects. 
+**Lifeline**: If you would take damage that would reduce your hit points to zero, you first gain temporary hit points equal to 10 times your proficiency bonus. As long as you have these temporary hit points, your size increases by one, as if affected by the enlarge spell, and you are immune to all immobilizing effects. Once this effect is used, it cannot be used again until you finish a long rest.
 
-**Health**: You gain hit points equal to two of your hit dice. 
+**Health**: You gain hit points equal to your hit dice. 
 
 ---
 
@@ -441,7 +443,7 @@ _You gain +2 to your armor class while wearing this piece of armor_
 
 **Engorge**: While above 50% hit points, your attacks with _Bloodthirster_ deals 1d6 additional damage. 
 
-**Lifestel**: Whenever you hit an attack with _Bloodthirster_ you regain health equal to twice your proficiency bonus
+**Lifestel**: Whenever you hit an attack with _Bloodthirster_ you regain health equal to your proficiency bonus
 
 **Critical**: Your Critical strike chance increases by one. 
 
@@ -459,10 +461,10 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 **Annul**: As an reaction upon begin targeted by a spell that targets only you, you can cancel it and gain charges equal to the spells mana cost. You can stack up to a maximum of 50 charges. If you don't have enough charges to contain the spell targeting you, it still affects you.
 
-**Nightfall**: You can spend charges to cast the following spells: 
-- (30) Greater invisibility
-- (20) Pass without a Trace
+**Nightfall**: You can spend charges to cast the following spells by spendng charges: 
 - (10) Invisibility 
+- (20) Pass without a Trace
+- (30) Greater invisibility
 
 _You gain +1 to all saving throws_ 
 
@@ -476,7 +478,7 @@ _You gain +1 to all saving throws_
 - Arcane Focus
 - Attunement
 
-**Affliction**: Whenever you deal nonpysical damage to a target, you both gain two stacks of grievous wounds. Whenever you damage a creature with grievous wounds, you deal 2d6 additional necrotic damage, and heal equal to the additional damage dealt. 
+**Affliction**: Whenever you deal Spell damage to a target, you apply two stacks of grievous wounds to the target if they don't have any. Whenever you damage a creature that already grievous wounds, you deal 2d6 additional necrotic damage and remove all stacks of grievous wounds they have.
 
 **Hidden Knowledge**: When you are attuned to this book you can increase two different ability scores by one. 
 
@@ -493,9 +495,9 @@ _You gain +2 to your spell attack rolls and spell save DC while attuned to this 
 
 **Cleave**: Whenever you hit a creature with an attack using Ravenous Hydra, all enemies within 5 feet of the target takes damage equal to your strength modifier. Youl heal 1 hit points for each creature within 5 feet of the original target. 
 
-**Lifesteal**: Whenever you hit an attack with _Ravenous Hydra_ you regain health equal to you proficiency bonus
+**Lifesteal**: Whenever you hit an attack with _Ravenous Hydra_ you regain health equal to half your proficiency bonus
 
-**Hunger**: Whenever you kill a creature, you gain a stack of _Satisfaction, up to a maximum of 15. If your hitpoints reaches zero, you loose ten stacks. For every stack of _Satisfaction_ you gain the following features:
+**Hunger**: Whenever you kill a creature, you gain a stack of _Satisfaction_, up to a maximum of 15. If your hitpoints reaches zero, you loose ten stacks. For every stack of _Satisfaction_ you gain the following features:
 - (5): You gain +2 to hit and damage rolls
 - (10): All healing from this item is doubled
 - (15): You gain +3 to hit and damage rolls.
@@ -515,7 +517,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 **Deep Wounds**: Whenever you hit a creature that are unaware of your presence. you, _Duskblade of Draktharr_ deals 2d6 additional force damage. 
 
-**Haste**: The cooldowns of you items and runes are reduced with 12 seconds.  
+**Haste**: The cooldowns of you items and runes are reduced with 6 seconds.  
 
 _You gian +2 to hit and damage rolls using this magical weapon_
 
@@ -579,7 +581,7 @@ _You have +2 to hit and damage rolls with this magical weapon_
 - 11,000 Gold
 - Longbow
 
-**Winds Fury**: Whenever you attack a creature with _Ruunan's Hurricane_. Two targets within 10 feet of the original target suffers damage equal to your proficiency bonus.
+**Winds Fury**: Whenever you attack a creature with _Ruunan's Hurricane_. Two targets within 10 feet of the original target suffers damage equal to your dexterity modifier.
 
 **Critical**: Your critical strike chance increases by 1
 
@@ -601,7 +603,7 @@ _You gian +3 to initiative rolls_
 
 **Mists Edge**: Whenever you damage a creauture with _Blade of the Ruined King_, they take 1d4 additional necrotic damage and you heal for that amount.  
 
-**Siphon**: Damaging creatures gives them a stack of _Siphon_. A creature with five stacks takes 3d8 necrotic damage, and you heal equal to the amount. Once this effect is used, it cannot be used again until 30 seconds pass.
+**Siphon**: Damaging creatures gives them a stack of _Siphon_. Whenever a creature gains five stacks they take 2d8 necrotic damage and are blinded for a minute. Once this effect is used, it cannot be used again until 30 seconds pass.
 
 **Extra Attack**: You can make an extra attack as a part of the attack action.
 
@@ -618,8 +620,6 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 - Attunement
 
 **Knowledge is Power**: All your ability scores increases by 1 while attuned to this item
-
-**Power is Knowledge**: You become proficient in all wisdom and intelligence based checks. 
 
 **Fast Casting**: You gain an additional bonus action that can be used to cast any cantrip, ignoring their casting time.
 
@@ -653,7 +653,7 @@ _You gian +3 to initiative rolls_
 - 10,000 Gold
 - Wonderous
 
-**Supersonic**: As a bouns action you can activate the rocketbelt. You gain 60 feet flying speed and agility, but you must land on a surface at the end of your turn, when you end your turn, all creatures within 5 feet of you take 2d4 force damage. Once this effect is used, it cannot be used again until 30 seconds pass. 
+**Supersonic**: As a bouns action you can activate the rocketbelt. You gain 60 feet flying speed and agility, but you must land on a surface at the end of your turn, when you end your turn, all creatures within 5 feet of you take 2d4+2 force damage. Once this effect is used, it cannot be used again until 30 seconds pass. 
 
 **Health**: You gain hit points equal to your hit dice. 
 
@@ -671,7 +671,7 @@ _You gian +3 to initiative rolls_
 
 **Substain**: The maximum amount of regeneration stacks you can gain are doubled. 
 
-**Warmogs Heart**: As a bonus action, you can give yoursel stacks of regeneration equal to three times your proficiency bonus. Once this effect is used, it cannot be used again until 30 seconds pass.  
+**Warmogs Heart**: As a bonus action, you can give yoursel stacks of regeneration equal to two times your proficiency bonus. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
 
 **Allways Ready**: Whenever you roll initiative, you start with 75 hit points, unless your current hit points are higher. 
 
@@ -721,9 +721,9 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 - Quarterstaff
 - Attunement
 
-**Echo**: Whenever you deal elemental damage to a creature, you can choose to force all creatures within 10 feet of the target to roll a dexterity saving throw or take 2d8 thunder damage, halved on a save. Once this effect is used, it cannot be used again until 30 seconds pass.
+**Echo**: Whenever you deal lightning or thunder damage to a creature, you can choose to force up to three creatures within 10 feet of the target to roll a dexterity saving throw or take 2d8 thunder damage, halved on a save. Once this effect is used, it cannot be used again until 60 seconds pass. The cooldown if this item is reduced by 12 whenever you deal or take lightning or thunder damage.
 
-**Tempests Servant**: Whenever you deal lightning or thunder damage to a creature, you can choose to knock them prone. 
+**Tempests Servant**: Once a turn whenever you deal lightnig or thunder damage, you can choose to blind them if you deal lightning damage, or deafend them if you deal thuder damage. 
 
 **Haste**: The cooldowns of your runes and items are redcued by 6. 
 
