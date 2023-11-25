@@ -176,7 +176,7 @@ _You gain +1 to acrobatics checks._
 
 **Spellblade**: You can choose to use your spellcasting ability modifier for attack and damage rolls. 
 
-**Lingering Power**: After casting a spell, your next attack with Sheen deals additional damage equal to the spells level plus your proficiency bonus.
+**Lingering Power**: After casting a spell, your next attack with Sheen deals additional damage equal to the mana spent on that spell.
 
 ---
 
@@ -227,7 +227,7 @@ _You gain +1 to acrobatics checks._
 
 **Spoils of War**: Whenever you score a takedown, you gain gold equal to ten times the creatures challenge rating, up to a maximum of 300 gold
 
-**Quest**: Whnever you've gained 300 gold using this item, it transforms into _Pauldrons of Whiterock_
+**Quest**: Whenever you've gained 300 gold using this item, it transforms into _Pauldrons of Whiterock_
 
 ---
 
