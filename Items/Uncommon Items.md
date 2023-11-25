@@ -134,7 +134,7 @@ _You gain +1 to acrobatics checks._
 - 525 Gold
 - Wonderous Item
 
-**Rejuvinate**: As a bonus action you can expend a hit dice to heal yourself. The amount healed is equal to your hit dice plus you constitution modifier. Once this effect is used it cannot be used again until you finish a long rest. 
+**Rejuvinate**: As a bonus action you can expend a hit dice to heal yourself. The amount healed is equal to your hit dice plus you constitution modifier. Once this effect is used it cannot be used again until you finish a short rest. 
 
 **Potent Healing**: Whenever you roll hit dice to heal, you can reroll ones and twos. 
 
