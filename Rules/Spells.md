@@ -185,7 +185,7 @@ _Wizard, Sorcerer, Warlock, Druid of the Spores_
 
 You throw out three 5ft radius spheres of miasma that stay for one minute, creatures that start their turn in the miasma suffers 2d6 poision damage and cannot use any dash, teleport or blink action until the end of their turn. All creatures within the sphere on impact must succeed on a Constitution saving throw. On a failure, they are poisioned for one minte. 
 
-**At Higher Levels.** Whenever you cast this spell at 5th level or higher, the radius of the spheres increase by 5 feet. 
+**At Higher Levels.** Whenever you cast this spell at 4th level or higher, the radius of the spheres increase by 5 feet. 
 
 ---
 
@@ -198,8 +198,6 @@ _Wizard, Warlock, Death Domain_
 |3rd|1 Reaction|Self, 10 feet|S|Intantanious|Necrotic|Constitution|
 
 When you are about to take damage, you can use your reaction to turn into a pool of blood, making you untargetable and invulnerable until the start of your turn. You take necrotic damage equal to three times your proficiency bonus. All enemies within 5 feet of you must then make a Constitution saving throw taking 1d8 necrotic damage on a failure. You heal equal to half the damage dealt. 
-
-**At Higher Levels.**
 
 ---
 
