@@ -123,7 +123,7 @@ _You have +1 to your armor class while wearing this magical armor_
 
 **Momentery Focus**: As a bonus action you can enter a state of focus that last for a minute, when in this state your critical strike chance is increased by one and you are agile. Once this effect is used it cannot be used again until you finish a long rest. 
 
-_You gain +1 to acrobatics checks._
+_You gain +1 to dexterity saving throws_
 
 ---
 
