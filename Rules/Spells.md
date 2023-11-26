@@ -133,7 +133,7 @@ _Wizard, Sorcerer, Bard, Artificer_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|2nd|1 Action|10 feet|V,S,M*|1 minute concentration|Transmutation|none|
+|2nd|1 Action|10 feet|V,S,|1 minute concentration|Transmutation|none|
 
 Two nodes appear in the air 10 feet appart and electric energy crackles between them accelerating anything that passes thru. A creature that passes through gains 30 movement speed until the end of its turn. A projectile that passes through gets a +1 to hit and deal 1d6 additional force damage
 
@@ -151,7 +151,7 @@ _Wizard, Sorcerer, Druid, Light Domain_
 |---|---|---|---|---|---|---|
 |2nd|1 Action|60 feet|V,S|Instantanious|Evocation|Dexterity|
 
-A cinder blows up to a pillar of flames in a 15 feet diamater, 40 feet tall sphere. All creatues within the area must succeed a Dexterity saving throw or take 3d6 fire damage, if they already have stacks of burrn, this damage increases to 5d6 fire damage, halved on a save. All creatures also gain 2 stacks of burn regardless if they succeed the saving throw or not. 
+A cinder blows up to a pillar of flames in a 15 feet diameter, 40 feet tall sphere. All creatures within the area must succeed a Dexterity saving throw or take 3d6 fire damage, if they already have stacks of burn, this damage increaseswith 2d6 additional fire damage, halved on a save. All creatures also gain 2 stacks of burn regardless if they succeed the saving throw or not. 
 
 **At Higher Levels.** When cast with a spell slot of 3rd level or higher, the damage increases by 1d6. 
 
