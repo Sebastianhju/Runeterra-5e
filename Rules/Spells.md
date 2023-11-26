@@ -121,7 +121,7 @@ _Wizard, Sorcerer, Warlock_
 |---|---|---|---|---|---|---|
 |2nd|1 Action|60 feet|V,S|Instantanious|Evocation|Dexterity|
 
-The earth cracks and erupts as void spikes shoot out of the ground in a 10ft diameter. All creatures in the area must make a dex save. On a failed save the creature takes 2d8 force damage and is knocked 15ft in to the air, falling to the ground at the end of it’s next turn. While suspended in the air it’s speed is 0.
+The earth cracks and erupts as void spikes shoot out of the ground in a 10ft diameter. All creatures in the area must make a dex save. On a failed save the creature takes 2d8 piercing damage and is knocked 15ft in to the air, falling to the ground at the end of it’s next turn. While suspended in the air it’s speed is 0.
 
 **At Higher Levels.** When cast with a spell slot of lvl 3 or higher the damage and hight of the knock up by 1d8 and 5ft respectively.
 
