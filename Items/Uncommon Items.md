@@ -7,7 +7,7 @@
 - 250 Gold
 - Shortsword
 
-**Warmonger**: Whenever you kill a unit using the Doran's Blade, you regain 1d4 + proficiency bonus hit points.
+**Warmonger**: Whenever you score a takedown you heal equal to your proficiency bonus.
 
 ---
 
