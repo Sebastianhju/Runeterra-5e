@@ -187,7 +187,7 @@ _You gain +1 to dexterity saving throws_
 - 550 Gold
 - Wonderous Item
 
-**Rubys Health**: You gain maximum hit points equal to half your hit dice.  
+**Health**: You gain maximum hit points equal to half your hit dice.  
 
 ---
 
