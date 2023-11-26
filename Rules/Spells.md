@@ -57,7 +57,7 @@ _Wizard, Sorcerer, Druid, Light Domain_
 |---|---|---|---|---|---|---|
 |1st|1 Action|30 feet|V,S,M*|Instantanious|Evocation|Attack|
 
-You launch a bolt of fire towards your target. If the attack hits they take 3d6 fire damage, if they aldready have stracks of burn they are also stunned until the end of their turn. If the target doesn't have any stacks of burn, you apply two stacks of burn on them, regardless if the attack hit or missed. 
+You launch a bolt of fire towards your target. If the attack hits they take 3d6 fire damage, if they already have stacks of burn they are also stunned until the end of their turn. If the target doesn't have any stacks of burn, you apply two stacks of burn on them, regardless if the attack hit or missed. 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6. 
 
