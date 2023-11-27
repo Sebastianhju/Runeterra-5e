@@ -529,7 +529,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Vampiric**: You learn the Vampiric Touch spell and can cast it once a day without expending any mana. When you cast the spell you have a +6 to hit, unless your spellcasting class has a better modifier. 
 
-**Vampires Curse**: You heal equal to half the necrotic damage you deal, but whenever you take radiant damage you gain stacks of grievous wounds equal to the damage taken. If you gain ten or more stacks of grievois wonds in one hit, you gain two stacks of exhaustion.
+**Vampires Curse**: You heal equal to half the necrotic damage you deal, but whenever you take radiant damage you gain stacks of grievous wounds equal to the damage taken. If you gain ten or more stacks of grievous wonds in one hit, you gain two stacks of exhaustion.
 
 ---
 
