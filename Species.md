@@ -87,6 +87,8 @@
 
 **Arcane Adept**: You are proficient in the Arcana skill. 
 
+**Glamour**: The Human race se you as a human as well, unless you choose to lift this enchantment for that individual. 
+
 ---
 
 # Vastaya
