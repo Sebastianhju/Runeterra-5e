@@ -226,7 +226,7 @@ Whenever you damage a creature while being below maximum hit points, you can cho
 ---
 ### Sudden Impact <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png" Align=left width=7% height=7%>
 
-Whenever you dash, blink or teleport your next damaging attack deals 1d6 additional force damage and ignores all resistances. 
+Whenever you leave invisibility, dash, blink or teleport your next damaging attack deals 1d6 additional force damage and ignores all resistances. 
 
 ---
 ### Ghost Poro <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GhostPoro.png" Align=left width=7% height=7%>
