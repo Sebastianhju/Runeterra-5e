@@ -443,7 +443,7 @@ _You gain +2 to your armor class while wearing this piece of armor_
 
 **Engorge**: While above 50% hit points, your attacks with _Bloodthirster_ deals 1d6 additional damage. 
 
-**Lifestel**: Whenever you hit an attack with _Bloodthirster_ you regain health equal to your proficiency bonus
+**Lifestel**: Whenever you hit an attack with _Bloodthirster_ you heal equal to your proficiency bonus
 
 **Critical**: Your Critical strike chance increases by one. 
 
@@ -756,7 +756,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 - Wonderous Item
 - Attunement
 
-**Torment**: When you deal spelldamage to a new creature that turn you can apply stacks of *Burn* equal to your proficiency bonus to the target. 
+**Torment**: When you deal spelldamage to a new creature that turn you can apply two stacks of *Burn* to the target. 
 
 _You gain +2 to spell attacks and your save dc while attuned to this magical item_
 
