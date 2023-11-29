@@ -221,7 +221,7 @@ Whenever you damage a creature, you can choose to deal 1d6 extra force damage fo
 ---
 ### Taste of Blood <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png" Align=left width=7% height=7%>
 
-Whenever you damage a creature while being below maximum hit points, you can choose to heal an amount equal to twice your level. Once used, this effect cannot be used again until 30 seconds has passed. 
+Whenever you damage a creature while being below maximum hit points, you can choose to heal an amount equal to five times your proficiency bonus. Once used, this effect cannot be used again until 36 seconds has passed. 
 
 ---
 ### Sudden Impact <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png" Align=left width=7% height=7%>
@@ -251,6 +251,7 @@ Whenever you score a takedown, you gain a stack of eyeball collection. You gain 
 Whenever you defeat a *greater foe* you can make an investegation check to find special loot. The check DC equals to 5 + the creatures _Challenge Rating_.
 
 ---
+
 ### Ingenious Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png" Align=left width=7% height=7%>
 
 Whenever you score a _takedown_ on a creature, you gain a stack of _Ingenoius_ giving you the following benefits
@@ -263,6 +264,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Ingenoius_ g
 |50|Your items and runes cooldown is recued with 6 seconds everytime you score a takedown|
 
 ---
+
 ### Relentless Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/RelentlessHunter.png" Align=left width=7% height=7%>
 
 Whenever you score a _takedown_ on a creature, you gain a stack of _Relentless_ giving you the following benefits
@@ -383,9 +385,9 @@ As you level up, the cooldown of your runes and abilities decrease according to 
 
 |Level|Effect|
 |---|---|
-|1| Your cooldowns are reduced by 12 seconds|
-|5|Your cooldowns are reduced by 18 seconds|
-|9|Your cooldowns are reduced by 24 seconds|
+|1| Your cooldowns are reduced by 6 seconds|
+|5|Your cooldowns are reduced by 12 seconds|
+|9|Your cooldowns are reduced by 18 seconds|
 
 ---
 ### Celerity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/CelerityTemp.png" Align=left width=7% height=7%>
