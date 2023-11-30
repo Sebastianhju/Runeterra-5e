@@ -638,14 +638,14 @@ As a Bonus Action you can target a space within 30ft of you channeling a telepor
 
 ### Magical Footwear  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/MagicalFootwear.png" Align=left width=7% height=7%>
 
-You gain a sweet pair boots of speed. Whenever you score a _takedown_ on a creature, you gain a stack of _Magical Footwear_ giving you the boots the following benefits:
+You gain the ability to summon a fey Cobbler that sells boots. You can trade and shop with him as with any shopkeeper. Whenever you score a _takedown_ on a creature, you gain a stack of _Magical Footwear_ giving you the boots the following benefits:
 
 **Magical Footwear Scaling**
 |Amount|Effect|
 |---|---|
-|0|+5 feet movement speed|
-|25|You can dash as a bonus action|
-|50|You gain +10 movement speed and your speed cannot be reduced. You can still be grappled and etc.  |
+|0|You are gifted a free pair of boots|
+|25|You gain +10 movement speed while wearing boots|
+|50|Your party can upgrade your boots twice, with two different enchantments each.|
 
 ---
 
