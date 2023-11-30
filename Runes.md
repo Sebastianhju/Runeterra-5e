@@ -491,13 +491,13 @@ Whenever you end your turn within 15 feet of a construct or object that can be d
 
 ### Font Of Life  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/FontOfLife.png" Align=left width=7% height=7%>
 
-Whenever you reduce a creatures movement speed, they gain a mark of _life_. The next time an ally damages a creature with _life_ they heal equal to half the damage dealt.
+Whenever you reduce a creatures movement speed, they gain a mark of _life_. The next time an ally damages a creature with _life_ they heal equal to five times your proficiency bonus. Once this effect is used, it cannot be used again until 36 seconds pass. 
 
 ---
 
 ### Shield Bash  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/MirrorShell.png" Align=left width=7% height=7%>
 
-Whenever you gain temporary hit points, your next attack deals 1d6 additional damage plus 1d6 for every tenth temporary hit points you currently have. 
+Whenever you gain temporary hit points, your next attack deals 1d6 additional damage plus 1d6 for every tenth temporary hit points you currently have.
 
 ---
 
@@ -517,6 +517,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Conditioning
 ### Comeback  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/SecondWind.png" Align=left width=7% height=7%>
 
 At the end of your turn, if you are bloodied you gain stacks of regenerataion equal to three times your proficiency bonus. Once this effect is used, it cannot be used again until 48 seconds pass. 
+
 The maximum stacks of regeneration is increased to five times your proficiency bonus. 
 
 _Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
@@ -573,6 +574,13 @@ You gain immunity to the frightened and charmed condition and you cannot be move
 ## Keystones 
 ### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" Align=left width=25% height=25%>
 Whenever you immobilize a creature, they and all enemies within 10 feet of the target gains a *Mark of Cold* until the end of your next turn. A creature with *Mark of Cold* takes additional cold damage based on your level, as shown on the table below, the first time they are struck. Additionally their speed is halved until the end of their turn. Once used, this effect cannot be used again until 42 seconds has passed. 
+
+---
+
+**Rework**
+Whenever you immobilize a creature, they and all enemies within 10 feet of the target gains a *Mark of Cold* that lasts until they take damage. Once this effect is used, it cannot be used again until 48 seconds has passed
+
+Attacks against creatures with *Mark of the Cold* have advantage and they take additional cold damage based on your level, as shown on the table below. Additionaly their speed is reduced by 10 feet and they have a -2 penalty to all attack rolls. 
 
 **Mark of Cold Scaling**
 |Level|Hit Points|
