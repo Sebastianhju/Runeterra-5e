@@ -354,7 +354,7 @@ When you deal damage to a target, they gain a mark of Phase until the end of you
 ## Lesser Runes
 ### Nullifying Orb  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Nullifying Orb.png" Align=left width=7% height=7%>
 
-Whenever you are bloodied and take elemental damage, before the damage occurs you gain temporary hitpoints equal to five times your proficiency bonus. Once used, this effect cannot be used again until 42 seconds has passed. 
+Whenever you are bloodied and take elemental damage, before the damage occurs you gain temporary hitpoints equal to five times your proficiency bonus. Once used, this effect cannot be used again until 36 seconds has passed. 
 
 ---
 ### Manaflow Band  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ManaflowBand.png" Align=left width=7% height=7%>
@@ -516,7 +516,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Conditioning
 
 ### Comeback  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/SecondWind.png" Align=left width=7% height=7%>
 
-Whenever you are bloodied, you gain 3 stacks of regenerataion at the end of your turns. 
+At the end of your turn, if you are bloodied you gain stacks of regenerataion equal to three times your proficiency bonus. Once this effect is used, it cannot be used again until 48 seconds pass. 
 The maximum stacks of regeneration is increased to five times your proficiency bonus. 
 
 _Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
@@ -525,7 +525,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ### Bone Plating  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/BonePlating.png" Align=left width=7% height=7%>
 
-The first three times you take damage, you gain resistance to all damage types. Once this effect has ben used, it cannot be used again until 60 seconds pass
+The first three times you take damage, you gain resistance to all damage types. Once this effect has ben used, it cannot be used again until 48 seconds pass
 
 ---
 
