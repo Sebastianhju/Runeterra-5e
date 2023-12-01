@@ -356,7 +356,7 @@ _You gain +3 to inititative checks_
 - 11,000 Gold
 - Morningstar
 
-**Thirsting Slash**: As an action, you can swing the Goredrinker around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or take damage equal to this weapons damage, you heal 1 hit point for every target within 5 feet of you. Once this ability is used, it cannot be used again until 30 seconds pass. 
+**Thirsting Slash**: As an action, you can swing the Goredrinker around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or take damage equal to this weapons damage. All lifesteal is doubled for this action. Once this ability is used, it cannot be used again until 30 seconds pass. 
 
 **Lifesteal**: Whenever you deal damage to a target with _Goredrinker_ you heal equal to your proficiency bonus
 
