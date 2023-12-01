@@ -370,7 +370,7 @@ _You gain +2 to hit and damage rolls with this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lord Dominik's Regards.png" Align=right width=8% height=8%>
 
 - 12,000 Gold
-- Longbow
+- Crossbow, heavy
 
 **Breathtaking**: Whenever you damage enemies, you ignore resistances to piercing damage. If a creature would be immune to piercing damage, they take half damage from your attacks.
 
