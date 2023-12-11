@@ -31,7 +31,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 - 250 Gold
 - Arcane Focus
 
-**Focus**: Whenever you score a takedown, you gain a stack of _Manaflow_. Whenever you have 5 stacks of manaflow, you regain mana equal to your proficiency bonus. 
+**Focus**: Whenever you score a takedown, you gain a stack of _Manastore_. Whenever you have 5 stacks of manastore, you regain mana equal to your proficiency bonus. 
 
 ---
 
