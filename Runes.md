@@ -87,7 +87,7 @@ Whenever you score a takedown, you gain gold equal to ten times the creautres _C
 
 ### Presence of Mind <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PresenceOfMind.png" Align=left width=7% height=7%>
 
-Whenever you kill a creature, you gain mana equal to your proficiency bonus. 
+ Whenever you score a takedown, you gain a stack of _Manastore_. Whenever you have 5 stacks of manastore, you regain mana equal to your proficiency bonus. 
 
 ---
 
