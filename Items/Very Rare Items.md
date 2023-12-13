@@ -542,9 +542,7 @@ _You gian +2 to hit and damage rolls using this magical weapon_
 - 13,000 Gold
 - Wonderous Item (Shoulderpad)
 
-**Shipwrecker**: For every feet you move, you gain a stack of momentum up to a maximum of 80. For every 40 stack, you gain +5 movement speed and your next attack consumes all momentum charges and deals 1d4 damage for every 30 feet you've traveled that turn and reduces the creatures movement speed by 15 feet.
-
-**Shipwrecker**: Whenever you move you gain a speed of momentum for every feet you move, up to a maximum of 80. For every 40 stack you gain +5 movement speed. Whenever you hit a creature with a meele attack you consume all charges of momentum, dealing 1d4 additional damage and reducing their speed by 15 feet for every 30th feet you've moved that turn. 
+**Shipwrecker**: Whenever you move you gain a speed of momentum for every feet you move, up to a maximum of 80. For every 40 stack you gain +5 movement speed. Whenever you hit a creature with a meele attack you consume all charges of momentum, dealing 1d6 additional damage and reducing their speed by 15 feet for every 40th feet you've moved that turn. 
 
 **Health**: You gain hit points equal to your hit dice. 
 
