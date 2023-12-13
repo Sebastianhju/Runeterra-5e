@@ -103,7 +103,7 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 **Dread**: While at 5 or more stacks, you deal 1d4 additional damage whenever you deal spell damage. This damage increases to 2d4 whenever you are at 10 stacks. While at 25 stacks this damage increases to 3d4 and you gain + 10 feet movement speed. 
 
-**Secretkeeper**: The first time you achive 25 stacks you can increase all ability modifiers by one. Once the book has used in this way, this feature cannot be used again.
+**Secretkeeper**: The first time you achive 25 stacks you can increase all ability modifiers by one. Once the book is used in this way, this feature cannot be used again.
 
 --- 
 
