@@ -496,10 +496,10 @@ _You gain +2 to your spell attack rolls and spell save DC while attuned to this 
 
 **Lifesteal**: Whenever you hit an attack with _Ravenous Hydra_ you regain health equal to half your proficiency bonus
 
-**Hunger**: Whenever you kill a creature, you gain a stack of _Satisfaction_, up to a maximum of 15. If your hitpoints reaches zero, you loose ten stacks. For every stack of _Satisfaction_ you gain the following features:
-- (5): You gain +2 to hit and damage rolls
-- (10): All healing from this item is doubled
-- (15): You gain +3 to hit and damage rolls.
+**Hunger**: Whenever you score a takedown, you gain a stack of _Satisfaction_, up to a maximum of 30. If your hitpoints reaches zero, you loose ten stacks. For every stack of _Satisfaction_ you gain the following features:
+- (10): You gain +2 to hit and damage rolls
+- (20): All healing from this item is doubled
+- (30): You gain +3 to hit and damage rolls.
 
 _You gain +1 to hit and damage rolls using this magical weapon_
 
@@ -512,7 +512,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 - 14,000 Gold
 - Dagger
 
-**Nightstalker**: When you kill a creature with _Duskblade of Draktharr_, it casts invisibility on you. Once this effect has ben used, it cannot be used again until 30 seconds pass
+**Nightstalker**: Whenever a creature you've dealt damage to with _Duskblade of Draktharr_ in the past 6 seconds dies, it casts invisibility on you. Once this effect has ben used, it cannot be used again until 30 seconds pass
 
 **Deep Wounds**: Whenever you hit a creature that are unaware of your presence. you, _Duskblade of Draktharr_ deals 2d6 additional force damage. 
 
