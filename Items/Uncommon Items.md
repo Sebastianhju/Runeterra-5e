@@ -84,7 +84,7 @@ _You gain +1 bonus to spell attack rolls_
 
 **Mana**: You gain +2 maximum mana
 
-**Focus**: Once a turn when you damage a creature you gain a stack of _focus_. For every tenth stack of focus, you gain +1 maximum mana. up to a maximum of 130 stacks. 
+**Focus**: Once a turn when you cast a spell you gain stacks of focus equal to the mana spent. For every tenth stack of focus, you gain +1 maximum mana up to a maximum of 130 stacks. 
 
 _Upgrade_: When the tear is fully stacked, it can be upgraded into Seraphs Embrace, Muramana or Fimbulwinter.
 
