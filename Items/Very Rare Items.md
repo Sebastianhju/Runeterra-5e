@@ -542,7 +542,9 @@ _You gian +2 to hit and damage rolls using this magical weapon_
 - 13,000 Gold
 - Wonderous Item (Shoulderpad)
 
-**Shipwrecker**: For every feet you move, you gain a stack of momentum up to a maximum of 80. For every tenth stack your next attack deals 1 additional damage. For every 40 stack, you gain +5 movement speed and your next attack reduces the creatures movement speed by 15 feet. 
+**Shipwrecker**: For every feet you move, you gain a stack of momentum up to a maximum of 80. For every 40 stack, you gain +5 movement speed and your next attack consumes all momentum charges and deals 1d4 damage for every 30 feet you've traveled that turn and reduces the creatures movement speed by 15 feet.
+
+**Shipwrecker**: Whenever you move you gain a speed of momentum for every feet you move, up to a maximum of 80. For every 40 stack you gain +5 movement speed. Whenever you hit a creature with a meele attack you consume all charges of momentum, dealing 1d4 additional damage and reducing their speed by 15 feet for every 30th feet you've moved that turn. 
 
 **Health**: You gain hit points equal to your hit dice. 
 
@@ -561,7 +563,7 @@ _You gain +1 to your armor class while wearing this piece of equipment_
 
 **Enegized**: Whenever you move you gain a stack of energized for every feet you move and whenever you attack you gain five stacks of energized, up to a maximum of 80.
 
-**Sharpshooted**: Whenver you are at 80 stacks of energized, your next attack with _Rapid Firecannon_ gains 30 feet additional range and deals 2d10 lightning damage. 
+**Sharpshooted**: Whenver you are at 80 stacks of energized, your next attack with _Rapid Firecannon_ gains 30 feet additional range and deals 2d10 lightning damage consuming all charges. 
 
 **Critical**: Your Critical strike chance increases by one. 
 
