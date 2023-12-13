@@ -348,7 +348,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lost Chapter.png" Align=right width=8% height=8%>
 
-- 3500 Gold
+- 3000 Gold
 - Arcane Focus
 
 **Enlighten**: Whenever you take a short rest, you can spend hit dice to replenish mana and gain a small amount of health instead. The amount of mana and health is equal to your proficiency bonus for every hit dice spent. 
