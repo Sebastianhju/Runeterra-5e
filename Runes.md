@@ -614,15 +614,6 @@ Summoner spells are powerfull spells that can be used once before they vanish. Y
 ---
 
 ### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" Align=left width=25% height=25%>
-Whenever you deal damage against any creature that hasn't taken a turn in the combat yet you gain gold as shown on the table below. The target also takes additional damage equal to a tenth of the gold gained, rounded down. 
-
-**First Strike Scaling**
-|Level|Hit Points|
-|---|---|
-|1|Gold Equal to two times the damage dealt|
-|5|Gold equal to three times the damage dealt|
-|9|Gold equal to five times the damage dealt|
-
 
 Whenever you deal damage against any creature that hasn't taken a turn in the combat yet you gain gold as shown on the table below, halved for spell damage. The target also takes additional damage equal to a tenth of the gold gained, rounded down. 
 
