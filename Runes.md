@@ -632,7 +632,7 @@ Whenever you deal damage against any creature that hasn't taken a turn in the co
 |1|Gold Equal to two times the damage dealt|
 |5|Gold equal to three times the damage dealt|
 |9|Gold equal to four times the damage dealt|
-og 
+
 ---
 
 ## Lesser Runes
