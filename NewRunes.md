@@ -56,9 +56,9 @@ Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. T
 |Level|Damage|
 |---|---|
 |1|10 feet additional range|
-|4|20 feet additional range |
-|8|30 feet additional range|
-|12|40 feet additional range|
+|4|15feet additional range |
+|8|20 feet additional range|
+|12|30 feet additional range|
 
 ---
 ### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" Align=left width=25% height=25%>
