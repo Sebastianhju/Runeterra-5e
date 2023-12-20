@@ -44,9 +44,9 @@ Once per attack, whenever you damage enemies, you gain stacks of Conqueror. Thre
 |Level|Damage|
 |---|---|
 |1| 1d6 |
-|5| 1d8|
-|9|2d6|
-
+|4| 1d8 |
+|8| 1d10 |
+|12| 2d6 |
 
 ---
 ### Lethal Tempo  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" Align=left width=25% height=25%>
@@ -56,8 +56,9 @@ Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. T
 |Level|Damage|
 |---|---|
 |1|10 feet additional range|
-|5|20 feet additional range |
-|9|30 feet additional range|
+|4|20 feet additional range |
+|8|30 feet additional range|
+|12|40 feet additional range|
 
 ---
 ### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" Align=left width=25% height=25%>
@@ -66,9 +67,10 @@ Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for ev
 **Fleet Footwork Scaling**
 |Level|Damage|
 |---|---|
-|1| 1d6 + proficiency bonus |
-|5| 2d6 + proficiency bonus|
-|9| 3d6 + proficiency bonus|
+|1| 1d6 + proficiency bonus|
+|4| 2d6 + proficiency bonus|
+|8| 2d8 + proficiency bonus|
+|12| 2d10 + proficiency bonus|
 
 ---
 ## Lesser Runes
@@ -87,7 +89,7 @@ Whenever you score a takedown, you gain gold equal to ten times the creautres _C
 
 ### Presence of Mind <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PresenceOfMind.png" Align=left width=7% height=7%>
 
-Once a turn, when you deal damage to an enemy you gain a stack of _manastore_. Also whenever you score a takedown, you gain a stack of _Manastore_. Whenever you have 5 stacks of manastore, you regain mana equal to your proficiency bonus. 
+Once a turn, when you deal damage to an enemy you gain a stack of _manastore_. Also whenever you score a takedown, you gain a stack of _Manastore_. Whenever you have 5 stacks of manastore, you regain spellslots with a combined spelllevel equal to your proficiency bonus. 
 
 ---
 
@@ -118,6 +120,7 @@ Whenever you score a _takedown_ you gain a stacks of _Tenacity_ that gives you b
 |60| Whenever you have to make a saving throw against immobilizing effects, you have advantage|
 
 ---
+
 ### Legend: Bloodline <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" Align=left width=7% height=7%>
 
 Whenever you score a _takedown_ you gain a stack of Bloodline that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
@@ -181,9 +184,10 @@ Damaging an enemy gives them a mark of electorcute that lasts until the end of y
 **Electrocute Damage**
 |Level|Damage|
 |---|---|
-|1| 2d8|
-|5|3d8|
-|9|4d8|
+|1|2d8|
+|4|3d8 |
+|8|4d8|
+|12|4d8 and spreads to the nearest enemy target|
 
 ---
 
@@ -194,22 +198,25 @@ Once a turn whenever you damage a bloody creature you gain a stack of *Harvest* 
 | Level | Damage                               |
 | -------------- | ------------------------------------ |
 | 1            | 1d4 + 1 additional damage for every 20th stack          |
-| 5             | 1d4 + 2 additional damage for every 20th stack            |
-| 9             | 1d4 + 2 additional damage for every 15th stack           |
+| 4             | 2d4 + 1 additional damage for every 20th stack            |
+| 8             | 3d4 + 1 additional damage for every 15th stack           |
+|12| 4d4 + 1 additional damage for every 10th stack|
 
 ---
 
 ### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=25% height=25%>
 
-You can dash as a bonus action, and the next attack that hits this round deals additional damage for every 15 feet you've traveled directly towards your target this turn. Once used, it cannot be used again until 48 seconds has passed.
+You can dash as a bonus action, and the next attack that hits this round deals additional damage for every 15 feet you've traveled directly towards your target this turn. Once used, it cannot be used again until 36 seconds has passed.
 
 Whenever you take the dash action on your turn, you gain advantage on your next melee attack if you moved at least 15ft in a straight line towards the target.
 
 |Level|Damage|
 |---|---|
 |1| 1d4 for every 15 feet traveled|
-|5|1d6 for every 15 feet traveled|
-|9|1d8 for every 15 feet traveled|
+|4|1d6 for every 15 feet traveled|
+|8|1d8 for every 15 feet traveled|
+|12|1d8 for every 10 feet taveled|
+
 
 ---
 
@@ -322,7 +329,7 @@ Aerys hit points scales with your level. Their hit point maximum equals 5 times 
 |Level|Effect|
 |---|---|
 |1| 1d4+prof damage|
-|5|2d4+prof damage|
+|8|2d4+prof damage|
 
 ---
 
@@ -334,8 +341,9 @@ Whenever you deal damage to a target you can summon a comet that crashes onto th
 |Level|Effect|
 |---|---|
 |1|1d6 + proficiency bonus in a 5 feet radius |
-|5|2d6 + proficiency bonus in a 10 feet radius|
-|9|3d6 + proficiency bonus in a 15 feet radius|
+|4|2d6 + proficiency bonus in a 5 feet radius|
+|8|2d6 + proficiency bonus in a 10 feet radius|
+|12|3d6 + proficiency bonus in a 15 feet radius|
 
 ---
 
@@ -346,8 +354,9 @@ When you deal damage to a target, they gain a mark of Phase until the end of you
 |Level|Effect|
 |---|---|
 |1| You gain 10 feet movement speed|
-|5|You gain 20 feet movement speed|
-|9|You gain 30 feet movement speed|
+|4|You gain 15 feet movement speed|
+|8|You gain 20 feet movement speed|
+|12||You gain 30 feet movement speed|
 
 ---
 
@@ -364,9 +373,9 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Manaflow_ gi
 **Manaflow Scaling**
 |Amount|Effect|
 |---|---|
-|0|You gain +3 maximum mana|
-|25|You gain +9 maximum mana|
-|50|You gain +15 maximum mana|
+|0|You gain an additional 1st level spell slot|
+|25|You gain two additional 1st level spell slot|
+|50|You gain an additional spell slot of your highest spell level|
 
 ---
 
@@ -453,22 +462,13 @@ In addition you a stack of *Undying* whenever you drain an opponent using this a
 |Level|Damage|
 |---|---|
 |1|1d4|
-|5|1d6|
-|9|1d8|
+|4|2d4|
+|8|2d4 and you instead gain +2 maximum hit points for every tenth stack of **Undying you have**|
+|12|3d4|
 
 ---
 
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=25% height=25%>
-When you immobilize a creature, you gain resistanece to elemental and physical damage and temporary hit points based on your level, as shown on the table below. These temporary hit points last until the end of your next turn, if you still have any remaining at the end of your turn, enemies within 10 feet of you suffer bludgeoning damage equal to your temporary hit points. Once used it cannot be used again until 30 seconds have passed. 
-
-**Aftershock Scaling**
-|Level|Hit Points|
-|---|---|
-|1| 10 temporary hit points|
-|5| 15 temporary hit points|
-|9| 20 temporary hit points|
-
-**Rework**
 
 When you immobilize a creature, you gain temporary hit points equal to three times your proficiency bonus. At the end of your next turn you deal damage to all creatures within 5 feet of you depending on your level, as shown on the tale below. Once this effect is used it cannot be used again until 18 seconds have passed
 
@@ -476,29 +476,22 @@ When you immobilize a creature, you gain temporary hit points equal to three tim
 |Level|Damage|
 |---|---|
 |1| 1d6 force damage|
-|5| 2d6 force damage|
-|9| 3d6 force damage|
+|4| 2d6 force damage|
+|8| 2d6 force damage to all creatures within 10 feet|
+|12| 3d6 force damage to all creatures within 10 feet|
 ---
 
 ### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=25% height=25%>
-If you or an ally within 15ft of you takes damage, you can choose to trigger Guardian. You and the selected ally immediately gain temporary hit points according to the table below. Guardian activates before you would take the initial damage. Once used, this effect cannot be used again until 42 seconds has passed.
 
-**Guardian Scaling**
-|Level|Hit Points|
-|---|---|
-|1| 10 temporary hit points|
-|5| 20 temporary hit points|
-|9| 30 temporary hit points|
-
-**Rework**
 If you or an ally within 15ft of you takes damage, you can choose to trigger Guardian. You and the selected ally immediately gain temporary hit points according to the table below. Guardian activates before you would take the initial damage. Once used, this effect cannot be used again until 24 seconds has passed.
 
 **Guardian Scaling**
 |Level|Hit Points|
 |---|---|
 |1| 5 temporary hit points|
-|5| 10 temporary hit points|
-|9| 15 temporary hit points|
+|4| 10 temporary hit points|
+|8| 15 temporary hit points|
+|12| 20 temporary hit points|
 
 ---
 
@@ -602,8 +595,9 @@ Attacks against creatures with *Mark of the Cold* have advantage and they take a
 |Level|Hit Points|
 |---|---|
 |1|1d6 Cold Damage|
-|5|2d6 Cold Damage|
-|9|3d6 Cold damage|
+|4|2d6 Cold Damage|
+|8|3d6 Cold damage|
+|12|4d6 Cold damage|
 ---
 
 ### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=25% height=25%>
@@ -615,8 +609,9 @@ Summoner spells are powerfull spells that can be used once before they vanish. Y
 |Level|Hit Points|
 |---|---|
 |1|Long Rest|
-|5|Short Rest|
-|9|Short Rest - You gain two|
+|4|Long rest. The d10 roll is made with advantage|
+|8|Short Rest. The d10 roll is made with advantage|
+|12|Short rest, you gain two|
 
 |1d10 Roll|Summoner Spell|
 |---|---|
@@ -641,8 +636,9 @@ Whenever you deal damage against any creature that hasn't taken a turn in the co
 |Level|Hit Points|
 |---|---|
 |1|Gold Equal to two times the damage dealt|
-|5|Gold equal to three times the damage dealt|
-|9|Gold equal to four times the damage dealt|
+|4|Gold equal to three times the damage dealt|
+|8|Gold equal to four times the damage dealt|
+|12| Gold equal to five times the damage dealt|
 
 ---
 
