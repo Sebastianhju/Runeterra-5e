@@ -192,9 +192,9 @@ Once a turn whenever you damage a bloody creature you gain a stack of *Harvest* 
 **Harvest damage**
 | Level | Damage                               |
 | -------------- | ------------------------------------ |
-| 1            | 1d4 + 1 additional damage for every 20th stack          |
-| 5             | 1d4 + 2 additional damage for every 20th stack            |
-| 10             | 1d4 + 2 additional damage for every 15th stack           |
+| 1            | 1d6 + 1 additional damage for every 20th stack          |
+| 5             | 1d6 + 1 additional damage for every 15th stack            |
+| 10             | 1d6 + 1 additional damage for every 10th stack           |
 
 ---
 
@@ -346,7 +346,7 @@ When you deal damage to a target, they gain a mark of Phase until the end of you
 |---|---|
 |1| You gain 10 feet movement speed|
 |5|You gain 20 feet movement speed|
-|9|You gain 30 feet movement speed|
+|10|You gain 30 feet movement speed|
 
 ---
 
@@ -386,7 +386,7 @@ As you level up, the cooldown of your runes and abilities decrease according to 
 |---|---|
 |1| Your cooldowns are reduced by 6 seconds|
 |5|Your cooldowns are reduced by 12 seconds|
-|9|Your cooldowns are reduced by 18 seconds|
+|10|Your cooldowns are reduced by 18 seconds|
 
 ---
 ### Celerity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/CelerityTemp.png" Align=left width=7% height=7%>
@@ -466,7 +466,7 @@ When you immobilize a creature, you gain temporary hit points equal to three tim
 |---|---|
 |1| 1d6 force damage|
 |5| 2d6 force damage|
-|9| 3d6 force damage|
+|10| 3d6 force damage|
 ---
 
 ### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=25% height=25%>
