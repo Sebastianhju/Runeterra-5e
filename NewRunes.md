@@ -356,7 +356,7 @@ When you deal damage to a target, they gain a mark of Phase until the end of you
 |1| You gain 10 feet movement speed|
 |4|You gain 15 feet movement speed|
 |8|You gain 20 feet movement speed|
-|12||You gain 30 feet movement speed|
+|12|You gain 30 feet movement speed|
 
 ---
 
