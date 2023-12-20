@@ -221,7 +221,7 @@ Whenever you damage a creature, you can choose to deal 1d6 extra force damage fo
 ---
 ### Taste of Blood <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png" Align=left width=7% height=7%>
 
-Whenever you damage a creature while being below maximum hit points, you can choose to heal an amount equal to five times your proficiency bonus. Once used, this effect cannot be used again until 36 seconds has passed. 
+Whenever you damage a creature while being below maximum hit points, you can choose to heal an amount equal to four times your proficiency bonus. Once used, this effect cannot be used again until 30 seconds has passed. 
 
 ---
 ### Sudden Impact <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png" Align=left width=7% height=7%>
@@ -354,7 +354,7 @@ When you deal damage to a target, they gain a mark of Phase until the end of you
 ## Lesser Runes
 ### Nullifying Orb  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Nullifying Orb.png" Align=left width=7% height=7%>
 
-Whenever you are bloodied and take elemental damage, before the damage occurs you gain temporary hitpoints equal to five times your proficiency bonus. Once used, this effect cannot be used again until 36 seconds has passed. 
+Whenever you are bloodied and take elemental damage, before the damage occurs you gain temporary hitpoints equal to four times your proficiency bonus. Once used, this effect cannot be used again until 30 seconds has passed. 
 
 ---
 ### Manaflow Band  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ManaflowBand.png" Align=left width=7% height=7%>
@@ -392,7 +392,7 @@ As you level up, the cooldown of your runes and abilities decrease according to 
 ---
 ### Celerity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/CelerityTemp.png" Align=left width=7% height=7%>
 
-Whenever you gain movement speed, double it. 
+Whenever you gain movement speed during your turn, double it. 
 
 ---
 
@@ -468,6 +468,16 @@ When you immobilize a creature, you gain resistanece to elemental and physical d
 |5| 15 temporary hit points|
 |9| 20 temporary hit points|
 
+**Rework**
+
+When you immobilize a creature, you gain temporary hit points equal to three times your proficiency bonus. At the end of your next turn you deal damage to all creatures within 5 feet of you depending on your level, as shown on the tale below. Once this effect is used it cannot be used again until 18 seconds have passed
+
+**Aftershock Scaling**
+|Level|Damage|
+|---|---|
+|1| 1d6 force damage|
+|5| 2d6 force damage|
+|9| 3d6 force damage|
 ---
 
 ### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=25% height=25%>
@@ -478,7 +488,17 @@ If you or an ally within 15ft of you takes damage, you can choose to trigger Gua
 |---|---|
 |1| 10 temporary hit points|
 |5| 20 temporary hit points|
-|9| 40 temporary hit points|
+|9| 30 temporary hit points|
+
+**Rework**
+If you or an ally within 15ft of you takes damage, you can choose to trigger Guardian. You and the selected ally immediately gain temporary hit points according to the table below. Guardian activates before you would take the initial damage. Once used, this effect cannot be used again until 24 seconds has passed.
+
+**Guardian Scaling**
+|Level|Hit Points|
+|---|---|
+|1| 5 temporary hit points|
+|5| 10 temporary hit points|
+|9| 15 temporary hit points|
 
 ---
 
@@ -491,7 +511,7 @@ Whenever you end your turn within 15 feet of a construct or object that can be d
 
 ### Font Of Life  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/FontOfLife.png" Align=left width=7% height=7%>
 
-Whenever you reduce a creatures movement speed, they gain a mark of _life_. The next time an ally damages a creature with _life_ they heal equal to five times your proficiency bonus. Once this effect is used, it cannot be used again until 36 seconds pass. 
+Whenever you reduce a creatures movement speed, they gain a mark of _life_. The next time an ally damages a creature with _life_ they heal equal to four times your proficiency bonus. Once this effect is used, it cannot be used again until 30 seconds pass. 
 
 ---
 
@@ -516,7 +536,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Conditioning
 
 ### Comeback  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/SecondWind.png" Align=left width=7% height=7%>
 
-At the end of your turn, if you are bloodied you gain stacks of regenerataion equal to three times your proficiency bonus. Once this effect is used, it cannot be used again until 48 seconds pass. 
+When you gain the bloodied condition you also gain stacks of regenerataion equal to three times your proficiency bonus. Once this effect is used, it cannot be used again until 48 seconds pass. 
 
 The maximum stacks of regeneration is increased to five times your proficiency bonus. 
 
@@ -538,7 +558,7 @@ You gain +3 maximum hit points. Whenever you score a _takedown_ on a creature, y
 
 ### Revitalize  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Revitalize.png" Align=left width=7% height=7%>
 
-Whenever you regenereate, gain temporary hit points or are healed, you can add you constituton modifier
+Whenever you gain temporary hit points or are healed, you can add you constituton modifier
 
 ---
 
