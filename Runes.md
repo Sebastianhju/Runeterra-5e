@@ -45,8 +45,7 @@ Once per attack, whenever you damage enemies, you gain stacks of Conqueror. Thre
 |---|---|
 |1| 1d6 |
 |5| 1d8|
-|9|2d6|
-
+|10|2d6|
 
 ---
 ### Lethal Tempo  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" Align=left width=25% height=25%>
@@ -57,7 +56,7 @@ Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. T
 |---|---|
 |1|10 feet additional range|
 |5|20 feet additional range |
-|9|30 feet additional range|
+|10|30 feet additional range|
 
 ---
 ### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" Align=left width=25% height=25%>
@@ -68,7 +67,7 @@ Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for ev
 |---|---|
 |1| 1d6 + proficiency bonus |
 |5| 2d6 + proficiency bonus|
-|9| 3d6 + proficiency bonus|
+|10| 3d6 + proficiency bonus|
 
 ---
 ## Lesser Runes
