@@ -184,10 +184,10 @@ Damaging an enemy gives them a mark of electorcute that lasts until the end of y
 **Electrocute Damage**
 |Level|Damage|
 |---|---|
-|1|2d8|
-|4|3d8 |
-|8|4d8|
-|12|4d8 and spreads to the nearest enemy target|
+|1|2d8 lightning damage|
+|4|3d8 lightning damage|
+|8|3d8 lightning damage and chains to the nearest enemy|
+|12|4d8 lightning damage and chains to the nearest enemy target|
 
 ---
 
@@ -212,10 +212,10 @@ Whenever you take the dash action on your turn, you gain advantage on your next 
 
 |Level|Damage|
 |---|---|
-|1| 1d4 for every 15 feet traveled|
-|4|1d6 for every 15 feet traveled|
-|8|1d8 for every 15 feet traveled|
-|12|1d8 for every 10 feet taveled|
+|1| 1d4 for every 15th feet traveled|
+|4|1d6 for every 15th feet traveled|
+|8|1d8 for every 15th feet traveled|
+|12|1d8 for every 10th feet taveled|
 
 
 ---
