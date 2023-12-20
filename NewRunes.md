@@ -89,7 +89,7 @@ Whenever you score a takedown, you gain gold equal to ten times the creautres _C
 
 ### Presence of Mind <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PresenceOfMind.png" Align=left width=7% height=7%>
 
-Once a turn, when you deal damage to an enemy you gain a stack of _manastore_. Also whenever you score a takedown, you gain a stack of _Manastore_. Whenever you have 5 stacks of manastore, you regain spellslots with a combined spelllevel equal to your proficiency bonus. 
+Once a turn, when you deal damage to an enemy you gain a stack of _manastore_. Also whenever you score a takedown, you gain a stack of _Manastore_. Whenever you have 7 stacks of manastore, you regain spellslots with a combined spelllevel equal to your proficiency bonus. 
 
 ---
 
