@@ -38,7 +38,7 @@
 
 ## Keystones
 ### Conqueror  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" Align=left width=25% height=25%>
-Once per attack, whenever you damage enemies, you gain stacks of Conqueror. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 12 stacks, you deal additional damage from your damage sources as shown on the table below, and you heal for the additional damage dealt. If you don't deal damage within the next minute, you loose a stack of Conqueror.
+Once per attack, whenever you damage enemies, you gain stacks of Conqueror. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 12 stacks, you deal additional damage from your damage sources as shown on the table below, and you heal for the additional damage dealt. If you don't deal damage within the next minute, you loose all stacks of Conqueror.
 
 **Conqueror Scaling**
 |Level|Damage|
@@ -49,7 +49,7 @@ Once per attack, whenever you damage enemies, you gain stacks of Conqueror. Thre
 
 ---
 ### Lethal Tempo  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" Align=left width=25% height=25%>
-Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 12 stacks, you can make an extra attack as a part of your attack action and gain additional range as shown on the table below (halved for melee attacks). If you don't deal damage within the next minute, you loose a stack of Lethal Tempo.
+Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 12 stacks, you can make an extra attack as a part of your attack action and gain additional range as shown on the table below (halved for melee attacks). If you don't deal damage within the next minute, you loose all stacks of Lethal Tempo.
 
 **Lethal Tempo Scaling**
 |Level|Damage|
@@ -182,7 +182,7 @@ Damaging an enemy gives them a mark of electorcute that lasts until the end of y
 |---|---|
 |1| 2d8|
 |5|3d8|
-|9|4d8|
+|10|4d8|
 
 ---
 
@@ -194,7 +194,7 @@ Once a turn whenever you damage a bloody creature you gain a stack of *Harvest* 
 | -------------- | ------------------------------------ |
 | 1            | 1d4 + 1 additional damage for every 20th stack          |
 | 5             | 1d4 + 2 additional damage for every 20th stack            |
-| 9             | 1d4 + 2 additional damage for every 15th stack           |
+| 10             | 1d4 + 2 additional damage for every 15th stack           |
 
 ---
 
@@ -208,7 +208,7 @@ Whenever you take the dash action on your turn, you gain advantage on your next 
 |---|---|
 |1| 1d4 for every 15 feet traveled|
 |5|1d6 for every 15 feet traveled|
-|9|1d8 for every 15 feet traveled|
+|10|1d8 for every 15 feet traveled|
 
 ---
 
@@ -334,7 +334,7 @@ Whenever you deal damage to a target you can summon a comet that crashes onto th
 |---|---|
 |1|1d6 + proficiency bonus in a 5 feet radius |
 |5|2d6 + proficiency bonus in a 10 feet radius|
-|9|3d6 + proficiency bonus in a 15 feet radius|
+|10|3d6 + proficiency bonus in a 15 feet radius|
 
 ---
 
@@ -452,22 +452,12 @@ In addition you a stack of *Undying* whenever you drain an opponent using this a
 |Level|Damage|
 |---|---|
 |1|1d4|
-|5|1d6|
-|9|1d8|
+|5|2d4|
+|10|3d4|
 
 ---
 
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=25% height=25%>
-When you immobilize a creature, you gain resistanece to elemental and physical damage and temporary hit points based on your level, as shown on the table below. These temporary hit points last until the end of your next turn, if you still have any remaining at the end of your turn, enemies within 10 feet of you suffer bludgeoning damage equal to your temporary hit points. Once used it cannot be used again until 30 seconds have passed. 
-
-**Aftershock Scaling**
-|Level|Hit Points|
-|---|---|
-|1| 10 temporary hit points|
-|5| 15 temporary hit points|
-|9| 20 temporary hit points|
-
-**Rework**
 
 When you immobilize a creature, you gain temporary hit points equal to three times your proficiency bonus. At the end of your next turn you deal damage to all creatures within 5 feet of you depending on your level, as shown on the tale below. Once this effect is used it cannot be used again until 18 seconds have passed
 
@@ -487,17 +477,17 @@ If you or an ally within 15ft of you takes damage, you can choose to trigger Gua
 |---|---|
 |1| 10 temporary hit points|
 |5| 20 temporary hit points|
-|9| 30 temporary hit points|
+|10| 30 temporary hit points|
 
 **Rework**
-If you or an ally within 15ft of you takes damage, you can choose to trigger Guardian. You and the selected ally immediately gain temporary hit points according to the table below. Guardian activates before you would take the initial damage. Once used, this effect cannot be used again until 24 seconds has passed.
+If you or an ally within 15ft of you takes damage, you can choose to trigger Guardian. You and the selected ally immediately gain temporary hit points equal to four times your proficiency bonus. Guardian activates before you would take the initial damage. Once this action is used, it cannot be used again until a number of seconds as shown on the table below has passed. 
 
 **Guardian Scaling**
-|Level|Hit Points|
+|Level|Cooldown|
 |---|---|
-|1| 5 temporary hit points|
-|5| 10 temporary hit points|
-|9| 15 temporary hit points|
+|1|30 seconds|
+|5| 24 seconds|
+|10| 18 seconds|
 
 ---
 
@@ -602,7 +592,7 @@ Attacks against creatures with *Mark of the Cold* have advantage and they take a
 |---|---|
 |1|1d6 Cold Damage|
 |5|2d6 Cold Damage|
-|9|3d6 Cold damage|
+|10|3d6 Cold damage|
 ---
 
 ### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=25% height=25%>
@@ -614,8 +604,8 @@ Summoner spells are powerfull spells that can be used once before they vanish. Y
 |Level|Hit Points|
 |---|---|
 |1|Long Rest|
-|5|Short Rest|
-|9|Short Rest - You gain two|
+|5|Long rest - Roll with advantage|
+|10|Long Rest - You gain two|
 
 |1d10 Roll|Summoner Spell|
 |---|---|
@@ -641,7 +631,7 @@ Whenever you deal damage against any creature that hasn't taken a turn in the co
 |---|---|
 |1|Gold Equal to two times the damage dealt|
 |5|Gold equal to three times the damage dealt|
-|9|Gold equal to four times the damage dealt|
+|10|Gold equal to four times the damage dealt|
 
 ---
 
