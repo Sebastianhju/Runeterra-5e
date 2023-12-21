@@ -517,30 +517,25 @@ You gain immunity to the frightened and charmed condition and you cannot be move
 ## Keystones 
 ### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" Align=left width=25% height=25%>
 
-Whenever you immobilize a creature, they and all enemies within 10 feet of the target gains a *Mark of Cold* that lasts until they take damage. Once this effect is used, it cannot be used again until 48 seconds has passed
+Whenever you immobilize a creature, they and all enemies within 10 feet of the target gains a *Mark of Cold* that lasts until they take damage. Once this effect is used, it cannot be used again until 36 seconds has passed
 
-Attacks against creatures with *Mark of the Cold* have advantage and they take additional cold damage based on your level, as shown on the table below. Additionaly their speed is reduced by 10 feet and they have a -2 penalty to all attack rolls. 
+Attacks against creatures with *Mark of the Cold* have advantage and they take 1d6 additional cold damage based on your level, as shown on the table below. Additionaly their speed is reduced by 10 feet and they have a -2 penalty to all attack rolls. 
 
-**Mark of Cold Scaling**
-|Level|Damage|
-|---|---|
-|1|1d6 Cold Damage|
-|5|2d6 Cold Damage|
-|9|3d6 Cold damage|
+The damage increases by 1d6 at level 5, 9, 13 and 17.
+
 ---
 
 ### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=25% height=25%>
 
-At the end of a long rest you gain two [Summoner Spells](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/SummonerSpells.md) for that day, if you dont use them before you take your next long rest it vanishes. First you roll a d6, if you roll the amount on the table below you can select your summoner spell for the day. If you roll lower, you must roll 1d10 and gain the according summonerspell.
+At the end of a long rest you gain a [Summoner Spells](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/SummonerSpells.md) for that day, if you dont use them before you take your next long rest it vanishes. First you roll a d6, if you roll a 6 you can select your summoner spells gained. If you roll lower, you must roll a 1d10 to determine you summoner spell according to the table below. 
 
 Whenever you take a short rest, you can roll to regain one summoner spell. You cannot get the same summoner spell that you´ve already gained in this way. If you were to gain a summoner spell you´ve already gained this long rest, you instead gain nothing and cant use this feature again until you finish a long rest. 
 
-**Spellbook Scaling**
-|Level|Effect|
-|---|---|
-|1|You gain one - 6 on d6|
-|5|You gain two - 4 or higher|
-|9|You gain three, 2 or higher|
+You gain an additional summoner spell at the end of your long rests at level 5, 9, and 13. 
+
+To determine if you can select your summoner spell gained you must hit a 4 or higher at level 5, 2 or higher at level 9, you always choose at level 13. 
+
+At level 17 you gain all summoner spells whenever you finish a long rest.
 
 |1d10 Roll|Summoner Spell|
 |---|---|
@@ -567,6 +562,12 @@ Whenever you deal damage against any creature that hasn't taken a turn in the co
 |1|Gold Equal to two times the damage dealt|
 |5|Gold equal to three times the damage dealt|
 |9|Gold equal to four times the damage dealt|
+
+**This New**
+
+Whenever you deal damage against a creature that hasn't taken a turn in the combat yet, you gain gold equal to the damage dealt times your proficiency bonus (Halved for spells). You also deal 1d4 additional damage for every 25th gold gained. 
+
+The damage increases by 1d4 at level 5, 9, 13 and 17.
 
 ---
 
