@@ -185,28 +185,28 @@ Whenever you deal damage, you deal 1d6 additional damage if you are _bloodied_.
 
 ## Keystones
 
-### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=25% height=25%>
+### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=20% height=20%>
 Damaging an enemy gives them a mark of electorcute that lasts until the end of your turn. When you damage a creature with a mark, you deal 2d8 additional lightning damage. Once used it cannot be used again until 36 seconds has passed. 
 
 Electocutes damage increases by 1d8 at level 5, 9, 13 and 17. 
 
 ---
 
-### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=25% height=25%>
+### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=20% height=20%>
 Once a turn whenever you damage a bloody creature you gain a stack of *Harvest* and they take 1d4 force damage plus 1d4 for every twenty stack of *Harvest* you already have. A Once used, it cannot be used again until you score a takedown, or finish a long rest. 
 
-The damage dices increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 adn 1d12 at level 17.
+The damage dice increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 adn 1d12 at level 17.
 
 
 ---
 
-### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=25% height=25%>
+### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=20% height=20%>
 
 You can dash as a bonus action, and the next attack that hits this round deals 1d4 additional damage for every 15 feet you've traveled directly towards your target this turn. Once used, it cannot be used again until 36 seconds has passed.
 
 You gain advantage on your next melee attack if you moved at least 30ft in a straight line towards the target.
 
-The damage dices increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 adn 1d12 at level 17.
+The damage dice increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 adn 1d12 at level 17.
 
 ---
 
