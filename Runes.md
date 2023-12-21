@@ -519,7 +519,7 @@ You gain immunity to the frightened and charmed condition and you cannot be move
 
 Whenever you immobilize a creature, they and all enemies within 10 feet of the target gains a *Mark of Cold* that lasts until they take damage. Once this effect is used, it cannot be used again until 36 seconds has passed
 
-Attacks against creatures with *Mark of the Cold* have advantage and they take 1d6 additional cold damage based on your level, as shown on the table below. Additionaly their speed is reduced by 10 feet and they have a -2 penalty to all attack rolls. 
+Attacks against creatures with *Mark of the Cold* have advantage and they take 1d6 additional cold damage. Additionaly their speed is reduced by 10 feet and they have a -2 penalty to all attack rolls. 
 
 The damage increases by 1d6 at level 5, 9, 13 and 17.
 
