@@ -555,6 +555,8 @@ Whenever you deal damage against a creature that hasn't taken a turn in the comb
 
 The damage dice increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 and 1d12 at level 17.
 
+Skadoosh
+
 ---
 
 ## Lesser Runes
