@@ -15,7 +15,7 @@ As a bonus action you can create a see-through Barrier in a 15 feet radius spher
 
 # Cleanse <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Cleanse.png" align=right width=10% height=10%>
 
-At any time, you can remove all negative effects affecting a creaure within 15 feet of you. This doens not remove curses or wounds. 
+As a bonus action you can remove all negative effects affecting a creaure within 15 feet of you. This doens not remove curses or wounds. 
 
 ---
 
@@ -35,7 +35,7 @@ As a *Bonus Action* you can target an amount of allies you can see equal to your
 ---
 
 # Heal<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Heal_HD.png" align=right width=10% height=10%>
-At any time, you can heal yourself and all allies within 15 feet of you for an amount equal to five times your proficiency bonus.
+As a bonus action, you can restore a number of hit points equal to ten + five times your level. Choose any creatures within 30 feet of you, and divide those hit points among them.
 
 ---
 
@@ -55,3 +55,6 @@ When you hit a target with an attack, you can use smite to critically hit instea
 After a ten minute channel you can teleport yourself and up to five allies to a city or village you have visited earlier during the campaign.
 
 ---
+
+# Clarity<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Clarity.png" align=right width=10% height=10%>
+As a bonus action, you can restore a number of mana equal to two times your level. Choose any creatures within 30 feet of you, and divide the mana among them.
