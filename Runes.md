@@ -65,9 +65,9 @@ Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for ev
 **Fleet Footwork Scaling**
 |Level|Damage|
 |---|---|
-|1| 1d6 |
-|5| 2d6 |
-|9| 3d6 |
+|1| 1d4 |
+|5| 2d4 |
+|9| 3d4 |
 
 **Rework**
 
