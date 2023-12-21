@@ -45,7 +45,7 @@ Once per attack, whenever you damage enemies, you gain stacks of Conqueror. Thre
 |---|---|
 |1| 1d6 |
 |5| 1d8|
-|10|2d6|
+|9|2d6|
 
 ---
 ### Lethal Tempo  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" Align=left width=25% height=25%>
@@ -56,7 +56,7 @@ Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. T
 |---|---|
 |1|10 feet additional range|
 |5|20 feet additional range |
-|10|30 feet additional range|
+|9|30 feet additional range|
 
 ---
 ### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" Align=left width=25% height=25%>
@@ -67,7 +67,7 @@ Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for ev
 |---|---|
 |1| 1d6 |
 |5| 2d6 |
-|10| 3d6 |
+|9| 3d6 |
 
 ---
 ## Lesser Runes
@@ -182,7 +182,7 @@ Damaging an enemy gives them a mark of electorcute that lasts until the end of y
 |---|---|
 |1| 2d8|
 |5|3d8|
-|10|4d8|
+|9|4d8|
 
 ---
 
@@ -208,7 +208,7 @@ Whenever you take the dash action on your turn, you gain advantage on your next 
 |---|---|
 |1| 1d4 for every 15 feet traveled|
 |5|1d6 for every 15 feet traveled|
-|10|1d8 for every 15 feet traveled|
+|9|1d8 for every 15 feet traveled|
 
 ---
 
@@ -334,7 +334,7 @@ Whenever you deal damage to a target you can summon a comet that crashes onto th
 |---|---|
 |1|1d6 + proficiency bonus in a 5 feet radius |
 |5|2d6 + proficiency bonus in a 10 feet radius|
-|10|3d6 + proficiency bonus in a 15 feet radius|
+|9|3d6 + proficiency bonus in a 15 feet radius|
 
 ---
 
@@ -346,7 +346,7 @@ When you deal damage to a target, they gain a mark of Phase until the end of you
 |---|---|
 |1| You gain 10 feet movement speed|
 |5|You gain 20 feet movement speed|
-|10|You gain 30 feet movement speed|
+|9|You gain 30 feet movement speed|
 
 ---
 
@@ -386,7 +386,7 @@ As you level up, the cooldown of your runes and abilities decrease according to 
 |---|---|
 |1| Your cooldowns are reduced by 6 seconds|
 |5|Your cooldowns are reduced by 12 seconds|
-|10|Your cooldowns are reduced by 18 seconds|
+|9|Your cooldowns are reduced by 18 seconds|
 
 ---
 ### Celerity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/CelerityTemp.png" Align=left width=7% height=7%>
@@ -453,7 +453,7 @@ In addition you a stack of *Undying* whenever you drain an opponent using this a
 |---|---|
 |1|1d4|
 |5|2d4|
-|10|3d4|
+|9|3d4|
 
 ---
 
@@ -466,7 +466,7 @@ When you immobilize a creature, you gain temporary hit points equal to three tim
 |---|---|
 |1| 1d6 force damage|
 |5| 2d6 force damage|
-|10| 3d6 force damage|
+|9| 3d6 force damage|
 ---
 
 ### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=25% height=25%>
@@ -478,7 +478,7 @@ If you or an ally within 30ft of you takes damage, you can choose to trigger Gua
 |---|---|
 |1|30 seconds|
 |5| 24 seconds|
-|10| 18 seconds|
+|9| 18 seconds|
 
 ---
 
@@ -583,7 +583,7 @@ Attacks against creatures with *Mark of the Cold* have advantage and they take a
 |---|---|
 |1|1d6 Cold Damage|
 |5|2d6 Cold Damage|
-|10|3d6 Cold damage|
+|9|3d6 Cold damage|
 ---
 
 ### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=25% height=25%>
@@ -597,7 +597,7 @@ Whenever you take a short rest, you can roll to regain one summoner spell. You c
 |---|---|
 |1|You gain one - 6 on d6|
 |5|You gain two - 4 or higher|
-|10|You gain three, 2 or higher|
+|9|You gain three, 2 or higher|
 
 |1d10 Roll|Summoner Spell|
 |---|---|
@@ -623,7 +623,7 @@ Whenever you deal damage against any creature that hasn't taken a turn in the co
 |---|---|
 |1|Gold Equal to two times the damage dealt|
 |5|Gold equal to three times the damage dealt|
-|10|Gold equal to four times the damage dealt|
+|9|Gold equal to four times the damage dealt|
 
 ---
 
