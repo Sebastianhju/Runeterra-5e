@@ -38,47 +38,21 @@
 
 ## Keystones
 ### Conqueror  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" Align=left width=25% height=25%>
-Once per attack, whenever you damage enemies, you gain stacks of Conqueror. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 12 stacks, you deal additional damage from your damage sources as shown on the table below, and you heal for the additional damage dealt. If you don't deal damage within the next minute, you loose all stacks of Conqueror.
+Once per attack, whenever you damage enemies, you gain stacks of Conqueror. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 12 stacks, you deal 1d6 additional damage from your damage sources as shown on the table below, and you heal for the additional damage dealt. If you don't deal damage within the next minute, you loose all stacks of Conqueror.
 
-**Conqueror Scaling**
-|Level|Damage|
-|---|---|
-|1| 1d6 |
-|5| 1d8|
-|9|2d6|
+The damage dice increases to 1d8 at level 5, 1d10 at level 9, 1d12 at level 13 and 2d12 at level 17.
 
 ---
 ### Lethal Tempo  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" Align=left width=25% height=25%>
-Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 12 stacks, you can make an extra attack as a part of your attack action and gain additional range as shown on the table below (halved for melee attacks). If you don't deal damage within the next minute, you loose all stacks of Lethal Tempo.
+Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 12 stacks, you can make an extra attack as a part of your attack action and gain an additional 10 feet range (halved for melee attacks). If you don't deal damage within the next minute, you loose all stacks of Lethal Tempo.
 
-**Lethal Tempo Scaling**
-|Level|Damage|
-|---|---|
-|1|10 feet additional range|
-|5|20 feet additional range |
-|9|30 feet additional range|
+The range increaes by 10 feet at level 5, 9 and 13. At level 17 you instead gain two additional attacks when Lethal tempo is fully stacked. 
 
 ---
 ### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" Align=left width=25% height=25%>
-Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move and five stacks for every attack you hit, up to a maximum of 80 stacks. When you have maximum stacks, the next time you deal damage, you deal additional damage, and heal equal to the additional damage dealt. In addition you gain *agility* and 10 feet movement speed until the end of your turn
+Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move and five stacks for every attack you hit, up to a maximum of 80 stacks. When you have maximum stacks, the next time you deal damage, you deal 1d4 additional damage, and heal equal to the additional damage dealt. In addition you gain *agility* and 10 feet movement speed until the end of your turn
 
-**Fleet Footwork Scaling**
-|Level|Damage|
-|---|---|
-|1| 1d4 |
-|5| 2d4 |
-|9| 3d4 |
-
-**Rework**
-
-Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move and five stacks for every attack you hit, up to a maximum of 80 stacks. When you have maximum stacks, the next time you deal damage, you deal 1d10 additional damage, and heal equal to the additional damage dealt. In addition you gain *agility* and movement speed according to your level as shown on the table below. 
-
-**Fleet Footwork Scaling**
-|Level|Moevement Speed|
-|---|---|
-|1| 5 feet |
-|5| 10 feet |
-|9| 15 feet |
+The damage increases by 1d4 at level 5, 9, 13 and 17. At level 17 you gain 30 feet movement speed instead. 
 
 ---
 ## Lesser Runes
