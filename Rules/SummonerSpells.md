@@ -49,7 +49,7 @@ _Burn: At the start of their turn, a creature with burn stacks takes force damag
 # Smite<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Smite_HD.png" align=right width=10% height=10%>
 When you hit a target with an attack, you can use smite to critically hit and deal 2d8 additional force damage. 
 
-Alternativly when you see an ally within 30 feet hit an attack roll, you can use your reaction give them this effect instead. 
+Alternatively when you see an ally within 30 feet hit an attack roll, you can use your reaction give them this effect instead. 
 
 ---
 
