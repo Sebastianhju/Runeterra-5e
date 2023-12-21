@@ -579,7 +579,7 @@ Whenever you immobilize a creature, they and all enemies within 10 feet of the t
 Attacks against creatures with *Mark of the Cold* have advantage and they take additional cold damage based on your level, as shown on the table below. Additionaly their speed is reduced by 10 feet and they have a -2 penalty to all attack rolls. 
 
 **Mark of Cold Scaling**
-|Level|Hit Points|
+|Level|Damage|
 |---|---|
 |1|1d6 Cold Damage|
 |5|2d6 Cold Damage|
@@ -588,11 +588,12 @@ Attacks against creatures with *Mark of the Cold* have advantage and they take a
 
 ### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=25% height=25%>
 
-At the end of a long rest you gain [Summoner Spells](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/SummonerSpells.md) for that day, if you dont use them before you take yournext long rest it vanishes. First you roll a d6, if you roll the amount on the table below you can select your summoner spell for the day. If you roll lower, you must roll 1d10 and gain the according summonerspell.
+At the end of a long rest you gain two [Summoner Spells](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/SummonerSpells.md) for that day, if you dont use them before you take your next long rest it vanishes. First you roll a d6, if you roll the amount on the table below you can select your summoner spell for the day. If you roll lower, you must roll 1d10 and gain the according summonerspell.
 
+Whenever you take a short rest, you can roll to regain one summoner spell. You cannot get the same summoner spell that you´ve already gained in this way. If you were to gain a summoner spell you´ve already gained this long rest, you instead gain nothing and cant use this feature again until you finish a long rest. 
 
 **Spellbook Scaling**
-|Level|Hit Points|
+|Level|Effect|
 |---|---|
 |1|You gain one - 6 on d6|
 |5|You gain two - 4 or higher|
@@ -618,7 +619,7 @@ At the end of a long rest you gain [Summoner Spells](https://github.com/Sebastia
 Whenever you deal damage against any creature that hasn't taken a turn in the combat yet you gain gold as shown on the table below, halved for spell damage. The target also takes additional damage equal to a tenth of the gold gained, rounded down. 
 
 **First Strike Scaling**
-|Level|Hit Points|
+|Level|Gold Gain|
 |---|---|
 |1|Gold Equal to two times the damage dealt|
 |5|Gold equal to three times the damage dealt|
