@@ -186,40 +186,27 @@ Whenever you deal damage, you deal 1d6 additional damage if you are _bloodied_.
 ## Keystones
 
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=25% height=25%>
-Damaging an enemy gives them a mark of electorcute that lasts until the end of your turn. When you damage a creature with a mark, you deal additional lightning damage. Once used it cannot be used again until 36 seconds has passed. 
+Damaging an enemy gives them a mark of electorcute that lasts until the end of your turn. When you damage a creature with a mark, you deal 2d8 additional lightning damage. Once used it cannot be used again until 36 seconds has passed. 
 
-**Electrocute Damage**
-|Level|Damage|
-|---|---|
-|1| 2d8|
-|5|3d8|
-|9|4d8|
+Electocutes damage increases by 1d8 at level 5, 9, 13 and 17. 
 
 ---
 
 ### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=25% height=25%>
-Once a turn whenever you damage a bloody creature you gain a stack of *Harvest* and they take force damage as shown on the table below. A Once used, it cannot be used again until you score a takedown, or finish a long rest. 
+Once a turn whenever you damage a bloody creature you gain a stack of *Harvest* and they take 1d4 force damage plus 1d4 for every twenty stack of *Harvest* you already have. A Once used, it cannot be used again until you score a takedown, or finish a long rest. 
 
-**Harvest damage**
-| Level | Damage                               |
-| -------------- | ------------------------------------ |
-| 1            | 1d6 + 1d6 additional damage for every 20th stack          |
-| 5             | 1d6 + 2d6 additional damage for every 20th stack            |
-| 9             | 1d6 + 3d6 additional damage for every 10th stack           |
+The damage dices increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 adn 1d12 at level 17.
+
 
 ---
 
 ### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=25% height=25%>
 
-You can dash as a bonus action, and the next attack that hits this round deals additional damage for every 15 feet you've traveled directly towards your target this turn. Once used, it cannot be used again until 42 seconds has passed.
+You can dash as a bonus action, and the next attack that hits this round deals 1d4 additional damage for every 15 feet you've traveled directly towards your target this turn. Once used, it cannot be used again until 36 seconds has passed.
 
-Whenever you take the dash action on your turn, you gain advantage on your next melee attack if you moved at least 15ft in a straight line towards the target.
+You gain advantage on your next melee attack if you moved at least 30ft in a straight line towards the target.
 
-|Level|Damage|
-|---|---|
-|1| 1d4 for every 15 feet traveled|
-|5|1d6 for every 15 feet traveled|
-|9|1d8 for every 15 feet traveled|
+The damage dices increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 adn 1d12 at level 17.
 
 ---
 
