@@ -203,9 +203,9 @@ Once a turn whenever you damage a bloody creature you gain a stack of *Harvest* 
 **Harvest damage**
 | Level | Damage                               |
 | -------------- | ------------------------------------ |
-| 1            | 1d6 + 1 additional damage for every 20th stack          |
-| 5             | 1d6 + 1 additional damage for every 15th stack            |
-| 10             | 1d6 + 1 additional damage for every 10th stack           |
+| 1            | 1d6 + 1d6 additional damage for every 20th stack          |
+| 5             | 1d6 + 2d6 additional damage for every 20th stack            |
+| 9             | 1d6 + 3d6 additional damage for every 10th stack           |
 
 ---
 
