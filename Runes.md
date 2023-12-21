@@ -515,7 +515,7 @@ You gain immunity to the frightened and charmed condition and you cannot be move
 
 
 ## Keystones 
-### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" Align=left width=25% height=25%>
+### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" Align=left width=20% height=20%>
 
 Whenever you immobilize a creature, they and all enemies within 10 feet of the target gains a *Mark of Cold* that lasts until they take damage. Once this effect is used, it cannot be used again until 36 seconds has passed
 
@@ -525,7 +525,7 @@ The damage increases by 1d6 at level 5, 9, 13 and 17.
 
 ---
 
-### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=25% height=25%>
+### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=20% height=20%>
 
 At the end of a long rest you gain a [Summoner Spells](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/SummonerSpells.md) for that day, if you dont use them before you take your next long rest it vanishes. First you roll a d6, if you roll a 6 you can select your summoner spells gained. If you roll lower, you must roll a 1d10 to determine you summoner spell according to the table below. 
 
@@ -537,22 +537,19 @@ To determine if you can select your summoner spell gained you must hit a 4 or hi
 
 At level 17 you gain all summoner spells whenever you finish a long rest.
 
-|1d10 Roll|Summoner Spell|
-|---|---|
-|1|Barrier|
-|2|Clease|
-|3|Exhaust|
-|4|Flash|
-|5|Ghost|
-|6|Heal|
-|7|Ignite|
-|8|Smite|
-|9|Teleport|
-|10|Clarity|
+|1d10 Roll|Summoner Spell|-|1d10 Roll|Summoner Spell|
+|---|---|---|---|---|
+|1|Barrier||6|Heal|
+|2|Clease||7|Ignite|
+|3|Exhaust||8|Smite|
+|4|Flash||9|Teleport|
+|5|Ghost||10|Clarity|
+
+
 
 ---
 
-### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" Align=left width=25% height=25%>
+### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" Align=left width=20% height=20%>
 
 Whenever you deal damage against a creature that hasn't taken a turn in the combat yet, you gain gold equal to the damage dealt times your proficiency bonus (Halved for spells). You also deal 1d4 additional damage for every 25th gold gained. 
 
