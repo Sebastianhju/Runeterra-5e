@@ -470,17 +470,8 @@ When you immobilize a creature, you gain temporary hit points equal to three tim
 ---
 
 ### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=25% height=25%>
-If you or an ally within 15ft of you takes damage, you can choose to trigger Guardian. You and the selected ally immediately gain temporary hit points according to the table below. Guardian activates before you would take the initial damage. Once used, this effect cannot be used again until 42 seconds has passed.
 
-**Guardian Scaling**
-|Level|Hit Points|
-|---|---|
-|1| 10 temporary hit points|
-|5| 20 temporary hit points|
-|10| 30 temporary hit points|
-
-**Rework**
-If you or an ally within 15ft of you takes damage, you can choose to trigger Guardian. You and the selected ally immediately gain temporary hit points equal to four times your proficiency bonus. Guardian activates before you would take the initial damage. Once this action is used, it cannot be used again until a number of seconds as shown on the table below has passed. 
+If you or an ally within 30ft of you takes damage, you can choose to trigger Guardian. You and the selected ally immediately gain temporary hit points equal to four times your proficiency bonus. Guardian activates before you would take the initial damage. Once this action is used, it cannot be used again until a number of seconds as shown on the table below has passed. 
 
 **Guardian Scaling**
 |Level|Cooldown|
