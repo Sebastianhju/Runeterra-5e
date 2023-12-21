@@ -289,6 +289,7 @@ As an action you can cast the find familliar spell, summoning [Aery](https://www
 
 Aerys hit points scales with your level. Their hit point maximum equals 5 times your level. 
 
+Aerys damage and sheilding scales along with your proiciency bonus in level 5, 9, 13 and 17.
 
 ---
 
