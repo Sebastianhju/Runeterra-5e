@@ -402,42 +402,26 @@ You learn the _Thunderwave_ and _Call Lightning_ spell and can cast each of them
 
 ---
 ## Keystones
-### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=25% height=25%>
-Whenever you deal damage (once per attack) or you take damage from an enemy, you gain a stack of *Grasp*. When you are at four stacks, your next attack deals extra necrotic damage. You heal equal to the necrotic damage dealt. 
+### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=20% height=20%>
+Whenever you deal damage (once per attack) or you take damage from an enemy, you gain a stack of *Grasp*. When you are at four stacks, your next attack deals 1d4 additional necrotic damage. You heal equal to the necrotic damage dealt. 
 
 In addition you a stack of *Undying* whenever you drain an opponent using this ability. You gain +1 maximum hit points for every tenth stack of *Undying* you have.
 
-**Grasp Scaling**
-|Level|Damage|
-|---|---|
-|1|1d4|
-|5|2d4|
-|9|3d4|
+The damage increases by 1d4 at level 5, 9, 13 and 17.
 
 ---
 
-### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=25% height=25%>
+### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=20% height=20%>
 
-When you immobilize a creature, you gain temporary hit points equal to three times your proficiency bonus. At the end of your next turn you deal damage to all creatures within 5 feet of you depending on your level, as shown on the tale below. Once this effect is used it cannot be used again until 18 seconds have passed
+When you immobilize a creature, you gain temporary hit points equal to three times your proficiency bonus. At the end of your next turn you deal 1d6 damage to all creatures within 5 feet of you. Once this effect is used it cannot be used again until 18 seconds have passed
 
-**Aftershock Scaling**
-|Level|Damage|
-|---|---|
-|1| 1d6 force damage|
-|5| 2d6 force damage|
-|9| 3d6 force damage|
+The damage increases by 1d6 at level 5, 9, 13 and 17.
+
 ---
 
-### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=25% height=25%>
+### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=20% height=20%>
 
-If you or an ally within 30ft of you takes damage, you can choose to trigger Guardian. You and the selected ally immediately gain temporary hit points equal to four times your proficiency bonus. Guardian activates before you would take the initial damage. Once this action is used, it cannot be used again until a number of seconds as shown on the table below has passed. 
-
-**Guardian Scaling**
-|Level|Cooldown|
-|---|---|
-|1|30 seconds|
-|5| 24 seconds|
-|9| 18 seconds|
+If you or an ally within 30ft of you takes damage, you can choose to trigger Guardian. You and the selected ally immediately gain temporary hit points equal to four times your proficiency bonus. Guardian activates before you would take the initial damage. Once this action is used, it cannot be used again until 24 seconds have passed. 
 
 ---
 
