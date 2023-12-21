@@ -20,25 +20,22 @@ At any time, you can remove all negative effects affecting a creaure within 15 f
 ---
 
 # Exhaust<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Exhaust_HD.png" align=right width=10% height=10%>
-As a *Bonus Action* you can exhaust a creature within 15 feet of you for 12 seconds. Their speed is halved, their armorclass is reduced by 2 and their attacks deal half damage.
-
+As a *Bonus Action* you can exhaust a creature within 15 feet of you for 24 seconds. Their speed is halved, their armorclass and to hit bonus is reduced by an amount equal to your proficiency bonus.
 
 ---
 
 # Flash<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Flash_HD.png" align=right width=10% height=10%>
-At any time, you can teleport to a location within 15 feet of you, you do not need to see the location. If the location targeted is a wall, you are instead placed at the nearest open area.
-
+At any time, you can teleport to a location within 30 feet of you, you do not need to see the location. If the location targeted is a wall, you are instead placed at the nearest open area.
 
 ---
 
 # Ghost<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Ghost_HD.png" align=right width=10% height=10%>
-As a *Bonus Action* you become invisible for an hour, or until you make an attack or force another creature to make a saving throw. For the first minute your movementspeed is doubled.
-
+As a *Bonus Action* you can target an amount of allies you can see equal to your proiciency bonus to become invisible for an hour, or until they make an attack or force another creature to make a saving throw. For the first minute your movementspeed is doubled.
 
 ---
 
 # Heal<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Heal_HD.png" align=right width=10% height=10%>
-At any time, you can heal yourself and all allies within 15 feet of you for an amount equal to five times your proficiency bonus
+At any time, you can heal yourself and all allies within 15 feet of you for an amount equal to five times your proficiency bonus.
 
 ---
 
@@ -53,7 +50,6 @@ _Burn: At the start of their turn, a creature with burn stacks takes force damag
 When you hit a target with an attack, you can use smite to critically hit instead.
 
 ---
-
 
 # Teleport<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Teleport_HD.png" align=right width=10% height=10%>
 After a ten minute channel you can teleport yourself and up to five allies to a city or village you have visited earlier during the campaign.
