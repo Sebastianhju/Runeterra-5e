@@ -554,20 +554,9 @@ At level 17 you gain all summoner spells whenever you finish a long rest.
 
 ### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" Align=left width=25% height=25%>
 
-Whenever you deal damage against any creature that hasn't taken a turn in the combat yet you gain gold as shown on the table below, halved for spell damage. The target also takes additional damage equal to a tenth of the gold gained, rounded down. 
-
-**First Strike Scaling**
-|Level|Gold Gain|
-|---|---|
-|1|Gold Equal to two times the damage dealt|
-|5|Gold equal to three times the damage dealt|
-|9|Gold equal to four times the damage dealt|
-
-**This New**
-
 Whenever you deal damage against a creature that hasn't taken a turn in the combat yet, you gain gold equal to the damage dealt times your proficiency bonus (Halved for spells). You also deal 1d4 additional damage for every 25th gold gained. 
 
-The damage increases by 1d4 at level 5, 9, 13 and 17.
+The damage dice increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 and 1d12 at level 17.
 
 ---
 
