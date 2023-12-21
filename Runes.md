@@ -597,15 +597,15 @@ Attacks against creatures with *Mark of the Cold* have advantage and they take a
 
 ### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=25% height=25%>
 
-At the end of a long rest you gain a [Summoner Spell](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/SummonerSpells.md) for that day, if you dont use it before you take a long rest it vanishes. You roll 1d10 and gain the according summonerspell. If you roll a 10 on the dice, you can select the summoner spell yourself. 
-Summoner spells are powerfull spells that can be used once before they vanish. You can never select the same spell two days in a row or twice the same day. At later levels you can get a new summoner spell when you finish a short rest.  
+At the end of a long rest you gain [Summoner Spells](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/SummonerSpells.md) for that day, if you dont use them before you take yournext long rest it vanishes. First you roll a d6, if you roll the amount on the table below you can select your summoner spell for the day. If you roll lower, you must roll 1d10 and gain the according summonerspell.
+
 
 **Spellbook Scaling**
 |Level|Hit Points|
 |---|---|
-|1|Long Rest|
-|5|Long rest - Roll with advantage|
-|10|Long Rest - You gain two|
+|1|You gain one - 6 on d6|
+|5|You gain two - 4 or higher|
+|10|You gain three, 2 or higher|
 
 |1d10 Roll|Summoner Spell|
 |---|---|
@@ -618,7 +618,7 @@ Summoner spells are powerfull spells that can be used once before they vanish. Y
 |7|Ignite|
 |8|Smite|
 |9|Teleport|
-|10|Select any|
+|10|Clarity|
 
 ---
 
@@ -687,7 +687,7 @@ You learn the _Detect Thoughts_ and can cast it once a day without spending mana
 
 ### Approach Velocity  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/ApproachVelocity.png" Align=left width=7% height=7%>
 
-Whenever you move towards a target that is movement impared, every square only costs 3 feet of movement.
+Whenever any creature within 60 feet of you has their movement impaired, you can spend your reaction to teleport to that creature. 
 
 ---
 
