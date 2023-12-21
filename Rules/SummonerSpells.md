@@ -9,7 +9,7 @@
 # Barrier 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Barrier_HD.png" align=right width=10% height=10%>
-As a bonus action you can create a see-through Barrier in a 15 feet radius sphere centered around you that lasts for a minute. For enemies the barrier is solid. Enemy creatures, missiles and objects cannot pass through it. For you and your allies, the barrier is immaterial. The Barriers AC equals 12 + your proficiency bonus and its hit points maximum equals to ten times your proficiency bonus. 
+As a bonus action you can create a see-through Barrier in a 15 feet radius sphere cthat lasts for a minute. For enemies the barrier is solid. Enemy creatures, missiles and objects cannot pass through it. For you and your allies, the barrier is immaterial. The Barriers AC equals 12 + your proficiency bonus and its hit points maximum equals to ten times your proficiency bonus. 
 
 ---
 
