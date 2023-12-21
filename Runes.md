@@ -69,6 +69,17 @@ Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for ev
 |5| 2d6 |
 |9| 3d6 |
 
+**Rework**
+
+Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move and five stacks for every attack you hit, up to a maximum of 80 stacks. When you have maximum stacks, the next time you deal damage, you deal 1d10 additional damage, and heal equal to the additional damage dealt. In addition you gain *agility* and movement speed according to your level as shown on the table below. 
+
+**Fleet Footwork Scaling**
+|Level|Moevement Speed|
+|---|---|
+|1| 5 feet |
+|5| 10 feet |
+|9| 15 feet |
+
 ---
 ## Lesser Runes
 ---
