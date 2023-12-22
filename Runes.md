@@ -164,9 +164,9 @@ Whenever you deal damage, you deal 1d6 additional damage if you are _bloodied_.
 ## Keystones
 
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=20% height=20%>
-Damaging an enemy gives them a mark of electorcute that lasts until the end of your turn. When you damage a creature with a mark, you deal 2d8 additional lightning damage. Once used it cannot be used again until 36 seconds has passed. 
+Damaging an enemy gives them a mark of electrocute that lasts until the end of your turn. When you damage a creature with a mark, you deal 2d8 additional lightning damage. Once used it cannot be used again until 36 seconds has passed. 
 
-Electocutes damage increases by 1d8 at level 5, 9, 13 and 17. 
+Electrocutes damage increases by 1d8 at level 5, 9, 13 and 17. 
 
 ---
 
@@ -182,7 +182,7 @@ The damage dice increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 an
 
 You can dash as a bonus action, and the next attack that hits this round deals 1d4 additional damage for every 15 feet you've traveled towards your target this turn. Once used, it cannot be used again until 36 seconds has passed.
 
-You gain advantage on your next melee attack if you moved at least 30ft in a straight line towards the target.
+You gain advantage on your next melee attack if you moved at least 30ft towards the target.
 
 The damage dice increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 and 1d12 at level 17.
 
@@ -301,7 +301,7 @@ Aerys damage and sheilding scales along with your proiciency bonus in level 5, 9
 
 Whenever you deal damage to a target you can summon a comet that crashes onto the target. The target and all enemies in a 5 feet radius takes 2d4 magical bludgeoning damage. Once used, it cannot be used again until 36 seconds has passed.
 
-The radius increases by 5 feet at level 5, 9, 13 and 17. The damage increases to 2d6 at level 5, 2d8 at level 9, 2d10 at level 13 adn 2d12 at level 17.
+The radius increases by 5 feet at level 5, 9, 13 and 17. The damage increases to 2d6 at level 5, 2d8 at level 9, 2d10 at level 13 and 2d12 at level 17.
 
 ---
 
