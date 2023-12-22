@@ -330,6 +330,16 @@ _You gain +1 to your initiative rolls_
 
 **Resonance**: Whenever you damage an enemy with *Timewinder* you apply a stack of Resonance. Whenever you damage a creature that has two stacks of Resonance, you deal 1d6 additional force damage and gain 30 feet movement speed until the end of your turn. 
 
+---
+## Cinder Cutlass
+
+- 800 Gold
+- Scimitar
+
+**Trial by fire**: When you hit an attack with **Cinder Cutlass** you can choose to apply 2 stacks of burn to the target. Once this effect is used, it cannot be used again until 12 seconds have passed. 
+
+---
+
 # Boots
 
 ## Boots of Speed
