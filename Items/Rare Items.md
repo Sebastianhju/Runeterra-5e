@@ -498,6 +498,8 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 **Chum the Water**: You learn the *Summon Beast* spell and can cast it once a long rest without spending mana, hower it must be in the form of a shark and take the water envoirment. 
 
+_You gain +1 to hit and attack rolls using this magical weapon_
+
 ---
 ## Seekers Armguard
 
