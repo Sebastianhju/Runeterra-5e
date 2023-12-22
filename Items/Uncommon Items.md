@@ -300,13 +300,14 @@ _You gain +1 to your initiative rolls_
 
 ---
 
-### Tempest
+## Tempest
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tempest.png" Align=right width=8% height=8%>
 
 - 750 Gold 
 - Scimitar
 
-**Whirlwind**: Whenever you hit an attack, you gain a stack of whirlwind. When you have three stacks of whirlwind you can replace one of your attacks when you take the attack action by sending a tornado in a 15 foot line. Each target in the line must make a dexterity saving throw, dc equals 8 + str/dex + proficiency bonus or take 2d8 thunder damage and be knocked 15 feet airbone until the end of their turn. A creature takes half damage on a successfull save. 
+**Whirlwind**: Whenever you hit an attack, you gain a stack of whirlwind. When you have three stacks, you next attack is replaced with a tornado that goes in a 15 foot line. Each target in the line must make a dexterity saving throw, dc equals 8 + str/dex + proficiency bonus or take 2d8 thunder damage and be knocked 15 feet airbone until the end of their turn. A creature takes half damage on a successfull save. 
+
 
 ---
 
