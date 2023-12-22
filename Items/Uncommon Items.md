@@ -290,6 +290,26 @@ _You gain +1 to your initiative rolls_
 
 ---
 
+## Nimbus Staff
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Nimbus Staff.png" Align=right width=8% height=8%>
+
+- 750 Gold
+- Quarterstaf
+
+**Crushing Blow**: Whenever you critically hit a creature, their armor class is reduced by 2 until they finish a long rest. 
+
+---
+
+### Tempest
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tempest.png" Align=right width=8% height=8%>
+
+- 750 Gold 
+- Scimitar
+
+**Whirlwind**: Whenever you hit an attack, you gain a stack of whirlwind. When you have three stacks of whirlwind you can replace one of your attacks when you take the attack action by sending a tornado in a 15 foot line. Each target in the line must make a dexterity saving throw, dc equals 8 + str/dex + proficiency bonus or take 2d8 thunder damage and be knocked 15 feet airbone until the end of their turn. A creature takes half damage on a successfull save. 
+
+---
+
 ### Boots
 
 ## Boots of Speed
