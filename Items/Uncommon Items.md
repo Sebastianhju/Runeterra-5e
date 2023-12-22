@@ -332,6 +332,7 @@ _You gain +1 to your initiative rolls_
 
 ---
 ## Cinder Cutlass
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cinder Cutlass.png" Align=right width=8% height=8%>
 
 - 800 Gold
 - Scimitar
