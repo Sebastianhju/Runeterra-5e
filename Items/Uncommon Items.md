@@ -320,6 +320,16 @@ _You gain +1 to your initiative rolls_
 
 **Headshot**: When you have 10 stacks, the next attack that hits with peacemaker consumes all stacks of *Ace* and automaticly critically hits. If it already would critically hit, it does not comsume *Ace* stacks. 
 
+---
+
+## Timewinder
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Timewinder.png" Align=right width=8% height=8%>
+
+- 1250 Gold
+- Club
+
+**Resonance**: Whenever you damage an enemy with *Timewinder* you apply a stack of Resonance. Whenever you damage a creature that has two stacks of Resonance, you deal 1d6 additional force damage and gain 30 feet movement speed until the end of your turn. 
+
 # Boots
 
 ## Boots of Speed
