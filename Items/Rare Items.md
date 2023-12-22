@@ -487,6 +487,18 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 ---
 
+## Seastone Trident
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Seastone Trident.png" Align=right width=8% height=8%>
+
+- 3000 Gold
+- Trident
+
+**Burning Sting**: All attacks with the *Seastone Trident* apllies a stack of burn to the target. 
+
+**Chum the Water**: You learn the *Summon Beast* spell and can cast it once a long rest without spending mana, hower it must be in the form of a shark and take the water envoirment. 
+
+---
 ## Seekers Armguard
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Seeker's Armguard.png" Align=right width=8% height=8%>
