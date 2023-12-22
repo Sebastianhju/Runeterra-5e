@@ -8,5 +8,7 @@
 |Blunderbuss	|300g	|5g (5)|	2d8 piercing	|10 lb.	|(15/60)	|Reload 1, misfire 2|
 |Bad News|Crafted	|10g (5)|	2d12 piercing	|25 lb.|	(200/800)	|Two-handed, reload 1, misfire 3|
 |Hand Mortar|	Crafted	|10g (1)|	2d8 fire	|10 lb.	|(30/60)	|Reload 1, misfire 3, explosive|
-|Minigun|Crafted|2g (20)|1d4 piercing|10lb|(60/120|Reload 20, Two handed, misfire 1|
+|Minigun|Crafted|2g (20)|1d4 piercing|10lb|(60/120|Reload 20, Two handed, misfire 1, Windup|
 
+### Windup
+You can use this property only if you haven’t moved during this turn, as you take the attack action with a Windup Weapon you can choose to reduce your speed is 0 until the end of the current turn to gain an additional attack as a part of that attack action. 
