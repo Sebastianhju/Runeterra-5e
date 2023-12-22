@@ -355,10 +355,10 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 **Protection**: You gain a +1 to your armor class while wearing the _Lifewell Pendant_.
 
 ---
-yo
+
 ## Lightslinger
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lightsliner.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lightslinger.png" Align=right width=8% height=8%>
 
 - 3200
 - Pistol
