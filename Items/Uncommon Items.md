@@ -320,7 +320,7 @@ _You gain +1 to your initiative rolls_
 
 **Headshot**: When you have 10 stacks, the next attack that hits with peacemaker consumes all stacks of *Ace* and automaticly critically hits. If it already would critically hit, it does not comsume *Ace* stacks. 
 
-### Boots
+# Boots
 
 ## Boots of Speed
 
