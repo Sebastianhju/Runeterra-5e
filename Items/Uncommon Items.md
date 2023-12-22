@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Blade.png" Align=right width=8% height=8%>
 
-- 250 Gold
+- 450 Gold
 - Shortsword
 
 **Warmonger**: Whenever you score a takedown you heal equal to your proficiency bonus.
@@ -15,7 +15,7 @@
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Shield.png" Align=right width=8% height=8%>
 
-- 250 Gold
+- 450 Gold
 - Shield
 
 **Endure**: Whenever you take damage, you gain a stack of _regeneration_. 
@@ -28,7 +28,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Ring.png" Align=right width=8% height=8%>
 
-- 250 Gold
+- 450 Gold
 - Arcane Focus
 
 **Focus**: Whenever you score a takedown, you gain a stack of _Manastore_. Whenever you have 5 stacks of manastore, you regain mana equal to your proficiency bonus. 
@@ -206,7 +206,7 @@ _You gain +1 to dexterity saving throws_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spellthiefs%20Edge.png" Align=right width=8% height=8%>
 
-- 350 gold
+- 500 gold
 - Dagger
 - Attunement
 
@@ -221,7 +221,7 @@ _You gain +1 to dexterity saving throws_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Steel Shoulderguards.png" Align=right width=8% height=8%>
 
-- 350 Gold
+- 500 Gold
 - Wonderous Item
 - Attunement
 
@@ -271,12 +271,22 @@ _You gain +1 to dexterity saving throws_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dagger.png" Align=right width=8% height=8%>
 
-- 300 Gold
+- 400 Gold
 - Dagger
 
 **Swift strike**: You off-hand attacks with this dagger are made with advantage.
 
 _You gain +1 to your initiative rolls_
+
+---
+
+## Pow Pow
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Pow Pow.png" Align=right width=8% height=8%>
+
+- 750 Gold
+- Minigun
+
+**Charging up**: Whenever you hit an attack with Pow Pow you gain a stack of **Zap!**. For every other stack of **Zap!**, you get a +1 bonus to attack rolls with Pow Pow. 
 
 ---
 
