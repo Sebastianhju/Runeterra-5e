@@ -18,9 +18,10 @@
 **Keystones**
 |Rune|Snippet|Icon|
 |---|---|---|
+|**[Fleet Footwork](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#fleet-footwork--)**|Gain movement speed and substain while moving in combat |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" width=50% height=50%>|
 |**[Conqueror](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#conqueror--)**|Gain substained damage an restoration in longer fights |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" width=50% height=50%>|
 |**[Lethal Tempo](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#lethal-tempo--)**|Get additional attacks and range in longer fights |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" width=50% height=50%>|
-|**[Fleet Footwork](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#fleet-footwork--)**|Gain movement speed and substain while moving in combat |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" width=50% height=50%>|
+
 
 **Lesser Runes**
 |Rune|Snippet|Icon|
@@ -37,6 +38,14 @@
 
 
 ## Keystones
+
+### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" Align=left width=20% height=20%>
+Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move and five stacks for every attack you hit, up to a maximum of 80 stacks. When you have maximum stacks, the next time you deal damage, you deal 1d4 additional damage, and heal equal to the additional damage dealt. In addition you gain *agility* and 10 feet movement speed until the end of your turn
+
+The damage increases by 1d4 at level 5, 9, 13 and 17. At level 17 you gain 30 feet movement speed instead. 
+
+---
+
 ### Conqueror  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" Align=left width=20% height=20%>
 Once per attack, whenever you damage enemies, you gain stacks of Conqueror. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 12 stacks, you deal 1d6 additional damage from your damage sources as shown on the table below, and you heal for the additional damage dealt. If you don't deal damage within the next minute, you loose all stacks of Conqueror.
 
@@ -49,12 +58,7 @@ Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. T
 The range increaes by 10 feet at level 5, 9 and 13. At level 17 you instead gain two additional attacks when Lethal tempo is fully stacked. 
 
 ---
-### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" Align=left width=20% height=20%>
-Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move and five stacks for every attack you hit, up to a maximum of 80 stacks. When you have maximum stacks, the next time you deal damage, you deal 1d4 additional damage, and heal equal to the additional damage dealt. In addition you gain *agility* and 10 feet movement speed until the end of your turn
 
-The damage increases by 1d4 at level 5, 9, 13 and 17. At level 17 you gain 30 feet movement speed instead. 
-
----
 ## Lesser Runes
 ---
 
@@ -383,9 +387,9 @@ You learn the _Thunderwave_ and _Call Lightning_ spell and can cast each of them
 # Resolve ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve.png)
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
-|**[Grasp of the Undying](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#grasp-of-the-undying-)**| Drain the opponents health to get even stronger|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" width=50% height=50%>|
 |**[Aftershock](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#aftershock-)**| Immobilizing enemies grants you temporary hit points|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" width=50% height=50%>|
 |**[Guardian](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#guardian-)**| Protect those close to you|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" width=50% height=50%>|
+|**[Grasp of the Undying](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#grasp-of-the-undying-)**| Drain the opponents health to get even stronger|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" width=50% height=50%>|
 
 **Lesser Runes**
 |**Rune**|**Snippet**|**Icon**|
@@ -402,14 +406,6 @@ You learn the _Thunderwave_ and _Call Lightning_ spell and can cast each of them
 
 ---
 ## Keystones
-### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=20% height=20%>
-Whenever you deal damage (once per attack) or you take damage from an enemy, you gain a stack of *Grasp*. When you are at four stacks, your next attack deals 1d4 additional necrotic damage. You heal equal to the necrotic damage dealt. 
-
-In addition you a stack of *Undying* whenever you drain an opponent using this ability. You gain +1 maximum hit points for every tenth stack of *Undying* you have.
-
-The damage increases by 1d4 at level 5, 9, 13 and 17.
-
----
 
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=20% height=20%>
 
@@ -421,9 +417,16 @@ The damage increases by 1d6 at level 5, 9, 13 and 17.
 
 ### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=20% height=20%>
 
-If you or an ally within 30ft of you takes damage, you can choose to trigger Guardian. You and the selected ally immediately gain temporary hit points equal to four times your proficiency bonus. Guardian activates before you would take the initial damage. 
+If you or an ally within 30ft of you takes damage, you can choose to trigger Guardian. You and the selected ally immediately gain temporary hit points equal to four times your proficiency bonus. Guardian activates before you would take the initial damage. Once this action is used, it cannot be used again until 24 seconds have passed. 
 
-Once this action is used, it cannot be used again until 24 seconds have passed. 
+---
+
+### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=20% height=20%>
+Whenever you deal damage (once per attack) or you take damage from an enemy, you gain a stack of *Grasp*. When you are at four stacks, your next attack deals 1d4 additional necrotic damage. You heal equal to the necrotic damage dealt. 
+
+In addition you a stack of *Undying* whenever you drain an opponent using this ability. You gain +1 maximum hit points for every tenth stack of *Undying* you have.
+
+The damage increases by 1d4 at level 5, 9, 13 and 17.
 
 ---
 
