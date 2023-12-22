@@ -363,7 +363,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 - 3200
 - Pistol
 
-**Piercing Light**: As an action you can shoot out a beam of light in a 30 foot long line. Each creature in the line must succeed a Dexterity saving throw, dc equals to 9 + proficiency bonus + your dexterity modifier, or take 3d10 radiant damage. Once this effect is used it cannot be used again until 60 seconds have passed. Every attack hit with the lightslinger reduces this abilities cooldown by 6 seconds. 
+**Piercing Light**: When you take the attack action you can replace one of the attacks with a beam of light that shoots in a 30 foot long line. Each creature in the line must succeed a Dexterity saving throw, dc equals to 9 + proficiency bonus + your dexterity modifier, or take 3d10 radiant damage. Once this effect is used it cannot be used again until 60 seconds have passed. Every attack hit with the lightslinger reduces this abilities cooldown by 6 seconds. 
 
 **Relentless Pursuit**: Once a turn when you dash, blink or teleport you can make a free attack with lightslinger against a creature within range.  
 
