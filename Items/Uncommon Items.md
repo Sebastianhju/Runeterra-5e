@@ -286,7 +286,7 @@ _You gain +1 to your initiative rolls_
 - 750 Gold
 - Minigun
 
-**Charging up**: Whenever you hit an attack with Pow Pow you gain a stack of **Zap!**. For every other stack of **Zap!**, you get a +1 bonus to attack rolls with Pow Pow. 
+**Charging up**: Whenever you hit an attack with Pow Pow you gain a stack of **Zap!**, up to a maximum of 10 stacks. For every other stack of **Zap!**, you get a +1 bonus to attack rolls with Pow Pow. You lose all stacks op **Zap!** if you dont deal damage for a minute. 
 
 ---
 
@@ -296,7 +296,7 @@ _You gain +1 to your initiative rolls_
 - 750 Gold
 - Quarterstaf
 
-**Crushing Blow**: Whenever you critically hit a creature, their armor class is reduced by 2 until they finish a long rest. 
+**Crushing Blow**: Whenever you critically hit a creature with *Nimbus Staff*, their armor class is reduced by 2 for a minute.
 
 ---
 
@@ -306,7 +306,9 @@ _You gain +1 to your initiative rolls_
 - 1250 Gold 
 - Scimitar
 
-**Whirlwind**: Whenever you hit an attack, you gain a stack of whirlwind. When you have three stacks, you next attack is replaced with a tornado that goes in a 15 foot line. Each target in the line must make a dexterity saving throw, dc equals 8 + str/dex + proficiency bonus or take 2d8 thunder damage and be knocked 15 feet airbone until the end of their turn. A creature takes half damage on a successfull save. 
+**Whirlwind**: Whenever you hit an attack, you gain a stack of whirlwind. You loose all stacks of whirlwind if you dont deal damage for a minute. 
+
+**Crashing Tornado**: When you have three stacks, you next attack is replaced with a tornado that goes in a 15 foot line. Each target in the line must make a dexterity saving throw, dc equals 8 + str/dex + proficiency bonus or take 2d8 thunder damage and be knocked 15 feet airbone, falling to the ground at the end of it’s next turn. While suspended in the air it’s speed is 0. A creature takes half damage on a successful save. 
 
 ---
 
