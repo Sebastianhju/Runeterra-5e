@@ -589,7 +589,7 @@ While wielding this armor you gain +1 to your armor class_
 
 ## Whisper of Wind
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Whisper.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Whisper of Wind.png" Align=right width=8% height=8%>
 
 - 2500 gold
 - Quarterstaff
