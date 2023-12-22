@@ -303,13 +303,21 @@ _You gain +1 to your initiative rolls_
 ## Tempest
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tempest.png" Align=right width=8% height=8%>
 
-- 750 Gold 
+- 1250 Gold 
 - Scimitar
 
 **Whirlwind**: Whenever you hit an attack, you gain a stack of whirlwind. When you have three stacks, you next attack is replaced with a tornado that goes in a 15 foot line. Each target in the line must make a dexterity saving throw, dc equals 8 + str/dex + proficiency bonus or take 2d8 thunder damage and be knocked 15 feet airbone until the end of their turn. A creature takes half damage on a successfull save. 
 
-
 ---
+
+## Peacemaker
+
+- 1250 Gold
+- Bad News
+
+**Ace**: Whenver you hit an attack, you gain a stack of *Ace*. You gain two stacks if your attack is made against a creature that you are hidden from. 
+
+**Headshot**: When you have 10 stacks, the next attack that hits with peacemaker consumes all stacks of *Ace* and automaticly critically hits. If it already would critically hit, it does not comsume *Ace* stacks. 
 
 ### Boots
 
