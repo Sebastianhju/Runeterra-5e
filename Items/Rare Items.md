@@ -355,6 +355,19 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 **Protection**: You gain a +1 to your armor class while wearing the _Lifewell Pendant_.
 
 ---
+yo
+## Lightslinger
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lightsliner.png" Align=right width=8% height=8%>
+
+- 3200
+- Pistol
+
+**Piercing Light**: As an action you can shoot out a beam of light in a 30 foot long line. Each creature in the line must succeed a Dexterity saving throw, dc equals to 9 + proficiency bonus + your dexterity modifier, or take 3d10 radiant damage. Once this effect is used it cannot be used again until 60 seconds have passed. Every attack hit with the lightslinger reduces this abilities cooldown by 6 seconds. 
+
+**Relentless Pursuit**: Once a turn when you dash, blink or teleport you can make a free attack with lightslinger against a creature within range.  
+
+_You have +1 to hit and damage rolls using this weapon_
 
 ## Lost Chapter
 
