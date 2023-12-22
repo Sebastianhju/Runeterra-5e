@@ -424,9 +424,10 @@ Once this action is used, it cannot be used again until 24 seconds have passed.
 ---
 
 ### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=20% height=20%>
-Whenever you deal damage (once per attack) or you take damage from an enemy, you gain a stack of *Grasp*. When you are at four stacks, your next attack deals 1d4 additional necrotic damage. You heal equal to the necrotic damage dealt. 
 
-In addition you a stack of *Undying* whenever you drain an opponent using this ability. You gain +1 maximum hit points for every tenth stack of *Undying* you have.
+Whenever you deal damage (once per attack) or you take damage from an enemy, you gain a stack of Grasp. When you are at four stacks, your next attack deals 1d4 additional necrotic damage. You heal equal to the necrotic damage dealt.
+
+In addition you gain a stack of Undying whenever you drain an opponent using this ability. You gain +1 maximum hit points for every tenth stack of Undying you have.
 
 The damage increases by 1d4 at level 5, 9, 13 and 17.
 
