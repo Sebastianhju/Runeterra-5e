@@ -369,8 +369,8 @@ _You gain +1 to your initiative rolls_
 **Mana Barrier**: Whenver you are about to take damage while bloodied, you can choose to spend mana to first gain temporary hit points equal to two times the mana spent.
 
 ---
-## Eaerthquake Leggings
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Eaarthquake Leggings.png" Align=right width=8% height=8%>
+## Earthquake Leggings
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Earthquake Leggings.png" Align=right width=8% height=8%>
 
 - 800 Gold
 - Wondeous
