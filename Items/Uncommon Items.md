@@ -342,7 +342,38 @@ _You gain +1 to your initiative rolls_
 **Trial by fire**: When you hit an attack with **Cinder Cutlass** you can choose to apply 2 stacks of burn to the target. Once this effect is used, it cannot be used again until 12 seconds have passed. 
 
 ---
+## Wideshot
 
+- 800 Gold
+- Longbow
+
+**Volley**: You can replace one attack with a volley of spectral arrows in a 30 foot cone. Alle creatures in the cone must succeed a dexterity saving throw, dc 8+ proficiency bonus + dexterity modifier or take 2d8 force damage, halfed on a save. Once this action is used it cannot be used again until 18 seconds pass. 
+
+---
+## Decisive Sword
+
+- 800 Gold
+- Greatsword
+
+**March**: As a bonus action you can give youself 15 feet movement speed and advantage one your next attack roll with *Decisive Sword*, if the attack hits, the target is mute until the end of their turn. Once this action is used it cannot be used again until 18 seconds pass. 
+
+---
+## Amulet of Manashield
+
+- 600 Gold
+- Wonderous
+  
+**Mana Barrier**: Whenver you are about to take damage while bloodied, you can choose to spend mana to first gain temporary hit points equal to two times the mana spent.
+
+---
+## Eaerthquake Leggings
+
+- 800 Gold
+- Wondeous
+
+**Pulverize**: Whenever you hit a melee attack, you can attempt to knock the target 15 feet up in the air until the end of their turn. The target must succeed a strength saving throw, dc equals to 8 + your strength modifier + proficiency bonus. 
+
+---
 # Boots
 
 ## Boots of Speed
