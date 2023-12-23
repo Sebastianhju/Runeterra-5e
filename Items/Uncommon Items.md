@@ -343,6 +343,7 @@ _You gain +1 to your initiative rolls_
 
 ---
 ## Wideshot
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Wideshot.png" Align=right width=8% height=8%>
 
 - 800 Gold
 - Longbow
@@ -351,6 +352,7 @@ _You gain +1 to your initiative rolls_
 
 ---
 ## Decisive Sword
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Decisive Sword.png" Align=right width=8% height=8%>
 
 - 800 Gold
 - Greatsword
@@ -359,6 +361,7 @@ _You gain +1 to your initiative rolls_
 
 ---
 ## Amulet of Manashield
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Amulet of Manashield.png" Align=right width=8% height=8%>
 
 - 600 Gold
 - Wonderous
@@ -367,6 +370,7 @@ _You gain +1 to your initiative rolls_
 
 ---
 ## Eaerthquake Leggings
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Eaarthquake Leggings.png" Align=right width=8% height=8%>
 
 - 800 Gold
 - Wondeous
