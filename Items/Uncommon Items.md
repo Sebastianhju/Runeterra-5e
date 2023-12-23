@@ -375,7 +375,7 @@ _You gain +1 to your initiative rolls_
 - 800 Gold
 - Wondeous
 
-**Pulverize**: Whenever you hit a melee attack, you can attempt to knock the target 15 feet up in the air until the end of their turn. The target must succeed a strength saving throw, dc equals to 8 + your strength modifier + proficiency bonus. 
+**Pulverize**: Whenever you hit a melee attack, you can attempt to knock the target 15 feet up in the air until the end of their turn. The target must succeed a strength saving throw, dc equals to 8 + your strength modifier + proficiency bonus. Once you've successfully knocked a creature airborne you cannot do this action again until 18 seconds pass.
 
 ---
 # Boots
