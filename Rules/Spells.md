@@ -20,7 +20,7 @@ You warp the time around a creature either hastening them or slowing them. A has
 
 **Infected Bonesaw**
 
-_Wizard, Sorcerer, Warlock, Death Domain_
+_Wizard, Sorcerer, Warlock, Death & Grave Domain_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
@@ -97,7 +97,7 @@ You target a creature you can see within reach and time rewinds around them decr
 
 **Transfusion**
 
-_Wizard, Warlock, Death Domain_
+_Wizard, Sorcerer, Warlock, Death & Grave Domain_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
@@ -191,7 +191,7 @@ You throw out three 5ft radius spheres of miasma that stay for one minute, creat
 
 **Sanguine Pool**
 
-_Wizard, Warlock, Death Domain_
+_Wizard, Sorcerer, Warlock, Death Domain_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
