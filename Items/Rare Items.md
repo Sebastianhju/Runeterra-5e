@@ -217,6 +217,21 @@ While wielding this shield you gain +1 to your armor class.
 
 ---
 
+## Gloves of the Tunneler
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tunneler.png" Align=right width=8% height=8%>
+
+- 2750 Gold
+- Wonderous, gloves
+
+**Drilling Fist**: The gloves have enchanted drills attached to them, unarmed attacks made with the gloves deal 1d6 additional piercing damage. 
+
+**Siege Weapon**: The gloves deal double damage to objects and constructs. 
+
+**Tunneler**: When given time the gloves can make simple tunnels. The gloves can carve through dirt and rock, spending a minute to carve out a 5ft cube. Carving through metal takes ten minutes for a 5ft cube. 
+
+---
+
 ## Giants Belt
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Giants Belt.png" Align=right width=8% height=8%>
@@ -485,6 +500,10 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rectrix.png" Align=right width=8% height=8%>
 
+- 2750 Gold
+- Wonderous
+- Attunement
+
 **Sharpend Edge**: You gain +1 to all attack rolls.
 
 **Swift Winds**: You gain +10 feet movement speed
@@ -514,6 +533,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 - 3500 Gold
 - Trident
+- Attunement
 
 **Burning Sting**: All attacks with the *Seastone Trident* apllies a stack of burn to the target. 
 
@@ -571,9 +591,31 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Steel Sigil.png" Align=right width=8% height=8%>
 
-**Might**: As a bonus action you can enter a state of fury for a minute. While in fury your weapon attacks deal 1d6 additional damage, additionaly you gain temporary hit points equal to twice your proficiency bonus whenever you score a takedown. 
+- 2500 Gold
+- Wonderous
+- Attunement
+
+**Fury**: As a bonus action you can enter a state of fury for a minute. While in fury your weapon attacks deal 1d6 additional damage, additionaly you gain temporary hit points equal to twice your proficiency bonus whenever you score a takedown. 
+
+**Calm**: You gain +1 to all saving throws
 
 _While attuned to this item your armor class inceases by 1_ 
+
+---
+## The Brutalizer
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/The Brutalizer.png" Align=right width=8% height=8%>
+
+- 2750 Gold
+- Quarterstaff
+
+**Carve**: Whenever you hit a creature with *The Brutalizer* or *unarmed attacks* the target gains a stack of Carve. 
+
+**Haste**: The cooldown of your items and runes are reduced by 6 seconds. 
+
+Carve: Your armor class is reduced by one for every other stack of carve you have, up to a maximum of eight. Whenever you start your turn, you remove one stack of carve
+
+_You gain +1 to hit and damage rolls using this magical weapon_
 
 ## Tiamat
 
