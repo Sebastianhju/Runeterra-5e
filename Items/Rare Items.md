@@ -541,7 +541,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 **Chum the Water**: You learn the *Summon Beast* spell and can cast it once a long rest without spending mana, hower it must be in the form of a shark and take the water envoirment. 
 
-**Evasion**: This trident has 3 charges, and it regains 1d3 expended charges after you finish a long rest. When you fail a Dexterity saving throw while wearing it, you can use your reaction to expend 1 of its charges to succeed on that saving throw instead.
+**Evasion**: This trident has 2 charges, and it regains all expended charges after you finish a long rest. When you fail a Dexterity saving throw while attuned to it, you can use your reaction to expend 1 of its charges to succeed on that saving throw instead.
 
 _You gain +1 to hit and attack rolls using this magical weapon_
 
