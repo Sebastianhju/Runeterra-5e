@@ -244,6 +244,17 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
 
+## Haunting Guise
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Haunting Guise.png" Align=right width=8% height=8%>
+
+- 2750
+- Wonderous
+
+**Health**: You gain maximum hit points equal to half your hit dice.
+
+**Madness**: Whenever you are concentrating on a spell, you can choose to enter a st  x    ate of madness. While in this state you get a +3 modifier to concentration checks and your spells deal 1d6 additional force damage. If you loose concentration while in this state you gain a long term madness until you finish a long rest.
+
 ## Hexdrinker
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hexdrinker.png" Align=right width=8% height=8%>
@@ -470,7 +481,17 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 _You gain +1 to hit and damage rolls using this magical weapon._
 
 ---
+## Rectrix
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rectrix.png" Align=right width=8% height=8%>
+
+**Sharpend Edge**: You gain +1 to all attack rolls.
+
+**Swift Winds**: You gain +10 feet movement speed
+
+**Burst of Flight**: Once a day you can spend your action to gain flying speed equal to your walking speed for a minute. 
+
+---
 ## Recurve Bow
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Recurve Bow.png" Align=right width=8% height=8%>
@@ -480,7 +501,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 **Swift String**: Whenever you take the attack action using _Recurve Bow_ you can make an extra attack as a part of that action. 
 
-_You gain +2 to innitiative checks_
+_You gain +2 to initiative checks_
 
 _You gain +1 to hit and damage rolls using this magical weapon_
 
@@ -491,12 +512,14 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Seastone Trident.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 3500 Gold
 - Trident
 
 **Burning Sting**: All attacks with the *Seastone Trident* apllies a stack of burn to the target. 
 
 **Chum the Water**: You learn the *Summon Beast* spell and can cast it once a long rest without spending mana, hower it must be in the form of a shark and take the water envoirment. 
+
+**Evasion**: This trident has 3 charges, and it regains 1d3 expended charges after you finish a long rest. When you fail a Dexterity saving throw while wearing it, you can use your reaction to expend 1 of its charges to succeed on that saving throw instead.
 
 _You gain +1 to hit and attack rolls using this magical weapon_
 
@@ -505,7 +528,7 @@ _You gain +1 to hit and attack rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Seeker's Armguard.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 2750 Gold
 - Wonderous Item
 - Attunement
 
@@ -544,6 +567,13 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 _Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
 
 ---
+## Steel Sigil
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Steel Sigil.png" Align=right width=8% height=8%>
+
+**Might**: As a bonus action you can enter a state of fury for a minute. While in fury your weapon attacks deal 1d6 additional damage, additionaly you gain temporary hit points equal to twice your proficiency bonus whenever you score a takedown. 
+
+_While attuned to this item your armor class inceases by 1_ 
 
 ## Tiamat
 
