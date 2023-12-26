@@ -380,7 +380,7 @@ You gain a swimming speed of 80 feet. You do not get disadvantage on attack roll
 
 ### Gathering Storm  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/GatheringStorm.png" Align=left width=7% height=7%>
 
-At the start of every day, you gain the ability to alter the weather for that day. The Game Master may prompt you two weather options for that day, and you can choose with one will impact that day. 
+At the start of every day, you gain the ability to alter the weather for that day. The Game Master may prompt you two weather options for that day, and you can choose which one will impact that day. 
 
 Whenever you are in stormy weather you gain 1+ crit chance to your attack rolls and whenever you roll for cold, lightning or thunder damage you can reroll any amount of damage dice once. 
 
