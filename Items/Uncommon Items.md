@@ -308,7 +308,7 @@ _You gain +1 to your initiative rolls_
 
 **Whirlwind**: Whenever you hit an attack, you gain a stack of whirlwind. You loose all stacks of whirlwind if you dont deal damage for a minute. 
 
-**Crashing Tornado**: When you have three stacks, you next attack is replaced with a tornado that goes in a 15 foot line. Each target in the line must make a dexterity saving throw, dc equals 8 + str/dex + proficiency bonus or take 2d8 thunder damage and be knocked 15 feet airbone, falling to the ground at the end of it’s next turn. While suspended in the air it’s speed is 0. A creature takes half damage on a successful save. 
+**Crashing Tornado**: When you have three stacks, you next attack is replaced with a tornado that goes in a 15 foot line. Each target in the line must make a dexterity saving throw, dc equals 8 + str/dex + proficiency bonus or take 2d8 thunder damage and be knocked 15 feet airbone, falling to the ground at the end of its next turn. While suspended in the air its speed is 0. A creature takes half damage on a successful save. 
 
 ---
 
@@ -320,7 +320,7 @@ _You gain +1 to your initiative rolls_
 
 **Ace**: Whenver you hit an attack, you gain a stack of *Ace*. You gain two stacks if your attack is made against a creature that you are hidden from. 
 
-**Headshot**: When you have 10 stacks, the next attack that hits with peacemaker consumes all stacks of *Ace* and automaticly critically hits. If it already would critically hit, it does not comsume *Ace* stacks. 
+**Headshot**: When you have 10 stacks, the next attack that hits with peacemaker consumes all stacks of *Ace* and critically hits. If it already would critically hit, it does not consume any *Ace* stacks. 
 
 ---
 
@@ -330,7 +330,7 @@ _You gain +1 to your initiative rolls_
 - 1250 Gold
 - Club
 
-**Resonance**: Whenever you damage an enemy with *Timewinder* you apply a stack of Resonance. Whenever you damage a creature that has two stacks of Resonance, you deal 1d6 additional force damage and gain 30 feet movement speed until the end of your turn. 
+**Resonance**: Whenever you damage an enemy with *Timewinder* you apply a stack of Resonance. Whenever you damage a creature that has two stacks of Resonance, you deal 3d6 additional force damage and gain 30 feet movement speed until the end of your turn. 
 
 ---
 ## Cinder Cutlass
@@ -348,7 +348,7 @@ _You gain +1 to your initiative rolls_
 - 800 Gold
 - Longbow
 
-**Volley**: You can replace one attack with a volley of spectral arrows in a 30 foot cone. Alle creatures in the cone must succeed a dexterity saving throw, dc 8+ proficiency bonus + dexterity modifier or take 2d8 force damage, halfed on a save. Once this action is used it cannot be used again until 18 seconds pass. 
+**Volley**: You can replace one attack with a volley of spectral arrows in a 30 foot cone. All creatures in the cone must succeed a dexterity saving throw, dc 8+ proficiency bonus + dexterity modifier or take 2d8 force damage, halfed on a save. Once this action is used it cannot be used again until 18 seconds pass. 
 
 ---
 ## Decisive Sword
