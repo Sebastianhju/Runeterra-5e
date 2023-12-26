@@ -11,4 +11,4 @@
 |Minigun|Crafted|2g (20)|1d4 piercing|10lb|(60/120|Reload 20, Two handed, misfire 1, Windup|
 
 ### Windup
-You can use this property only if you haven’t moved during this turn, as you take the attack action with a Windup Weapon you can choose to reduce your speed is 0 until the end of the current turn to gain an additional attack as a part of that attack action. 
+Whenever you make an attack with a windup weapon, you gain a stack of *firepower* up to a maximum of six stacks. For every other stack of *firepower* the weapon gains an additional damage dice to their attacks. If you don´t make an attack with the windup weapon on your turn, you loose two stacks. 
