@@ -18,8 +18,8 @@
 **Keystones**
 |Rune|Snippet|Icon|
 |---|---|---|
-|**[Fleet Footwork](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#fleet-footwork--)**|Gain movement speed and substain while moving in combat |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" width=50% height=50%>|
-|**[Conqueror](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#conqueror--)**|Gain substained damage an restoration in longer fights |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" width=50% height=50%>|
+|**[Fleet Footwork](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#fleet-footwork--)**|Deal more damage and heal by moving in combat|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" width=50% height=50%>|
+|**[Conqueror](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#conqueror--)**|Deal substained damage and healing in longer fights |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" width=50% height=50%>|
 |**[Lethal Tempo](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#lethal-tempo--)**|Get additional attacks and range in longer fights |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" width=50% height=50%>|
 
 
@@ -28,12 +28,12 @@
 |---|---|---|
 |**[Overheal](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#overheal--)**|Whenever you would heal while at maximum hit points, gain temporary hit points instead|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Overheal.png" width=120% height=120%>|
 |**[Triumph](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#triumph--)**|Scoring a _Takedown_ on a creature heals you and gives you gold |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Triumph.png" width=120% height=120%>|
-|**[Presence of Mind](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#presence-of-mind-)**|Gain mana whenever you kill creatures|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PresenceOfMind.png" width=120% height=120%>|
-|**[Legend: Alacrity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend-alacrity-)**|Scoring a _Takedowns_ grants you stacks that improves your combat |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendAlacrity.png" width=120% height=120%>|
-|**[Legend: Tenacity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend-tenacity-)**|Scoring a _Takedows_ boost your mobility|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendTenacity.png" width=120% height=120%>|
-|**[Legend: Bloodline](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend-bloodline-)**|Scoring a _Takedowns_ boost you substain in combat|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" width=120% height=120%>|
+|**[Presence of Mind](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#presence-of-mind-)**|Regain mana for scoring _Takedowns_ on creatures|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PresenceOfMind.png" width=120% height=120%>|
+|**[Legend: Alacrity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend-alacrity-)**|Scoring a _Takedown_ grants you stacks that improves your combat |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendAlacrity.png" width=120% height=120%>|
+|**[Legend: Tenacity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend-tenacity-)**|Scoring a _Takedown_ grants yous stacks that boost your mobility|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendTenacity.png" width=120% height=120%>|
+|**[Legend: Bloodline](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#legend-bloodline-)**|Scoring a _Takedown_ grants you stacks that boost your substain in combat|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" width=120% height=120%>|
 |**[Coup de Grace](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#coup-de-grace-)**| Deal increased damage to bloodied creatures |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CoupDeGrace.png" width=120% height=120%>|
-|**[Cut Down](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cut-down-)**|Deal increased damage to larger targets|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CutDown.png" width=120% height=120%>|
+|**[Cut Down](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cut-down-)**|Deal increased damage to larger creatures|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CutDown.png" width=120% height=120%>|
 |**[Last Stand](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#last-stand-)**|Deal increased damage while low on health|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LastStand.png" width=120% height=120%>|
 
 
@@ -146,20 +146,20 @@ Whenever you deal damage, you deal 1d6 additional damage if you are _bloodied_.
 |---|---|---|
 |**[Electrocute](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#electrocute-)**| Deal additional lightning damage when you hit a target with seperate attacks| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" width=50% height=50%>|
 |**[Dark Harvest](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#dark-harvest-)** | Deal additional force damage to bloodied targets|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" width=50% height=50%> |
-|**[Predator](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#predator-)** | You can dash as a bonus action and gain damage and advantage on rushed attacks | <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" width=50% height=50%>|
+|**[Predator](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#predator-)** | Leap into battle dealing more damage the further you run | <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" width=50% height=50%>|
 
 **Lesser Runes**
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
 |**[Cheap Shot](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cheap-shot-)**|Deal additional damage to creatutures with negative status effects|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/CheapShot.png">|
-|**[Taste of Blood](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#taste-of-blood-)**|Heal when you damage enemies|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png">|
-|**[Sudden Impact](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#sudden-impact-)**|Deal additional damage to creatutures after you dash, blink or teleport|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png">|
+|**[Taste of Blood](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#taste-of-blood-)**|Heal when you damage an enemy|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png">|
+|**[Sudden Impact](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#sudden-impact-)**|Deal additional damage to creatures after you dash, blink or teleport|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png">|
 |**[Ghost Poro](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ghost-poro-)**|Gain a haunted Poro companion|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GhostPoro.png">|
-|**[Eyeball Collection](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ceyeball-collection-)**|As you kill enemies, you senses are enhanced|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/EyeballCollection.png">|
+|**[Eyeball Collection](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ceyeball-collection-)**| Whenever you score _Takedowns_ you gain stacks that enchance your senses|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/EyeballCollection.png">|
 |**[Treasure Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#treasure-hunter-)**|You gain the possibility to find exclusive boss loot|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/TreasureHunter.png">|
-|**[Igenious Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ingenious-hunter-)**|Scoring takedowns reduce the cooldowns of runes and items|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png">|
-|**[Relentless Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#relentless-hunter-)**|Scoring takedowns increase your traveling and hunting skills|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/RelentlessHunter.png">|
-|**[Ultimate Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ultimate-hunter-)**|Scoring takedowns reduce the cooldown of your ultimate ability|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/UltimateHunter.png" Height=50% Width=50%>|
+|**[Igenious Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ingenious-hunter-)**|Scoring _takedowns_ gives you stacks that reduces the cooldowns of your runes and items|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png">|
+|**[Relentless Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#relentless-hunter-)**|Scoring _takedowns_ grants you stacks that increase your traveling and hunting skills|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/RelentlessHunter.png">|
+|**[Ultimate Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ultimate-hunter-)**|Scoring _takedowns_ grants you stacks that reduces the cooldown of your ultimate|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/UltimateHunter.png" Height=50% Width=50%>|
 
 ## Keystones
 
@@ -270,20 +270,20 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Ultimate_ gi
 **Keystones**
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
-|**[Summon Aery](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#summon-aery-)**| Summon a loyal friend that can shield allies or deal damage| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/SummonAery.png" width=50% height=50%>|
-|**[Arcane Comet](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#arcane-comet-)** | Whenever you deal damage you can summon an arcane comet, dealing damage in a circle |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" width=50% height=50%> |
+|**[Summon Aery](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#summon-aery-)**| Summon a loyal friend that can shield allies or deal damage to foes| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/SummonAery.png" width=50% height=50%>|
+|**[Arcane Comet](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#arcane-comet-)** | Whenever you deal damage you can summon an arcane comet, dealing damage in a large area |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" width=50% height=50%> |
 |**[Phase Rush](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#phase-rush-)** | Gain bursts of speed and agility in combat| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" width=50% height=50%>|
 
 **Lesser Runes**
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
 |**[Nullifying Orb](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#nullifying-orb-)**|Gain temporary hit points when you take elemental damage|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Nullifying Orb.png">|
-|**[Manaflow Band](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#manaflow-band-)**|Scoring takedowns increases your maximum mana|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ManaflowBand.png">|
-|**[Nimbus Cloak](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#nimbus-cloak-)**|_Summoner spells are cheaper. Additionaly using _summoner spells_ gives you _agility_ and movement speed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/6361.png" height=50% width=50%>|
+|**[Manaflow Band](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#manaflow-band-)**|Scoring takedowns grants you stacks that increases your maximum mana|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ManaflowBand.png">|
+|**[Nimbus Cloak](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#nimbus-cloak-)**|_Summoner spells_ are cheaper. Additionaly using _summoner spells_ gives you _agility_ and movement speed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/6361.png" height=50% width=50%>|
 |**[Transcendence](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#transcendence-)**|Reduce the cooldown of items and runes as you level up|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Transcendence.png">|
 |**[Celerity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#celerity-)**|Your speed improving effects are doubled|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/CelerityTemp.png">|
 |**[Absolute Focus](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#absolute_focus-)**|Deal more damage when you are healthy|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/AbsoluteFocus.png">|
-|**[Scorch](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#scorch-)**|Damaging enemies sets them ablaze|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Scorch.png">|
+|**[Scorch](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#scorch-)**|Damaging enemies gives them stacks of burn|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Scorch.png">|
 |**[Waterwalking](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#waterwalking-)**|You gain increased movement speed and damage in watery terrain|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Waterwalking.png">|
 |**[Gathering Storm](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#gathering-storm-)**|You become adept in tempest spells|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/GatheringStorm.png">|
 
@@ -374,7 +374,7 @@ _Burn: At the start of their turn, a creature with burn stacks takes force damag
 
 ### Waterwalking  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Waterwalking.png" Align=left width=7% height=7%>
 
-You learn the _Water Walk_ spell and can cast it once a day without spending mana. In addition, whenever you are in watery terrain, you gain +5 to your movementspeed and deal 1d6 extra cold damage whenever you deal cold damage.  
+You learn the _Water Walk_ spell and can cast it once a day without spending mana. In addition, whenever you are in watery terrain, you gain +5 to your movement speed and deal 1d6 extra cold damage whenever you deal cold damage.  
 
 ---
 
@@ -387,22 +387,22 @@ You learn the _Thunderwave_ and _Call Lightning_ spell and can cast each of them
 # Resolve ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve.png)
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
-|**[Aftershock](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#aftershock-)**| Immobilizing enemies grants you temporary hit points|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" width=50% height=50%>|
-|**[Guardian](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#guardian-)**| Protect those close to you|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" width=50% height=50%>|
-|**[Grasp of the Undying](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#grasp-of-the-undying-)**| Drain the opponents health to get even stronger|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" width=50% height=50%>|
+|**[Aftershock](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#aftershock-)**| Immobilizing enemies grants you temporary hit points and delayed damage|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" width=50% height=50%>|
+|**[Guardian](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#guardian-)**| Give hurting allies temporary hit points|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" width=50% height=50%>|
+|**[Grasp of the Undying](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#grasp-of-the-undying-)**| Drain your enemies to grant yourself maximum hit points|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" width=50% height=50%>|
 
 **Lesser Runes**
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
 |**[Demolish](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#demolish-)**|Deal tons of damage to constructs|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Demolish.png">|
-|**[Font of Life](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#font-of-life-)**|Reducing enemies movementspeed heals your allies|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/FontOfLife.png">|
-|**[Shield Bash](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#shield-bash-)**|Gain a stronger attack whenever you gain temporary hitpoints|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/MirrorShell.png">|
-|**[Conditioning](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#conditioning-)**|As you score takedowns you gain stacks that grants increased defences|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Conditioning.png">|
-|**[Comeback](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#second-wind-)**|Whenever you are reduced below 50% hit points gain regeneration|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/SecondWind.png">|
+|**[Font of Life](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#font-of-life-)**|Reducing enemies movement speed heals the next ally that damages them|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/FontOfLife.png">|
+|**[Shield Bash](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#shield-bash-)**|Gaining temporary hit points increases your next attacks damage|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/MirrorShell.png">|
+|**[Conditioning](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#conditioning-)**|Scoring takedowns grants stacks that increases your defences|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Conditioning.png">|
+|**[Comeback](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#second-wind-)**|Whenever you are reduced below 50% hit points you slowly heal|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/SecondWind.png">|
 |**[Bone Plating](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#bone-plating-)**|You gain resistance from the first three damaging sources|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/BonePlating.png" height=50% width=50%>|
 |**[Overgrowth](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#overgrowth-)**|As you score takedowns you gain stacks that grant you more maximum hit points|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Overgrowth.png">|
-|**[Revitalize](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#revitalize-)**|Improved healing and shielding|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Revitalize.png">|
-|**[Unflinching](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#unflinching-)**|You gain immunity to the charmed and frightened condition|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Unflinching.png">|
+|**[Revitalize](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#revitalize-)**|You gain improved healing and shielding power|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Revitalize.png">|
+|**[Unflinching](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#unflinching-)**|You gain immunity to the charmed and frightened condition and cant be moved against your will|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Unflinching.png">|
 
 ---
 ## Keystones
@@ -503,23 +503,23 @@ You gain immunity to the frightened and charmed condition and you cannot be move
 # Inspiration ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration.png)
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
-|**[Glacial Augment](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#glacial-augment-)**| Immobilizing creatures increases your allies damage against them|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" width=50% height=50%>|
-|**[Unsealed Spellbook](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#unsealed-spellbook-)**| Select different [Summoner Spells](https://github.com/Sebastianhju/Runeterra-5e/blob/main/SummonerSpells.md) each day to help you|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" width=50% height=50%>|
-|**[First Strike](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#first-strike-)**| Gain money for hitting the enemy before they can hit you|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" width=50% height=50%>|
+|**[Glacial Augment](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#glacial-augment-)**| Immobilizing creatures weakens them and other creatures close tho them|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" width=50% height=50%>|
+|**[Unsealed Spellbook](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#unsealed-spellbook-)**| Select different Summoner Spells to help you through your day|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" width=50% height=50%>|
+|**[First Strike](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#first-strike-)**| Gain money for damaging enemies before they can act in combat|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" width=50% height=50%>|
 ---
 
 **Lesser Runes**
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
-|**[Hextech Flashtraption](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#hextech-flashtraption-)**|After a small windup, you can blink|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/HextechFlashtraption.png">|
+|**[Hextech Flashtraption](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#hextech-flashtraption-)**|After a small windup, you can teleport a short distance|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/HextechFlashtraption.png">|
 |**[Magical Footwear](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#magical-footwear-)**|As you score takedowns, you gain magical boots and movement speed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/MagicalFootwear.png">|
 |**[Perfect Timing](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#perfect-timing-)**|You gain a stopwatch and the ability to repair it|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/PerfectTiming.png">|
 |**[Future's Market](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#futures-market-)**|You gain access to a pocket dimention where you can buy and sell wares|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FuturesMarket.png">|
-|**[Spiritbound](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#spiritbound-)**|At the start of each day, you can select an ability. You become proficient in all skills of that ability for that day. |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png">|
+|**[Spiritbound](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#CelestialBody-)**|At the start of each day, you can select an ability. You become proficient in all skills of that ability for that day. |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png">|
 |**[Biscuit Delivery](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#biscuit-delivery-)**|Whenever you long rest, you gain a _Buiscuit of Everlasting Will_|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/BiscuitDeliviery.png">|
-|**[Cosmic Insight](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cosmic-insight-)**|You learn the _Detect Thoughts_ spell and can cast it once a day without spending mana|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CosmicInsight.png">|
-|**[Approach Velocity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#hextech-flashtraption-)**|Whenever you move towards enemies with reduced speed, you gain additional movementspeed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/ApproachVelocity.png">|
-|**[Time Warp Tonic](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#time-warp-tonic-)**|Whenever you drink potions, you gain additional effects|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/TimeWarpTonic.png" height=60% Width=60%>|
+|**[Cosmic Insight](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cosmic-insight--)**|You learn the _Detect Thoughts_ spell and can cast it once a day without spending mana|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CosmicInsight.png">|
+|**[Approach Velocity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#approach-velocity--)**|You can use your reaction to teleport to movement impared creatures|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/ApproachVelocity.png">|
+|**[Time Warp Tonic](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#time-warp-tonic-)**|Potions you drink are enhanced|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/TimeWarpTonic.png" height=60% Width=60%>|
 
 
 ## Keystones 
@@ -619,7 +619,7 @@ You learn the _Detect Thoughts_ and can cast it once a day without spending mana
 
 ### Approach Velocity  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/ApproachVelocity.png" Align=left width=7% height=7%>
 
-Whenever any creature within 60 feet of you has their movement impaired, you can spend your reaction to teleport to that creature. 
+Whenever any creature within 90 feet of you has their movement impaired, you can spend your reaction to teleport to that creature. 
 
 ---
 
