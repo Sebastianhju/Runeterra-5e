@@ -372,15 +372,17 @@ _Burn: At the start of their turn, a creature with burn stacks takes force damag
 
 ---
 
-### Waterwalking  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Waterwalking.png" Align=left width=7% height=7%>
+### Waterwalking  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Waterwalking.png" Align=left width=7% height=7%> 
 
-You learn the _Water Walk_ spell and can cast it once a day without spending mana. In addition, whenever you are in watery terrain, you gain +5 to your movement speed and deal 1d6 extra cold damage whenever you deal cold damage.  
+You gain a swimming speed of 80 feet. You do not get disadvantage on attack rolls and ability checks from begin under water. 
 
 ---
 
 ### Gathering Storm  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/GatheringStorm.png" Align=left width=7% height=7%>
 
-You learn the _Thunderwave_ and _Call Lightning_ spell and can cast each of them once a day without expending mana. Whenever you deal Lightning or Thunder damage, you can treat any one on the dice roll as a two. 
+At the start of every day, you gain the ability to alter the weather for that day. The Game Master may prompt you two weather options for that day, and you can choose with one will impact that day. 
+
+Whenever you are in stormy weather you gain 1+ crit chance to your attack rolls and whenever you roll for cold, lightning or thunder damage you can reroll any amount of damage dice once. 
 
 ---
 
