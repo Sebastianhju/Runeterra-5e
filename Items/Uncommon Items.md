@@ -286,7 +286,7 @@ _You gain +1 to your initiative rolls_
 - 750 Gold
 - Minigun
 
-**Charging up**: Whenever you hit an attack with Pow Pow you gain a stack of **Zap!**, up to a maximum of 10 stacks. For every other stack of **Zap!**, you get a +1 bonus to attack rolls with Pow Pow. You lose all stacks op **Zap!** if you dont deal damage for a minute. 
+**Charging up**: Whenever you hit an attack with Pow Pow you gain a stack of **Zap!**, up to a maximum of 5 stacks. For every stack of **Zap!**, you get a +1 bonus to attack rolls with Pow Pow. While at 5 stack, you can make another attack as a part of the attack action when using Pow Pow. You lose all stacks op **Zap!** if you dont deal damage for a minute. 
 
 ---
 
