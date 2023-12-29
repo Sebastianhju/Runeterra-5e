@@ -81,15 +81,15 @@ Once a turn, when you deal damage to an enemy you gain a stack of _manastore_. A
 
 ### Legend: Alacrity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendAlacrity.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_, you gain a stack of Alacrity that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
+Whenever you score a _takedown_, you gain a stack of Alacrity that gives you benefits according to the table below. 
 
 **Alacrity Scaling**
 
 |Stacks|Feature|
 |---|---|
 |0| After you take the attack action, you can spend your bonus action to make an extra attack that cannot critically hit.|
-|30| You gain +2 to initiative|
-|60| Whenever you take the attack action, you can make an extra attack as a part of that action|
+|25| You gain +2 to initiative|
+|50| Whenever you take the attack action, you can make an extra attack as a part of that action|
 
 ---
 
@@ -102,39 +102,42 @@ Whenever you score a _takedown_ you gain a stacks of _Tenacity_ that gives you b
 |Stacks|Feature|
 |---|---|
 |0| You ignore difficult terrain and your movement speed can't be reduced. You can still be immobilized. |
-|30| you gain +5 feet movement speed|
-|60| Whenever you have to make a saving throw against immobilizing effects, you have advantage|
+|25| you gain +5 feet movement speed|
+|50| Whenever you have to make a saving throw against immobilizing effects, you have advantage|
 
 ---
 ### Legend: Bloodline <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ you gain a stack of Bloodline that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
+Whenever you score a _takedown_ you gain a stack of Bloodline that gives you benefits according to the table below.
 
 **Bloodline Scaling**
 
 |Stacks|Feature|
 |---|---|
 |0| Whenever you deal damage to a creature, you heal equal to half your proficiency bonus|
-|30| You gain +5 maximum hit points|
-|60| Whenever you deal damage to a creature, you heal hit points equal to your proficiency bonus|
+|25| You gain +5 maximum hit points|
+|50| Whenever you deal damage to a creature, you heal hit points equal to your proficiency bonus|
 
 ---
 
 ### Coup De Grace <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CoupDeGrace.png" Align=left width=7% height=7%>
 
-Whenever you deal damage, you deal 1d4 extra damage to _bloodied_ creatures. 
+Whenever you deal damage, you deal 1d6 extra damage to _bloodied_ creatures. 
+When you reach level 11 the damage increases to 2d6
 
 ---
 
 ### Cut Down <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CutDown.png" Align=left width=7% height=7%>
 
-Whenever you deal damage, you deal 1d4 extra damage to a creature for each size larger than you it is. 
+Whenever you deal damage, you deal 1d6 extra damage to a creature for each size larger than you it is. 
+When you reach level 11, the damage dice increases to 1d10. 
 
 ---
 
 ### Last Stand <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LastStand.png" Align=left width=7% height=7%>
 
 Whenever you deal damage, you deal 1d6 additional damage if you are _bloodied_. 
+When you reach level 11 the damage increases to 2d6
 
 ---
 
