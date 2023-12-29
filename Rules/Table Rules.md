@@ -65,3 +65,20 @@ Elixirs have their own rules in their descriptions
 ## Summoner Spells
 
 Summoner spells functions as spell scrolls. They are not spells, so they cannot be counterspelled. However, a dispell magic spell or greater restoration could tear off their effects. For the sake of dispell magic, summoner spells count as fifth level spells. 
+
+## Exhaustion
+
+We play with the exhaustion rules from the Unearthed Arcana. Maximum of ten stacks, each stack gives you a -1 modifier to every D20 roll. 
+
+## Getting Downed
+
+Wenever a character gets downed, they gain a stack of exhaustion. 
+
+If a downed creature would take damage, they gain a **Wound**. Wounds are defuss that can vary in degree dependent on the situation they were given in. 
+
+## Resting
+
+You can only long rest at a *Safe Haven* (Dm discretion). Usually this means in a safe tavern or the partys operation base. During travels and dungeoncrawling, short rest will be the only available option. 
+
+|This is to encurage players to be more thoughtfull of their resources. As a DM i often give 1-2 encounters each day, wich makes encounters hard to balance in the first place. Secondly, the mana system gives every spellcaster the oppourtunity to cast their highest level spells at all times, meaning if the characters allways have all resources, they would be conciderably stronger in higher levels. |
+|---|
