@@ -10,6 +10,6 @@ At the start of their turn, a creature with burn stacks takes force damage equal
 
 ---
 
-# Cleave 
+# Carve 
 
 Your armor class is reduced by one for every other stack of carve you have, up to a maximum of eight. Whenever you start your turn, you remove one stack of carve. You can remove all stacks of carve by using lesser restoration or similar effects. 
