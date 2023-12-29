@@ -95,7 +95,7 @@ Whenever you score a _takedown_, you gain a stack of Alacrity that gives you ben
 
 ### Legend: Tenacity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendTenacity.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ you gain a stacks of _Tenacity_ that gives you benefits according to the table below. If you'd get the killing blow, you gain three stacks instead.
+Whenever you score a _takedown_ you gain a stacks of _Tenacity_ that gives you benefits according to the table below.
 
 **Tenacity Scaling**
 
