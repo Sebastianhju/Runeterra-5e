@@ -494,7 +494,7 @@ You gain +3 maximum hit points. Whenever you score a _takedown_ on a creature, y
 
 ### Revitalize  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Revitalize.png" Align=left width=7% height=7%>
 
-Whenever you gain temporary hit points or are healed, you can add you constituton modifier
+Whenever you gain temporary hit points or are healed, you add 1 + your proficiency bonus to the total amount.
 
 ---
 
