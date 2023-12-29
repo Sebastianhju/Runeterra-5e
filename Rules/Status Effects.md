@@ -1,1 +1,15 @@
+# Grievous Wounds
 
+If you have atleast one stack of grievous wounds, all healing and temporary hit points you gain are halfed. At the start of your turn you remove one stack of grievous wounds. You can remove all stacks of **Grievous Wounds** by using lesser restoration or similar effects. 
+
+---
+
+# Burn
+
+At the start of their turn, a creature with burn stacks takes force damage equal to the stacks of burn and remove the amount of stacks by one. A creature can have a maximum of stacks equal to five times your proficiency bonus. You can remove all stacks of burn by using lesser restoration or similar effects. 
+
+---
+
+# Cleave 
+
+Your armor class is reduced by one for every other stack of carve you have, up to a maximum of eight. Whenever you start your turn, you remove one stack of carve. You can remove all stacks of carve by using lesser restoration or similar effects. 
