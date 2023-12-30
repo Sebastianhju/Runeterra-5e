@@ -658,7 +658,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Bite**: As a bonus action you can bite a creature using your strength or dexterity to attack. The attack deals 1d8 necrotic damage and you heal half the damage dealt. Once this action is used it cannot be used again until 24 seconds have passed. 
 
-**Curse of the Fangs**: You are voulnerable to radiant damage and you have disadvantage on perception checks made in sunlight
+**Curse of the Fangs**: You are vulnerable to radiant damage and you have disadvantage on perception checks made in sunlight
 
 ---
 
