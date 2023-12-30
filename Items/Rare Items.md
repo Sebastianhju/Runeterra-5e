@@ -636,29 +636,15 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Vampiric Scepter.png" Align=right width=8% height=8%>
 
-- 3650 Gold
+- 3000 Gold
 - Quarterstaff
 - Attunement
 
-**Vampiric**: You learn the Vampiric Touch spell and can cast it once a day without expending any mana. When you cast the spell you have a +6 to hit, unless your spellcasting class has a better modifier. 
-
-**Vampires Curse**: You heal equal to half the necrotic damage you deal, but whenever you take radiant damage you gain stacks of grievous wounds equal to the damage taken. If you gain ten or more stacks of grievous wonds in one hit, you gain two stacks of exhaustion.
-
----
-
-## Vampiric Scepter
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Vampiric Scepter.png" Align=right width=8% height=8%>
-
-- 3650 Gold
-- Quarterstaff
-- Attunement
-
-**Vampiric Influence**: You are a creature of the night and gain 60ft increased dark vision and advantage on stealth checks. Once a turn when you deal necrotic damage you heal an amount equal to your proficiency bonus. 
+**Vampiric Influence**: You are a creature of the night and gain 60ft increased dark vision and advantage on stealth checks. Once a turn when you deal necrotic damage you heal an amount equal to your twice your proficiency bonus. 
 
 **Bite**: As a bonus action you can bite a creature using your strength or dexterity to attack. The attack deals 1d8 necrotic damage and you heal half the damage dealt. Once this action is used it cannot be used again until 24 seconds have passed. 
 
-**Curse of the Fangs**: You are vulnerable to radiant damage and you have disadvantage on perception checks made in sunlight
+**Curse of the Fangs**: Whenever you take radiant damage you gain two stack of grievous wounds. 
 
 ---
 
