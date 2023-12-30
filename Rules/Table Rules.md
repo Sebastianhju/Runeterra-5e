@@ -52,7 +52,7 @@ Banned, due to its ability to abuse most runes ;D
 # Rulings 
 ## Flanking
 
-We dont play with the alternative flanking rules. 
+While you are on the opposite side of an enemy from an ally, you gain +2 to hit on that attack roll. The target must be medium or smaller. To flank a larger creature you must have one additional ally flanking for each size above medium the target is. 
 
 ## Potions
 
