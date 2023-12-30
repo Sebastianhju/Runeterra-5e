@@ -646,6 +646,22 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
 
+## Vampiric Scepter
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Vampiric Scepter.png" Align=right width=8% height=8%>
+
+- 3650 Gold
+- Quarterstaff
+- Attunement
+
+**Vampiric Influence**: You are a creature of the night and gain 60ft increased dark vision and advantage on stealth checks. Once a turn when you deal necrotic damage you heal an amount equal to your proficiency bonus. 
+
+**Bite**: As a bonus action you can bite a creature using your strength or dexterity to attack. The attack deals 1d8 necrotic damage and you heal half the damage dealt. Once this action is used it cannot be used again until 24 seconds have passed. 
+
+**Curse of the Fangs**: You are voulnerable to radiant damage and you have disadvantage on perception checks made in sunlight
+
+---
+
 ## Wardens Mail
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Warden's Mail.png" Align=right width=8% height=8%>
