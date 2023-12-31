@@ -640,9 +640,11 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - Quarterstaff
 - Attunement
 
-**Draining Touch**: *Vampiric Scepter* deals 1d6 additinal necrotic damage
+**Draining Touch**: Meele attacks with *Vampiric Scepter* deals 1d6 additinal necrotic damage
 
-**Vampiric Influence**: You are a creature of the night and gain 60ft increased dark vision and advantage on stealth checks. Once a turn when you deal necrotic damage you heal an amount equal to your twice your proficiency bonus. 
+**Vampiric Influence**: You are a creature of the night and gain 60ft darkvision.
+
+**Bloood Transfer*: *Once a round when you deal necrotic damage you heal an amount equal to your twice your proficiency bonus. 
 
 **Curse of the Fangs**: Whenever you take radiant damage you gain two stack of grievous wounds. 
 
