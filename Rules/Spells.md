@@ -135,7 +135,7 @@ _Wizard, Sorcerer, Bard, Artificer_
 |---|---|---|---|---|---|---|
 |2nd|1 Action|10 feet|V,S,|1 minute concentration|Transmutation|none|
 
-Two nodes appear in the air 10 feet appart and electric energy crackles between them accelerating anything that passes thru. A creature that passes through gains 30 movement speed until the end of its turn. A projectile that passes through gets a +1 to hit and deal 1d6 additional force damage
+Two nodes appear in the air 10 feet appart and electric energy crackles between them accelerating anything that passes thru. The first time a creature would pass through the gate each round, they gain 30 feet movement speed until the end of its turn. A projectile that passes through gets a +1 to hit and deal 1d6 additional force damage
 
 As a bonus action on your turn you can move the gate 30ft.
 
