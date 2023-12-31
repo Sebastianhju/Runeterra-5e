@@ -640,9 +640,9 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - Quarterstaff
 - Attunement
 
-**Vampiric Influence**: You are a creature of the night and gain 60ft increased dark vision and advantage on stealth checks. Once a turn when you deal necrotic damage you heal an amount equal to your twice your proficiency bonus. 
+**Draining Touch**: *Vampiric Scepter* deals 1d6 additinal necrotic damage
 
-**Bite**: As a bonus action you can bite a creature using your strength or dexterity to attack. The attack deals 1d8 necrotic damage and you heal half the damage dealt. Once this action is used it cannot be used again until 24 seconds have passed. 
+**Vampiric Influence**: You are a creature of the night and gain 60ft increased dark vision and advantage on stealth checks. Once a turn when you deal necrotic damage you heal an amount equal to your twice your proficiency bonus. 
 
 **Curse of the Fangs**: Whenever you take radiant damage you gain two stack of grievous wounds. 
 
