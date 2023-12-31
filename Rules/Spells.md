@@ -213,9 +213,9 @@ _Wizard, Sorcerer, Warlock, Bard, Druid, Cleric, Paladin, Ranger, Artificer_
 |---|---|---|---|---|---|---|
 |4th|1 Minute|Touch|V,S,M|1 week|Abjuration|None|
 
-As you touch a willing creature and say the incantation a bond is made between you. At any point during the next week you can channel a teleport that takes you to the bonded ceature. It takes an action to activate and the channeleing lasts for 6 seconds. In addition you are awere whenever the bonded creature is in significant danger. Should you use the teleport while the target is in combat. then your initiative is right after the target. In addition as you channel the teleport the target gets temporary hit points equal to 5 times your proficiancy bonus. 
+As you touch a willing creature and say the incantation a bond is made between you. At any point during the next week you can channel a teleport that takes you to the bonded creature. It takes an action to activate and the channeling lasts for 6 seconds. In addition you are aware whenever the bonded creature is in significant danger. Should you use the teleport while the target is in combat. then your initiative is right after the target. In addition as you channel the teleport the target gets temporary hit points equal to 5 times your proficiency bonus.
 
-The target needs to be on the same plane of exictance as yourself.
+The target needs to be on the same plane of existence as yourself.
 
 **At Higher Levels.** If the spell is cast at 5th lvl or higher the targets gets an additional +1 to ac for each spell level above 4 as long as the temporary hit points are active.
 
