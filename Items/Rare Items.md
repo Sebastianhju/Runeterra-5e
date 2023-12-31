@@ -644,7 +644,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Vampiric Influence**: You are a creature of the night and gain 60ft darkvision.
 
-**Bloood Transfer*: *Once a round when you deal necrotic damage you heal an amount equal to your twice your proficiency bonus. 
+**Bloood Transfer**: *Once a round when you deal necrotic damage you heal an amount equal to your twice your proficiency bonus. 
 
 **Curse of the Fangs**: Whenever you take radiant damage you gain two stack of grievous wounds. 
 
