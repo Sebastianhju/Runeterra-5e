@@ -363,7 +363,7 @@ Whenever you gain movement speed during your turn, double it.
 
 ### Absolute Focus  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/AbsoluteFocus.png" Align=left width=7% height=7%>
 
-While above 50% health, you deal 1d4 additional damage.  
+While above 50% health, you deal 1d6 additional damage. When you reach level 11 the damage increases to 2d6
 
 ---
 
