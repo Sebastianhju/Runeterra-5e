@@ -197,7 +197,7 @@ _Wizard, Sorcerer, Warlock, Death Domain_
 |---|---|---|---|---|---|---|
 |3rd|1 Reaction|Self, 10 feet|S|Intantanious|Necrotic|Constitution|
 
-When you are about to take damage, you can use your reaction to turn into a pool of blood, making you untargetable and invulnerable until the start of your turn. You take necrotic damage equal to three times your proficiency bonus. All enemies within 5 feet of you must then make a Constitution saving throw taking 1d8 necrotic damage on a failure. You heal equal to half the damage dealt. 
+When you are about to take damage, you can use your reaction to turn into a pool of blood, making you untargetable and invulnerable until the start of your turn. You take necrotic damage equal to three times your proficiency bonus. All enemies within 5 feet of you must then make a Constitution saving throw taking 1d8 necrotic damage, halved on a success. You heal equal to half the damage dealt. 
 
 ---
 
