@@ -22,7 +22,7 @@ Those from Piltover and Zaun most commonly speak and write Va-Nox.**
 # Exotic Languages
 |Language|Script|Typical Speakers|
 |---|---|---|
-|Ur-Nox||Va-Nox|Native Noxians|
+|Ur-Nox|Va-Nox|Native Noxians|
 |Ur-Frelian|Freljordian|Native Freljordians|
 |Yoyeesh|Yoyeesh|Yordles|
 |Vastayan|Ur-Ionian|Native Ionians|
