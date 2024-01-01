@@ -109,6 +109,21 @@ You attempt to drain an enemy of their life essence. You deal 1d8 nonmigatiable 
 
 ---
 
+**Essence Theft**
+
+_Wizard, Sorcerer, Warlock, Bard_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|2nd|1 Action|30 feet|V,S|Instantanious|Attack/Dexterity|
+
+You send out an arcane orb towards a creature that you can see within range. On a hit the taget takes 2d6 thunder damage. After the attack, the arcane orb lingers behind the target. On your next turn, you can pull the orb towards you as a bonus action. All creatures in a line must succeed a dexterit saving throw or take 2d6 force damage, halved on a save. 
+
+**At Higher Levels.** When cast with a spell slot of 2nd level or higher the damage increaes by 1d6 on both parts. 
+
+
+---
+
 ## Second Level Spells
 
 ---
