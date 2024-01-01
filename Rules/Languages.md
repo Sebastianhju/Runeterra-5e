@@ -7,7 +7,7 @@
 |Demacian|Va-Nox|Native Demacians and native Noxians|
 |Ionian|Ur-Ionian|Ionian|
 
-### Shurima, Piltover
+### Shurima
 |Language|Script|Typical Speakers|
 |---|---|---|
 |Shuriamn|Southspeak|Shurimans|
@@ -18,8 +18,6 @@
 **The Bilgewaterian language is a mix of most dialects and languages that has ben developed due to traveling merchants trying to communicate. 
 Those from Piltover and Zaun most commonly speak and write Va-Nox.** 
 
-### Bilgewater, Piltover And Zaun
-All languages appear here due to lots of traveling. Velarian is most prominent. 
 
 # Exotic Languages
 |Language|Script|Typical Speakers|
