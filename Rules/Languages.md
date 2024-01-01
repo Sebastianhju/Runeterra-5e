@@ -10,7 +10,7 @@
 ### Shurima
 |Language|Script|Typical Speakers|
 |---|---|---|
-|Shuriamn|Southspeak|Shurimans|
+|Shuriman|Southspeak|Shurimans|
 |Targonian|Southspeak|Targonians|
 |Ixtali|Southspeak|Ixtallians|
 |Bilgewater|Va-Nox|Bilgewaterians|
