@@ -79,7 +79,7 @@ _You gain +1 to your armor class while attuned to this item_
 
 **Specral Spears**: Whenever you throw the *Black Spear* it automaticly teleports back to your hand when it hits a target or the attack misses. When the attack hits a sprecral spear lingers in the black spears place. 
 
-**Rend**: As a bonus action, you can pull out all specral spears from all creatures within 60 feet of you. A target then takes 1 force damage for each spear in them. 
+**Rend**: As an action, you can pull out all specral spears from all creatures within 60 feet of you. A target then takes 1d6 force damage for each spear in them. 
 
 _You have +1 to hit and damage rolls with this magical weapon_ 
 
