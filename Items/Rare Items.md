@@ -268,7 +268,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Health**: You gain maximum hit points equal to half your hit dice.
 
-**Madness**: Whenever you are concentrating on a spell, you can choose to enter a st  x    ate of madness. While in this state you get a +3 modifier to concentration checks and your spells deal 1d6 additional force damage. If you loose concentration while in this state you gain a long term madness until you finish a long rest.
+**Madness**: Whenever you are concentrating on a spell, you can choose to enter a state of madness. While in this state you get a +3 modifier to concentration checks and your spells deal 1d6 additional force damage. If you loose concentration while in this state you gain a long term madness until you finish a long rest.
 
 ---
 
