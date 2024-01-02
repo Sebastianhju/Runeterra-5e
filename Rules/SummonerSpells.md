@@ -54,6 +54,8 @@ Alternatively when you see an ally within 30 feet hit an attack roll, you can us
 ---
 
 # Teleport<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Teleport_HD.png" align=right width=10% height=10%>
+As you use the summoner spell, choose one of the following options: 
+
 As a bonus action you can teleport yourself or an ally within 60 feet of you to a location you can see within 120 feet of yourself.
 
 After a ten minute channel you can teleport yourself and up to five allies to a city or village you have visited earlier during the campaign.
