@@ -9,18 +9,18 @@
 # Barrier 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Barrier_HD.png" align=right width=10% height=10%>
-As a bonus action you can create a see-through Barrier in a 15 feet radius sphere cthat lasts for a minute. For enemies the barrier is solid. Enemy creatures, missiles and objects cannot pass through it. For you and your allies, the barrier is immaterial. The Barriers AC equals 12 + your proficiency bonus and its hit points maximum equals to five plus five times your level.
+As a bonus action you can create a see-through Barrier in a 15 feet radius sphere that lasts for a minute. For enemies the barrier is solid. Enemy creatures, missiles and objects cannot pass through it. For you and your allies, the barrier is immaterial. The Barriers AC equals 12 + your proficiency bonus and its hit points maximum equals to five plus five times your level.
 
 ---
 
 # Cleanse <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Cleanse.png" align=right width=10% height=10%>
 
-As a bonus action you can remove all negative effects affecting a creaure within 15 feet of you. This doens not remove curses or wounds. 
+As a bonus action you can remove all negative effects affecting a creature within 15 feet of you. This doesn´t not remove curses or wounds. 
 
 ---
 
 # Exhaust<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Exhaust_HD.png" align=right width=10% height=10%>
-As a *Bonus Action* you can exhaust a creature within 15 feet of you for 24 seconds. Their speed is halved, their armorclass and to hit bonus is reduced by an amount equal to your proficiency bonus.
+As a *Bonus Action* you can exhaust a creature within 15 feet of you for 24 seconds. Their speed is halved, their armor class and to hit bonus is reduced by an amount equal to your proficiency bonus.
 
 ---
 
@@ -30,7 +30,7 @@ At any time, you can teleport to a location within 30 feet of you, you do not ne
 ---
 
 # Ghost<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Ghost_HD.png" align=right width=10% height=10%>
-As a *Bonus Action* you can target an amount of allies you can see equal to your proiciency bonus to become invisible for an hour, or until they make an attack or force another creature to make a saving throw. For the first minute your movementspeed is doubled.
+As a *Bonus Action* you can target an amount of allies you can see equal to your proficiency bonus to become invisible for an hour, or until they make an attack or force another creature to make a saving throw. For the first minute your movementspeed is doubled.
 
 ---
 
