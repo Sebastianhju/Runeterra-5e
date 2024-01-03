@@ -791,7 +791,7 @@ _You gain +1 to your armor class_
 
 **Sould Siphon**: Once a turn when you damage an enemy, you grants you a soul charge up to a maximum of three. The next time you heal or give an ally temporary hit points, you both heal 2d8 hit points for each soul charge. 
 
-**Health**: You gain maximum hit points equal to your proficiency bonus. 
+**Health**: You gain maximum hit points equal to your hit dice. 
 
 **Haste**: The cooldown of you runes and items are reduced by 6 seconds. 
 
