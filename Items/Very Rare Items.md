@@ -760,3 +760,21 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 _You gain +2 to spell attacks and your save dc while attuned to this magical item_
 
 _Burn: At the start of their turn, a creature with burn stacks takes force damage equal to the stacks of burn and remove the amount of stacks by one. A creature can have a maximum of stacks equal to five times your proficiency bonus_
+
+---
+
+## Radiant Virtue
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Radiant Virtue.png" Align=right width=8% height=8%>
+
+- 14,000 Gold
+- Wonderous Item
+- Attunement
+
+**Guiding Light**: Whenever you spend mana on a spell, you heal yourself and all allies equal to two times the mana spent on that spell. 
+
+**Health**: You maximum hit points increases equal to your hit dice. 
+
+**Celestial Boon**: You get +1 to all saving throws
+
+---
