@@ -535,7 +535,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 - 2500 Gold
 - Wonderous
 
-**Intervention**: As a bonus action you can target a point you can see and call upon help from the divine. At the start of your next turn a beam of light strikes in a 20 foot radius, centered on your point. All allies within the effect heals 2d8 + prodiciency bonus. All enemies takes 2d8 radiant damage. You can use this action a mnumber of times equal to your proficiency bonus before you must finish a long rest. 
+**Intervention**: As a bonus action you can target a point you can see and call upon help from the divine. At the start of your next turn a beam of light strikes in a 20 foot radius, centered on your point. All allies within the effect heals 2d8 + proficiency bonus. All enemies takes 2d8 radiant damage. You can use this action a number of times equal to your proficiency bonus before you must finish a long rest. 
 
 **Harmony**: Whenever you heal a creature, you can spend one mana to heal the maximum amount of hit points possible. 
 
