@@ -13,7 +13,7 @@
 
 **Awe**: Your maximum hit points increase with a number equal to half your maximum mana. 
 
-**Everlasting**: Whenever you immobolize a creature, you gain temporary hit points equal to half your current mana, that last until the start of your next turn. Once this effect is used, it cannot be used again until 30 seconds pass.  
+**Everlasting**: Whenever you immobilize a creature, you gain temporary hit points equal to half your current mana, that last until the start of your next turn. Once this effect is used, it cannot be used again until 30 seconds pass.  
 
 _While wearing this armor you have a +2 to your armor class_
 
