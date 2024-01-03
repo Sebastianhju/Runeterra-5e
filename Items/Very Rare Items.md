@@ -789,7 +789,7 @@ _You gain +1 to your armor class_
 - 13,000 Gold
 - Wonderous Item
 
-**Sould Siphon**: Once a turn when you damage an enemy, you grants you a soul charge up to a maximum of three. The next time you heal or give an ally temporary hit points, you both heal 2d8 hit points for each soul charge. 
+**Soul Siphon**: Once a turn when you damage an enemy, you grants you a soul charge up to a maximum of two. The next time you heal or give an ally temporary hit points, you expend all soul charges to heal you both 2d8 hit points for each soul charge.
 
 **Health**: You gain maximum hit points equal to your hit dice. 
 
