@@ -202,7 +202,7 @@ _You gain +2 to spell attack rolls and +1 to spell save DCs_
 
 **Colossal Consumption**: Whenever you end your turn, all creatures within 5 feet of you are granted a _mark of the colossus_. Whenever you attack a creature with a mark, they take one additional damage for every 25th hit points you have, and you get a stack of _Heartsteel_. You gain one additional hit point for every third stack of _Heartsteel_ as long as you are attuned to the item.
 
-**Health**: You gain hit points equal to your hit dice. 
+**Health**: You gain maximum hit points equal to twice your level. 
 
 _You gain +1 to your armor class while wearing this piece of armor_
 
@@ -274,7 +274,7 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 
 **Critical Resilence**: Attacks cannot critically hit against you.
 
-**Health**: You gain hit points equal to your hit dice. 
+**Health**: You gain maximum hit points equal to twice your level. 
 
 _You have +1 to your armor class while wearing this shield_
 
@@ -292,7 +292,7 @@ _You have +1 to your armor class while wearing this shield_
 
 **Sacrifice**: Whenever the _Worthy_ ally is within 60 feet of you and takes damage, you take half of that damage as nonmigatiable damage and they take half damage instead. Whenever the _Worthy_ ally deals damage to a creature, you heal equal to your proficiency bonus, up to a maximum of four times each round. 
 
-**Health**: You gain hit points equal to your hit dice. 
+**Health**: You gain maximum hit points equal to twice your level. 
 
 ---
 
@@ -414,7 +414,7 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 **Lifeline**: If you would take damage that would reduce your hit points to zero, you first gain temporary hit points equal to 10 times your proficiency bonus. As long as you have these temporary hit points, your size increases by one, as if affected by the enlarge spell, and you are immune to all immobilizing effects. Once this effect is used, it cannot be used again until you finish a long rest.
 
-**Health**: You gain hit points equal to your hit dice. 
+**Health**: You gain maximum hit points equal to twice your level. 
 
 ---
 
@@ -427,7 +427,7 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 **Thorns**: Whenever you are damaged by a weapon attack, the attacker takes damage equal to twice your proficiency bonus and gains two stacks of grievous wounds. 
 
-**Health**: You gain hit points equal to your hit dice. 
+**Health**: You gain maximum hit points equal to twice your level. 
 
 _You gain +2 to your armor class while wearing this piece of armor_
 
@@ -544,7 +544,7 @@ _You gian +2 to hit and damage rolls using this magical weapon_
 
 **Shipwrecker**: Whenever you move you gain a speed of momentum for every feet you move, up to a maximum of 80. For every 40 stack you gain +5 movement speed. Whenever you hit a creature with a melee attack you consume all charges of momentum, dealing 1d6 additional damage and reducing their speed by 15 feet for every 40th feet you've moved that turn. 
 
-**Health**: You gain hit points equal to your hit dice. 
+**Health**: You gain maximum hit points equal to twice your level. 
 
 **Speed**: You gain +5 movement speed. 
 
@@ -674,7 +674,7 @@ _You gian +3 to initiative rolls_
 
 **Allways Ready**: Whenever you roll initiative, you start with 75 hit points, unless your current hit points are higher. 
 
-**Health**: You gain hit points equal to your hit dice. 
+**Health**: You gain maximum hit points equal to three times your level. 
 
 _Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
 
@@ -771,9 +771,9 @@ _Burn: At the start of their turn, a creature with burn stacks takes force damag
 - Wonderous Item
 - Attunement
 
-**Guiding Light**: Whenever you spend mana on a spell, you heal yourself and all allies within 10 feet of you equal to two times the mana spent on that spell. 
+**Guiding Light**: Whenever you cast your ultimate, you gain additional maximum hit ponts equal to twice your level until your next long rest. Additionally you heal yourself and all allies within 15 feet an amount equal to two times your level. 
 
-**Health**: You maximum hit points increases equal to your hit dice. 
+**Health**: You gain maximum hit points equal to twice your level. 
 
 **Celestial Boon**: You get +1 to all saving throws
 
