@@ -781,3 +781,16 @@ _You gain +1 to your armor class_
 
 
 ---
+
+## Echoes of Helia
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Echoes of Helia.png" Align=right width=8% height=8%>
+
+- 12,500 Gold
+- Wonderous Item
+
+**Sould Siphon**: Once a turn when you damage an enemy, you grants you a soul charge up to a maximum of three. The next time you heal or give an ally temporary hit points, you both heal 2d8 hit points for each soul charge. 
+
+**Health**: You gain maximum hit points equal to your proficiency bonus. 
+
+**Haste**: The cooldown of you runes and items are reduced by 6 seconds. 
