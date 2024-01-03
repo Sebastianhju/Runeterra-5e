@@ -795,6 +795,8 @@ _You gain +1 to your armor class_
 
 **Haste**: The cooldown of you runes and items are reduced by 6 seconds. 
 
+**Healing Power**: Your healing spells heal 2 more hit points
+
 ---
 
 ## Ardent Censer
@@ -808,3 +810,20 @@ _You gain +1 to your armor class_
 
 **Harmony**: Whenever you spend a hit dice you regain one mana. 
 
+**Healing Power**: Your healing spells heal 2 more hit points
+
+---
+
+## Staff of Flowing Water
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Staff of Flowing Water.png" Align=right width=8% height=8%>
+
+- 14,000 Gold
+- Quarterstaff
+- Attunemnet
+
+**Rapids**: Whenever you heal a target, the cooldown of their runes and items are reduced by 12 seconds. 
+
+**Mana**: You gain +10 maimum mana. 
+
+**Healing Power**: Your healing spells heal 2 more hit points
