@@ -672,7 +672,7 @@ _You gian +3 to initiative rolls_
 
 **Warmogs Heart**: As a bonus action, you can give yoursel stacks of regeneration equal to two times your proficiency bonus. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
 
-**Allways Ready**: Whenever you roll initiative, if you are bloodied you instead start with 60% hit points. 
+**always Ready**: Whenever you roll initiative, if you are bloodied you instead start with 60% hit points. 
 
 **Health**: You gain maximum hit points equal to three times your level. 
 
@@ -824,6 +824,6 @@ _You gain +1 to your armor class_
 
 **Rapids**: Whenever you heal a target, the cooldown of their runes and items are reduced by 12 seconds. 
 
-**Mana**: You gain +10 maimum mana. 
+**Mana**: You gain +10 maximum mana. 
 
 **Healing Power**: Your healing spells heal 2 more hit points
