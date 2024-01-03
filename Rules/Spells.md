@@ -117,9 +117,9 @@ _Wizard, Sorcerer, Warlock, Bard_
 |---|---|---|---|---|---|---|
 |1nd|1 Action|30 feet|V,S|Instantanious|Evocation|Attack/Dexterity|
 
-You send out an arcane orb towards a creature that you can see within range. On a hit the taget takes 2d6 thunder damage. After the attack, the arcane orb lingers behind the target. On your next turn, you can pull the orb towards you as a bonus action. All creatures in a line must succeed a dexterit saving throw or take 2d6 force damage, halved on a save. 
+You send out an arcane orb towards a creature that you can see within range. On a hit the taget takes 2d6 thunder damage. After the attack, the arcane orb lingers behind the target. On your next turn, you can pull the orb towards you as a bonus action. All creatures in a line must succeed a dexterity saving throw or take 2d6 force damage, halved on a save. 
 
-**At Higher Levels.** When cast with a spell slot of 2nd level or higher the damage increaes by 1d6 on both parts. 
+**At Higher Levels.** When cast with a spell slot of 2nd level or higher the damage increases by 1d6 on both parts. 
 
 
 ---
