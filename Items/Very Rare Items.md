@@ -771,7 +771,7 @@ _Burn: At the start of their turn, a creature with burn stacks takes force damag
 - Wonderous Item
 - Attunement
 
-**Guiding Light**: Whenever you spend mana on a spell, you heal yourself and all allies equal to two times the mana spent on that spell. 
+**Guiding Light**: Whenever you spend mana on a spell, you heal yourself and all allies within 10 feet of you equal to two times the mana spent on that spell. 
 
 **Health**: You maximum hit points increases equal to your hit dice. 
 
