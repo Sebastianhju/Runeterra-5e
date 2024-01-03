@@ -816,7 +816,7 @@ _You gain +1 to your armor class_
 
 ## Staff of Flowing Water
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Staff of Flowing Water.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Staff of flowing water.png" Align=right width=8% height=8%>
 
 - 14,000 Gold
 - Quarterstaff
