@@ -672,7 +672,7 @@ _You gian +3 to initiative rolls_
 
 **Warmogs Heart**: As a bonus action, you can give yoursel stacks of regeneration equal to two times your proficiency bonus. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
 
-**Allways Ready**: Whenever you roll initiative, you start with 75 hit points, unless your current hit points are higher. 
+**Allways Ready**: Whenever you roll initiative, if you are bloodied you instead start with 60% hit points. 
 
 **Health**: You gain maximum hit points equal to three times your level. 
 
