@@ -539,7 +539,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 **Harmony**: Whenever you heal a creature, you can spend one mana to heal the maximum amount of hit points possible. 
 
-**Health**: Your maximum hit points increases an amount equal to half your hit dice. 
+**Healing Power**: Your healing spells heal 2 more hit points
 
 ---
 
