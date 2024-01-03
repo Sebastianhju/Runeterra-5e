@@ -528,7 +528,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 ---
 
-# Redemption
+## Redemption
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Redemption.png" Align=right width=8% height=8%>
 
