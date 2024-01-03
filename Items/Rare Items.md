@@ -526,6 +526,20 @@ _You gain +2 to initiative checks_
 
 _You gain +1 to hit and damage rolls using this magical weapon_
 
+---
+
+# Redemption
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Redemption.png" Align=right width=8% height=8%>
+
+- 2500 Gold
+- Wonderous
+
+**Intervention**: As a bonus action you can target a point you can see and call upon help from the divine. At the start of your next turn a beam of light strikes in a 20 foot radius, centered on your point. All allies within the effect heals 2d8 + prodiciency bonus. All enemies takes 2d8 + proficiency bonus radiant damage. Once this action is used, it cannot be used again until 60 seconds pass. Whenever you heal a target, the cooldown goes down by 12 seconds. 
+
+**Harmony**: Whenever you heal a creature, you can spend one mana to heal the maximum amount of hit points possible. 
+
+**Health**: Your maximum hit points increases an amount equal to half your hit dice. 
 
 ---
 
