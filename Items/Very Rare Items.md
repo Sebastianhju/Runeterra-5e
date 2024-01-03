@@ -777,4 +777,7 @@ _Burn: At the start of their turn, a creature with burn stacks takes force damag
 
 **Celestial Boon**: You get +1 to all saving throws
 
+_You gain +1 to your armor class_
+
+
 ---
