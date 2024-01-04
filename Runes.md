@@ -183,7 +183,7 @@ The damage dice increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 an
 
 ### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=20% height=20%>
 
-You can dash as a bonus action, and the next attack that hits this round deals 1d4 additional damage for every 15 feet you've traveled towards your target this turn. Once used, it cannot be used again until 36 seconds has passed.
+You can dash as a bonus action, and the next attack that hits this round deals 1d4 additional damage for every 15 feet you've traveled towards your target this turn, up to a maximum of 20d4. Once used, it cannot be used again until 36 seconds has passed.
 
 You gain advantage on your next melee attack if you moved at least 30ft towards the target.
 
