@@ -1,7 +1,7 @@
 
 |Name|	Cost|	Ammo	|Damage|	Weight|	Range|	Properties|
 |---|---|---|---|---|---|---|
-|Palm| Pistol	|50g	2g (20)	|1d8 piercing	|1 lb.	|(40/160)	| Light, reload 1, misfire 1|
+|Palm Pistol	|50g	|2g (20)	|1d8 piercing	|1 lb.	|(40/160)	| Light, reload 1, misfire 1|
 |Pistol	|150g	|4g (20)	|1d10 piercing	|3 lb.	|(60/240)	|Reload 4, misfire 1|
 |Musket	|300g	|5g (20)	|1d12 piercing|	10 lb.|	(120/480)|	Two-handed, reload 1, misfire 2|
 |Pepperbox|	250g	|4g (20)	|1d10 piercing|	5 lb.|	(80/320)	|Reload 6, misfire 2|
