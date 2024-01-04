@@ -12,7 +12,7 @@
 
 **Unmake**: As an action you can unmake the foes surrounding you. All enemies within 15 feet of you must succeed a wisdom saving throw against your intimidation check. On a failure they are frightened of you for a minute, while frightened in this way they have disadvantage on all saving throws as long as they can see you. Once this action is used it cannot be used again until 30 seconds pass.
 
-_You gain +1 to your armor class and saving throws_
+_You gain +1 to your saving throws_
 
 ---
 
