@@ -515,19 +515,6 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ---
 
-## Quicksilver Sash
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Quicksilver Sash.png" Align=right width=8% height=8%>
-
--2700 Gold
-- Wonderous Item
-
-**Quicksilver** As a reaction upon begin immobilized you can remove all immobilizing effects and cast lesser restoration on yourself. Once this effect is used it cannot be used again until 30 seconds pass.  
-
-**Unstoppable** You gain +2 to saving throws agains immobilizing effects. 
-
----
-
 ## Rageknife
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rageknife.png" Align=right width=8% height=8%>
