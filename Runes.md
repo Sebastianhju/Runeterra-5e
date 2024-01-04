@@ -564,13 +564,9 @@ At level 17 you gain all summoner spells whenever you finish a long rest.
 
 ### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" Align=left width=20% height=20%>
 
-Whenever you deal damage against a creature that hasn't taken a turn in the combat yet, you gain gold equal to the damage dealt times your proficiency bonus (Halved for spells). You also deal 1d4 additional damage for every 25th gold gained. 
+You gain a +1 bonus to initiative. Whenever you deal damage against a creature that hasn´t taken a turn in combat yet you ignore their resistances and immunities and you gain 25 gold plus gold equal to the damage dealt times your proficiency bonus. You also deal 1d6 additional damage to the target for every 50th gold gained on them, up to a maximum of 20d6.
 
-The damage dice increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 and 1d12 at level 17.
-
-**NERF**
-
-Whenever you deal damage against a creature that hasn´t taken a turn in the combat yet, you gain gold equal to the damage dealt times your proficiency bonus (halved for spells). You alse deal 1d10 additional damage for every 50th gold gained. 
+The bonus to initiative increases to +3 at level 5, +4 at level 9, +5 at level 13 and +10 at level 17
 
 ---
 
