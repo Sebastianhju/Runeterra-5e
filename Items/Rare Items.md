@@ -1,5 +1,19 @@
 # Rare items
 
+## Abyssal Mask
+
+- 3000 Gold
+- Wonderous
+- Attunement
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Abyssal Mask.png" Align=right width=8% height=8%>
+
+**Health**: You gain additional maximum hit points equal to you hit dice. 
+
+**Unmake**: As an action you can unmake the foes surrounding you. All enemies within 15 feet of you must succeed a wisdom saving throw against your intimidation check. On a failure they are frightened of you for a minute, while frightened in this way they have disadvantage on all saving throws as long as they can see you. Once this action is used it cannot be used again until 30 seconds pass.
+
+_You gain +1 to your armor class and saving throws_
+
 ## Aegis of the Legion
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Aegis of the Legion.png" Align=right width=8% height=8%>
@@ -306,6 +320,21 @@ You gain +1 to hit and damage rolls using this magical weapon.
 **Shock**: When you hit an attack with _Hextech Revolver_ you can choose to force the target to succeed a constitution saving throw, the DC equal to 8 + proficiency bonus + dexterity modifier, on a failed save they take 2d8 lightning damage and are stunned until the end of their turn. On a success they are not stunned and take half damage. Once this effect is used, it cannot be used again until 36 seconds have passed.
 
 _You gain +1 to hit and damage rolls with this magical weapon_ 
+
+---
+
+## Hullbreaker
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hullbreaker.png" Align=right width=8% height=8%>
+
+- 3000 Gold
+- Mace
+
+**Boarding Party**: Whenever there are no allies within 45 feet of you, you gain +2 to your armor class and saving throws (Attune to get this effect) 
+
+**Siege Weapon**: The Hullbreaker deals double damage against objects and constructs. 
+
+_You have +1 to attack and damage rolls using this magical weapon._
 
 ---
 
@@ -721,16 +750,3 @@ _You gain a +2 to your initiative rolls_
 _You gain +1 to hit and damage rolls using this magical weapon_
 
 ---
-
-## Hullbreaker
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hullbreaker.png" Align=right width=8% height=8%>
-
-- 3000 Gold
-- Mace
-
-**Boarding Party**: Whenever ther are no allies within 45 feet of you, you gain +2 to your armor class and saving throws (Attune to get this effect) 
-
-**Siege Weapon**: The Hullbreaker deals double damage against objects and constructs. 
-
-_You have +1 to attack and damage rolls using this magical weapon.
