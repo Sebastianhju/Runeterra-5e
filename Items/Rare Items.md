@@ -456,6 +456,18 @@ You gain +1 to spell attack rolls and your saving throw DC.
 
 ---
 
+## Mecurial Scimitar
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mecurial Scimiter.png" Align=right width=8% height=8%>
+
+- 2700 Gold
+- Scimitar
+
+**Quicksilver** As a reaction upon begin immobilized you can remove all immobilizing effects and cast lesser restoration on yourself, until the end of yout turn you gain +1 crit chance with _Mecurial Scimitar_. Once this effect is used it cannot be used again until 30 seconds pass.  
+
+_You have +1 to attack and damage rolls with this magical weapon_
+
+---
 ## Negatron Cloak
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Negatron Cloak.png" Align=right width=8% height=8%>
@@ -651,6 +663,20 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 _You gain +1 to your armorclass while wearing this armor_
 
 ---
+
+## Silvermere Dawn
+
+- 2700 Gold
+- Morningstar
+
+**Quicksilver**: You can cast lesser restoration as a bonus action, when you do this you can remove three conditions. You can do this two times before you must finish a long rest. 
+
+**Health**: You gain maximum hit points equal to half your hit dice. 
+
+_You gain +1 to attack and damage rolls using this magical weapon_
+
+---
+
 ## Steel Sigil
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Steel Sigil.png" Align=right width=8% height=8%>
