@@ -344,6 +344,9 @@ _You have +1 to attack and damage rolls using this magical weapon._
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Imperial Mandate.png" Align=right width=8% height=8%>
 
+- 2500 Gold
+- Wonderous
+
 **Coordinated Fire**: Whenever you slow or immobilize a target, they gain a mark that lasts until start of your next turn. The mark is consumed the next time the target takes damage from one of you allies, dealing 2d8 radiant damage.
 
 **Harmony**: Whenever a mark is consumed, you regain 1 mana.
