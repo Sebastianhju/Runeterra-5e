@@ -827,3 +827,20 @@ _You gain +1 to your armor class_
 **Mana**: You gain +10 maximum mana. 
 
 **Healing Power**: Your healing spells heal 2 more hit points
+
+---
+
+## Hextech Gunblade
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Gunblade.png" Align=right width=8% height=8%>
+
+- 13,000 Gold
+- Pistol / Longsword
+
+**Gunblade**: This weapon can eighter be used as a +2 Pistol or a +2 Longsword, you gain different benefit from eighter option.
+
+**Hextech Gun**: When you hit an attack with the gun part of this weapon, you can choose to heal yourself and an ally within 15 feet of the target for 2d8 + proficiency bonus hit points. Once this effect is used, it cannot be used again until 60 seconds pass. Whenever you make an attack roll using the sword pat of this weapon the cooldown goes down by 12 seconds. 
+
+**Hextech Blade**: When you hit an attack with the sword part of this weapon you can unleash a burst of energy. The target must succed a dexterity saving throw or take 2d8 additional lightning damage. The dc equals 10 + proficiency bonus + strength modifier. Once this effect is used, it cannot be used again until 60 seconds pass. Whenever you make an attack roll using the gun pat of this weapon the cooldown goes down by 12 seconds. 
+
+_You gain +2 to hit and attack rolls using this magical weapon_
