@@ -194,7 +194,7 @@ The damage dice increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 an
 ## Lesser Runes
 ### Cheap Shot <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/CheapShot.png" Align=left width=7% height=7%>
 
-Whenever you damage a creature, you can choose to deal 1d6 extra force damage for every negative status effect they have. Once used, this effect cannot be used again until 30 seconds has passed.
+Whenever you damage a creature, you can choose to deal 1d8 extra force damage for every negative status effect they have. Once used, this effect cannot be used again until 30 seconds has passed.
 
 ---
 ### Taste of Blood <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png" Align=left width=7% height=7%>
