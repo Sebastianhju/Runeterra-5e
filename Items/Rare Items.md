@@ -709,7 +709,7 @@ _While wielding this armor you gain +1 to your armor class_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Zeal.png" Align=right width=8% height=8%>
 
-- 3250
+- 3250 Gold
 - Shortsword
 
 **Critical**: Your critical strike chance increases by one.
@@ -719,3 +719,18 @@ _While wielding this armor you gain +1 to your armor class_
 _You gain a +2 to your initiative rolls_ 
 
 _You gain +1 to hit and damage rolls using this magical weapon_
+
+---
+
+## Hullbreaker
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hullbreaker.png" Align=right width=8% height=8%>
+
+- 3000 Gold
+- Mace
+
+**Boarding Party**: Whenever ther are no allies within 45 feet of you, you gain +2 to your armor class and saving throws (Attune to get this effect) 
+
+**Siege Weapon**: The Hullbreaker deals double damage against objects and constructs. 
+
+_You have +1 to attack and damage rolls using this magical weapon.
