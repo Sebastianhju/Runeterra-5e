@@ -649,6 +649,21 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 _Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
 
 ---
+
+## Spirit Visage
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spirit Visage.png" Align=right width=8% height=8%>
+
+- 4500 Gold
+- Chainmail
+
+**Boundless Vitality**: Whenever you heal or gain temporary hit points, you can increase that amount by an amount equal to your proficiency bonus. 
+
+**Health**: Your maximum hit points increases an amount equal to twice your level. 
+
+_You gain +1 to your armorclass while wearing this armor_
+
+---
 ## Steel Sigil
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Steel Sigil.png" Align=right width=8% height=8%>
