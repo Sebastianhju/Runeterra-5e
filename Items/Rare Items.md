@@ -488,9 +488,9 @@ _You have +1 to attack and damage rolls with this magical weapon_
 - 3000 Gold
 - Wonderous Item
 
-**Statikk Ammunition**: The noonquiver is magically loaded with _Statikk Ammunition_ that deal 1d4 additional lightning damage. 
+**Statikk Ammunition**: The noonquiver is magically loaded with _Statikk Ammunition_ that deal 1d6 additional lightning damage. 
 
-**High Noon**: As a bonus action you can enter a state of focus that lasts for 12 seconds. Whenever you take the attack action you can do an additional attack as a part of that action. Once this action is used it cannot be used again until 60 second pass. Whenever you score a takedown, this cooldown is reduced by 6 seconds. 
+**High Noon**: As a bonus action you can enter a state of focus that lasts until the end of your turn. Whenever you take the attack action you can do an additional attack as a part of that action. Once this action is used it cannot be used again until 60 second pass. Whenever you score a takedown, this cooldown is reduced by 12 seconds. 
 
 ---
 
@@ -565,7 +565,9 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 - 3250 Gold
 - Shortbow
 
-**Swift String**: Whenever you take the attack action using _Recurve Bow_ you can make an extra attack as a part of that action. 
+**Wind Up**: Whenever you hit an attack with recurve bow, you gain a charge.
+
+**Swift String**: Whenever you take the attack action using _Recurve Bow_ you can spend three chrages to make an extra attack as a part of that action.
 
 _You gain +2 to initiative checks_
 
