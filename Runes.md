@@ -568,7 +568,9 @@ Whenever you deal damage against a creature that hasn't taken a turn in the comb
 
 The damage dice increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 and 1d12 at level 17.
 
-Skadoosh
+**NERF**
+
+Whenever you deal damage against a creature that hasn´t taken a turn in the combat yet, you gain gold equal to the damage dealt times your proficiency bonus (halved for spells). You alse deal 1d10 additional damage for every 50th gold gained. 
 
 ---
 
