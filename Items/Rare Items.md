@@ -14,6 +14,8 @@
 
 _You gain +1 to your armor class and saving throws_
 
+---
+
 ## Aegis of the Legion
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Aegis of the Legion.png" Align=right width=8% height=8%>
