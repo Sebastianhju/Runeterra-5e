@@ -856,4 +856,4 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 **Health**: Your maximum hit points increases by an anount equal to twice your level
 
-_You gain +2 to your armor class while wielding this piece of armor_
+_You gain +1 to your armor class while wielding this piece of armor_
