@@ -280,6 +280,8 @@ _You gain +1 to your initiative rolls_
 
 ---
 
+## Quicksilver Sash
+
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Quicksilver Sash.png" Align=right width=8% height=8%>
 
 - 700 Gold
