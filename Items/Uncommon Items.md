@@ -280,6 +280,15 @@ _You gain +1 to your initiative rolls_
 
 ---
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Quicksilver Sash.png" Align=right width=8% height=8%>
+
+- 700 Gold
+- Wonderous Item
+
+**Quicksilver** As a reaction upon begin immobilized you can remove all immobilizing effects and cast lesser restoration on yourself. Once this effect is used it cannot be used again until you finish a long rest.  
+
+---
+
 ## Pow Pow
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Pow Pow.png" Align=right width=8% height=8%>
 
