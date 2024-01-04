@@ -564,7 +564,7 @@ At level 17 you gain all summoner spells whenever you finish a long rest.
 
 ### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" Align=left width=20% height=20%>
 
-You gain a +1 bonus to initiative. Whenever you deal damage against a creature that hasn´t taken a turn in combat yet you ignore their resistances and immunities and you gain 25 gold plus gold equal to the damage dealt times your proficiency bonus. You also deal 1d6 additional damage to the target for every 50th gold gained on them, up to a maximum of 20d6.
+You gain a +2 bonus to initiative. Whenever you deal damage against a creature that hasn´t taken a turn in combat yet you ignore their resistances and immunities and you gain 25 gold plus gold equal to the damage dealt times your proficiency bonus. You also deal 1d6 additional damage to the target for every 50th gold gained on them, up to a maximum of 20d6.
 
 The bonus to initiative increases to +3 at level 5, +4 at level 9, +5 at level 13 and +10 at level 17
 
