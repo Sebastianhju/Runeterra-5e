@@ -797,3 +797,14 @@ _You gain a +2 to your initiative rolls_
 _You gain +1 to hit and damage rolls using this magical weapon_
 
 ---
+
+## Zephyr
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Zephyr.png" Align=right width=8% height=8%>
+
+- 3250 Gold
+- Greatsword
+
+**Like the Wind**: Making attacks with _Zephyr_ grants stacks of **Gale**, up to a maximum of six. For every other stack you gain 10 feet flying speed and +1 to hit. If you don´t make any attacks for a minute you loose all stacks. 
+
+_You gain +1 to hit and damage rolls using this magical weapon_
