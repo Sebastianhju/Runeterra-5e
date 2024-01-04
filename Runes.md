@@ -339,7 +339,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Manaflow_ gi
 
 Summoner spells has a 20% discount in shops. 
 
-Whenever you use a _summoner spell_ you gain agility and your movementspeed is doubled until the end of your turn.
+Whenever you use a _summoner spell_ you gain agility and movement speed equal to twenty times your proficiency bonus. 
 
 ---
 
