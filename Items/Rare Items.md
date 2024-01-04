@@ -2,11 +2,11 @@
 
 ## Abyssal Mask
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Abyssal Mask.png" Align=right width=8% height=8%>
+
 - 3000 Gold
 - Wonderous
 - Attunement
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Abyssal Mask.png" Align=right width=8% height=8%>
 
 **Health**: You gain additional maximum hit points equal to you hit dice. 
 
