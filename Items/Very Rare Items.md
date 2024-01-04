@@ -852,6 +852,8 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 - 13,000 Gold
 - Shield
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sunfire Aegis.png" Align=right width=8% height=8%>
+
 **Immolate**: As a bonus action you can activate this shield, causing it to burn for a minute. Whenever you end your turn, all enemies within 5 feet of you must succeed a constitution saving throw or take 2d6 + proficiency bonus fire damage, halved on a save, and gives them 2 stacks of burn. Creatures who have stacks of burn takes 4d6 + proficiency bonus fire damage instead. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
 
 **Health**: Your maximum hit points increases by an anount equal to twice your level
