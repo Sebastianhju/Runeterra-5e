@@ -536,9 +536,9 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 **Wrath**: This dagger deals 1d6 additional fire damage. 
 
-**Rage**: Whenever you hit a target with _Rage knife_ you gain a stack of rage up to a maximum of 3. You loose all stacks whenever a minute passes without attacking anyone. 
+**Rage**: Whenever make an attack roll against a target with _Rage knife_ you gain a stack of rage up to a maximum of 3. You loose all stacks whenever a minute passes without attacking anyone. 
 
-**Seething Strike**: When you take the attack acton on your turn, you can spend three stacks of rage to gain an additional attack as a part of that attack action. 
+**Seething Strike**: When you take the attack action on your turn, you can spend three stacks of rage to gain an additional attack as a part of that attack action. 
 
 _You gain +1 to hit and damage rolls using this magical weapon._
 
@@ -565,9 +565,9 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 - 3250 Gold
 - Shortbow
 
-**Wind Up**: Whenever you hit an attack with recurve bow, you gain a charge.
+**Wind Up**: Whenever you hit an attack with recurve bow, you gain a charge of _Swift String, up to a maximum of 6 stacks.
 
-**Swift String**: Whenever you take the attack action using _Recurve Bow_ you can spend three chrages to make an extra attack as a part of that action.
+**Swift String**: Whenever you take the attack action using _Recurve Bow_ you can spend three charges of _Swift String_ to make an extra attack as a part of that action.
 
 _You gain +2 to initiative checks_
 
