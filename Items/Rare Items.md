@@ -458,7 +458,7 @@ You gain +1 to spell attack rolls and your saving throw DC.
 
 ## Mercurial Scimitar
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mercurial Scimiter.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mercurial Scimitar.png" Align=right width=8% height=8%>
 
 - 2700 Gold
 - Scimitar
