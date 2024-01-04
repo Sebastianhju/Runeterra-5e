@@ -844,3 +844,16 @@ _You gain +1 to your armor class_
 **Hextech Blade**: When you hit an attack with the sword part of this weapon you can unleash a burst of energy. The target must succed a dexterity saving throw or take 2d8 additional lightning damage. The dc equals 10 + proficiency bonus + strength modifier. Once this effect is used, it cannot be used again until 60 seconds pass. Whenever you make an attack roll using the gun pat of this weapon the cooldown goes down by 12 seconds. 
 
 _You gain +2 to hit and attack rolls using this magical weapon_
+
+---
+
+## Sunfire Aegis
+
+- 13,000 Gold
+- Shield
+
+**Immolate**: As a bonus action you can activate this shield, causing it to burn for a minute. Whenever you end your turn, all enemies within 5 feet of you must succeed a constitution saving throw or take 2d6 + proficiency bonus fire damage, halved on a save, and gives them 2 stacks of burn. Creatures who have stacks of burn takes 4d6 + proficiency bonus fire damage instead. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
+
+**Health**: Your maximum hit points increases by an anount equal to twice your level
+
+_You gain +2 to your armor class while wielding this piece of armor_
