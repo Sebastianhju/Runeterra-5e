@@ -666,6 +666,8 @@ _You gain +1 to your armorclass while wearing this armor_
 
 ## Silvermere Dawn
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Silvermere Dawn.png" Align=right width=8% height=8%>
+
 - 2700 Gold
 - Morningstar
 
