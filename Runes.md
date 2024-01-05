@@ -1,5 +1,7 @@
 # Runes
 > Runes are magical artifacts that are all around Runeterra. There are many kinds of runes of varied rarities; lesser runes, keystone runes and world runes.
+> Keystones funcion as a free feat that every player select as they create their character
+> Lesser runes are runes that the players can mafiest during their adventures. If a player find a dorment runecrystal they can attune to it and select their lesser rune. 
 
 ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Worldrune.png)
 
