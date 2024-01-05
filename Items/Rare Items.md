@@ -195,7 +195,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 - 2500 Gold
 - Longsword
 
-**Spinning Blades**: As a bonus action you can start up the chainswords engine. For your next three attacks, the chainsword deals 1d8(1d10 if twohanded) additional damage and applies three stacks of grievous wounds. 
+**Spinning Blades**: As a bonus action you can start up the chainswords engine. For your next three attacks, the chainsword deals 1d8(1d10 if twohanded) additional damage and applies three stacks of grievous wounds. Once this action is used it cannot be used again until 24 seconds pass. 
 
 _You get +1 to attack and damage rolls using this magical weapon_
 
