@@ -673,7 +673,7 @@ _You gain +1 to your armorclass while wearing this armor_
 - 2700 Gold
 - Morningstar
 
-**Quicksilver**: You can cast lesser restoration as a bonus action, when you do this you can remove three conditions. You can do this two times before you must finish a long rest. 
+**Quicksilver**: You can cast lesser restoration as a bonus action, when you do this you can remove up to three conditions. You can do this two times before you must finish a long rest. The next time you hit an attack with _Silvermere Dawn_ you can apply one of the removed conditions to the target. 
 
 **Health**: You gain maximum hit points equal to half your hit dice. 
 
