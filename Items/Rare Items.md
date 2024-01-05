@@ -170,7 +170,7 @@ You gain +1 to your armor class while wearing this magical armor.
 
 **Hammering Haste**: Whenver you hit an attaack using Caulfiends Hammer, the cooldown of your runes and items are reduced by 6 seconds. 
 
-You gain +1 to hit and damage rolls using this magical weapon.
+_You gain +1 to hit and damage rolls using this magical weapon_
 
 ---
 
@@ -196,6 +196,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - Longsword
 
 **Spinning Blades**: As a bonus action you can start up the chainswords engine. For your next three attacks, the chainsword deals 1d8(1d10 if twohanded) additional damage and applies three stacks of grievous wounds. 
+
+_You get +1 to attack and damage rolls using this magical weapon_
 
 ---
 
