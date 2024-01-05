@@ -102,7 +102,7 @@ _You gain +1 to your armor class while attuned to this item_
 
 ### Banshee's Veil
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Banshees Veil.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Banshee's Veil.png" Align=right width=8% height=8%>
 
 - 2500 Gold
 - Wonderous Item
