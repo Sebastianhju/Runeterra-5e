@@ -273,19 +273,6 @@ Burn: At the start of their turn, a creature with burn stacks takes force damage
 
 ---
 
-## Executioners Calling
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Executioner's CAlling.png" Align=right width=8% height=8%>
-
-- 3300 Gold
-- Long Sword
-
-**Rend**: Whenever you hit a creature with this weapon, you apply two stacks of grievous wounds to them.
-
-You gain +1 to hit and damage rolls using this magical weapon.
-
----
-
 ## Fiendish Codex
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Fiendish Codex.png" Align=right width=8% height=8%>
@@ -380,19 +367,6 @@ You gain +1 to hit and damage rolls using this magical weapon.
 **Health**: You gain maximum hit points equal to half your hit dice.
 
 **Madness**: Whenever you are concentrating on a spell, you can choose to enter a state of madness. While in this state you get a +3 modifier to concentration checks and your spells deal 1d6 additional force damage. If you loose concentration while in this state you gain a long term madness until you finish a long rest.
-
----
-
-## Hexdrinker
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hexdrinker.png" Align=right width=8% height=8%>
-
-- 2700 Gold
-- Longsword
-
-**Lifeline**: If you take elemental, poision or acid damage that would reduce your hitpoints to zero, you first gain temporary hit points equal to ten times your proficiency bonus that lasts until the end of your turn. 
-
-You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
 
@@ -564,6 +538,18 @@ You gain +1 to spell attack rolls and your saving throw DC.
 
 ---
 
+## Maw of Malmortius
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Maw of Malmortius.png" Align=right width=8% height=8%>
+
+- 3000 Gold
+- Longsword
+
+**Lifeline**: If you take damage that would reduce you to 0 hit points, you first gain temporary hit points equal to eight times your proficiency bonus. While you have these temporary hit points, _Maw of Malmortius_ deals 1d8/1d10 additional damage. 
+
+_You have +1 to attack and damage rolls with this magical weapon_
+
+___
 ## Mercurial Scimitar
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mercurial Scimitar.png" Align=right width=8% height=8%>
