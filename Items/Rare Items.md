@@ -201,6 +201,19 @@ _You get +1 to attack and damage rolls using this magical weapon_
 
 ---
 
+## Chemtech Putrifier 
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chemtech Putrifier.png" Align=right width=8% height=8%>
+
+- 2500 Gold
+- Quarterstadd
+
+**Puffcap Toxin**: Whenever you heal an ally, their next attack applies 3 stacks of grievous wounds to their target. 
+
+**Cleancing Wounds**: Whenever you heal a creature that has grievous wounds, the healing is not reduced and you remove an amount of stacks equal to your proficiency bonus. 
+
+---
+
 ## Crystalline Bracer
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Crystalline Bracer.png" Align=right width=8% height=8%>
