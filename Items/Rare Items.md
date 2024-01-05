@@ -676,7 +676,7 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 
 ## Prowler's Claw
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Prowler's Claw.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Prowlers Claw.png" Align=right width=8% height=8%>
 
 - 2500 Gold
 - Wondrous
