@@ -16,6 +16,16 @@ _You gain +1 to your saving throws_
 
 ---
 
+## Axiom Arc
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Axiom Arc.png" Align=right width=8% height=8%>
+
+**Haste**: The cooldown of your runes and items are reduced by 6. 
+
+**Flux**: Whenever you score a takedown, you gain a stack of _Flux_, to a maximum of 30. You can spend 15 stacks of _Flux_ to reduce cooldown of your ultimate by one. 
+
+---
+
 ## Aegis of the Legion
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Aegis of the Legion.png" Align=right width=8% height=8%>
