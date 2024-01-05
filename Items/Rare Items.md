@@ -564,6 +564,8 @@ _You have +1 to attack and damage rolls with this magical weapon_
 ---
 ## Mikael's Blessing
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mikael's Blessing.png" Align=right width=8% height=8%>
+
 - 3000 Gold
 - Wondrous
 
