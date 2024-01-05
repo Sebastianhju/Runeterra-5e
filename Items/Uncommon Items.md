@@ -291,6 +291,28 @@ _You gain +1 to your initiative rolls_
 
 ---
 
+## Executioners Calling
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Executioner's CAlling.png" Align=right width=8% height=8%>
+
+- 700 Gold
+- Long Sword
+
+**Rend**: Whenever you hit a creature with this weapon, you apply two stacks of grievous wounds to them.
+
+---
+
+## Hexdrinker
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hexdrinker.png" Align=right width=8% height=8%>
+
+- 1000 Gold
+- Longsword
+
+**Lifeline**: If you take elemental, poision or acid damage that would reduce your hitpoints to zero, you first gain temporary hit points equal to five times your proficiency bonus that lasts until the end of your turn. Once this action is used it cannot be used again until you finish a long rest.
+
+---
+
 ## Pow Pow
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Pow Pow.png" Align=right width=8% height=8%>
 
