@@ -240,7 +240,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Ingenoius_ g
 |Amount|Effect|
 |---|---|
 |0|Your items and runes cooldown is reduced with 6 seconds |
-|25|Your Items and runes cooldown is reduced with 12 seconds|
+|25|Whenever you make a saving throw, before you know the result of the roll you can add 1d6 to the total. You can do this a number of times equal to your proficiency bonus before finishing a long rest|
 |50|Your items and runes cooldown is recued with 6 seconds everytime you score a takedown|
 
 ---
@@ -350,11 +350,11 @@ Whenever you use a _summoner spell_ you gain agility and movement speed equal to
 
 As you level up, the cooldown of your runes and abilities decrease according to the table below. 
 
-|Level|Effect|
+|Stacks|Effect|
 |---|---|
 |1| Your cooldowns are reduced by 6 seconds|
-|5|Your cooldowns are reduced by 12 seconds|
-|9|Your cooldowns are reduced by 18 seconds|
+|25|Whenever you roll an ability check, before you the result you can add 1d10 to the total. You can do this a number of times equal to your proficiency bonus before you must finish a long rest|
+|50|Your cooldowns are reduced by 12 seconds|
 
 ---
 ### Celerity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/CelerityTemp.png" Align=left width=7% height=7%>
