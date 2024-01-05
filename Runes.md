@@ -348,7 +348,7 @@ Whenever you use a _summoner spell_ you gain agility and movement speed equal to
 
 ### Transcendence  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Transcendence.png" Align=left width=7% height=7%>
 
-As you level up, the cooldown of your runes and abilities decrease according to the table below. 
+Whenever you score a _takedown_ on a creature, you gain a stack of _Tanscendence_ giving you the following benefits:
 
 |Stacks|Effect|
 |---|---|
