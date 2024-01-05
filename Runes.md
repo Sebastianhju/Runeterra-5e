@@ -312,7 +312,7 @@ The radius increases by 5 feet at level 5, 9, 13 and 17. The damage increases to
 
 ### Phase Rush  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" Align=left width=20% height=20%>
 
-When you damage an enemy, they gain a mark of phase until the end of your next turn. Whenever you deal damage to a target with a mark of phase you deal 1d4 additional force damage, gain 10 feet additional feet of movement speed, agility and can phase through terrain and creatures until the end of your turn.
+When you damage an enemy, they gain a mark of phase until the end of your next turn. Whenever you deal damage to a target with a mark of phase you deal 1d4 additional force damage, gain 10 feet additional feet of movement speed, agility until the end of your turn and can phase through terrain and creatures until the end of your next turn.
 
 The damage dice increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 and 1d12 at level 17.
 
