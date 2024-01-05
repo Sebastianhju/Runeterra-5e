@@ -562,6 +562,17 @@ ___
 _You have +1 to attack and damage rolls with this magical weapon_
 
 ---
+## Mikael's Blessing
+
+- 3000 Gold
+- Wondrous
+
+**Purify**: You know the lesser restoration spell and can cast it once a day without spending mana. Whenever you cast lesser- or greater restoration on a target, you also heal then for 2d8 hit points. 
+
+**Healing Power**: Your healing spells heal 2 more hit points.  
+
+---
+
 ## Negatron Cloak
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Negatron Cloak.png" Align=right width=8% height=8%>
