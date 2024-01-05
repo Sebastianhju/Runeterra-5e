@@ -5,7 +5,7 @@
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Abyssal Mask.png" Align=right width=8% height=8%>
 
 - 3000 Gold
-- Wonderous
+- Wondrous
 - Attunement
 
 **Health**: You gain additional maximum hit points equal to you hit dice. 
@@ -21,7 +21,7 @@ _You gain +1 to your saving throws_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Axiom Arc.png" Align=right width=8% height=8%>
 
 - 3000 Gold
-- Wonderous
+- Wondrous
 
 **Haste**: The cooldown of your runes and items are reduced by 6. 
 
@@ -48,10 +48,10 @@ While wielding this piece of armor you gain +1 to your armor class.
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Aether Wisp.png" Align=right width=8% height=8%>
 
 - 3000 Gold
-- Wonderous Item
+- Wondrous Item
 - Attunement
   
-**Charges**: This item has 2 charges, that all replenish whenever you finish a long rest. Whenever you end your turn after moving atleast 45 feet, you regain one charge. 
+**Charges**: This item has 2 charges, that all replenish whenever you finish a long rest. Whenever you end your turn after moving at least 45 feet, you regain one charge. 
 
 **Spectral Might**: Whenever you deal spell damage you can spend any amount of charges to deal 1d6 additional damage for each charge spent. 
 
@@ -62,7 +62,7 @@ While wielding this piece of armor you gain +1 to your armor class.
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bami's Cinder.png" Align=right width=8% height=8%>
 
 - 3000 Gold
-- Wonderous Item
+- Wondrous Item
 
 **Health**: You gain maximum hit points equal to half your hit dice.  
 
@@ -75,7 +75,7 @@ While wielding this piece of armor you gain +1 to your armor class.
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bandleglass mirror.png" Align=right width=8% height=8%>
 
 - 3200 Gold
-- Wonderous Item
+- Wondrous Item
 - Attunement
 
 **Spell Reflection**: As a reaction whenever you see a spell that forces a creature to make a saving throw, you can spend up to 10 mana to lower the dc by one for every other mana spent. 
@@ -89,7 +89,7 @@ While wielding this piece of armor you gain +1 to your armor class.
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Banner of Command.png" Align=right width=8% height=8%>
 
 - 2500 Gold
-- Wonderous Item
+- Wondrous Item
 - Attunement
 
 **Promote**: As a bonus action you can activate the _Banner of Command_ for 18 seconds. All creatures within 10 feet of the banner heal 1d4 + proficiency bonus now and at the start of their turns. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
@@ -105,9 +105,9 @@ _You gain +1 to your armor class while attuned to this item_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Banshee's Veil.png" Align=right width=8% height=8%>
 
 - 3250 Gold
-- Wonderous Item
+- Wondrous Item
 
-**Annull**: A spectral orb of energy lingers on you. When Banshee's Veil is off cooldwon you automaticly succeed your next saving throw. Once this effecet is used, it cannot be used again until 36 seconds pass.
+**Annull**: A spectral orb of energy lingers on you. When Banshee's Veil is off cooldown you automatically succeed your next saving throw. Once this effect is used, it cannot be used again until 36 seconds pass.
 
 ---
 
@@ -116,10 +116,10 @@ _You gain +1 to your armor class while attuned to this item_
 
 - 2500 Gold
 - Spear
+  
+**Spectral Spears**: Whenever you throw the *Black Spear* it teleports back to your hand when it hits a target or the attack misses. When the attack hits a sprectral spear lingers in the black spears place. 
 
-**Specral Spears**: Whenever you throw the *Black Spear* it automaticly teleports back to your hand when it hits a target or the attack misses. When the attack hits a sprecral spear lingers in the black spears place. 
-
-**Rend**: As an action, you can pull out all specral spears from all creatures within 60 feet of you. A target then takes 1d6 force damage for each spear in them. 
+**Rend**: As an action, you can pull out all spectral spears from all creatures within 60 feet of you. A target then takes 1d6 force damage for each spear in them. 
 
 _You have +1 to hit and damage rolls with this magical weapon_ 
 
@@ -128,11 +128,11 @@ _You have +1 to hit and damage rolls with this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Blighting Jewel.png" Align=right width=8% height=8%>
 
 - 2500 Gold
-- Wonderous Item
+- Wondrous Item
 
 **Void Pen**: Your damage dealing spells ignore the targets temporary hit points. 
 
-**Voids Embrace**: Whenever you deal Poision, Acid or Necrotic damage, you can treat any 1 on the dice as a 2
+**Voids Embrace**: Whenever you deal Poison, Acid or Necrotic damage, you can treat any 1 on the dice as a 2
 
 ---
 ## Bramble Vest
@@ -168,7 +168,7 @@ You gain +1 to your armor class while wearing this magical armor.
 - 2500 Gold
 - Warhammer
 
-**Hammering Haste**: Whenver you hit an attaack using Caulfiends Hammer, the cooldown of your runes and items are reduced by 6 seconds. 
+**Hammering Haste**: Whenever you hit an attaack using Caulfiends Hammer, the cooldown of your runes and items are reduced by 6 seconds. 
 
 _You gain +1 to hit and damage rolls using this magical weapon_
 
@@ -179,10 +179,10 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chalice of Blessing.png" Align=right width=8% height=8%>
 
 - 2500 Gold
-- Wonderous Item
+- Wondrous Item
 - Attunement
 
-**Blessing**: You learn the bless spell and can cast it once a day without using a spell slot. Whenever you cast bless, you can spend 4 mana to empower it. An empowered bless spells dice increses to 1d6 and heals the blessed creature equal to the number rolled on the bless dice whenever they make an attack roll or saving throw. 
+**Blessing**: You learn the bless spell and can cast it once a day without using a spell slot. Whenever you cast bless, you can spend 4 mana to empower it. An empowered bless spells dice increases to 1d6 and heals the blessed creature equal to the number rolled on the bless dice whenever they make an attack roll or saving throw. 
 
 **Health**: You gain maximum hit points equal to half your hit dice.  
 
@@ -206,11 +206,11 @@ _You get +1 to attack and damage rolls using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chemtech Putrifier.png" Align=right width=8% height=8%>
 
 - 2500 Gold
-- Quarterstadd
+- Quarterstaff
 
 **Puffcap Toxin**: Whenever you heal an ally, their next attack applies 3 stacks of grievous wounds to their target. 
 
-**Cleancing Wounds**: Whenever you heal a creature that has grievous wounds, the healing is not reduced and you remove an amount of stacks equal to your proficiency bonus. 
+**Cleansing Wounds**: Whenever you heal a creature that has grievous wounds, the healing is not reduced, and you remove an amount of stacks equal to your proficiency bonus. 
 
 ---
 
@@ -219,9 +219,9 @@ _You get +1 to attack and damage rolls using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cosmic Drive.png" Align=right width=8% height=8%>
 
 - 2500 Gold
-- Wonderous Item
+- Wondrous Item
 
-**Spelldance**: Whenever you cast a spell, you gain movementspeed equal to five times the spells level. 
+**Spelldance**: Whenever you cast a spell, you gain movement speed equal to five times the spells level. 
 
 _You gain +1 to your spells save dc_ 
 
@@ -232,12 +232,12 @@ _You gain +1 to your spells save dc_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Crystalline Bracer.png" Align=right width=8% height=8%>
 
 - 2500 Gold
-- Wonderous Item
+- Wondrous Item
 - Attunement
 
 **Piercing Crystals**: While wearing these Bracers your unarmed attacks have +1 to hit and damage rolls. 
 
-**Healing Crystals**: Once a turn whenver you hit a target with a weapon attack, you can choose to heal equal to half the damage dealt.
+**Healing Crystals**: Once a turn when you hit a target with a weapon attack, you can choose to heal equal to half the damage dealt.
 
 ---
 
@@ -317,7 +317,7 @@ While wielding this shield you gain +1 to your armor class.
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tunneler.png" Align=right width=8% height=8%>
 
 - 2750 Gold
-- Wonderous, gloves
+- Wondrous, gloves
 
 **Drilling Fist**: The gloves have enchanted drills attached to them, unarmed attacks made with the gloves deal 1d6 additional piercing damage. 
 
@@ -332,7 +332,7 @@ While wielding this shield you gain +1 to your armor class.
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Giants Belt.png" Align=right width=8% height=8%>
 
 - 3500 Gold
-- Wonderous item
+- Wondrous item
 - Attunement
 
 **Giants Might**: While wielding this item your strength score is set to 22.
@@ -359,7 +359,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Haunting Guise.png" Align=right width=8% height=8%>
 
 - 2750
-- Wonderous
+- Wondrous
 
 **Health**: You gain maximum hit points equal to half your hit dice.
 
@@ -385,7 +385,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Alternator.png" Align=right width=8% height=8%>
 
 - 2500 Gold
-- Wonderous Item
+- Wondrous Item
 
 **Revved**: Whenever you damage an enemy, you also deal lightning damage equal to 1d8 plus your proficiency bonus. Once this effect is used, it cannot be used again until 30 seconds pass. The cooldown of this item decreases by 12 seconds whenever you deal or take lightning damage. 
 
@@ -424,7 +424,7 @@ _You have +1 to attack and damage rolls using this magical weapon._
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Imperial Mandate.png" Align=right width=8% height=8%>
 
 - 2500 Gold
-- Wonderous
+- Wondrous
 
 **Coordinated Fire**: Whenever you slow or immobilize a target, they gain a mark that lasts until start of your next turn. The mark is consumed the next time the target takes damage from one of you allies, dealing 2d8 radiant damage.
 
@@ -452,7 +452,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Kindlegem.png" Align=right width=8% height=8%>
 
 - 2500 Gold
-- Wonderous
+- Wondrous
 
 **Haste**: The cooldowns of your runes and items are reduced by 6 seconds. 
 
@@ -471,7 +471,7 @@ _You gain +2 to you Constitution saving throws_
 
 **Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain five stacks of _energized_, up to a maximum of 80.
 
-**Jolt**: Whenver you are at 80 stacks of _energized_, your next attack with _Kircheis Shard_ also deals 2d8 lightning damage after the innitial weapons damage. 
+**Jolt**: When you are at 80 stacks of _energized_, your next attack with _Kircheis Shard_ also deals 2d8 lightning damage after the  weapons initial damage. 
 
 You gain +1 to hit and damage rolls using this magical weapon. 
 
@@ -488,7 +488,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Loaded string**: As a bonus action, you load you bow. Your next attack that hits deals 1d6 additional damage. You can use this effect a number of times equal to your proficiency bonus before you must take a long rest. 
 
-_You gain +2 to inititative rolls_ 
+_You gain +2 to initative rolls_ 
 _You gain +1 to hit and damage rolls using this magical weapon._
 
 ---
@@ -498,7 +498,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lifewell Pendant.png" Align=right width=8% height=8%>
 
 - 3500 Gold
-- Wonderous Item
+- Wondrous Item
 - Attunement
 
 **Hope**: As a bonus action, you can give yourself temporary hit points equal to twice your proficiency bonus. Once you do this it cannot be done again until 30 seconds pass.
@@ -552,7 +552,7 @@ _You have +1 to attack and damage rolls with this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Negatron Cloak.png" Align=right width=8% height=8%>
 
 - 2750 Gold
-- Wonderous Item
+- Wondrous Item
 
 **Negate**: Whenever you take Physical, Elemental, Acid, or Poision damage from spells you can reduce that by 3. 
 
@@ -565,7 +565,7 @@ _You have +1 to attack and damage rolls with this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Noonquiver.png" Align=right width=8% height=8%>
 
 - 3000 Gold
-- Wonderous Item
+- Wondrous Item
 
 **Statikk Ammunition**: The noonquiver is magically loaded with _Statikk Ammunition_ that deal 1d6 additional lightning damage. 
 
@@ -583,7 +583,7 @@ _You have +1 to attack and damage rolls with this magical weapon_
 
 **Cursed**: Whenever you deal spell damage, you give yourself and the target two stacks of grievous wounds. 
 
-**Oblivion**: Your single target spells deals 2d6 additional necrotic damage if the target has atleast one stack of grievous wounds.
+**Oblivion**: Your single target spells deals 2d6 additional necrotic damage if the target has at least one stack of grievous wounds.
 
 _You gain +2 to spell attack rolls_
 
@@ -627,7 +627,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rectrix.png" Align=right width=8% height=8%>
 
 - 2750 Gold
-- Wonderous
+- Wondrous
 - Attunement
 
 **Sharpend Edge**: You gain +1 to all attack rolls.
@@ -659,7 +659,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Redemption.png" Align=right width=8% height=8%>
 
 - 2500 Gold
-- Wonderous
+- Wondrous
 
 **Intervention**: As a bonus action you can target a point you can see and call upon help from the divine. At the start of your next turn a beam of light strikes in a 20 foot radius, centered on your point. All allies within the effect heals 2d8 + proficiency bonus. All enemies takes 2d8 radiant damage. You can use this action a number of times equal to your proficiency bonus before you must finish a long rest. 
 
@@ -691,7 +691,7 @@ _You gain +1 to hit and attack rolls using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Seeker's Armguard.png" Align=right width=8% height=8%>
 
 - 2750 Gold
-- Wonderous Item
+- Wondrous Item
 - Attunement
 
 **Armguard**: Whenever you score a takedown you gain a stack of *Pact*. When you have 30 stacks, you gain +1 to your armor class. When you have 60 stacks it increases to +2. 
@@ -720,7 +720,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spectre's Cowl.png" Align=right width=8% height=8%>
 
 - 2600 Gold
-- Wonderous Item 
+- Wondrous Item 
 
 **Incorporeal**: Whenever you take damage from a spell, you gain two stacks of regeneration. During your turn, you can spend three stacks of regeneration to gain the ability to phase through walls and creatures until the end of your turn, while phasing you cannot be restrained or grappled. 
 
@@ -765,7 +765,7 @@ _You gain +1 to attack and damage rolls using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Steel Sigil.png" Align=right width=8% height=8%>
 
 - 3300 Gold
-- Wonderous
+- Wondrous
 - Attunement
 
 **Fury**: As a bonus action you can enter a state of fury for a minute. While in fury your weapon attacks deal 1d6 additional damage, additionaly you gain temporary hit points equal to twice your proficiency bonus whenever you score a takedown. You can use this action twice before finishing a long rest. 
