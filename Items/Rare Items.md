@@ -674,6 +674,19 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 
 ---
 
+## Prowler's Claw
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Prowler's Claw.png" Align=right width=8% height=8%>
+
+- 2500 Gold
+- Wondrous
+
+**Leaping Strike**: When you take the attack action, you can replace one of your attacks with a leaping strike targeting a creaure within 15 feet of you, you can teleport to an available space within 5 feet of them and make an attack roll, dealing 2d8 slashing damage plus your unarmed modifier. Once this action is used, it cannot be used again until 24 seconds pass. 
+
+_You gain +1 to unarmed attack and damage rolls_
+
+---
+
 ## Rageknife
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rageknife.png" Align=right width=8% height=8%>
