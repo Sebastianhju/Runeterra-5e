@@ -169,7 +169,7 @@ When you reach level 11 the damage increases to 2d6
 ## Keystones
 
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=20% height=20%>
-Damaging an enemy gives them a mark of electrocute that lasts until the end of your turn. When you damage a creature with a mark, you deal 2d8 additional lightning damage. Once used it cannot be used again until 36 seconds has passed. 
+Damaging an enemy gives them a mark of electrocute that lasts until the end of your turn. Once a turn when you damage a creature with a mark, you deal 2d8 additional lightning damage. Once used it cannot be used again until 36 seconds has passed. 
 
 Electrocutes damage increases by 1d8 at level 5, 9, 13 and 17. 
 
@@ -306,7 +306,7 @@ Aerys damage and sheilding scales along with your proiciency bonus in level 5, 9
 
 ### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" Align=left width=20% height=20%>
 
-Whenever you deal damage to a target you can summon a comet that crashes onto the target. The target and all enemies in a 5 feet radius takes 2d4 magical bludgeoning damage. Once used, it cannot be used again until 36 seconds has passed.
+Once a turn when you deal damage to a target you can summon a comet that crashes onto the target. The target and all enemies in a 5 feet radius takes 2d4 magical bludgeoning damage. Once used, it cannot be used again until 36 seconds has passed.
 
 The radius increases by 5 feet at level 5, 9, 13 and 17. The damage increases to 2d6 at level 5, 2d8 at level 9, 2d10 at level 13 and 2d12 at level 17.
 
@@ -534,7 +534,7 @@ You gain immunity to the frightened and charmed condition and you cannot be move
 ## Keystones 
 ### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" Align=left width=20% height=20%>
 
-Whenever you immobilize a creature, they and all enemies within 10 feet of the target gains a *Mark of Cold* that lasts until they take damage. Once this effect is used, it cannot be used again until 36 seconds has passed
+Once a turn when you immobilize a creature, they and all enemies within 10 feet of the target gains a *Mark of Cold* that lasts until they take damage. Once this effect is used, it cannot be used again until 36 seconds has passed
 
 Attacks against creatures with *Mark of the Cold* have advantage and they take 1d6 additional cold damage. Additionaly their speed is reduced by 10 feet and they have a -2 penalty to all attack rolls. 
 
