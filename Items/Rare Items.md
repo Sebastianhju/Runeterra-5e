@@ -241,6 +241,22 @@ _You gain +1 to your spells save dc_
 
 ---
 
+## Death's Dance
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Deat's Dance.png" Align=right width=8% height=8%>
+
+- 4500 Gold
+- Longsword
+- Attunement
+
+**Ignore Pain**: Whenever you take damage, you reduce that damage by an amount equal to twice your proficiency bonus. The mitigated damage is instead converted to stacks of _doom_. At the end of your turn, you remove all stacks and take that much damage.
+
+**Defy**: When you score a takedown, you remove stacks of _doom_ equal to your proficiency bonus. 
+
+_You gain +1 to attack and damage rolls using this weapon._
+
+---
+
 ## Executioners Calling
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Executioner's CAlling.png" Align=right width=8% height=8%>
