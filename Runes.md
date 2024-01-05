@@ -171,7 +171,7 @@ When you reach level 11 the damage increases to 2d6
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=20% height=20%>
 Damaging an enemy gives them a mark of electrocute that lasts until the end of your turn. Once a turn when you damage a creature with a mark, you deal 2d8 additional lightning damage. Once used it cannot be used again until 36 seconds has passed. 
 
-Electrocutes damage increases by 1d8 at level 5, 9, 13 and 17. 
+Electrocutes damage increases by 2d8 at level 5, 9, 13 and 17. 
 
 ---
 
