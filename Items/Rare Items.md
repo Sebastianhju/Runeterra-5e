@@ -104,7 +104,7 @@ _You gain +1 to your armor class while attuned to this item_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Banshee's Veil.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 3250 Gold
 - Wonderous Item
 
 **Annull**: A spectral orb of energy lingers on you. When Banshee's Veil is off cooldwon you automaticly succeed your next saving throw. Once this effecet is used, it cannot be used again until 36 seconds pass.
