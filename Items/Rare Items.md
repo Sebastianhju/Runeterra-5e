@@ -243,7 +243,7 @@ _You gain +1 to your spells save dc_
 
 ## Death's Dance
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Deat's Dance.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Death's Dance.png" Align=right width=8% height=8%>
 
 - 4500 Gold
 - Longsword
