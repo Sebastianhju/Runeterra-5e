@@ -422,6 +422,8 @@ _You gain +1 to hit and damage rolls with this magical weapon_
 
 ## Horizon Focus
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Horizon Focus.png" Align=right width=8% height=8%>
+
 - 2500 Gold
 - Wondrous
 
