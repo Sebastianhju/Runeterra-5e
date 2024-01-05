@@ -257,6 +257,22 @@ _You gain +1 to attack and damage rolls using this weapon._
 
 ---
 
+## Demonic Embrace
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Demonic Embrace.png" Align=right width=8% height=8%>
+
+- 3000 Gold
+- Wondrous
+- Attunement
+
+**Dark Pact**: When you would take or give stacks of grievous wounds, you instead take or give stacks of burn. 
+
+**Health**: You gain health equal to your hit dice. 
+
+Burn: At the start of their turn, a creature with burn stacks takes force damage equal to the stacks of burn and remove the amount of stacks by one. A creature can have a maximum of stacks equal to five times your proficiency bonus
+
+---
+
 ## Executioners Calling
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Executioner's CAlling.png" Align=right width=8% height=8%>
@@ -685,7 +701,10 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 _You gain +1 to hit and attack rolls using this magical weapon_
 
+Burn: At the start of their turn, a creature with burn stacks takes force damage equal to the stacks of burn and remove the amount of stacks by one. A creature can have a maximum of stacks equal to five times your proficiency bonus
+
 ---
+
 ## Seekers Armguard
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Seeker's Armguard.png" Align=right width=8% height=8%>
