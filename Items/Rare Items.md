@@ -661,6 +661,18 @@ You gain +1 to hit and damage rolls using this magical weapon.
 _Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
 
 ---
+## Phantom Dancer
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Phantom Dancer.png" Align=right width=8% height=8%>
+
+- 3500 Gold
+- Sickle
+
+**Spectral Waltz**: When you hit an attack roll, you gain a stack of _Waltz_, up to a maximum of 4. If you have at least one stack of _Waltz_ you can phace through walls and creatures. When you have 4 stacks you gain 30 feet additional walking speed. 
+
+_You gain +2 to attack and damage rolls using this magical weapon_
+
+---
 
 ## Rageknife
 
