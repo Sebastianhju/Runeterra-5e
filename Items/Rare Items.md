@@ -550,6 +550,7 @@ You gain +1 to spell attack rolls and your saving throw DC.
 _You have +1 to attack and damage rolls with this magical weapon_
 
 ___
+
 ## Mercurial Scimitar
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mercurial Scimitar.png" Align=right width=8% height=8%>
@@ -575,6 +576,33 @@ _You have +1 to attack and damage rolls with this magical weapon_
 
 ---
 
+## Mortal Reminder
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mortal Reminder.png" Align=right width=8% height=8%>
+
+- 3000 Gold
+- Longbow
+
+**Sepsis**: Dealing Damage with _Mortal Reminder_ towards a target applies two stacks of grievous wonds. Whenever you make an attack roll against a target with grievous wounds with _Mortal Reminder_ you have +1 crit chance. 
+
+_You gain +1 to attack and damage rolls using this magical weapon_
+
+---
+
+## Nashor's Tooth
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Nashor's Tooth.png" Align=right width=8% height=8%>
+
+- 3250 Gold
+- Dagger
+
+**Ichatian Bite**: When you cast a spell, _Nashor's Tooth_ deals 1d6 additional necrotic damage and you gain an additional attack when you take your next attack action. 
+
+**Spellblade**: You can use your spellcasting modifier for attack and damage rolls.
+
+_You gian +1 to attack and damage rolls using this magical weaponÆ_
+
+---
 ## Negatron Cloak
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Negatron Cloak.png" Align=right width=8% height=8%>
