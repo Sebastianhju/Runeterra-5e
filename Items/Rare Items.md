@@ -123,18 +123,8 @@ _You gain +1 to your armor class while attuned to this item_
 
 _You have +1 to hit and damage rolls with this magical weapon_ 
 
-## Blighting Jewel
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Blighting Jewel.png" Align=right width=8% height=8%>
-
-- 2500 Gold
-- Wondrous Item
-
-**Void Pen**: Your damage dealing spells ignore the targets temporary hit points. 
-
-**Voids Embrace**: Whenever you deal Poison, Acid or Necrotic damage, you can treat any 1 on the dice as a 2
-
 ---
+
 ## Bramble Vest
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bramblevest.png" Align=right width=8% height=8%>
