@@ -572,6 +572,8 @@ _You have +1 to attack and damage rolls with this magical weapon_
 
 **Sepsis**: Dealing Damage with _Mortal Reminder_ towards a target applies two stacks of grievous wonds. Whenever you make an attack roll against a target with grievous wounds with _Mortal Reminder_ you have +1 crit chance. 
 
+**Death's Drag**: When you critically hit a target, you convert all stacks they have of griecous wounds into stacks of burn. 
+
 _You gain +1 to attack and damage rolls using this magical weapon_
 
 ---
