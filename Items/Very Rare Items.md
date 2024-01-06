@@ -677,22 +677,6 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 ---
 
-## Staff of Flowing Water
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Staff of flowing water.png" Align=right width=8% height=8%>
-
-- 14,000 Gold
-- Quarterstaff
-- Attunemnet
-
-**Rapids**: Whenever you heal a target, the cooldown of their runes and items are reduced by 12 seconds. 
-
-**Mana**: You gain +10 maximum mana. 
-
-**Healing Power**: Your healing spells heal 2 more hit points
-
----
-
 ## Statikk Shiv
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Statikk Shiv.png" Align=right width=8% height=8%>
