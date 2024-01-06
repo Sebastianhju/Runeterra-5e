@@ -750,6 +750,19 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 ---
 
+## Rylai's Crystal Scepter
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rylai's Crystal Scepter.png" Align=right width=8% height=8%>
+
+- 3,000
+- Quarterstaff
+
+**Touch of Cold** Whenever you deal elemental damage, you aslo deal 1d6 cold damage. The targets movement speed is reduced by an amount equal to five times the number rolled. 
+
+**Health**: You maximum hit points increases by half your hit dice. 
+
+---
+
 ## Seastone Trident
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Seastone Trident.png" Align=right width=8% height=8%>
