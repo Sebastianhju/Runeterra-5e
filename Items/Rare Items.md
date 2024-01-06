@@ -532,7 +532,7 @@ You gain +1 to spell attack rolls and your saving throw DC.
 - 3000 Gold
 - Longsword
 
-**Lifeline**: If you take damage that would reduce you to 0 hit points, you first gain temporary hit points equal to eight times your proficiency bonus. While you have these temporary hit points, _Maw of Malmortius_ deals 1d8/1d10 additional damage. 
+**Elemental Jaws**: At the end of a long rest, you can choose one type of elemental damage type. You gian resistance from that elemental damage until you finish a long rest. Whenever you take that type of damage, _Maw of Malmortius_ deals 1d8/1d10 additional damage of that damage type until the end of your turn.  
 
 _You have +1 to attack and damage rolls with this magical weapon_
 
