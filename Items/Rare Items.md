@@ -662,7 +662,7 @@ _You gain +1 to attack and damage rolls using this magical weapon_
 - Wondrous
 - Dagger
 
-**Leaping Strike**: If you are hidden from a target, you can spend your attack action to teleport 30 feet to a location within 5 feet of the target. You can then make an attak wih _Prowler's Claw_, critting on a successfull hit. 
+**Leaping Strike**: If you are hidden from a target, you can spend your attack action to teleport 30 feet to a location within 5 feet of the target. You can then make an attak wih _Prowler's Claw_, critting on a successfull hit. Once this action is used it cannot be used again until 30 seconds pass. 
 
 _You gain +1 to attack and damage rolls using this weapon_
 
