@@ -1,4 +1,4 @@
-w# Rare items
+# Rare items
 
 ## Abyssal Mask
 
@@ -845,6 +845,22 @@ _You gain +1 to your armorclass while wearing this armor_
 **Health**: You gain maximum hit points equal to half your hit dice. 
 
 _You gain +1 to attack and damage rolls using this magical weapon_
+
+---
+
+## Staff of Flowing Water
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Staff of flowing water.png" Align=right width=8% height=8%>
+
+- 3000 Gold
+- Quarterstaff
+- Attunemnet
+
+**Rapids**: Whenever you heal a target, the cooldown of their runes and items are reduced by 6 seconds. 
+
+**Mana**: You gain +5 maximum mana. 
+
+**Healing Power**: Your healing spells heal 2 more hit points
 
 ---
 
