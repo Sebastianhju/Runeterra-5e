@@ -214,19 +214,6 @@ _You get +1 to attack and damage rolls using this magical weapon_
 
 ---
 
-## Cosmic Drive
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cosmic Drive.png" Align=right width=8% height=8%>
-
-- 2500 Gold
-- Wondrous Item
-
-**Spelldance**: Whenever you cast a spell, you gain movement speed equal to five times the spells level. 
-
-_You gain +1 to your spells save dc_ 
-
----
-
 ## Crystalline Bracer
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Crystalline Bracer.png" Align=right width=8% height=8%>
