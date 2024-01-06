@@ -980,6 +980,21 @@ _You gain +1 to your armor class while wearing this piece of armor_
 
 ---
 
+## Umbral Glaive
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Umbral Glaive.png" Align=right width=8% height=8%>
+
+- 2750 Gold
+- Glaive
+
+**Blackout**: You gain 10 feet blindsight and deal double damage to wards.
+
+**Ghost Slayer**: Whenever you deal damage to a invisisble creature, you deal 1d10 additional damage. 
+
+_You gain +1 to damage and attack rolls using this weapon_
+
+---
+
 ## Vampiric Scepter
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Vampiric Scepter.png" Align=right width=8% height=8%>
