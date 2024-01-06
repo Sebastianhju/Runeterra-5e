@@ -766,7 +766,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Thornmail.png" Align=right width=8% height=8%>
 
-- 10,000 Gold
+- 13,000 Gold
 - Chainmail
 
 **Thorns**: Whenever you are damaged by a weapon attack, the attacker takes damage equal to twice your proficiency bonus and gains two stacks of grievous wounds. 
@@ -774,6 +774,21 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 **Health**: You gain maximum hit points equal to twice your level. 
 
 _You gain +2 to your armor class while wearing this piece of armor_
+
+---
+
+## Titanic Hydra
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Titanic Hydra.png" Align=right width=8% height=8%>
+
+- 13,000 Gold
+- Greataxe
+
+**Cleave**: Your attacks deal 1d6 additional foce damage for every 50th maximum hit points you have in a 15 feet cone, including the target. 
+
+**Health**: You gain maximum hit points equal to twice your level.
+
+_You gain +2 to attack and damage rolls using this weapon_
 
 ---
 
