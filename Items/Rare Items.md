@@ -976,6 +976,8 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Health**: You gain maximum health equal to your hit dice. 
 
+_You gain +1 to your armor class while wearing this piece of armor_
+
 ---
 
 ## Vampiric Scepter
