@@ -815,6 +815,36 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 ---
 
+## Shadowflame
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Shadowflame.png" Align=right width=8% height=8%>
+
+- 3500 gold
+- Wonderus
+- Attunement
+
+**Cinderbloom**: When you apply stacks of burn to a creature, you remove all temporary hit points they currently have. 
+
+**Health**: You gain maximum health equal to half your hit dice.
+
+---
+
+## Spear of Shojin 
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spear of Shojin.png" Align=right width=8% height=8%>
+
+- 3000 Gold
+- Spear
+- Attunement
+
+**Dragonforce**: Whenever you immobilize a creature, the cooldown of your items and runes are reduced by 12 seconds. Whenever you slow a creature, the cooldowns are reduced by 6 seconds. 
+
+**Dragging Thrust**: When you take the attack action you can replace one of your attacks with a dragging thrust. Make a melee attack roll targeting an enemy within 15 feet of you, on a hit they take 1d8 additional damage and are pulled 10 feet towards you. 
+
+_You gain +1 to damage and attack rolls using this weapon_
+
+---
+
 ## Spectres Cowl
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spectre's Cowl.png" Align=right width=8% height=8%>
