@@ -1,4 +1,4 @@
-# Rare items
+w# Rare items
 
 ## Abyssal Mask
 
@@ -388,7 +388,7 @@ _You gain +1 to hit and damage rolls with this magical weapon_
 - 2500 Gold
 - Wondrous
 
-**Spell Sniper**: Once a turn when you deal spell damage to a target that is 90 feet or more away from you, the target becomes marked with dim blue light so that it can't go invisible and attack rolls against it has avantage. Once this effect is used it cannot be used again until 18 seconds pass. 
+**Spell Sniper**: Once a turn when you deal spell damage to a target that is 90 feet or more away from you, the target becomes marked with dim blue light for a minut, while marked it can't go invisible and attack rolls against it has advantage. Once this effect is used it cannot be used again until 18 seconds pass. 
 
 _You gain +1 to spell attack rolls_ 
 
