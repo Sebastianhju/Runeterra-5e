@@ -1013,6 +1013,19 @@ _You gain +1 to damage and attack rolls using this weapon_
 
 ---
 
+## Void Staff
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Void Staff.png" Align=right width=8% height=8%>
+
+- 4000 Gold
+- Quarterstaff
+
+**Corruption**: Whenever you deal acid, poison or necrotic damage, you can sacrifice health to deal 1d6 additional damage to the target for every 5th health sacrificed. Once this effect is used, it cannot be used again 36 seconds pass. 
+
+_You gain +1 to spell attacks and your spell saving throw dc_
+
+---
+
 ## Wardens Mail
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Warden's Mail.png" Align=right width=8% height=8%>
