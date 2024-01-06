@@ -588,6 +588,7 @@ _You gian +1 to attack and damage rolls using this magical weaponÆ_
 
 - 2750 Gold
 - Wondrous Item
+- Attunement
 
 **Negate**: Whenever you take Physical, Elemental, Acid, or Poision damage from spells you can reduce that by 3. 
 
