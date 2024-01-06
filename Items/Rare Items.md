@@ -965,6 +965,19 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
 
+## Turbo Chemtank
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Turbo Chemtank.png" Align=right width=8% height=8%>
+
+- 3000 Gold
+- Breastplate
+
+**Supercharge**: You can dash as a bonus action. At the end of your turn, you reduce the speed of creatures within 5 feet of you an amount equal to half the feet you traveled this turn.
+
+**Health**: You gain maximum health equal to your hit dice. 
+
+---
+
 ## Vampiric Scepter
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Vampiric Scepter.png" Align=right width=8% height=8%>
