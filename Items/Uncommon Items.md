@@ -36,6 +36,19 @@ _You gain +1 bonus to spell attack rolls_
 
 ---
 
+## Blighting Jewel
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Blighting Jewel.png" Align=right width=8% height=8%>
+
+- 1250 Gold
+- Wondrous Item
+
+**Void Pen**: Whenever you deal poison, acid or necrotic damage, you ignore the targets temporary hit points. 
+
+**Voids Embrace**: Whenever you deal poison, acid or necrotic damage, you can treat any 1 on the dice as a 2
+
+---
+
 ## B. F. Sword
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/B.F. Sword.png" Align=right width=8% height=8%>
