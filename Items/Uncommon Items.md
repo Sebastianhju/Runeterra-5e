@@ -1,39 +1,4 @@
-# Uncommon Magic Items
-
-## Dorans Blade
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Blade.png" Align=right width=8% height=8%>
-
-- 450 Gold
-- Shortsword
-
-**Warmonger**: Whenever you score a takedown you heal equal to your proficiency bonus.
-
----
-
-## Dorans Shield
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Shield.png" Align=right width=8% height=8%>
-
-- 450 Gold
-- Shield
-
-**Endure**: Whenever you take damage, you gain a stack of _regeneration_. 
-
-_Regeneration_: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus. 
-
----
-
-## Dorans Ring
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Ring.png" Align=right width=8% height=8%>
-
-- 450 Gold
-- Arcane Focus
-
-**Focus**: Whenever you score a takedown, you gain a stack of _Manastore_. Whenever you have 5 stacks of manastore, you regain mana equal to your proficiency bonus. 
-
----
+# Uncommon Magical Items
 
 ## Amplifying Tome
 
@@ -45,6 +10,16 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 **Spell Enhancer**: Whenever you deal damage from a spell you may reroll up to three damage dices. 
 
 **Tomes Knowledge**: You can prepare one additional spell each day
+
+---
+
+## Amulet of Manashield
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Amulet of Manashield.png" Align=right width=8% height=8%>
+
+- 600 Gold
+- Wonderous
+  
+**Mana Barrier**: Whenver you are about to take damage while bloodied, you can choose to spend mana to first gain temporary hit points equal to two times the mana spent.
 
 ---
 
@@ -61,56 +36,28 @@ _You gain +1 bonus to spell attack rolls_
 
 ---
 
-## Needlessly Large Rod
+## B. F. Sword
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Needlessly Large Rod.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/B.F. Sword.png" Align=right width=8% height=8%>
 
 - 750 Gold
-- Quarterstaff 
+- Greatsword
 
-**Needlessly Large**: Any spell with a radius, cone, cube or similar effect gains an extra 5ft to the size in all dimentions. 
+**Balance**: This great sword is large size but counts as a medium size weapon for the creature holding it. 
 
-**Rod**: Whenever you are attacking with Needlessly Large Rod you can use your spellcasting ability when calculating to-hit rolls and damage instead of strength
-
----
-
-## Tear of the Goddess
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tear of the Goddess.png" Align=right width=8% height=8%>
-
-- 500 Gold
-- Spell Focus
-- Atunement
-
-**Mana**: You gain +2 maximum mana
-
-**Focus**: Once a turn when you cast a spell you gain stacks of focus equal to the mana spent. For every tenth stack of focus, you gain +1 maximum mana up to a maximum of 130 stacks. 
-
-_Upgrade_: When the tear is fully stacked, it can be upgraded into Seraphs Embrace, Muramana or Fimbulwinter.
+**The Bigger the Better**: You deal 1d6 additional damage when using this weapon and it has _reach_. 
 
 ---
 
-## Cloth Armor
+## Cinder Cutlass
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cinder Cutlass.png" Align=right width=8% height=8%>
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cloth Armor.png" Align=right width=8% height=8%>
+- 800 Gold
+- Scimitar
 
-- 575 Gold
-- Studded Leather
+**Trial by fire**: When you hit an attack with **Cinder Cutlass** you can choose to apply 2 stacks of burn to the target. Once this effect is used, it cannot be used again until 12 seconds have passed. 
 
-**Very Light Fabric**: You don't need to be proficient to wear this armor. 
-
-_You have +1 to your armor class while wearing this magical armor_ 
-
----
-
-## Null-Magic Mantle
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Null-Magic Mantle.png" Align=right width=8% height=8%>
-
-- 625 Gold
-- Cloak
-
-**Magic Resiliance**: Whenever you roll a saving throw against spells that deal damage, you gain +2 to that saving throw. 
+Burn: At the start of their turn, a creature with burn stacks takes force damage equal to the stacks of burn and remove the amount of stacks by one. A creature can have a maximum of stacks equal to five times your proficiency bonus
 
 ---
 
@@ -127,16 +74,43 @@ _You gain +1 to dexterity saving throws_
 
 ---
 
-## Rejuvenation Bead
+## Cloth Armor
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rejuvenation Bead.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cloth Armor.png" Align=right width=8% height=8%>
 
-- 525 Gold
-- Wonderous Item
+- 575 Gold
+- Studded Leather
 
-**Rejuvinate**: As a bonus action you can expend a hit dice to heal yourself. The amount healed is equal to your hit dice plus you constitution modifier. Once this effect is used it cannot be used again until you finish a short rest. 
+**Very Light Fabric**: You don't need to be proficient to wear this armor. 
 
-**Potent Healing**: Whenever you roll hit dice to heal, you can reroll ones and twos. 
+_You have +1 to your armor class while wearing this magical armor_ 
+
+---
+
+## Cull 
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cull.png" Align=right width=8% height=8%>
+
+- 500 Gold
+- Scythe (Scimitar)
+- Attunement
+
+**Lifesteal**: Whenever you hit a target with _Cull_ you regain hit points equal to half your proficiency bonus
+
+**Blood runes**: The head of the scythe is filled a hundred small black runes, whenever you score a takedown one of the runes becomes red. Whenever you want to sell the cull, its value increses by 10 gold for every rune that glows. 
+
+---
+
+## Dagger of Swiftness
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dagger.png" Align=right width=8% height=8%>
+
+- 400 Gold
+- Dagger
+
+**Swift strike**: You off-hand attacks with this dagger are made with advantage.
+
+_You gain +1 to your initiative rolls_
 
 ---
 
@@ -154,29 +128,171 @@ _You gain +1 to dexterity saving throws_
 
 ---
 
-## B. F. Sword
+## Decisive Sword
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Decisive Sword.png" Align=right width=8% height=8%>
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/B.F. Sword.png" Align=right width=8% height=8%>
-
-- 750 Gold
+- 800 Gold
 - Greatsword
 
-**Balance**: This great sword is large size but counts as a medium size weapon for the creature holding it. 
-
-**The Bigger the Better**: You deal 1d6 additional damage when using this weapon and it has _reach_. 
+**March**: As a bonus action you can give youself 15 feet movement speed and advantage one your next attack roll with *Decisive Sword*, if the attack hits, the target is mute until the end of their turn. Once this action is used it cannot be used again until 18 seconds pass. 
 
 ---
 
-## Sheen
+## Dorans Blade
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sheen.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Blade.png" Align=right width=8% height=8%>
 
-- 700 Gold
+- 450 Gold
 - Shortsword
 
-**Spellblade**: You can choose to use your spellcasting ability modifier for attack and damage rolls. 
+**Warmonger**: Whenever you score a takedown you heal equal to your proficiency bonus.
 
-**Lingering Power**: After casting a spell, your next attack with Sheen deals additional damage equal to the mana spent on that spell.
+---
+
+# Dorans Ring
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Ring.png" Align=right width=8% height=8%>
+
+- 450 Gold
+- Arcane Focus
+
+**Focus**: Whenever you score a takedown, you gain a stack of _Manastore_. Whenever you have 5 stacks of manastore, you regain mana equal to your proficiency bonus. 
+
+---
+
+## Dorans Shield
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Shield.png" Align=right width=8% height=8%>
+
+- 450 Gold
+- Shield
+
+**Endure**: Whenever you take damage, you gain a stack of _regeneration_. 
+
+_Regeneration_: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus. 
+
+---
+
+## Earthquake Leggings
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Earthquake Leggings.png" Align=right width=8% height=8%>
+
+- 800 Gold
+- Wondeous
+
+**Pulverize**: Whenever you hit a melee attack, you can attempt to knock the target 15 feet up in the air until the end of their turn. The target must succeed a strength saving throw, dc equals to 8 + your strength modifier + proficiency bonus. Once you've successfully knocked a creature airborne you cannot do this action again until 18 seconds pass.
+
+---
+
+## Executioners Calling
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Executioner's CAlling.png" Align=right width=8% height=8%>
+
+- 700 Gold
+- Long Sword
+
+**Rend**: Whenever you hit a creature with this weapon, you apply two stacks of grievous wounds to them.
+
+---
+
+## Faerie Charm
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Faerie Charm.png" Align=right width=8% height=8%>
+
+- 450 Gold
+- Wonderous Item
+
+**Mana well**: Whenever you spend a hit dice you regain 1 mana.
+
+---
+
+## Hexdrinker
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hexdrinker.png" Align=right width=8% height=8%>
+
+- 1000 Gold
+- Longsword
+
+**Lifeline**: If you take elemental, poision or acid damage that would reduce your hitpoints to zero, you first gain temporary hit points equal to five times your proficiency bonus that lasts until the end of your turn. Once this action is used it cannot be used again until you finish a long rest.
+
+---
+
+## Needlessly Large Rod
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Needlessly Large Rod.png" Align=right width=8% height=8%>
+
+- 750 Gold
+- Quarterstaff 
+
+**Needlessly Large**: Any spell with a radius, cone, cube or similar effect gains an extra 5ft to the size in all dimentions. 
+
+**Rod**: Whenever you are attacking with Needlessly Large Rod you can use your spellcasting ability when calculating to-hit rolls and damage instead of strength
+
+---
+
+## Nimbus Staff
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Nimbus Staff.png" Align=right width=8% height=8%>
+
+- 750 Gold
+- Quarterstaf
+
+**Crushing Blow**: Whenever you critically hit a creature with *Nimbus Staff*, their armor class is reduced by 2 for a minute.
+
+---
+
+## Null-Magic Mantle
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Null-Magic Mantle.png" Align=right width=8% height=8%>
+
+- 625 Gold
+- Cloak
+
+**Magic Resiliance**: Whenever you roll a saving throw against spells that deal damage, you gain +2 to that saving throw. 
+
+---
+
+## Peacemaker
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Peacemaker.png" Align=right width=8% height=8%>
+
+- 1250 Gold
+- Bad News
+
+**Ace**: Whenver you hit an attack, you gain a stack of *Ace*. You gain two stacks if your attack is made against a creature that you are hidden from. 
+
+**Headshot**: When you have 10 stacks, the next attack that hits with peacemaker consumes all stacks of *Ace* and critically hits. If it already would critically hit, it does not consume any *Ace* stacks. 
+
+---
+
+## Pow Pow
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Pow Pow.png" Align=right width=8% height=8%>
+
+- 750 Gold
+- Minigun
+
+**Charging up**: Whenever you hit an attack with Pow Pow you gain a stack of **Zap!**, up to a maximum of 5 stacks. For every stack of **Zap!**, you get a +1 bonus to attack rolls with Pow Pow. While at 5 stack, you can make another attack as a part of the attack action when using Pow Pow. You lose all stacks op **Zap!** if you dont deal damage for a minute. 
+
+---
+
+## Quicksilver Sash
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Quicksilver Sash.png" Align=right width=8% height=8%>
+
+- 700 Gold
+- Wonderous Item
+
+**Quicksilver** As a reaction upon begin immobilized you can remove all immobilizing effects and cast lesser restoration on yourself. Once this effect is used it cannot be used again until you finish a long rest.  
+
+---
+
+## Rejuvenation Bead
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rejuvenation Bead.png" Align=right width=8% height=8%>
+
+- 525 Gold
+- Wonderous Item
+
+**Rejuvinate**: As a bonus action you can expend a hit dice to heal yourself. The amount healed is equal to your hit dice plus you constitution modifier. Once this effect is used it cannot be used again until you finish a short rest. 
+
+**Potent Healing**: Whenever you roll hit dice to heal, you can reroll ones and twos. 
 
 ---
 
@@ -199,6 +315,19 @@ _You gain +1 to dexterity saving throws_
 - Wonderous item
 
 **Mana**: You gain +5 maximum mana 
+
+---
+
+## Sheen
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sheen.png" Align=right width=8% height=8%>
+
+- 700 Gold
+- Shortsword
+
+**Spellblade**: You can choose to use your spellcasting ability modifier for attack and damage rolls. 
+
+**Lingering Power**: After casting a spell, your next attack with Sheen deals additional damage equal to the mana spent on that spell.
 
 ---
 
@@ -231,31 +360,6 @@ _You gain +1 to dexterity saving throws_
 
 ---
 
-## Faerie Charm
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Faerie Charm.png" Align=right width=8% height=8%>
-
-- 450 Gold
-- Wonderous Item
-
-**Mana well**: Whenever you spend a hit dice you regain 1 mana.
-
----
-
-## Cull 
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cull.png" Align=right width=8% height=8%>
-
-- 500 Gold
-- Scythe (Scimitar)
-- Attunement
-
-**Lifesteal**: Whenever you hit a target with _Cull_ you regain hit points equal to half your proficiency bonus
-
-**Blood runes**: The head of the scythe is filled a hundred small black runes, whenever you score a takedown one of the runes becomes red. Whenever you want to sell the cull, its value increses by 10 gold for every rune that glows. 
-
----
-
 ## Stopwatch
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stopwatch.png" Align=right width=8% height=8%>
@@ -267,69 +371,19 @@ _You gain +1 to dexterity saving throws_
 
 ---
 
-## Dagger of Swiftness
+## Tear of the Goddess
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dagger.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tear of the Goddess.png" Align=right width=8% height=8%>
 
-- 400 Gold
-- Dagger
+- 500 Gold
+- Spell Focus
+- Atunement
 
-**Swift strike**: You off-hand attacks with this dagger are made with advantage.
+**Mana**: You gain +2 maximum mana
 
-_You gain +1 to your initiative rolls_
+**Focus**: Once a turn when you cast a spell you gain stacks of focus equal to the mana spent. For every tenth stack of focus, you gain +1 maximum mana up to a maximum of 130 stacks. 
 
----
-
-## Quicksilver Sash
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Quicksilver Sash.png" Align=right width=8% height=8%>
-
-- 700 Gold
-- Wonderous Item
-
-**Quicksilver** As a reaction upon begin immobilized you can remove all immobilizing effects and cast lesser restoration on yourself. Once this effect is used it cannot be used again until you finish a long rest.  
-
----
-
-## Executioners Calling
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Executioner's CAlling.png" Align=right width=8% height=8%>
-
-- 700 Gold
-- Long Sword
-
-**Rend**: Whenever you hit a creature with this weapon, you apply two stacks of grievous wounds to them.
-
----
-
-## Hexdrinker
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hexdrinker.png" Align=right width=8% height=8%>
-
-- 1000 Gold
-- Longsword
-
-**Lifeline**: If you take elemental, poision or acid damage that would reduce your hitpoints to zero, you first gain temporary hit points equal to five times your proficiency bonus that lasts until the end of your turn. Once this action is used it cannot be used again until you finish a long rest.
-
----
-
-## Pow Pow
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Pow Pow.png" Align=right width=8% height=8%>
-
-- 750 Gold
-- Minigun
-
-**Charging up**: Whenever you hit an attack with Pow Pow you gain a stack of **Zap!**, up to a maximum of 5 stacks. For every stack of **Zap!**, you get a +1 bonus to attack rolls with Pow Pow. While at 5 stack, you can make another attack as a part of the attack action when using Pow Pow. You lose all stacks op **Zap!** if you dont deal damage for a minute. 
-
----
-
-## Nimbus Staff
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Nimbus Staff.png" Align=right width=8% height=8%>
-
-- 750 Gold
-- Quarterstaf
-
-**Crushing Blow**: Whenever you critically hit a creature with *Nimbus Staff*, their armor class is reduced by 2 for a minute.
+_Upgrade_: When the tear is fully stacked, it can be upgraded into Seraphs Embrace, Muramana or Fimbulwinter.
 
 ---
 
@@ -345,18 +399,6 @@ _You gain +1 to your initiative rolls_
 
 ---
 
-## Peacemaker
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Peacemaker.png" Align=right width=8% height=8%>
-
-- 1250 Gold
-- Bad News
-
-**Ace**: Whenver you hit an attack, you gain a stack of *Ace*. You gain two stacks if your attack is made against a creature that you are hidden from. 
-
-**Headshot**: When you have 10 stacks, the next attack that hits with peacemaker consumes all stacks of *Ace* and critically hits. If it already would critically hit, it does not consume any *Ace* stacks. 
-
----
-
 ## Timewinder
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Timewinder.png" Align=right width=8% height=8%>
 
@@ -366,17 +408,7 @@ _You gain +1 to your initiative rolls_
 **Resonance**: Whenever you damage an enemy with *Timewinder* you apply a stack of Resonance. Whenever you damage a creature that has two stacks of Resonance, you deal 3d6 additional force damage and gain 30 feet movement speed until the end of your turn. 
 
 ---
-## Cinder Cutlass
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cinder Cutlass.png" Align=right width=8% height=8%>
 
-- 800 Gold
-- Scimitar
-
-**Trial by fire**: When you hit an attack with **Cinder Cutlass** you can choose to apply 2 stacks of burn to the target. Once this effect is used, it cannot be used again until 12 seconds have passed. 
-
-Burn: At the start of their turn, a creature with burn stacks takes force damage equal to the stacks of burn and remove the amount of stacks by one. A creature can have a maximum of stacks equal to five times your proficiency bonus
-
----
 ## Wideshot
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Wideshot.png" Align=right width=8% height=8%>
 
@@ -384,32 +416,5 @@ Burn: At the start of their turn, a creature with burn stacks takes force damage
 - Longbow
 
 **Volley**: You can replace one attack with a volley of spectral arrows in a 30 foot cone. All creatures in the cone must succeed a dexterity saving throw, dc 8+ proficiency bonus + dexterity modifier or take 2d8 force damage, halfed on a save. Once this action is used it cannot be used again until 18 seconds pass. 
-
----
-## Decisive Sword
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Decisive Sword.png" Align=right width=8% height=8%>
-
-- 800 Gold
-- Greatsword
-
-**March**: As a bonus action you can give youself 15 feet movement speed and advantage one your next attack roll with *Decisive Sword*, if the attack hits, the target is mute until the end of their turn. Once this action is used it cannot be used again until 18 seconds pass. 
-
----
-## Amulet of Manashield
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Amulet of Manashield.png" Align=right width=8% height=8%>
-
-- 600 Gold
-- Wonderous
-  
-**Mana Barrier**: Whenver you are about to take damage while bloodied, you can choose to spend mana to first gain temporary hit points equal to two times the mana spent.
-
----
-## Earthquake Leggings
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Earthquake Leggings.png" Align=right width=8% height=8%>
-
-- 800 Gold
-- Wondeous
-
-**Pulverize**: Whenever you hit a melee attack, you can attempt to knock the target 15 feet up in the air until the end of their turn. The target must succeed a strength saving throw, dc equals to 8 + your strength modifier + proficiency bonus. Once you've successfully knocked a creature airborne you cannot do this action again until 18 seconds pass.
 
 ---
