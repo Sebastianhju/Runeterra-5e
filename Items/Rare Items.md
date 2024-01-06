@@ -788,6 +788,18 @@ Burn: At the start of their turn, a creature with burn stacks takes force damage
 
 ---
 
+## Serpent's Fang
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Serpent's Fang.png" Align=right width=8% height=8%>
+
+- 2750 Gold
+- Shortsword
+
+**Shield Reaver**: When you hit an attack with _Serpent's Fang_ you can choose to inject venom to your for, giving them crams in their arms. The target must succeed a constitution saving throw (dc: 15) or drop anything in their arms.
+
+_You gain +1 to attack and damage rolls using this weapon_
+
+---
 ## Serrated Dirk
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Serrated Dirk.png" Align=right width=8% height=8%>
