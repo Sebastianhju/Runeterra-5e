@@ -829,6 +829,21 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 ---
 
+## Silvermere Dawn
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Silvermere Dawn.png" Align=right width=8% height=8%>
+
+- 2700 Gold
+- Morningstar
+
+**Quicksilver**: You can cast lesser restoration as a bonus action, when you do this you can remove up to three conditions. You can do this two times before you must finish a long rest. The next time you hit an attack with _Silvermere Dawn_ you can apply one of the removed conditions to the target. 
+
+**Health**: You gain maximum hit points equal to half your hit dice. 
+
+_You gain +1 to attack and damage rolls using this magical weapon_
+
+---
+
 ## Spear of Shojin 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spear of Shojin.png" Align=right width=8% height=8%>
@@ -875,21 +890,6 @@ _You gain +1 to your armorclass while wearing this armor_
 
 ---
 
-## Silvermere Dawn
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Silvermere Dawn.png" Align=right width=8% height=8%>
-
-- 2700 Gold
-- Morningstar
-
-**Quicksilver**: You can cast lesser restoration as a bonus action, when you do this you can remove up to three conditions. You can do this two times before you must finish a long rest. The next time you hit an attack with _Silvermere Dawn_ you can apply one of the removed conditions to the target. 
-
-**Health**: You gain maximum hit points equal to half your hit dice. 
-
-_You gain +1 to attack and damage rolls using this magical weapon_
-
----
-
 ## Staff of Flowing Water
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Staff of flowing water.png" Align=right width=8% height=8%>
@@ -921,6 +921,22 @@ _You gain +1 to attack and damage rolls using this magical weapon_
 _While attuned to this item your armor class inceases by 1_ 
 
 ---
+
+## Stormrazor
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stormrazor.png" Align=right width=8% height=8%>
+
+- 2750 Gold
+- Rapier
+
+**Energized**: Whenever you move you gain a stack of energized for every feet you move and whenever you attack you gain five stacks of energized, up to a maximum of 80.
+
+**Boltt**: When you are at 80 stacks of energized, your next attack with _Stormrazor_ has +1 crit chance, deals 1d8 lightning damage after the weapons initial damage and grants you agility and 30 feet movement speed until the end of your turn.
+
+_You gain +1 to attack and damage rolls using this weapon_
+
+---
+
 ## The Brutalizer
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/The Brutalizer.png" Align=right width=8% height=8%>
