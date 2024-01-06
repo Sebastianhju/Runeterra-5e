@@ -658,7 +658,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 - Sickle
 - Attunement
 
-**Spectral Waltz**: When you hit an attack roll, you gain a stack of _Waltz_, up to a maximum of 4. If you have at least one stack of _Waltz_ you gain 30 feet additional walking speed. When you have 4 stacks you can phace through terrain and creatures. 
+**Spectral Waltz**: When you hit an attack roll, you gain a stack of _Waltz_, up to a maximum of 4. If you have at least one stack of _Waltz_ you gain 30 feet additional walking speed. When you have 3 stacks you can phace through terrain and creatures. 
 
 _You gain +1 to attack and damage rolls using this magical weapon_
 
