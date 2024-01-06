@@ -656,6 +656,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 - 3500 Gold
 - Sickle
+- Attunement
 
 **Spectral Waltz**: When you hit an attack roll, you gain a stack of _Waltz_, up to a maximum of 4. If you have at least one stack of _Waltz_ you can phace through walls and creatures. When you have 4 stacks you gain 30 feet additional walking speed. 
 
@@ -669,10 +670,11 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 
 - 2500 Gold
 - Wondrous
+- Dagger
 
-**Leaping Strike**: When you take the attack action, you can replace one of your attacks with a leaping strike targeting a creature within 15 feet of you, you can teleport to an available space within 5 feet of them and make an attack roll, dealing 2d8 slashing damage plus your unarmed modifier. Once this action is used, it cannot be used again until 24 seconds pass. 
+**Leaping Strike**: If you are hidden from a target, you can spend your attack action to teleport 30 feet to a location within 5 feet of the target. You can then make an attak wih _Prowler's Claw_, critting on a successfull hit. 
 
-_You gain +1 to unarmed attack and damage rolls_
+_You gain +1 to attack and damage rolls using this weapon_
 
 ---
 
