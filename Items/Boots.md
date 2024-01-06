@@ -13,7 +13,7 @@ _Can be upgradet to greater boots for 300 gold._
 
 ## Boots of Swiftness
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Boots of Swiftness.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Boots of Speed.png" Align=right width=8% height=8%>
 
 - 600 Gold
 - Wonderous Item
@@ -24,7 +24,7 @@ Your movement speed increases by 10 feet
 
 ## Berserkers Greaves
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bersekers Greaves.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Berseker's Greaves.png" Align=right width=8% height=8%>
 
 - 600 Gold
 - Wonderous Item
@@ -50,7 +50,7 @@ The cooldown of your runes and items are reduced by 6 seconds
 
 ## Mercury Threads
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mecury Threads.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mercury Threads.png" Align=right width=8% height=8%>
 
 - 600 Gold
 - Wonderous Item
@@ -63,7 +63,7 @@ All incoming Acid, Elemental and Poision damage is reduced by 1.
 
 ## Plated Steelcaps
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Plated Steelcaps.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/PLated Steelcaps.png" Align=right width=8% height=8%>
 
 - 600 Gold
 - Wonderous Item
@@ -76,7 +76,7 @@ All incoming physical damage is reduced by 1.
 
 ## Sorcerer's Shoes
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sorcerers Shoes.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sorcerer's Shoes.png" Align=right width=8% height=8%>
 
 - 600 Gold
 - Wonderous Item
