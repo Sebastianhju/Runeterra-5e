@@ -48,9 +48,9 @@ The cooldown of your runes and items are reduced by 6 seconds
 
 ---
 
-## Mercury Threads
+## Mercury's Treads
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mercury's Threads .png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mercury's Treads .png" Align=right width=8% height=8%>
 
 - 600 Gold
 - Wonderous Item
