@@ -982,7 +982,7 @@ _You gain +1 to your armor class while wearing this piece of armor_
 
 ## Umbral Glaive
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Umbral Glaive.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Umbral Glaice.png" Align=right width=8% height=8%>
 
 - 2750 Gold
 - Glaive
