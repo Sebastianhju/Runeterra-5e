@@ -87,6 +87,19 @@ _You have +1 to your armor class while wearing this magical armor_
 
 ---
 
+## Cosmic Drive
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cosmic Drive.png" Align=right width=8% height=8%>
+
+- 850 Gold
+- Wondrous Item
+
+**Spelldance**: Whenever you cast a spell, you gain 10 feet movement speed. 
+
+_You gain +1 to your spells save dc_ 
+
+---
+
 ## Cull 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cull.png" Align=right width=8% height=8%>
@@ -149,7 +162,7 @@ _You gain +1 to your initiative rolls_
 
 ---
 
-# Dorans Ring
+## Dorans Ring
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Ring.png" Align=right width=8% height=8%>
 
@@ -209,10 +222,10 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hexdrinker.png" Align=right width=8% height=8%>
 
-- 1000 Gold
+- 750 Gold
 - Longsword
 
-**Lifeline**: If you take elemental, poision or acid damage that would reduce your hitpoints to zero, you first gain temporary hit points equal to five times your proficiency bonus that lasts until the end of your turn. Once this action is used it cannot be used again until you finish a long rest.
+**Lifeline**: If you take spell damage that would reduce your hitpoints to zero, you first gain temporary hit points equal to five times your proficiency bonus that lasts until the end of your turn. Once this action is used it cannot be used again until you finish a long rest.
 
 ---
 
