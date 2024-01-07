@@ -25,3 +25,9 @@ At the start of your turn, your regain hit points equal to your regeneration sta
 # Immoblized
 
 A creature can be immobilized in different ways. If their speed is reduced to zero, if they are frightened, blinded, incapacitated, paralyzed, petrified, restrained, stunned, pushed, pulled, knocked up or knocked prone.
+
+---
+
+# Summoner Sickness
+
+When you cast your third summoner spell in a minute you need to succeed a dc 15 con saved or be poisoned from summoner sickness. The dc scales with 5 for each additional use beyond three. This poisoned condition bypasses any immunities
