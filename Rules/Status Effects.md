@@ -19,3 +19,9 @@ Your armor class is reduced by one for every other stack of carve you have, up t
 # Regeneration
 
 At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus.
+
+---
+
+# Immoblized
+
+A creature can be immobilized in different ways. If their speed is reduced to zero, if they are frightened, blinded, incapacitated, paralyzed, petrified, restrained, stunned or knocked prone.
