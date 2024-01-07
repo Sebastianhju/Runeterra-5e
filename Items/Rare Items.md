@@ -843,7 +843,7 @@ _You gain +1 to attack and damage rolls using this magical weapon_
 - Spear
 - Attunement
 
-**Dragonforce**: Whenever you immobilize a creature, the cooldown of your items and runes are reduced by 12 seconds. Whenever you slow a creature, the cooldowns are reduced by 6 seconds. 
+**Dragonforce**: Once a turn when you immobilize or slow a creature, the cooldown of your items and runes are reduced by 12 seconds.
 
 **Dragging Thrust**: When you take the attack action you can replace one of your attacks with a dragging thrust. Make a melee attack roll targeting an enemy within 15 feet of you, on a hit they take 1d8 additional damage and are pulled 10 feet towards you. 
 
