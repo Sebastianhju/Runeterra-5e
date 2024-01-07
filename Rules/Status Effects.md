@@ -24,4 +24,4 @@ At the start of your turn, your regain hit points equal to your regeneration sta
 
 # Immoblized
 
-A creature can be immobilized in different ways. If their speed is reduced to zero, if they are frightened, blinded, incapacitated, paralyzed, petrified, restrained, stunned or knocked prone.
+A creature can be immobilized in different ways. If their speed is reduced to zero, if they are frightened, blinded, incapacitated, paralyzed, petrified, restrained, stunned, pushed, pulled or knocked prone.
