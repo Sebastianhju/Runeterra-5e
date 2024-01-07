@@ -8,7 +8,7 @@
 
 [Cooldowns](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Cooldowns.md)
 
-[Status Effects](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Status%20effects.md)
+[Status Effects](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Status%20Effects.md)
 
 [My Table Rules](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Table%20Rules.md)
 
