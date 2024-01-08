@@ -588,7 +588,7 @@ _You gain +1 to your armor class_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Randuin's Omen.png" Align=right width=8% height=8%>
 
 - 10,000 Gold
-- Wonderous Item
+- Shield
 - Attunement
 
 **Humility**: As a bonus action, you force all creatures within 5 feet of you to succeed a strength savingthrow (dc: 10 + proficiency bonus + constitution modifier). On a failed save they take 2d8 thunder damage and are pushed 15 feet away from you. Once this action is used, it cannot be used again until 30 seconds pass. 
