@@ -1,4 +1,4 @@
-# Runes
+  # Runes
 > Runes are magical artifacts that are all around Runeterra. There are many kinds of runes of varied rarities; lesser runes, keystone runes and world runes.
 > Keystones funcion as a free feat that every player select as they create their character
 > Lesser runes are runes that the players can mafiest during their adventures. If a player find a dorment runecrystal they can attune to it and select their lesser rune. 
@@ -65,7 +65,7 @@ The range increaes by 10 feet at level 5, 9 and 13. At level 17 you instead gain
 ---
 
 ### Overheal  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Overheal.png" Align=left width=7% height=7%>
-Whenever you are healed while on maximum hit points, you instead gain temporary hit points equal to the amount healed. If a healing would put you at maximum hit points, you gain temporary hit points equal to the remaining healing. 
+Whenever you are healed while on maximum hit points, you instead create a pool of stacking temporary hit points that last until you finish a long rest, the pool can at most have temporary hit points equal to two times your level. 
 
 Whenever you are at maximum hit points and have temporary hit points you gain 10 feet movement speed.
 
