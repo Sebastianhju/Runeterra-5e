@@ -418,7 +418,7 @@ Whenever you are in stormy weather you gain 1+ crit chance to your attack rolls 
 
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=20% height=20%>
 
-When you immobilize a creature, you gain temporary hit points equal to three times your proficiency bonus. At the end of your next turn you deal 1d6 damage to all creatures within 5 feet of you. Once this effect is used it cannot be used again until 18 seconds have passed
+Once a turn when you immobilize a creature, you gain temporary hit points equal to three times your proficiency bonus. At the end of your next turn you deal 1d6 damage to all creatures within 5 feet of you. Once this effect is used it cannot be used again until 18 seconds have passed
 
 The damage increases by 1d6 at level 5, 9, 13 and 17.
 
