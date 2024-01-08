@@ -63,4 +63,4 @@ After a ten minute channel you can teleport yourself and up to five allies to a 
 ---
 
 # Clarity<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Clarity.png" align=right width=10% height=10%>
-As a bonus action, you can restore a number of mana equal to two times your level plus two. Choose any creatures within 30 feet of you, and divide the mana among them.
+As a bonus action, you can restore a number of mana equal to two + two times your level. Choose any creatures within 30 feet of you, and divide the mana among them.
