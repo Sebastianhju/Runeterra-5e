@@ -65,7 +65,7 @@ The range increaes by 10 feet at level 5, 9 and 13. At level 17 you instead gain
 ---
 
 ### Overheal  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Overheal.png" Align=left width=7% height=7%>
-Whenever you are healed while on maximum hit points, you instead create a pool of stacking temporary hit points that last until you finish a long rest, the pool can at most have temporary hit points equal to two times your level. 
+Whenever you are healed while on maximum hit points, you instead create a pool of stacking temporary hit points that last until you finish a long rest, the pool can at most have temporary hit points equal to five times your proficiency bonus. 
 
 Whenever you are at maximum hit points and have temporary hit points you gain 10 feet movement speed.
 
