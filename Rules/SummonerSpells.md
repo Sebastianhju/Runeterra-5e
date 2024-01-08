@@ -9,7 +9,7 @@
 # Barrier 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Barrier_HD.png" align=right width=10% height=10%>
-As a bonus action you can create a see-through Barrier in a 15 feet radius sphere that lasts for a minute. For enemies the barrier is solid. Enemy creatures, missiles and objects cannot pass through it. For you and your allies, the barrier is immaterial. The Barriers AC equals 12 + your proficiency bonus and its hit points maximum equals to five plus five times your level.
+As a bonus action or reaction, you can create a see-through Barrier in a 15 feet radius sphere that lasts for a minute. For enemies the barrier is solid. Enemy creatures, missiles and objects cannot pass through it. For you and your allies, the barrier is immaterial. The Barriers AC equals 12 + your proficiency bonus and its hit points maximum equals to five plus five times your level.
 
 ---
 
@@ -63,4 +63,4 @@ After a ten minute channel you can teleport yourself and up to five allies to a 
 ---
 
 # Clarity<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Clarity.png" align=right width=10% height=10%>
-As a bonus action, you can restore a number of mana equal to two times your level. Choose any creatures within 30 feet of you, and divide the mana among them.
+As a bonus action, you can restore a number of mana equal to two times your level plus two. Choose any creatures within 30 feet of you, and divide the mana among them.
