@@ -977,10 +977,11 @@ _You gain +1 to your armor class while wearing this piece of armor_
 
 - 2750 Gold
 - Glaive
+- Attunement
 
-**Blackout**: You gain 10 feet blindsight and deal double damage to wards.
+**Blackout**: You gain 10 feet blindsight and deal double damage to wards. Once a long rest you can cast invisibility without spending mana. 
 
-**Ghost Slayer**: Whenever you deal damage with _Umbral Glaive_ to a invisisble creature, you deal 1d10 additional damage. 
+**Ghost Slayer**: Whenever you deal damage with _Umbral Glaive_ to a invisible creature, you deal 1d10 additional damage. 
 
 _You gain +1 to damage and attack rolls using this weapon_
 
