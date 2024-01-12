@@ -963,7 +963,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 3000 Gold
 - Breastplate
 
-**Supercharge**: You can dash as a bonus action. At the end of your turn, you reduce the speed of creatures within 5 feet of you an amount equal to half the feet you traveled this turn.
+**Supercharge**: You can dash as a bonus action. At the end of your turn, you reduce the speed of creatures within 5 feet of you an amount equal to half the feet you traveled this turn. Once this action is used, it cannot be used again until 30 seconds pass. 
 
 **Health**: You gain maximum health equal to your hit dice. 
 
