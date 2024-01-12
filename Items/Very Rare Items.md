@@ -357,7 +357,7 @@ _You have +2 to hit and damage rolls with this magical weapon_
 - Shield
 - Attunement
 
-**Colossal Consumption**: Whenever you end your turn, all creatures within 10 feet of you are granted a _mark of the colossus_. Whenever you attack a creature with a mark, they take one additional damage for every 25th maximum hit points you have, and you get a stack of _Heartsteel_. You gain one additional hit point for every third stack of _Heartsteel_ as long as you are attuned to the item.
+**Colossal Consumption**: Whenever you end your turn, all creatures within 10 feet of you are granted a _mark of the colossus_. Whenever you damage a creature with a mark, they take one additional damage for every 25th maximum hit points you have, and you get a stack of _Heartsteel_. You gain one additional hit point for every third stack of _Heartsteel_ as long as you are attuned to the item.
 
 **Health**: You gain maximum hit points equal to twice your level. 
 
