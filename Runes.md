@@ -1,4 +1,4 @@
-  # Runes
+# Runes
 > Runes are magical artifacts that are all around Runeterra. There are many kinds of runes of varied rarities; lesser runes, keystone runes and world runes.
 > Keystones funcion as a free feat that every player select as they create their character
 > Lesser runes are runes that the players can mafiest during their adventures. If a player find a dorment runecrystal they can attune to it and select their lesser rune. 
@@ -536,7 +536,7 @@ You gain immunity to the frightened and charmed condition and you cannot be move
 
 Once a turn when you immobilize a creature, they and all enemies within 10 feet of the target gains a *Mark of Cold* that lasts until they take damage. Once this effect is used, it cannot be used again until 36 seconds has passed
 
-Attacks against creatures with *Mark of the Cold* have advantage and they take 1d6 additional cold damage. Additionaly their speed is reduced by 10 feet and they have a -2 penalty to all attack rolls. 
+A marked creatures speed is reduced by 10 feet and they have a -2 penalty to all attack rolls. Attacks against creatures with *Mark of the Cold* have advantage and if it hits the mark is consumed and the target takes 1d6 additional cold damage. Additionaly their speed is reduced by 10 feet and they have a -2 penalty to all attack rolls. 
 
 The damage increases by 1d6 at level 5, 9, 13 and 17.
 
