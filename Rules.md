@@ -2,7 +2,7 @@
 
 ## Mechanics
 
-[Languages](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Languagess.md)
+[Languages](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Languages.md)
 
 [Mana](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Mana.md)
 
