@@ -748,6 +748,20 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 ---
 
+## Rift maker
+
+- 3200 Gold
+- Arcane Focus
+- Attunement
+
+**Riftmaker**: When you cast a teleportation spell you can spent 2 more mana to duoble the range.
+
+**Hunger of the Void**: When you deal damage with a spell you gain a stack of _hunger_. When you have 5 stacks of _hunger_ your next spells deal 4d6 additional necrotic damage and you heal for the same amount. 
+
+_You gain +2 to spell attack rolls_
+
+---
+
 ## Rylai's Crystal Scepter
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rylai's Crystal Scepter.png" Align=right width=8% height=8%>
