@@ -1044,6 +1044,20 @@ While wielding this armor you gain +1 to your armor class_
 
 **Eye of the Storm**: As a bonus action you can give a creature or object you can see temporay hit points equal to four times your proficiency bonus. Once this action is used it cannot be used again until 24 seconds have passed. 
 
+## Wit's End
+
+- 2800 gold
+- Scimitar
+- Attunement
+
+**Spellblade**: You can use your spell casting modifier for attacks made with this weapon.
+
+**Fray**: This blade deals 1d6 additionol psychic damage and you have recistance to psycic damage.
+
+**Multiattack**: When you take the attack action you can make one additionol attack. This feature does not stack with other features of the same name.
+
+---
+
 ## Winged Moonplate
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Winged Moonplate.png" Align=right width=8% height=8%>
@@ -1073,6 +1087,21 @@ _While wielding this armor you gain +1 to your armor class_
 _You gain a +2 to your initiative rolls_ 
 
 _You gain +1 to hit and damage rolls using this magical weapon_
+
+---
+
+## Zeke's Convergence
+
+
+- 3200 Gold
+- Wounderous item
+- Attunement
+
+**Haste**: Your cool downs are reduced by 6 seconds
+
+**Vitality**: You gain +10 HP and +5 Mana
+
+**Forstfire Tempest**: When you cast your ultimate a tempest of fire and cold storms around you for 30 secounds. All enemy creatures who start their turn within 15ft of you must make a con save. Taking 3d6 fire damage and 3d6 cold damge, halved on a succsess
 
 ---
 
