@@ -409,6 +409,19 @@ _You gian +3 to initiative rolls_
 
 ---
 
+## Iceborn Gauntlet
+
+- 11,000 Gold
+- Wonderous
+
+**Frostbourn**: You gain resitacne to Cold damage, and your unarmed attacks deal 1d8 additionol cold damage
+
+**Local Blizzard**: When you hit with an attack you can chose to activate Local Blizzard, Until the end of your next turn a 15ft sphere of ice and cold svirls around you. Any enemy creature that starts it's turn in the aura has their movment speed halved. LocalBlizzard has a 30 second cool down. 
+
+**Health**: You gain maximum hit points equal to one hitt dice. 
+
+---
+
 ## Immortal Shieldbow
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Immortal Shieldbow.png" Align=right width=8% height=8%>
