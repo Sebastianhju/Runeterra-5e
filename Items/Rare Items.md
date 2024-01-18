@@ -762,6 +762,20 @@ _You gain +2 to spell attack rolls_
 
 ---
 
+## Rod of Ages
+
+- 2800 Gold
+- Arcane Focus
+- Attunement
+
+**Vitality**: You gain health and mana equal to three times your proficiancy bonus
+
+**Wisdom of Ages**: When roling damage for a spell you can add your spellcasting ability modifier to the damage roll
+
+_You gain +1 to spell attack rolls and saving throws_
+
+---
+
 ## Rylai's Crystal Scepter
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rylai's Crystal Scepter.png" Align=right width=8% height=8%>
