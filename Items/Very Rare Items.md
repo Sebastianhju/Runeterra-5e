@@ -742,6 +742,22 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 
 ---
 
+## Sundered Sky
+
+- 11,000 Gold
+- Lance
+
+
+**Piercing**: When mounted this lance deals an additional d12 damage.
+
+**Health**: Your maximum hit points increases by an anount equal to one hit dice
+
+**Charge** When mounted, in the first round of combat, you have advantage on all your attacks and your first hit is an atumatical critical hit.
+
+_You have +2 to attack and damage rolls when using this magical weapon_
+
+---
+
 ## Sunfire Aegis
 
 - 13,000 Gold
