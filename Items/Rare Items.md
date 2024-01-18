@@ -427,6 +427,22 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 ---
 
+## Jak'Sho The Protean
+
+- 3200 Gold
+- Plate
+- Attunement
+
+**Second Skin**: This armor is a saintiant creature and works thru a symbiosis. You do not need any armor proficiency or streanght requierments to where Jak'Sho
+
+**Rebreather**: While whereing Jak'Sho you can breath in any enviorment and are immune to conditions and damage caused by gass or similar effects. 
+
+**A price paid** Jak'sho requiers a payment for thier symbiosis. When dealing with a situation, the DM might say, "Jak'Sho wants you to do ..." Should you disreagard your companion to many times you might make an enemy of them. 
+
+You gain +1 to your armor class while wearing this magical armor.
+
+---
+
 ## Kindlegem
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Kindlegem.png" Align=right width=8% height=8%>
