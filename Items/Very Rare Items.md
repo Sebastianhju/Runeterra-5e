@@ -351,13 +351,12 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 ## Guinsoo's Rageblade
 
-- 13,000 Gold
+- 15,000 Gold
 - Scimitar
 
 **Wrath**: This scimitar deals an addtional 2d6 fire damage
 
-**Seething Strike**: Whenever you take the attack action you can choose to make one or more of the attacks with disadvantage. If you do so you can make an additionol attack at disadvantage for every attack that yo
-**Haste**: The cooldown of your items and runes are reduced with 6 seconds.
+**Seething Strike**: Whenever you take the attack action you can choose to make one or more of the attacks with disadvantage. For each attack you take disadvantage on you can make one addtidnol attack at disadvantage
 
 _You gain +2 to hit and damage rolls with this magical weapon_
 
