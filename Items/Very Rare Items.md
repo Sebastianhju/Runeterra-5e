@@ -503,6 +503,19 @@ _Burn: At the start of their turn, a creature with burn stacks takes force damag
 **Mageslayer**: Whenever you hit a target that is concentrating with _Lich Bane_, they have disadvantage on the consentration check, and their next spell costs 3 more mana. 
 
 _You have +2 to attack and damage rolls when using this magical weapon_
+---
+
+## Locket of the Iron Solari
+
+- 10,000 Gold
+- Wonderous
+- Attunement 
+
+**Haste**: Cool downs on runes and items are reduced by 6 seconds
+
+**Protection**: You gain +1 to ac and saving throws. 
+
+**Devotion**: As an action you can pray for aid and protection over your friends. Chose up to 6 targets within 30ft. The targets are blessed for 18 seconds and gain temproary hitpoints equal to three times your level. Devoation has a cool down of 48 seconds. 
 
 ---
 
