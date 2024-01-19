@@ -864,6 +864,20 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 ---
 
+## Shurelya's Battlesong
+
+- 2200 gold
+- Wonderus
+- Attunement
+
+**Inspirational**: You gain expertice in performance and persuasion
+
+**Song of Vicotry** As a bonus action you can hasten your party. Singing a song of victory you double the movementspeed of up to 6 targets within 30ft of you until the end of their next turn. The cool down of this ability is 48 secounds
+
+**Mana regeneration**: Whenever you score a takedown you regain 2 mana
+
+---
+
 ## Silvermere Dawn
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Silvermere Dawn.png" Align=right width=8% height=8%>
