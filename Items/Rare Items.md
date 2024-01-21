@@ -874,7 +874,9 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 **Song of Vicotry** As a bonus action you can hasten your party. Singing a song of victory you double the movementspeed of up to 6 targets within 30ft of you until the end of their next turn. The cool down of this ability is 48 secounds
 
-**Mana regeneration**: Whenever you score a takedown you regain 2 mana
+**Song of Inspiration**: when you use a Bardic Inspiration the reciver of the inspiration gains 5 temporary hit points and agility.
+
+**Mana regeneration**: Whenever you take a short rest and spend atleast 1 hit dice. you regain mana equal to twice your proficiency bonus
 
 ---
 
