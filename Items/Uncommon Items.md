@@ -370,15 +370,6 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ---
 
-## Spatula
-
-- 600 Gold
-- Wounderus item
-
-**gourmet gourmand**: While holding the spatula you gain expertice in cook's utensils. Any meal you make during a short rest is magicaly enhanced. Thouse who eat of that food regain health and mana equal to their proficiency bonus. 
-
----
-
 ## Spellthive's Edge
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spellthiefs%20Edge.png" Align=right width=8% height=8%>
