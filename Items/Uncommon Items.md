@@ -75,8 +75,6 @@ _You gain +1 bonus to unarmed attack rolls_
 
 ---
 
----
-
 ## Cinder Cutlass
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cinder Cutlass.png" Align=right width=8% height=8%>
 
