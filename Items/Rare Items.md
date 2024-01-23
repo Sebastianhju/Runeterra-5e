@@ -178,6 +178,15 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 ---
 
+## Chalice of Power
+
+- 2500 Gold
+- Wonderous Item
+
+**Master of Elixirs**: Once a day you can as an action lift the chalise up, recite the incantation of the chalice and name an elixir, the goblet will fill it self with the named elexir. The elexir must then be consumed within one minute or waporise.
+
+---
+
 ## Chempunk Chainsword
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chempunk Chainsword.png" Align=right width=8% height=8%>
