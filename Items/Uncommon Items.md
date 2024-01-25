@@ -69,7 +69,7 @@ _You gain +1 bonus to spell attack rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Brawler's Gloves.png" Align=right width=8% height=8%>
 
-**spikes**: Whenever you score a critical hit with an unarmed attack you deal one additional dice of damamge, minimum 1d4.
+**Spikes**: Whenever you score a critical hit with an unarmed attack you deal one additional dice of damamge, minimum 1d4.
 
 **Grapler** After hitting with an unarmed attack you can as a bonus action try to grapple the creature if you meet the rquierments to make such a test.
 
