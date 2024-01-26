@@ -440,7 +440,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 ## Jak'Sho The Protean
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Jak'Sho the Protean.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Jak'Sho, The Protean.png" Align=right width=8% height=8%>
 
 - 3200 Gold
 - Plate
