@@ -183,6 +183,8 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 - 2500 Gold
 - Wonderous Item
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chalice of Power.png" Align=right width=8% height=8%>
+
 **Master of Elixirs**: Once a day you can as an action lift the chalise up, recite the incantation of the chalice and name an elixir, the goblet will fill it self with the named elexir. The elexir must then be consumed within one minute or waporise.
 
 ---
@@ -438,17 +440,19 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 ## Jak'Sho The Protean
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Jak'Sho the Protean.png" Align=right width=8% height=8%>
+
 - 3200 Gold
 - Plate
 - Attunement
 
-**Second Skin**: This armor is a saintiant creature and works thru a symbiosis. You do not need any armor proficiency or streanght requierments to where Jak'Sho
+**Second Skin**: This armor is a sentient creature and works thru a symbiosis. You do not need any armor proficiency or strength requierments to wear Jak'Sho
 
-**Rebreather**: While whereing Jak'Sho you can breath in any enviorment and are immune to conditions and damage caused by gass or similar effects. 
+**Rebreather**: While wearing Jak'Sho you can breathe in any enviorment and are immune to conditions and damage caused by gass or similar effects. 
 
-**A price paid** Jak'sho requiers a payment for thier symbiosis. When dealing with a situation, the DM might say, "Jak'Sho wants you to do ..." Should you disreagard your companion to many times you might make an enemy of them. 
+**A price paid** Jak'sho requiers a payment for thier symbiosis. When dealing with a situation, the DM might say, "Jak'Sho wants you to ..." Should you disreagard your companion to many times you might make an enemy of them. 
 
-You gain +1 to your armor class while wearing this magical armor.
+_You gain +1 to your armor class while wearing this magical armor._
 
 ---
 
@@ -757,13 +761,15 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 ---
 
-## Rift maker
+## Riftmaker
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Riftmaker.png" Align=right width=8% height=8%>
 
 - 3200 Gold
 - Arcane Focus
 - Attunement
 
-**Riftmaker**: When you cast a teleportation spell you can spent 2 more mana to duoble the range.
+**Riftmaker**: When you cast a teleportation spell you can spent 2 additional mana to duoble the range.
 
 **Hunger of the Void**: When you deal damage with a spell you gain a stack of _hunger_. When you have 5 stacks of _hunger_ your next spells deal 4d6 additional necrotic damage and you heal for the same amount. 
 
@@ -773,13 +779,15 @@ _You gain +2 to spell attack rolls_
 
 ## Rod of Ages
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rod of Ages.png" Align=right width=8% height=8%>
+
 - 2800 Gold
 - Arcane Focus
 - Attunement
 
-**Vitality**: You gain health and mana equal to three times your proficiancy bonus
+**Vitality**: You gain health and mana equal to three times your proficiency bonus
 
-**Wisdom of Ages**: When roling damage for a spell you can add your spellcasting ability modifier to the damage roll
+**Wisdom of Ages**: When rolling damage for a spell you can add your spellcasting ability modifier to the damage roll
 
 _You gain +1 to spell attack rolls and saving throws_
 
@@ -1011,6 +1019,8 @@ _You gain +1 to attack and damage rolls using this weapon_
 Carve: Your armor class is reduced by one for every other stack of carve you have, up to a maximum of eight. Whenever you start your turn, you remove one stack of carve
 
 _You gain +1 to hit and damage rolls using this magical weapon_
+
+---
 
 ## Tiamat
 
