@@ -523,8 +523,11 @@ _You have +1 to hit and damage rolls using this weapon_
 
 - 3000 Gold
 - Arcane Focus
+- Attunement
 
-**Enlighten**: Whenever you take a short rest, you can spend hit dice to replenish mana and gain a small amount of health instead. The amount of mana and health is equal to your proficiency bonus for every hit dice spent. 
+**Enlighten**: Whenever you take a short rest, you regain mana equal to your proficiency bonus for each hit dice you spend.
+
+**Strong Connection**: Once this item is attuned to you, it takes four hours to sever the connection. 
 
 You gain +1 to spell attack rolls and your saving throw DC. 
 
