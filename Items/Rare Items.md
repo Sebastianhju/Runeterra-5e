@@ -180,10 +180,10 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 ## Chalice of Power
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chalice of Power.png" Align=right width=8% height=8%>
+
 - 2500 Gold
 - Wonderous Item
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chalice of Power.png" Align=right width=8% height=8%>
 
 **Master of Elixirs**: Once a day you can as an action lift the chalise up, recite the incantation of the chalice and name an elixir, the goblet will fill it self with the named elexir. The elexir must then be consumed within one minute or waporise.
 
