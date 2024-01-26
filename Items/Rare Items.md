@@ -407,7 +407,7 @@ _You have +1 to attack and damage rolls using this magical weapon._
 
 **Coordinated Fire**: Whenever you slow or immobilize a target, they gain a mark that lasts until start of your next turn. The mark is consumed the next time the target takes damage from one of you allies, dealing 2d8 radiant damage.
 
-**Harmony**: Whenever a mark is consumed, you regain 1 mana.
+**Harmony**: Whenever a mark is consumed, you gain a stack of _Harmony_. When you have five stacks of harmony, you regain 1 mana. 
 
 **Haste**: The cooldown of your items and runes are reduced by 6 seconds. 
 
