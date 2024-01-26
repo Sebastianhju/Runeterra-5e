@@ -351,12 +351,14 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 ## Guinsoo's Rageblade
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Guinsoo's Rageblade.png" Align=right width=8% height=8%>
+
 - 15,000 Gold
 - Scimitar
 
-**Wrath**: This scimitar deals an addtional 2d6 fire damage
+**Wrath**: This scimitar deals an additional 2d6 fire damage
 
-**Seething Strike**: Whenever you take the attack action you can choose to make one or more of the attacks with disadvantage. For each attack you take disadvantage on you can make one addtidnol attack at disadvantage
+**Seething Strike**: Whenever you take the attack action you can choose to make one or more of the attacks with disadvantage. For each attack you make with disadvantage using this feature, you can make an additional attack with disadvantage. 
 
 _You gain +2 to hit and damage rolls with this magical weapon_
 
@@ -411,14 +413,18 @@ _You gian +3 to initiative rolls_
 
 ## Iceborn Gauntlet
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Iceborn Gauntlet.png" Align=right width=8% height=8%>
+
 - 11,000 Gold
 - Wonderous
 
-**Frostbourn**: You gain resitacne to Cold damage, and your unarmed attacks deal 1d8 additionol cold damage
+**Frostborn**: You gain resistance to cold damage, and your unarmed attacks deals 1d8 additional cold damage. 
 
 **Local Blizzard**: When you hit with an attack you can chose to activate Local Blizzard, Until the end of your next turn a 15ft sphere of ice and cold svirls around you. Any enemy creature that starts it's turn in the aura has their movment speed halved. LocalBlizzard has a 30 second cool down. 
 
-**Health**: You gain maximum hit points equal to one hitt dice. 
+**Local Blizzard**: Whenever you hit with a unarmed or weapon attack, you can send out a local blizzard. Until the end of your next turn, a 15ft sphere of ice and cold swirls around you. Any enemy creature that starts their turn within the sphere has their movement speed halved until the end of their turn. Once this effect is used, it cannot be used again until 30 seconds pass.
+
+**Health**: You gain maximum hit points equal to your dice. 
 
 ---
 
@@ -467,7 +473,7 @@ _You gain +2 to hit and damage rolls using this magical weapon _
 
 **Pledge**: As a ritual during your long rest, you can select an ally to be named _Worthy_. The worthy creature can add 1d6 to all ability checks and saving throws until you select a new _Worthy_ target. 
 
-**Sacrifice**: Whenever the _Worthy_ ally is within 60 feet of you and takes damage, you take half of that damage as nonmigatiable damage and they take half damage instead. Whenever the _Worthy_ ally deals damage to a creature, you heal equal to your proficiency bonus, up to a maximum of four times each round. 
+**Sacrifice**: Whenever the _Worthy_ ally is within 120 feet of you and takes damage, you take half of that damage as nonmigatiable damage and they take half damage instead. Whenever the _Worthy_ ally deals damage to a creature, you heal equal to your proficiency bonus, up to a maximum of five times each round. 
 
 **Health**: You gain maximum hit points equal to twice your level. 
 
@@ -498,7 +504,7 @@ _Burn: At the start of their turn, a creature with burn stacks takes force damag
 
 **Spellblade**: You can use you spellcasting ability when determening to hit and damge modifiers for this weapon.
 
-**Lingering Power**: After casting a spell, your next attack deals 2d6 additional psychic damage. 
+**Lingering Power**: After casting a spell, your next attack deals additional psychic damage equal to two times the mana spent. 
 
 **Mageslayer**: Whenever you hit a target that is concentrating with _Lich Bane_, they have disadvantage on the consentration check, and their next spell costs 3 more mana. 
 
@@ -507,15 +513,17 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 
 ## Locket of the Iron Solari
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Locket of the Iron Solari.png" Align=right width=8% height=8%>
+
 - 10,000 Gold
 - Wonderous
 - Attunement 
 
-**Haste**: Cool downs on runes and items are reduced by 6 seconds
+**Haste**: The cooldowns on runes and items are reduced by 6 seconds
 
-**Protection**: You gain +1 to ac and saving throws. 
+**Protection**: You gain +1 to your armor class and saving throws. 
 
-**Devotion**: As an action you can pray for aid and protection over your friends. Chose up to 6 targets within 30ft. The targets are blessed for 18 seconds and gain temproary hitpoints equal to three times your level. Devoation has a cool down of 48 seconds. 
+**Devotion**: As an action you can pray for aid and protection over your allies. Up to 6 targets within 60 feet of you gain temporary hit points equal to three times your level. As long as they have the temporary hit points, they can add 1d4 to all d20 roll they make. Once this action is used it cannot be used again until 42 seconds have passed. 
 
 ---
 
@@ -678,6 +686,8 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 _You gain +1 to hit and damage rolls using this magical weapon_
 
+---
+
 ## Runaan's Hurricane
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Runaan's Hurricane.png" Align=right width=8% height=8%>
@@ -743,7 +753,7 @@ _You gian +3 to initiative rolls_
 - 10,000 Gold
 - Wonderous Item
 
-**Catching Claws**: You gain +2 to hit and damage on your unarmed attacks. Whenever you hit an unarmed attack, you can use your bonus action to grapple the target. 
+**Catching Claws**: You gain +2 to hit and damage on your unarmed attacks. Whenever you hit an unarmed attack, you can attempt to grapple the target as a free action.
 
 **Lifeline**: If you would take damage that would reduce your hit points to zero, you first gain temporary hit points equal to 10 times your proficiency bonus. As long as you have these temporary hit points, your size increases by one, as if affected by the enlarge spell, and you are immune to all immobilizing effects. Once this effect is used, it cannot be used again until you finish a long rest.
 
@@ -773,12 +783,15 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 - 11,000 Gold
 - Lance
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sundered Sky.png" Align=right width=8% height=8%>
 
-**Piercing**: When mounted this lance deals an additional d12 damage.
+**Piercing**: When mounted this lance deals an additional 1d12 damage.
 
-**Health**: Your maximum hit points increases by an anount equal to one hit dice
+**Health**: Your maximum hit points increases by an amount equal your hit dice
 
-**Charge** When mounted, in the first round of combat, you have advantage on all your attacks and your first hit is an atumatical critical hit.
+**Charge** When mounted, in the first round of combat, you have advantage on all your attacks.
+
+**Lightshield Strike**: The first time you hit a new creature that day, sundering sky critically hits. 
 
 _You have +2 to attack and damage rolls when using this magical weapon_
 
