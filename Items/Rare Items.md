@@ -1168,7 +1168,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 - Wounderous item
 - Attunement
 
-**Haste**: Your cool downs are reduced by 6 seconds
+**Ultimate Haste**: The cooldown of your ultimate is reduced by one. 
 
 **Health**: You gain health equal to you hit dice.
 
