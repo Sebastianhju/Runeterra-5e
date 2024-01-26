@@ -77,6 +77,17 @@ _You gain +1 bonus to unarmed attack rolls_
 
 ---
 
+## Catalyst of Aeons
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Catalyst of Aeons.png" Align=right width=8% height=8%>
+
+- 500 Gold
+- Spell Focus
+
+**Eternity**: Whenever you take damage, you regain 1 mana for every tenth damage taken. Whenever you cast a spell, you regain health equal to the mana spent.
+
+---
+
 ## Cinder Cutlass
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cinder Cutlass.png" Align=right width=8% height=8%>
 
