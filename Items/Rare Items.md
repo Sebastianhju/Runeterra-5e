@@ -139,18 +139,6 @@ You gain +1 to your armor class while wearing this magical armor.
 
 ---
 
-## Catalyst of Aeons
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Catalyst of Aeons.png" Align=right width=8% height=8%>
-
-- 2500 Gold
-- Spell Focus
-- Attunement
-
-**Eternity**: Whenever you take damage, you regain 1 mana for every tenth damage taken. Whenever you cast a spell, you regain health equal to the mana spent.
-
----
-
 ## Caulfields Warhammer
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Caulfield's Warhammer.png" Align=right width=8% height=8%>
