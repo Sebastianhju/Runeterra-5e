@@ -507,6 +507,7 @@ _Burn: At the start of their turn, a creature with burn stacks takes force damag
 **Mageslayer**: Whenever you hit a target that is concentrating with _Lich Bane_, they have disadvantage on the consentration check, and their next spell costs 3 more mana. 
 
 _You have +2 to attack and damage rolls when using this magical weapon_
+
 ---
 
 ## Locket of the Iron Solari
