@@ -440,8 +440,6 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 **A price paid** Jak'sho requiers a payment for thier symbiosis. When dealing with a situation, the DM might say, "Jak'Sho wants you to ..." Should you disreagard your companion to many times you might make an enemy of them. 
 
-_You gain +1 to your armor class while wearing this magical armor._
-
 ---
 
 ## Kindlegem
