@@ -1162,6 +1162,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 ## Zeke's Convergence
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Zeke's Convergence.png" Align=right width=8% height=8%>
 
 - 3200 Gold
 - Wounderous item
@@ -1169,9 +1170,11 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 **Haste**: Your cool downs are reduced by 6 seconds
 
-**Vitality**: You gain +10 HP and +5 Mana
+**Health**: You gain health equal to you hit dice.
 
-**Forstfire Tempest**: When you cast your ultimate a tempest of fire and cold storms around you for 30 secounds. All enemy creatures who start their turn within 15ft of you must make a con save. Taking 3d6 fire damage and 3d6 cold damge, halved on a succsess
+**Mana**: You gain +5 maximum mana
+
+**Forstfire Tempest**: When you cast your ultimate a tempest of fire and cold storms around you for 30 secounds. All enemy creatures who start their turn within 10 feett of you must make a constetution saving throw, save dc 12 + proficiency bonus. Taking 2d8 fire damage and 2d8 cold damge, halved on a succsess
 
 ---
 
