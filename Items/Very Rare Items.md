@@ -521,7 +521,7 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 
 **Protection**: You gain +1 to your armor class and saving throws. 
 
-**Devotion**: As an action you can pray for aid and protection over your allies. Up to 6 targets within 60 feet of you gain temporary hit points equal to three times your level. As long as they have the temporary hit points, they can add 1d4 to all d20 roll they make. Once this action is used it cannot be used again until 42 seconds have passed. 
+**Devotion**: As an action you can pray for aid and protection over your allies. Up to 6 targets within 60 feet of you gain temporary hit points equal to two times your level. As long as they have the temporary hit points, they can add 1d4 to all d20 roll they make. You can do this action a number of times equal to your proficiency bonus before you must finish a long rest. 
 
 ---
 
