@@ -883,17 +883,19 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 ## Shurelya's Battlesong
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Shurelya's Battlesong.png" Align=right width=8% height=8%>
+
 - 2200 gold
-- Wonderus
+- Wondrous
 - Attunement
 
-**Inspirational**: You gain expertice in performance and persuasion
+**Inspirational**: You gain expertise a charisma based skill of your choice. 
 
-**Song of Vicotry** As a bonus action you can hasten your party. Singing a song of victory you double the movementspeed of up to 6 targets within 30ft of you until the end of their next turn. The cool down of this ability is 48 secounds
+**Song of Victory** As a bonus action you can hasten your party. Singing a song of victory you grant 6 targets within 30ft of you 60 feet movement speed until the end of their next turn. Once this action is used, it cannot be used again until 36 seconds pass. The cooldown is reduced by 6 whenever you spend a bardic inspiration or cast a spell that targets an ally. 
 
-**Song of Inspiration**: when you use a Bardic Inspiration the reciver of the inspiration gains 5 temporary hit points and agility.
+**Song of Inspiration**: Whenever you target an ally with a spell or grant them bardic inspiration, they also gain 10 feet movement speed until the end of their turn. 
 
-**Mana regeneration**: Whenever you take a short rest and spend atleast 1 hit dice. you regain mana equal to twice your proficiency bonus
+**Mana regeneration**: Whenever you take a short rest and spend at least 1 hit dice, you regain mana equal to twice your proficiency bonus.
 
 ---
 
