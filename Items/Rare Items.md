@@ -1174,7 +1174,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 **Mana**: You gain +5 maximum mana
 
-**Forstfire Tempest**: When you cast your ultimate a tempest of fire and cold storms around you for 30 seconds. All enemy creatures who start their turn within 10 feet of you must make a constitution saving throw, save dc 12 + proficiency bonus. Taking 2d8 fire damage and 2d8 cold damge, halved on a success
+**Frostfire Tempest**: When you cast your ultimate a tempest of fire and cold storms around you for 30 seconds. All enemy creatures who start their turn within 10 feet of you must make a constitution saving throw, save dc 12 + proficiency bonus. Taking 2d8 fire damage and 2d8 cold damge, halved on a success
 
 ---
 
