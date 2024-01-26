@@ -1116,15 +1116,17 @@ While wielding this armor you gain +1 to your armor class_
 
 ## Wit's End
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Wit's End.png" Align=right width=8% height=8%>
+
 - 2800 gold
 - Scimitar
 - Attunement
 
 **Spellblade**: You can use your spell casting modifier for attacks made with this weapon.
 
-**Fray**: This blade deals 1d6 additionol psychic damage and you have recistance to psycic damage.
+**Fray**: This blade deals 1d6 additional psychic damage and you have recistance to psycic damage.
 
-**Multiattack**: When you take the attack action you can make one additionol attack. This feature does not stack with other features of the same name.
+**Multiattack**: When you take the attack action with Wit's End, you can make an additional attack.
 
 ---
 
