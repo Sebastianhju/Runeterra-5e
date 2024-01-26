@@ -168,7 +168,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 - Wonderous Item
 - Attunement 
 
-**Safeguard**: Whenever you are about to take damage, safeguard activates and negates all damage taken. Once used it cannot be used again until 24 seconds pass. As long as safeguard is off cooldown, your spells deal 1d8 additional cold damage. 
+**Safeguard**: Once a round whenever you are about to take damage, safeguard activates and negates all damage taken. Once used it cannot be used again until 30 seconds pass. As long as safeguard is off cooldown, your spells deal 1d8 additional cold damage. 
 
 **Mana**: You gain +5 maximum mana
 
