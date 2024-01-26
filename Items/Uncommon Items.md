@@ -255,6 +255,8 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 **Mana well**: Whenever you spend a hit dice you regain 1 mana.
 
+**Fary Dust**: Once per long rest, you can cast _Faerie fire_ without spending mana.
+
 ---
 
 ## Hexdrinker
