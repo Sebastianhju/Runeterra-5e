@@ -420,8 +420,6 @@ _You gian +3 to initiative rolls_
 
 **Frostborn**: You gain resistance to cold damage, and your unarmed attacks deals 1d8 additional cold damage. 
 
-**Local Blizzard**: When you hit with an attack you can chose to activate Local Blizzard, Until the end of your next turn a 15ft sphere of ice and cold svirls around you. Any enemy creature that starts it's turn in the aura has their movment speed halved. LocalBlizzard has a 30 second cool down. 
-
 **Local Blizzard**: Whenever you hit with a unarmed or weapon attack, you can send out a local blizzard. Until the end of your next turn, a 15ft sphere of ice and cold swirls around you. Any enemy creature that starts their turn within the sphere has their movement speed halved until the end of their turn. Once this effect is used, it cannot be used again until 30 seconds pass.
 
 **Health**: You gain maximum hit points equal to your dice. 
