@@ -39,21 +39,7 @@ _You gain +1 to your saving throws_
 
 **Aegis Aura**: As an action you can activate the Aegis Aura, giving you and allies +1 to their armor class and saving throws for 18 seconds as long as they are within 10 feet of you. Once used, it cannot be used again until 30 seconds pass
 
-While wielding this piece of armor you gain +1 to your armor class. 
-
----
-
-## Aether Wisp 
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Aether Wisp.png" Align=right width=8% height=8%>
-
-- 3000 Gold
-- Wondrous Item
-- Attunement
-  
-**Charges**: This item has 2 charges, that all replenish whenever you finish a long rest. Whenever you end your turn after moving at least 45 feet, you regain one charge. 
-
-**Spectral Might**: Whenever you deal spell damage you can spend any amount of charges to deal 1d6 additional damage for each charge spent. 
+While wielding this piece of armor you gain +1 to your armor class.  
 
 ---
 
@@ -862,7 +848,6 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 - 3500 gold
 - Wonderus
-- Attunement
 
 **Cinderbloom**: When you apply stacks of burn to a creature, you remove all temporary hit points they currently have. 
 
