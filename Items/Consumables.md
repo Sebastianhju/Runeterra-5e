@@ -12,7 +12,7 @@ As an action you can drink this elixir. Until your next long rest, you become la
 
 Cost: 100 Gold
 
-As an action you can drink this elixir. for the next 8 hours you can roll 1d6 additional damage when rolling for elemental damage, and ignore resistances.
+As an action you can drink this elixir. Until your next long rest you can roll 1d6 additional damage when rolling for elemental damage, and you ignore resistances to elemental damage types.
 
 ---
 
@@ -20,7 +20,7 @@ As an action you can drink this elixir. for the next 8 hours you can roll 1d6 ad
 
 Cost: 100 Gold
 
-As an action you can drink this elixir. For the next 8 hours, whenever you deal bludgeoning, piercing and slashing damage, you can add 1d6 damage and heal equal to the additional damage. 
+As an action you can drink this elixir. Until your next long rest, whenever you deal bludgeoning, piercing and slashing damage, you deal 1d6 additional damage and heal equal to the additional damage. 
 
 ---
 
@@ -28,7 +28,7 @@ As an action you can drink this elixir. For the next 8 hours, whenever you deal 
 
 Cost: 100 Gold
 
-As an action you can drink this elixir. For the next 8 hours you gain 20 gold whenever you score a takedown on a creature of CR 1 or higher.
+As an action you can drink this elixir. Until your next long rest, you gain gold whenever you score a takedown. The amount of gold equals to ten times the creatures challenge rating.
 
 ---
 
@@ -36,8 +36,7 @@ As an action you can drink this elixir. For the next 8 hours you gain 20 gold wh
 
 Cost: 175 Gold
 
-As an action you can drink this elixir.
-For the next 8 hours you gain an extra attack whenever you take the attack action and agility.
+As an action you can drink this elixir. Until your next long rest you don't provoke oppertunity attacks, and gain an extra attack whenever you take the attack action.
 
 ---
 
