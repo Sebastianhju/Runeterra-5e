@@ -16,7 +16,7 @@ As an action you can drink this elixir. for the next 8 hours you can roll 1d6 ad
 
 ---
 
-# Elixir of Wrath
+## Elixir of Wrath
 
 Cost: 100 Gold
 
