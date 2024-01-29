@@ -4,7 +4,7 @@
 
 Cost: 100 Gold
 
-As an action you can drink this elixir. For the next 8 hour you become Large and gain +10 maximum hit points.
+As an action you can drink this elixir. Until your next long rest, you become large and gain maximum hit points equal to two times your level. 
 
 ---
 
