@@ -1,5 +1,19 @@
 # Uncommon Magical Items
 
+## Aether Wisp 
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Aether Wisp.png" Align=right width=8% height=8%>
+
+- 1000 Gold
+- Wondrous Item
+
+  
+**Charges**: This item has 2 charges, that all replenish whenever you finish a long rest. Whenever you end your turn after moving at least 45 feet, you regain one charge. 
+
+**Spectral Might**: Whenever you deal spell damage you can spend any amount of charges to deal 1d6 additional damage for each charge spent.
+
+---
+
 ## Amplifying Tome
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Amplifying Tome.png" Align=right width=8% height=8%>
