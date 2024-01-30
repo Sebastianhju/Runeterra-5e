@@ -601,7 +601,7 @@ _You gain +2 to your spell attack rolls and spell save DC while attuned to this 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rabadon's Deathcap.png" Align=right width=8% height=8%>
 
 - 15,000 Gold
-- Wonderous Item
+- Wonderous Item, hat
 - Attunement
 
 **Knowledge is Power**: All your ability scores increases by 1 while attuned to this item
