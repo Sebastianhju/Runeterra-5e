@@ -508,7 +508,7 @@ _You have +1 to hit and damage rolls using this weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lost Chapter.png" Align=right width=8% height=8%>
 
 - 3000 Gold
-- Arcane Focus
+- Wondrous
 - Attunement
 
 **Enlighten**: Whenever you take a short rest, you regain mana equal to your proficiency bonus for each hit dice you spend.
