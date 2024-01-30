@@ -19,7 +19,7 @@
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Amplifying Tome.png" Align=right width=8% height=8%>
 
 - 450 Gold
-- Arcane Focus
+- Wondrous
 
 **Spell Enhancer**: Whenever you deal damage from a spell you may reroll up to three damage dices. 
 
@@ -96,7 +96,7 @@ _You gain +1 bonus to unarmed attack rolls_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Catalyst of Aeons.png" Align=right width=8% height=8%>
 
 - 500 Gold
-- Spell Focus
+- Wondorous Item
 
 **Eternity**: Whenever you take damage, you regain 1 mana for every tenth damage taken. Whenever you cast a spell, you regain health equal to the mana spent.
 
@@ -144,12 +144,10 @@ _You have +1 to your armor class while wearing this magical armor_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cosmic Drive.png" Align=right width=8% height=8%>
 
-- 850 Gold
-- Wondrous Item
+- 500 Gold
+- Wondrous Item, Helmet
 
 **Spelldance**: Whenever you cast a spell, you gain 10 feet movement speed. 
-
-_You gain +1 to your spells save dc_ 
 
 ---
 
@@ -185,7 +183,7 @@ _You gain +1 to your initiative rolls_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dark Seal.png" Align=right width=8% height=8%>
 
 - 1000 Gold
-- Arcane Focus
+- Wondrous Item, Ring
 - Attunement
 
 **Glory** Whenever you score a takedown you gain a stack of glory, up to a maximum of 10. Whenever your hit points are reduced to 0 you loose all stacks of glory. 
@@ -220,7 +218,7 @@ _You gain +1 to your initiative rolls_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Ring.png" Align=right width=8% height=8%>
 
 - 450 Gold
-- Arcane Focus
+- Wondrous Item, Ring
 
 **Focus**: Whenever you score a takedown, you gain a stack of _Manastore_. Whenever you have 5 stacks of manastore, you regain mana equal to your proficiency bonus. 
 
@@ -265,7 +263,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Faerie Charm.png" Align=right width=8% height=8%>
 
 - 450 Gold
-- Wonderous Item
+- Wonderous Item, Amulet
 
 **Mana well**: Whenever you spend a hit dice you regain 1 mana.
 
@@ -289,7 +287,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Needlessly Large Rod.png" Align=right width=8% height=8%>
 
 - 750 Gold
-- Quarterstaff 
+- Arcane Focus, Quarterstaff
 
 **Needlessly Large**: Any spell with a radius, cone, cube or similar effect gains an extra 5ft to the size in all dimentions. 
 
@@ -444,7 +442,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tear of the Goddess.png" Align=right width=8% height=8%>
 
 - 500 Gold
-- Spell Focus
+- Wondrous Item
 - Atunement
 
 **Mana**: You gain +2 maximum mana
