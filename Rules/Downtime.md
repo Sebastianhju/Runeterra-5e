@@ -56,10 +56,9 @@ During your downtime you can brew potions or craft mundane weapons and armor for
 |Poisoner's Tools| Poisons|Wisdom|
 
 **Crafting Magical items**
-If you were to craft a magical item it requires time and dedication. First you'll need the nessesary research, spending a downtime bulk to find out how to make the magic item and what resources you'll need to make it. 
-You must succeed a dc 20 investegation check. You can spend gold to increase the odds of succeding on this activity. For every hundred gold you spend, the dc is lowered by one. 
+If you were to craft a magical item it requires time and dedication. First you'll need the nessesary research, spending a downtime bulk on research to find the recipe to the magic item.
 
-If you already have the nessesary research, you can craft the item during the downtime period. The cost of crafting magical items depend on their rarity. 
+If you already have the recipe, you can craft the item during the downtime period. The cost of crafting magical items depend on their rarity. 
 
 As you craft the item, you must succed a skill check dependant on the item you are crafting. On a sucess you craft the item. On a faiure, the cost of the item increases by 10% for every number you are lower than the difficulty class due to complications. 
 
