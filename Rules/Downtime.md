@@ -22,7 +22,7 @@ During the weekend you can travel to one of the close settlements to visit the m
 
 ### Gambling
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Gambling.png" Align=Right width=20% height=20%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Gambling.png" Align=Right width=50% height=50%>
 
 During your downtime you can gamble with the other soliders in the millitary camp. 
 
