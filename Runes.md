@@ -557,7 +557,7 @@ At level 17 you gain all summoner spells whenever you finish a long rest.
 |1d10 Roll|Summoner Spell|-|1d10 Roll|Summoner Spell|
 |---|---|---|---|---|
 |1|Barrier||6|Heal|
-|2|Clease||7|Ignite|
+|2|Cleanse||7|Ignite|
 |3|Exhaust||8|Smite|
 |4|Flash||9|Teleport|
 |5|Ghost||10|Clarity|
