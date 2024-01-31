@@ -67,8 +67,6 @@ As you craft the item, you must succed a skill check dependant on the item you a
 |Very Rare | 20 000 Gold | 20 | 
 |Legendary | 100 000 Gold | 25|
 
----
-
 **Brewing Healing Potions and Elixirs**
 
 There are special prices and difficulty classes for brewing healing Potions and Elixirs. You have 10 collective points each bulk that you can spend on brewing. These are to show how much time each brew takes. 
@@ -101,3 +99,50 @@ The character makes three checks: **Strength (Athletics)**, **Dexterity (Acrobat
 |2 successes|	Win 100 gp.|
 |3 successes|	Win 200 gp.|
 
+---
+
+### Research
+
+Forewarned is forearmed. The research downtime activity allows a character to delve into lore concerning a monster, a location, a magic item, or some other particular topic.
+
+**Resources.** Conducting research requires at least 50 gp spent on materials, bribes, gifts, and other expenses.
+
+**Resolution.** The character declares the focus of the research — a specific person, place, or thing. After one workweek, the character makes an Intelligence check with a +1 bonus per 50 gp spent beyond the initial 50 gp, to a maximum of +6. Determine how much lore a character learns using the Research Outcomes table.
+
+**Research Outcomes**
+|Check Total|	Outcome|
+|---|---|
+|1–5	|No effect.|
+|6–10	|You learn one piece of lore.|
+|11–20	|You learn two pieces of lore.|
+|21+	|You learn three pieces of lore.|
+
+Each piece of lore is the equivalent of one true statement about a person, place, or thing. Examples include knowledge of a creature’s resistances, the password needed to enter a sealed dungeon level, the spells commonly prepared by an order of wizards, and so on.
+
+As DM, you are the final arbiter concerning exactly what a character learns. For a monster or an NPC, you can reveal elements of statistics or personality. For a location, you can reveal secrets about it, such as a hidden entrance, the answer to a riddle, or the nature of a creature that guards the place.
+
+---
+
+### Training
+
+During your downtime you can find yourself a teacher that can learn a new proficiency. You can learn a new language, tool, weapon or armor proficiency by spending 200 gold on a teacher. 
+
+---
+
+### Pest Work 
+
+During your downtime you can take a part of the pest control in the camp. This downtime is used to gain a small amount of gold, and gaining takedowns during your downtime to stack up a item or rune. You can only stack up a singular item or rune during this downtime activity. 
+
+The character makes three checks: **Intelligence (Investegation)**, **Wisdom (Animal Handling)**, and **Athletics (Strength)**. If desired, the character can replace one of these skill checks with an attack roll using one of the character’s weapons. The DC for each of the checks is 5 + 2d10; generate a separate DC for each one. Consult the Pest Work table to see how the character did.
+
+**Pest Work Results**
+|0 successes| You gain zero stacks|
+|1 success|	You gain 1d6 stacks and 25 gold|
+|2 successes|	You gain 2d6 stacks and 50 gold|
+|3 successes|	You gain 3d6 stacks and 100 gold|
+
+---
+
+### Relaxation
+
+Sometimes the best thing to do between adventures is relax. Whether a character wants a hard-earned vacation or needs to recover from injuries, relaxation is the ideal option for adventurers who need a break. This option is also ideal for players who don’t want to make use of the downtime system.
