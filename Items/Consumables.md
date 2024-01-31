@@ -2,7 +2,7 @@
 
 ## Elixir of Iron
 
-Cost: 100 Gold
+Cost: 200 Gold
 
 As an action you can drink this elixir. For the next hour, you become large, gain +1 to all saving throws and gain maximum hit points equal to two times your level. 
 
@@ -10,7 +10,7 @@ As an action you can drink this elixir. For the next hour, you become large, gai
 
 ## Elixir of Sorcery
 
-Cost: 100 Gold
+Cost: 200 Gold
 
 As an action you can drink this elixir. For the next hour, you can roll 1d6 additional damage when rolling for elemental damage, and you ignore resistances to elemental damage types.
 
@@ -18,7 +18,7 @@ As an action you can drink this elixir. For the next hour, you can roll 1d6 addi
 
 ## Elixir of Wrath
 
-Cost: 100 Gold
+Cost: 200 Gold
 
 As an action you can drink this elixir. For the next hour, whenever you deal bludgeoning, piercing and slashing damage, you deal 1d6 additional damage and heal equal to the additional damage. 
 
@@ -26,15 +26,15 @@ As an action you can drink this elixir. For the next hour, whenever you deal blu
 
 ## Elixir of Greed
 
-Cost: 100 Gold
+Cost: 200 Gold
 
-As an action you can drink this elixir. Fort the next hour, you gain gold whenever you score a takedown. The amount of gold equals to ten times the creatures challenge rating.
+As an action you can drink this elixir. Fort the next hour, you gain gold whenever you score a takedown. The amount of gold equals to twenty times the creatures challenge rating.
 
 ---
 
 ## Elixir og Agility
 
-Cost: 175 Gold
+Cost: 200 Gold
 
 As an action you can drink this elixir. For the next hour, you don't provoke oppertunity attacks and gain an extra attack whenever you take the attack action.
 
@@ -52,13 +52,13 @@ As a Bonus Action you regain 2d4+2 hit points
 
 Cost: 250 gold
 
-As a Bonuas Action you regain 4d4+4 hit points
+As a Bonus Action you regain 4d4+4 hit points
 
 ---
 
 ## Potion of Delayed Healing
 
-Cost: 70 gold
+Cost: 100 gold
 
 As a bonus action you regain 1d4+1 hit points and 2d4+2 hit points at the start of your next turn.
 
@@ -66,7 +66,7 @@ As a bonus action you regain 1d4+1 hit points and 2d4+2 hit points at the start 
 
 ## Potion of Haste
 
-Cost: 70 Gold
+Cost: 100 Gold
 
 As a bonus action you reduce all the cooldowns of your runes and items by 12 seconds. 
 
