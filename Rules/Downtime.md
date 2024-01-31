@@ -145,6 +145,9 @@ During your downtime you can take a part of the pest control in the camp. This d
 The character makes three checks: **Intelligence (Investegation)**, **Wisdom (Animal Handling)**, and **Athletics (Strength)**. If desired, the character can replace one of these skill checks with an attack roll using one of the character’s weapons. The DC for each of the checks is 5 + 2d10; generate a separate DC for each one. Consult the Pest Work table to see how the character did.
 
 **Pest Work Results**
+
+|Result	|Value|
+|---|---|
 |0 successes| You gain zero stacks|
 |1 success|	You gain 1d6 stacks and 25 gold|
 |2 successes|	You gain 2d6 stacks and 50 gold|
