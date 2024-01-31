@@ -18,6 +18,22 @@ During the weekend you can travel to one of the close settlements to visit the m
 
 ### Gambling
 
+During your downtime you can gamble with the other soliders in the millitary camp. 
+
+**Resolution.** The character must make a series of checks, with a DC determined at random based on the quality of the competition that the character runs into. Part of the risk of gambling is that one never knows who might end up sitting across the table.
+
+The character makes three checks: **Wisdom (Insight)**, **Charisma (Deception)**, and **Charisma (Intimidation)**. If the character has proficiency with an appropriate gaming set, that tool proficiency can replace the relevant skill in any of the checks. The DC for each of the checks is 5 + 2d10; generate a separate DC for each one. Consult the Gambling Results table to see how the character did.
+
+**Gambling Results**
+|Result|	Value|
+|---|---|
+|0 successes	|Lose all the money you bet, and accrue a debt equal to that amount.|
+|1 success	|Lose half the money you bet.|
+|2 successes|	Gain the amount you bet plus half again more.|
+|3 successes|	Gain double the amount you bet.|
+
+---
+
 ### Crafting
 
 During your downtime you can brew potions or craft mundane weapons and armor for half of their original cost, if you have the proficiency and recepies nessesary. 
@@ -46,6 +62,8 @@ As you craft the item, you must succed a skill check dependant on the item you a
 |Rare|2000 Gold | 16 |
 |Very Rare | 20 000 Gold | 20 | 
 |Legendary | 100 000 Gold | 25|
+
+---
 
 **Brewing Healing Potions and Elixirs**
 
