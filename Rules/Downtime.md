@@ -2,7 +2,7 @@
 
 Downtime is going to be placed in bulks. Usually the first bulk is going towards leveling up. Then the second or third can be used to do seperate activiteis, or group activites as shown below. 
 
-## Group Desicions
+## Group Activities
 
 Some downtime activities require that the entire party decides decides on the same activity. A single character cannot venture alone on these downtime activities. 
 
@@ -10,11 +10,15 @@ Some downtime activities require that the entire party decides decides on the sa
 
 Througout the campaign you might come over missions that are not in the interest of the Noxian millitary. You can travel away during as a part of your training to these missions. Side missions often involve exlusive loot and greater foes. 
 
+---
+
 ### Travel to Qualthara or Rockrund
 
 During the weekend you can travel to one of the close settlements to visit the market, enjoy an ale at the tavern or gamble away all of your money. 
 
-## Solo Disicions
+---
+
+## Solo Activities
 
 ### Gambling
 
@@ -78,3 +82,22 @@ The rules around research and skill checks also applies for brewing.
 |Rare|1000 Gold|5 | 14 |
 |Very Rare | 10 000 Gold |7| 17 | 
 |Legendary | 50 000 Gold|10 | 20|
+
+---
+
+### Pit Fighting 
+
+Every weekend the millitary meets up for pit fighting. This also includes gambling and money flowing around. 
+
+**Resolution.** The character must make a series of checks, with a DC determined at random based on the quality of the opposition that the character runs into. A big part of the challenge in pit fighting lies in the unknown nature of a character’s opponents.
+
+The character makes three checks: **Strength (Athletics)**, **Dexterity (Acrobatics)**, and a special **Constitution** check that has a bonus equal to a roll of the character’s largest Hit Die (this roll doesn’t spend that die). If desired, the character can replace one of these skill checks with an attack roll using one of the character’s weapons. The DC for each of the checks is 5 + 2d10; generate a separate DC for each one. Consult the Pit Fighting Results table to see how the character did.
+
+**Pit Fighting Results**
+|Result	|Value|
+|---|---|
+|0 successes|	Lose your bouts, earning nothing.|
+|1 success|	Win 50 gp.|
+|2 successes|	Win 100 gp.|
+|3 successes|	Win 200 gp.|
+
