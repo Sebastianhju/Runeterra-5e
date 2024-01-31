@@ -42,6 +42,8 @@ The character makes three checks: **Wisdom (Insight)**, **Charisma (Deception)**
 
 ### Crafting
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Crafting.png" Align=Right width=35% height=35%>
+
 During your downtime you can brew potions or craft mundane weapons and armor for half of their original cost, if you have the proficiency and recepies nessesary. 
 
 |Proficiency|	Items|Check|
@@ -87,6 +89,8 @@ The rules around research and skill checks also applies for brewing.
 
 ### Pit Fighting 
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Fighting.png" Align=Right width=35% height=35%>
+
 Every weekend the millitary meets up for pit fighting. This also includes gambling and money flowing around. 
 
 **Resolution.** The character must make a series of checks, with a DC determined at random based on the quality of the opposition that the character runs into. A big part of the challenge in pit fighting lies in the unknown nature of a character’s opponents.
@@ -104,6 +108,8 @@ The character makes three checks: **Strength (Athletics)**, **Dexterity (Acrobat
 ---
 
 ### Research
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Research.png" Align=Right width=35% height=35%>
 
 Forewarned is forearmed. The research downtime activity allows a character to delve into lore concerning a monster, a location, a magic item, or some other particular topic.
 
@@ -132,6 +138,8 @@ During your downtime you can find yourself a teacher that can learn a new profic
 ---
 
 ### Pest Work 
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Pest.png" Align=Right width=35% height=35%>
 
 During your downtime you can take a part of the pest control in the camp. This downtime is used to gain a small amount of gold, and gaining takedowns during your downtime to stack up a item or rune. You can only stack up a singular item or rune during this downtime activity. 
 
