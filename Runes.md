@@ -354,7 +354,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Tanscendence
 
 |Stacks|Effect|
 |---|---|
-|1| Your cooldowns are reduced by 6 seconds|
+|0| Your cooldowns are reduced by 6 seconds|
 |25|Whenever you roll an ability check, before you the result you can add 1d10 to the total. You can do this a number of times equal to your proficiency bonus before you must finish a long rest|
 |50|Your cooldowns are reduced by 12 seconds|
 
