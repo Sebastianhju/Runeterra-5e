@@ -22,6 +22,8 @@ During the weekend you can travel to one of the close settlements to visit the m
 
 ### Gambling
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Gambling.png" Align=Right width=20% height=20%>
+
 During your downtime you can gamble with the other soliders in the millitary camp. 
 
 **Resolution.** The character must make a series of checks, with a DC determined at random based on the quality of the competition that the character runs into. Part of the risk of gambling is that one never knows who might end up sitting across the table.
