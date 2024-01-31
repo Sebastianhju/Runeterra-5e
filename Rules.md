@@ -12,6 +12,8 @@
 
 [My Table Rules](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Table%20Rules.md)
 
+[Downtime](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Downtime.md
+
 ---
 
 ## Spells and Weapons
