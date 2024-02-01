@@ -645,6 +645,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 _Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
 
 ---
+
 ## Phantom Dancer
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Phantom Dancer.png" Align=right width=8% height=8%>
@@ -827,6 +828,7 @@ Burn: At the start of their turn, a creature with burn stacks takes force damage
 _You gain +1 to attack and damage rolls using this weapon_
 
 ---
+
 ## Serrated Dirk
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Serrated Dirk.png" Align=right width=8% height=8%>
