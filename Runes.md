@@ -574,6 +574,8 @@ You gain a +2 bonus to initiative. Whenever you deal damage against a creature t
 
 The bonus to initiative increases to +3 at level 5, +4 at level 9, +5 at level 13 and +10 at level 17
 
+-
+
 ---
 
 ## Lesser Runes
