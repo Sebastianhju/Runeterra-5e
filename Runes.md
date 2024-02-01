@@ -381,7 +381,7 @@ _Burn: At the start of their turn, a creature with burn stacks takes force damag
 
 ### Waterwalking  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Waterwalking.png" Align=left width=7% height=7%> 
 
-Whenever you heal or target an ally, they gain +10 movement speed and can walk on water for an hour.
+Whenever you heal or target an ally, they gain +10 movement speed and can walk on water for an hour. This effect doens't stack with itself.
 
 When you target an ally you can choose to enhance their attacks. For their three next damaging attacks they make within 30 seconds they can add 1d6 cold damage and reduce their targets speed by 10 feet. Once this action is used it cannot be used again until 30 seconds have passed. 
 
@@ -622,7 +622,7 @@ When you heal an ally you can choose to remove a status effect affecting them, o
 
 ### Warping Transit <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/MinionDematerializer.png" Align=left width=7% height=7%>
 
-Whenever allies teleport, blink, dash or come out from hiding, you can spend your reaction to enforce the sudden movement by creating the illusion of a warped version next to them. Whenever a creature tries to attack them, they must roll a d6. On pairs they hit the target, on odds they hit the illusion and destroys it. 
+Whenever allies teleport, blink, dash or come out from hiding, you can spend your reaction to enforce the sudden movement by creating the illusion of a warped version next to them. Whenever a creature tries to attack them, they must roll a d6. On pairs they hit the target, on odds they hit the illusion and destroys the illusion. An ally can only have one illusion at a time.
 
 When you target an ally with a spell or simular effect you can choose to swap places with them. Once this effect is used it cannot be used again until 30 seconds have passed. 
 
