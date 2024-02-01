@@ -323,7 +323,7 @@ The damage dice increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 an
 ## Lesser Runes
 ### Nullifying Orb  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Nullifying Orb.png" Align=left width=7% height=7%>
 
-Whenever you are bloodied and take elemental damage, before the damage occurs you gain temporary hitpoints equal to four times your proficiency bonus. Once used, this effect cannot be used again until 30 seconds has passed. 
+Whenever you take elemental damage, before the damage occurs you gain temporary hitpoints equal to four times your proficiency bonus. Once used, this effect cannot be used again until 30 seconds has passed. 
 
 ---
 ### Manaflow Band  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ManaflowBand.png" Align=left width=7% height=7%>
