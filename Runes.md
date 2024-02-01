@@ -383,7 +383,7 @@ _Burn: At the start of their turn, a creature with burn stacks takes force damag
 
 Whenever you heal or target an ally, they gain +10 movement speed and can walk on water for an hour.
 
-As an action you can send out a flow of water, targeting a creature within 30 feet of you. If it's an ally, they heal for 2d8 + proficiency bonus and the water moves to a new enemy within 30 feet. If it's an enemy you make an attack roll using your spellcasting ability they take 2d8 + proficiency bonus bludgeoning damage and moves to a new ally within 30 feet.
+When you target an ally you can choose to enhance their attacks. For their three next damaging attacks they make within 30 seconds they can add 1d6 cold damage and reduce their targets speed by 10 feet. 
 
 ---
 
