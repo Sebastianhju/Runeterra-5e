@@ -611,6 +611,14 @@ You gain the ability teleport to a pocket dimention with a secret shop after a t
 
 Whenever you roll dice to heal an ally, you can add your proficiency bonus to the roll. 
 
+When you heal an ally you can choose to remove a status effect affecting them, once this action is done it cannot be used again until 30 seconds have passed.
+
+---
+
+### Warping Transit <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/MinionDematerializer.png" Align=left width=7% height=7%>
+
+Whenever allies teleport, blink, dash or come out from hiding, you can spend your reaction to enforce the sudden movement by creating the illusion of a warped version next to them. Whenever a creature tries to attack them, they must roll a d6. On pairs they hit the target, on odds they hit the illusion and destroys it. 
+
 When you target an ally with a spell or simular effect you can choose to swap places with them. Once this effect is used it cannot be used again until 30 seconds have passed. 
 
 ---
