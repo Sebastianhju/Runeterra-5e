@@ -89,9 +89,9 @@ Whenever you score a _takedown_, you gain a stack of Alacrity that gives you ben
 
 |Stacks|Feature|
 |---|---|
-|0| After you take the attack action, you can spend your bonus action to make an extra attack that cannot critically hit.|
-|25| You gain +2 to initiative|
-|50| Whenever you take the attack action, you can make an extra attack as a part of that action|
+|0| You gain +5 to your initiative rolls|
+|25| Whenever you take the attack action, you can make an extra attack as a part of that action|
+|50| Your critical strike chance increases by 1|
 
 ---
 
@@ -577,7 +577,7 @@ The bonus to initiative increases to +3 at level 5, +4 at level 9, +5 at level 1
 ## Lesser Runes
 ### Hextech Flashtraption  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/HextechFlashtraption.png" Align=left width=7% height=7%>
 
-As a Bonus Action you can target a space within 30ft of you channeling a teleport, you do not have to see the place you are targeting. At the start of your next turn you teleport to the selected location. If the targetet location is a wall, you are instead teleportet to the nearest open area. 
+As a Bonus Action you can target a space within 30ft of you channeling a teleport, you do not have to see the place you are targeting. At the start of your next turn you teleport to the selected location. If the targetet location is a wall, you are instead teleportet to the nearest open area. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
 
 ---
 
