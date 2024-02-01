@@ -4,6 +4,20 @@
 
 ## Cantrips
 
+**Infected Bonesaw**
+
+_Wizard, Sorcerer, Warlock, Death & Grave Domain_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|0|1 Action|60 feet|V,S|Instantanious|Necrotic|Attack|
+
+You cleave yourself with a conjured bonesaw, dealing 1d4 nonmigatiable damage to yourself. Then you throw the bonesaw towards a target you can see within range, dealing 1d8 necrotic damage on a hit. If you hit the target you regain twice the damage you suffered from this spell. 
+
+**Cantrip Scaling.** The damage increases by 1d8 at level 5, 11 and 17. 
+
+---
+
 **Time warp**
 
 _Wizard, Sorcerer, Bard_
@@ -18,19 +32,6 @@ You warp the time around a creature either hastening them or slowing them. A has
 
 ---
 
-**Infected Bonesaw**
-
-_Wizard, Sorcerer, Warlock, Death & Grave Domain_
-
-|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
-|---|---|---|---|---|---|---|
-|0|1 Action|60 feet|V,S|Instantanious|Necrotic|Attack|
-
-You cleave yourself with a conjured bonesaw, dealing 1d4 nonmigatiable damage to yourself. Then you throw the bonesaw towards a target you can see within range, dealing 1d8 necrotic damage on a hit. If you hit the target you regain twice the damage you suffered from this spell. 
-
-**Cantrip Scaling.** The damage increases by 1d8 at level 5, 11 and 17. 
-
----
 ## First Level Spells
 
 **Bandage Toss**
@@ -126,22 +127,6 @@ You send out an arcane orb towards a creature that you can see within range. On 
 
 ## Second Level Spells
 
----
-
-**Rapture**
-
-_Wizard, Sorcerer, Warlock_
-
-|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
-|---|---|---|---|---|---|---|
-|2nd|1 Action|60 feet|V,S|Instantanious|Evocation|Dexterity|
-
-The earth cracks and erupts as void spikes shoot out of the ground in a 10ft diameter. All creatures in the area must make a dex save. On a failed save the creature takes 2d8 piercing damage and is knocked 15ft in to the air, falling to the ground at the end of it’s next turn. While suspended in the air it’s speed is 0.
-
-**At Higher Levels.** When cast with a spell slot of lvl 3 or higher the damage and hight of the knock up by 1d8 and 5ft respectively.
-
----
-
 **Acceleration gate**
 
 _Wizard, Sorcerer, Bard, Artificer_
@@ -150,11 +135,11 @@ _Wizard, Sorcerer, Bard, Artificer_
 |---|---|---|---|---|---|---|
 |2nd|1 Action|10 feet|V,S,|1 minute concentration|Transmutation|none|
 
-Two nodes appear in the air 10 feet appart and electric energy crackles between them accelerating anything that passes thru. The first time a creature would pass through the gate each round, they gain 30 feet movement speed until the end of its turn. A projectile that passes through gets a +1 to hit and deal 1d6 additional force damage
+Two nodes appear in the air 10 feet apart and electric energy crackles between them accelerating anything that passes thru. The first time a creature would pass through the gate each round, they gain 30 feet movement speed until the end of its turn. Allied projectiles that passes through gets a +3 to hit and deal 1d6 additional force damage. 
 
-As a bonus action on your turn you can move the gate 30ft.
+As a bonus action on your turn you can move the gate to a area within 10 feet of you. 
 
-**At Higher Levels.** When cast with a spell slot of lvl 3 or higher the speed of the creature and the damage is increased by 5ft and 1d6 respectively.
+**At higher levels.** When cast with a spell slot 3rd level or higher the movement speed increases by 15ft for each level. When cast with a spell slot of 4th level the duration increases to 1 hour. When cast at a spel level of 6th level the duration increases to 8 hours.
 
 ---
 
@@ -188,9 +173,21 @@ A cinder blows up to a pillar of flames in a 15 feet diameter, 40 feet tall sphe
 
 ---
 
-## Third Level Spells
+**Rapture**
+
+_Wizard, Sorcerer, Warlock_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|2nd|1 Action|60 feet|V,S|Instantanious|Evocation|Dexterity|
+
+The earth cracks and erupts as void spikes shoot out of the ground in a 10ft diameter. All creatures in the area must make a dex save. On a failed save the creature takes 2d8 piercing damage and is knocked 15ft in to the air, falling to the ground at the end of it’s next turn. While suspended in the air it’s speed is 0.
+
+**At Higher Levels.** When cast with a spell slot of lvl 3 or higher the damage and hight of the knock up by 1d8 and 5ft respectively.
 
 ---
+
+## Third Level Spells
 
 **Event Horizon**
 
