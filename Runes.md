@@ -201,7 +201,7 @@ Whenever you damage a creature, you can choose to deal 1d8 extra force damage fo
 ---
 ### Taste of Blood <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png" Align=left width=7% height=7%>
 
-Whenever you damage a creature while being below maximum hit points, you can choose to heal an amount equal to four times your proficiency bonus. Once used, this effect cannot be used again until 30 seconds has passed. 
+Whenever you damage a creature, you can choose to heal an amount equal to four times your proficiency bonus. Once used, this effect cannot be used again until 30 seconds has passed. 
 
 ---
 ### Sudden Impact <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png" Align=left width=7% height=7%>
