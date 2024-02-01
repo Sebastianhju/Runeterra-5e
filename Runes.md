@@ -495,6 +495,7 @@ The first three times you take damage, you gain resistance to all damage types. 
 ### Overgrowth  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Overgrowth.png" Align=left width=7% height=7%>
 
 You gain +3 maximum hit points. Whenever you score a _takedown_ on a creature, you gain a stack of _overgrowth_. For every tenth stack, you gain +1 maximum hit points. 
+
 When you reach level 11 you instead gain +2 maximum hit points for every tenth stack. 
 
 ---
