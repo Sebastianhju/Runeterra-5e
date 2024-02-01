@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Aether Wisp.png" Align=right width=8% height=8%>
 
-- 1000 Gold
+- 750 Gold
 - Wondrous Item
 
   
