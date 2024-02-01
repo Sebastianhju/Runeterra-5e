@@ -524,7 +524,7 @@ You gain immunity to the frightened and charmed condition and you cannot be move
 |**[Magical Footwear](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#magical-footwear-)**|As you score takedowns, you gain magical boots and movement speed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/MagicalFootwear.png">|
 |**[Perfect Timing](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#perfect-timing-)**|You gain a stopwatch and the ability to repair it|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/PerfectTiming.png">|
 |**[Future's Market](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#futures-market-)**|You gain access to a pocket dimention where you can buy and sell wares|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FuturesMarket.png">|
-|**[Spiritbound](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#CelestialBody-)**|At the start of each day, you can select an ability. You become proficient in all skills of that ability for that day. |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png">|
+|**[Celestial Curing](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#CelestialCuring-)**|At the start of each day, you can select an ability. You become proficient in all skills of that ability for that day. |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png">|
 |**[Biscuit Delivery](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#biscuit-delivery-)**|Whenever you long rest, you gain a _Buiscuit of Everlasting Will_|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/BiscuitDeliviery.png">|
 |**[Cosmic Insight](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cosmic-insight--)**|You learn the _Detect Thoughts_ spell and can cast it once a day without spending mana|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CosmicInsight.png">|
 |**[Approach Velocity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#approach-velocity--)**|You can use your reaction to teleport to movement impared creatures|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/ApproachVelocity.png">|
@@ -608,12 +608,10 @@ You gain the ability teleport to a pocket dimention with a secret shop after a t
 
 ### Celestial Curing <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png" Align=left width=7% height=7%>
 
-Whenever you take a long rest you choose an ability. You become proficient in all skills of that ability. 
 
-**Rework**
 Whenever you roll dice to heal an ally, you can add your proficiency bonus to the roll. 
 
-When you cast a spell that targets an ally you can choose to swap places with them. Once this effect is used it cannot be used again until 30 seconds have passed. 
+When you target an ally with a spell or simular effect you can choose to swap places with them. Once this effect is used it cannot be used again until 30 seconds have passed. 
 
 ---
 
