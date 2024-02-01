@@ -103,8 +103,8 @@ Whenever you score a _takedown_ you gain a stacks of _Tenacity_ that gives you b
 
 |Stacks|Feature|
 |---|---|
-|0| You ignore difficult terrain and your movement speed can't be reduced. You can still be immobilized. |
-|25| you gain +5 feet movement speed|
+|0| You gain +10 movement speed|
+|25| Whenever you dash towards a creature, you can make an attack roll as a free action|
 |50| Whenever you have to make a saving throw against immobilizing effects, you have advantage|
 
 ---
