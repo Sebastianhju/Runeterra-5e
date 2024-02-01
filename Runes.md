@@ -635,7 +635,7 @@ Whyenever you take a long rest, you gain a [Buiscuit of Everlasting Will](https:
 
 ### Cosmic Insight  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CosmicInsight.png" Align=left width=7% height=7%>
 
-You learn the _Detect Thoughts_ and can cast it once a day without spending mana. The target has disadvantage on the savingthrow if you were to delve deeper into their mind.
+You learn the _Detect Thoughts_ and can cast it once a day without spending mana. The target has disadvantage on the savingt hrow if you were to delve deeper into their mind, and they are unaware of you preying their mind if they fail the saving throw.
 
 ---
 
