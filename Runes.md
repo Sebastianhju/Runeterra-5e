@@ -381,7 +381,9 @@ _Burn: At the start of their turn, a creature with burn stacks takes force damag
 
 ### Waterwalking  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Waterwalking.png" Align=left width=7% height=7%> 
 
-You gain a swimming speed of 80 feet. You do not get disadvantage on attack rolls and ability checks from begin under water. 
+Whenever you heal or target an ally, they gain +10 movement speed and can walk on water for an hour.
+
+As an action you can send out a flow of water, targeting a creature within 30 feet of you. If it's an ally, they heal for 2d8 + proficiency bonus and the water moves to a new enemy within 30 feet. If it's an enemy you make an attack roll using your spellcasting ability they take 2d8 + proficiency bonus bludgeoning damage and moves to a new ally within 30 feet.
 
 ---
 
