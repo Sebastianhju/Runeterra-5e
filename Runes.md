@@ -383,7 +383,7 @@ _Burn: At the start of their turn, a creature with burn stacks takes force damag
 
 Whenever you heal or target an ally, they gain +10 movement speed and can walk on water for an hour.
 
-When you target an ally you can choose to enhance their attacks. For their three next damaging attacks they make within 30 seconds they can add 1d6 cold damage and reduce their targets speed by 10 feet. 
+When you target an ally you can choose to enhance their attacks. For their three next damaging attacks they make within 30 seconds they can add 1d6 cold damage and reduce their targets speed by 10 feet. Once this action is used it cannot be used again until 30 seconds have passed. 
 
 ---
 
