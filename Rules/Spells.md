@@ -158,6 +158,22 @@ As a bonus action on your turn you can move the gate 30ft.
 
 ---
 
+**Ebb and Flow**
+
+_Bard, Cleric, Druid, Ranger_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|2nd|1 Action|60 feet|V,S,M*|Instantanious|Transmutation|Dexterity|
+
+*A clam shell
+
+As an action you can send out a flow of water, targeting a creature within 30 feet of you. If it's an ally, they heal for 2d8 plus your spell casting modifier, and the water moves to an enemy within 30 feet. If it's an enemy they must succed a dexterity saving throw or take 2d8 bludgeoning damage, halved on a save, and moves to an ally within 30 feet. The water can only move three times.
+
+**At Higher Levels.** When cast with a spell slot of 3rd level or higher the healing and damage dice increases by 1d8. 
+
+---
+
 **Pillar of Flame**
 
 _Wizard, Sorcerer, Druid, Light Domain_
