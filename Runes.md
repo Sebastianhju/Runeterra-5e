@@ -524,7 +524,8 @@ You gain immunity to the frightened and charmed condition and you cannot be move
 |**[Magical Footwear](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#magical-footwear-)**|As you score takedowns, you gain magical boots and movement speed|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/MagicalFootwear.png">|
 |**[Perfect Timing](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#perfect-timing-)**|You gain a stopwatch and the ability to repair it|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/PerfectTiming.png">|
 |**[Future's Market](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#futures-market-)**|You gain access to a pocket dimention where you can buy and sell wares|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FuturesMarket.png">|
-|**[Celestial Curing](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#CelestialCuring-)**|At the start of each day, you can select an ability. You become proficient in all skills of that ability for that day. |<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png">|
+|**[Celestial Curing](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#Celestial-Curing-)**|Your healing powers are enhanced|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png">|
+|**[Warping Transit](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#Warping-Transit-)**|You can teleport and create warped illusions|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/MinionDematerializer.png">|
 |**[Biscuit Delivery](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#biscuit-delivery-)**|Whenever you long rest, you gain a _Buiscuit of Everlasting Will_|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/BiscuitDeliviery.png">|
 |**[Cosmic Insight](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#cosmic-insight--)**|You learn the _Detect Thoughts_ spell and can cast it once a day without spending mana|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CosmicInsight.png">|
 |**[Approach Velocity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#approach-velocity--)**|You can use your reaction to teleport to movement impared creatures|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/ApproachVelocity.png">|
@@ -562,8 +563,6 @@ At level 17 you gain all summoner spells whenever you finish a long rest.
 |4|Flash||9|Teleport|
 |5|Ghost||10|Clarity|
 
-
-
 ---
 
 ### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" Align=left width=20% height=20%>
@@ -577,7 +576,7 @@ The bonus to initiative increases to +3 at level 5, +4 at level 9, +5 at level 1
 ## Lesser Runes
 ### Hextech Flashtraption  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/HextechFlashtraption.png" Align=left width=7% height=7%>
 
-As a Bonus Action you can target a space within 30ft of you channeling a teleport, you do not have to see the place you are targeting. At the start of your next turn you teleport to the selected location. If the targetet location is a wall, you are instead teleportet to the nearest open area. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
+As a Bonus Action you can target a space within 30ft of you channeling a teleport, you do not have to see the place you are targeting. At the start of your next turn you teleport to the selected location. If the targetet location is a wall, you are instead teleportet to the nearest open area. Once this action is used, it cannot be used again until 36 seconds have passed. 
 
 ---
 
