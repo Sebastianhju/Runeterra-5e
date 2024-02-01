@@ -606,9 +606,14 @@ You gain the ability teleport to a pocket dimention with a secret shop after a t
 
 ---
 
-### Spiritbound  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png" Align=left width=7% height=7%>
+### Celestial Curing <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png" Align=left width=7% height=7%>
 
 Whenever you take a long rest you choose an ability. You become proficient in all skills of that ability. 
+
+**Rework**
+Whenever you roll dice to heal an ally, you can add your proficiency bonus to the roll. 
+
+When you cast a spell that targets an ally you can choose to swap places with them. Once this effect is used it cannot be used again until 30 seconds have passed. 
 
 ---
 
