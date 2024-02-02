@@ -43,11 +43,11 @@ _You have +2 to attack rolls and damage rolls using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Pauldrons of Whiterock.png" Align=right width=8% height=8%>
 
 - A fully stsacked Steel Shoulderguards
-- Wonderous Item
+- Wondrous Item
 
 **Warding**: As an action, you can place down a stealth ward. You can do this a number of times equal to your proficiency bonus before finishing a long rest
 
-**Shoulderguards**: You armor class increases with +2 while wearing the Pauldrons. 
+**Shoulderguards**: You armor class increases with +1 while wearing the Pauldrons. 
 
 **Health**: You maximum hit points increases by one hit dice. 
 
@@ -84,7 +84,7 @@ _You have +1 to spell attack rolls and +1 to your spell save DC when attuned to 
 
 **Warding**: As an action, you can place down a stealth ward. You can do this a number of times equal to your proficiency bonus before finishing a long rest
 
-_You have +2 to damage and attack rolls using this magical weapon_
+_You have +1 to damage and attack rolls using this magical weapon_
 
 ---
 
