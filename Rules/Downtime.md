@@ -39,7 +39,24 @@ The character makes three checks: **Wisdom (Insight)**, **Charisma (Deception)**
 |3 successes|	Gain double the amount you bet.|
 
 ---
+### Artistic Work
 
+During your downtime you can expose the artist within you. You can write songs or poems, paint pictures and sell to the public or perform in the warcamp. 
+
+**Resolution.** The character must make a series of checks, with a DC determined at random based on the quality of their work. A big part of the challenge in the artistic work is how their .
+
+The character makes three checks: **Performance (Charisma)**, **Persuation (Charisma)**, and a **Investigation (Intelligence)** check that has a bonus equal to a roll of the character’s largest Hit Die (this roll doesn’t spend that die). If desired, the character can replace one of these skill checks with an attack roll using one of the character’s weapons. The DC for each of the checks is 5 + 2d10; generate a separate DC for each one. Consult the Pit Fighting Results table to see how the character did.
+
+**Artistic Work Results**
+|Result	|Value|
+|---|---|
+|0 successes|	Lose your bouts, earning nothing.|
+|1 success|	Win 50 gp.|
+|2 successes|	Win 100 gp.|
+|3 successes|	Win 200 gp.|
+
+
+---
 ### Crafting
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Crafting.png" Align=Right width=35% height=35%>
@@ -48,12 +65,13 @@ During your downtime you can brew potions or craft mundane weapons and armor for
 
 |Proficiency|	Items|Check|
 |---|---|---|
-|Herbalism kit|Potions, elixirs|Wisdom|
-|Leatherworker’s tools|	Leather armor, boots|Dexterity|
-|Smith’s tools|	Armor, weapons|Strength|
-|Weaver’s tools|Cloaks, robes|Dexterity|
-|Jewler's Tools|Rings, amulets|Intelligence|
-|Poisoner's Tools| Poisons|Wisdom|
+|Herbalism kit|Potions, elixirs|Wisdom or Intelligence|
+|Leatherworker’s tools|	Leather armor, boots|Strength or Dexterity|
+|Smith’s tools|	Armor, weapons|Strength or Wisdom|
+|Weaver’s tools|Cloaks, robes|Dexterity or Intelligence|
+|Jewler's Tools|Rings, amulets|Intelligence or Dexterity|
+|Poisoner's Tools| Poisons|Wisdom or Intelligence|
+|Tinkering Tools |Firearms|Intelligence or Dexterity|
 
 **Crafting Magical items**
 If you were to craft a magical item it requires time and dedication. First you'll need the nessesary research, spending a downtime bulk on research to find the recipe to the magic item.
@@ -158,3 +176,5 @@ The character makes three checks: **Intelligence (Investegation)**, **Wisdom (An
 ### Relaxation
 
 Sometimes the best thing to do between adventures is relax. Whether a character wants a hard-earned vacation or needs to recover from injuries, relaxation is the ideal option for adventurers who need a break. This option is also ideal for players who don’t want to make use of the downtime system.
+
+When you choose this option, you remove all stacks of exhaustion and gain inspiration.
