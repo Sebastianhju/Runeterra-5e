@@ -405,7 +405,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 - Dagger
 - Attunement
 
-**Tribute**: Whenever you deal damage to a target, you gain gold equal to the damage dealt. Up to a maximum of 300 gold.
+**Tribute**: The next time you deal damage to a target, you gain gold equal to the damage dealt. Once this action is used, it cannot be used again until 18 seconds have passed. 
 
 **Quest**: Whenever you've gained 300 gold using this item, it transforms into _Shard of True Ice._
 
