@@ -41,6 +41,8 @@ The character makes three checks: **Wisdom (Insight)**, **Charisma (Deception)**
 ---
 ### Artistic Work
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/assets/146032815/aedcb45d-4583-4361-acf4-50b3f3973445" Align=Right width=35% height=35%>
+
 During your downtime you can expose the artist within you. You can write songs or poems, paint pictures and sell to the public or perform in the warcamp. 
 
 **Resources**. You must spend 25 gold on resources to do this activity.
