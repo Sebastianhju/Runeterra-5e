@@ -2,11 +2,11 @@
 
 Downtime is going to be placed in bulks. Usually the first bulk is going towards leveling up. Then the second or third can be used to do seperate activiteis, or group activites as shown below. 
 
-## Group Activities
+# Group Activities
 
 Some downtime activities require that the entire party decides decides on the same activity. A single character cannot venture alone on these downtime activities. 
 
-### Go on a side mission
+## Go on a side mission
 
 Througout the campaign you might come over missions that are not in the interest of the Noxian millitary. You can travel away during as a part of your training to these missions. Side missions often involve exlusive loot and greater foes. 
 
@@ -14,15 +14,15 @@ Througout the campaign you might come over missions that are not in the interest
 
 ---
 
-### Travel to Qualthara or Rockrund
+## Travel to Qualthara or Rockrund
 
 During the weekend you can travel to one of the close settlements to visit the market, enjoy an ale at the tavern or gamble away all of your money. 
 
 ---
 
-## Solo Activities
+# Solo Activities
 
-### Gambling
+## Gambling
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Gambling.png" Align=Right width=35% height=35%>
 
@@ -41,7 +41,7 @@ The character makes three checks: **Wisdom (Insight)**, **Charisma (Deception)**
 |3 successes|	Gain double the amount you bet.|
 
 ---
-### Artistic Work
+## Artistic Work
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/assets/146032815/aedcb45d-4583-4361-acf4-50b3f3973445" Align=Right width=35% height=35%>
 
@@ -63,7 +63,7 @@ The character makes three checks: **Performance (Charisma)**, **Persuation (Char
 
 ---
 
-### Crafting
+## Crafting
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Crafting.png" Align=Right width=35% height=35%>
 
@@ -110,7 +110,7 @@ The rules around research and skill checks also applies for brewing.
 
 ---
 
-### Pit Fighting 
+## Pit Fighting 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Fighting.png" Align=Right width=35% height=35%>
 
@@ -130,7 +130,7 @@ The character makes three checks: **Strength (Athletics)**, **Dexterity (Acrobat
 
 ---
 
-### Working a Buisiness
+## Working a Buisiness
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/assets/146032815/b51b52d9-945a-496b-a6b0-e734fb48eb4a" Align=Right width=35% height=35%>
 
@@ -138,7 +138,7 @@ You can eighter start up your own buisiness or join another buisniess close by.
 
 **Requirement.** You must have atleast one tool proficiency that you use to contribute in the buisiness. 
 
-## **Sole Proprietorship**
+### **Sole Proprietorship**
 
 **Resources.** You must also spend atleast 50 gold if you are running your own buisiness that you spend on crafting supplies. 
 
@@ -153,7 +153,7 @@ You can eighter start up your own buisiness or join another buisniess close by.
 |20-25|You gain 150% profit from the resources spent|
 |26+|You gain 200% profit from the resources spent|
 
-## **Established Buisiness**
+### **Established Buisiness**
 
 **Resolution.** After the downtime bulk, the character makes a tool check with their tool to determine their income. 
 
@@ -168,7 +168,7 @@ You can eighter start up your own buisiness or join another buisniess close by.
 
 ---
 
-### Research
+## Research
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Research.png" Align=Right width=35% height=35%>
 
@@ -192,13 +192,13 @@ As DM, you are the final arbiter concerning exactly what a character learns. For
 
 ---
 
-### Training
+## Training
 
 During your downtime you can find yourself a teacher that can learn a new proficiency. You can learn a new language, tool, weapon or armor proficiency by spending 200 gold on a teacher. 
 
 ---
 
-### Pest Work 
+## Pest Work 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Pest.png" Align=Right width=35% height=35%>
 
@@ -217,7 +217,7 @@ The character makes three checks: **Intelligence (Investegation)**, **Wisdom (An
 
 ---
 
-### Relaxation
+## Relaxation
 
 Sometimes the best thing to do between adventures is relax. Whether a character wants a hard-earned vacation or needs to recover from injuries, relaxation is the ideal option for adventurers who need a break. This option is also ideal for players who don’t want to make use of the downtime system.
 
