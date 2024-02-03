@@ -43,17 +43,19 @@ The character makes three checks: **Wisdom (Insight)**, **Charisma (Deception)**
 
 During your downtime you can expose the artist within you. You can write songs or poems, paint pictures and sell to the public or perform in the warcamp. 
 
+**Resources**. You must spend 25 gold on resources to do this activity.
+
 **Resolution.** The character must make a series of checks, with a DC determined at random based on the quality of their work. A big part of the challenge in the artistic work is how their .
 
-The character makes three checks: **Performance (Charisma)**, **Persuation (Charisma)**, and a **Investigation (Intelligence)** check that has a bonus equal to a roll of the character’s largest Hit Die (this roll doesn’t spend that die). If desired, the character can replace one of these skill checks with an attack roll using one of the character’s weapons. The DC for each of the checks is 5 + 2d10; generate a separate DC for each one. Consult the Pit Fighting Results table to see how the character did.
+The character makes three checks: **Performance (Charisma)**, **Persuation (Charisma)**, and a **Investigation (Intelligence)** check. If desired, the character can replace one of these skill checks with a tool skill check with a tool they are proficient in. The DC for each of the checks is 5 + 2d10; generate a separate DC for each one. Consult the Artistic Work Results table to see how the character did.
 
 **Artistic Work Results**
 |Result	|Value|
 |---|---|
-|0 successes|	Lose your bouts, earning nothing.|
-|1 success|	Win 50 gp.|
-|2 successes|	Win 100 gp.|
-|3 successes|	Win 200 gp.|
+|0 successes|The wares doesn't sell, earning you nothing.|
+|1 success|	Gain 50 gp.|
+|2 successes|Gain 125 gp.|
+|3 successes|Gain 250 gp.|
 
 
 ---
