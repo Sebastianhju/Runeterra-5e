@@ -57,8 +57,8 @@ The character makes three checks: **Performance (Charisma)**, **Persuation (Char
 |2 successes|Gain 125 gp.|
 |3 successes|Gain 250 gp.|
 
-
 ---
+
 ### Crafting
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Crafting.png" Align=Right width=35% height=35%>
@@ -126,6 +126,42 @@ The character makes three checks: **Strength (Athletics)**, **Dexterity (Acrobat
 
 ---
 
+### Working a Buisiness
+
+You can eighter start up your own buisiness or join another buisniess close by.
+
+**Requirement.** You must have atleast one tool proficiency that you use to contribute in the buisiness. 
+
+## **Sole Proprietorship**
+
+**Resources.** You must also spend atleast 50 gold if you are running your own buisiness that you spend on crafting supplies. 
+
+**Resolution.** After the downtime bulk, the character makes a tool check. Determine the characters income using the Sole Proprietorship table.
+
+**Sole Proprietorship Outcomes**
+|Check Total|	Outcome|
+|---|---|
+|1–10	|No income.|
+|11–15	|You gain 50% profit from the resources spent|
+|16-20	|You gain 100% profit from the resources spent|
+|20-25|You gain 150% profit from the resources spent|
+|26+|You gain 200% profit from the resources spent|
+
+## **Established Buisiness**
+
+**Resolution.** After the downtime bulk, the character makes a tool check with their tool to determine their income. 
+
+**Established Buisiness Outcome**
+|Check Total|	Outcome|
+|---|---|
+|1-5|You are fired from the job and must pay 50 gold for the mistakes you've made|
+|6-10| You gain a 25 gold salary|
+|11-15|You gian a 50 gold salary|
+|16-20|You gain a 100 gold salary|
+|21+| You gain a 200 gold salary|
+
+---
+
 ### Research
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Research.png" Align=Right width=35% height=35%>
@@ -134,7 +170,7 @@ Forewarned is forearmed. The research downtime activity allows a character to de
 
 **Resources.** Conducting research requires at least 50 gp spent on materials, bribes, gifts, and other expenses.
 
-**Resolution.** The character declares the focus of the research — a specific person, place, or thing. After one workweek, the character makes an Intelligence check with a +1 bonus per 50 gp spent beyond the initial 50 gp, to a maximum of +6. Determine how much lore a character learns using the Research Outcomes table.
+**Resolution.** The character declares the focus of the research — a specific person, place, or thing. After the downtime bulk, the character makes an Intelligence check with a +1 bonus per 50 gp spent beyond the initial 50 gp, to a maximum of +6. Determine how much lore a character learns using the Research Outcomes table.
 
 **Research Outcomes**
 |Check Total|	Outcome|
