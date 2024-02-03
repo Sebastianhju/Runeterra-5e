@@ -151,6 +151,8 @@ You can eighter start up your own buisiness or join another buisniess close by.
 
 ## **Established Buisiness**
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/assets/146032815/b51b52d9-945a-496b-a6b0-e734fb48eb4a" Align=Right width=35% height=35%>
+
 **Resolution.** After the downtime bulk, the character makes a tool check with their tool to determine their income. 
 
 **Established Buisiness Outcome**
