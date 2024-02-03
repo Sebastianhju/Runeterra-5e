@@ -10,6 +10,8 @@ Some downtime activities require that the entire party decides decides on the sa
 
 Througout the campaign you might come over missions that are not in the interest of the Noxian millitary. You can travel away during as a part of your training to these missions. Side missions often involve exlusive loot and greater foes. 
 
+![image](https://github.com/Sebastianhju/Runeterra-5e/assets/146032815/8b810b09-17da-44e1-9e65-6c6d46232c3a)
+
 ---
 
 ### Travel to Qualthara or Rockrund
@@ -130,6 +132,8 @@ The character makes three checks: **Strength (Athletics)**, **Dexterity (Acrobat
 
 ### Working a Buisiness
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/assets/146032815/b51b52d9-945a-496b-a6b0-e734fb48eb4a" Align=Right width=35% height=35%>
+
 You can eighter start up your own buisiness or join another buisniess close by.
 
 **Requirement.** You must have atleast one tool proficiency that you use to contribute in the buisiness. 
@@ -150,8 +154,6 @@ You can eighter start up your own buisiness or join another buisniess close by.
 |26+|You gain 200% profit from the resources spent|
 
 ## **Established Buisiness**
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/assets/146032815/b51b52d9-945a-496b-a6b0-e734fb48eb4a" Align=Right width=35% height=35%>
 
 **Resolution.** After the downtime bulk, the character makes a tool check with their tool to determine their income. 
 
