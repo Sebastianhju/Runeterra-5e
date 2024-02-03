@@ -41,27 +41,6 @@ The character makes three checks: **Wisdom (Insight)**, **Charisma (Deception)**
 |3 successes|	Gain double the amount you bet.|
 
 ---
-## Artistic Work
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/assets/146032815/aedcb45d-4583-4361-acf4-50b3f3973445" Align=Right width=35% height=35%>
-
-During your downtime you can expose the artist within you. You can write songs or poems, paint pictures and sell to the public or perform in the warcamp. 
-
-**Resources**. You must spend 25 gold on resources to do this activity.
-
-**Resolution.** The character must make a series of checks, with a DC determined at random based on the quality of their work. A big part of the challenge in the artistic work is how their .
-
-The character makes three checks: **Performance (Charisma)**, **Persuation (Charisma)**, and a **Investigation (Intelligence)** check. If desired, the character can replace one of these skill checks with a tool skill check with a tool they are proficient in. The DC for each of the checks is 5 + 2d10; generate a separate DC for each one. Consult the Artistic Work Results table to see how the character did.
-
-**Artistic Work Results**
-|Result	|Value|
-|---|---|
-|0 successes|The wares doesn't sell, earning you nothing.|
-|1 success|	Gain 50 gp.|
-|2 successes|Gain 125 gp.|
-|3 successes|Gain 250 gp.|
-
----
 
 ## Crafting
 
