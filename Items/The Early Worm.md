@@ -23,6 +23,7 @@ As a bonus action you regain 1d4+1 hit points and 2d4+2 hit points at the start 
 ## Potion of Haste
 
 **Cost:** 100 Gold
+
 **Quantity**: 3
 
 As a bonus action you reduce all the cooldowns of your runes and items by 12 seconds. 
