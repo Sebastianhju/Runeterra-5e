@@ -471,7 +471,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Conditioning
 |Amount|Effect|
 |---|---|
 |0|You take 2 less damage whenever you take physical damage|
-|25|You gain +2 to your armor class|
+|25|You gain +1 to your armor class|
 |50|You take 4 less damage whenever you take physical damage|
 
 ---
