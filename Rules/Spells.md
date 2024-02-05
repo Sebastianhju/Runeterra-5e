@@ -143,6 +143,20 @@ As a bonus action on your turn you can move the gate to a area within 10 feet of
 
 ---
 
+**Acceleration gate**
+
+_Wizard, Sorcerer, Bard, Artificer_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|2nd|1 Action|10 feet|V,S,|1 minute|Transmutation|none|
+
+Two nodes appear in the air 15 feet apart and electric energy crackles between them accelerating anything that passes thru. The first time a creature would pass through the gate each round, they gain 10 feet movement speed until the end of its turn. Allied projectiles that passes through deals 1d6 additional force damage. 
+
+**At higher levels.** When cast with a spell slot 3rd level or higher the movement speed increases by 10ft for each level.
+
+---
+
 **Ebb and Flow**
 
 _Bard, Cleric, Druid, Ranger_
