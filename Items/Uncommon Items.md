@@ -282,6 +282,20 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ---
 
+## Ironspike Whip
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ironspike Whip.png" Align=right width=8% height=8%>
+
+- 600 Gold
+- Whip
+
+**Spikes**: The _Ironspike Whip_ deals 1d4 additional piercing damage. 
+
+**Crescent**: As an action, you can twirl the whip around you. All creatures within 10 feet of you must succeed a dexterity saving throw (DC: 9 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 18 seconds pass. 
+
+
+---
+
 ## Needlessly Large Rod
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Needlessly Large Rod.png" Align=right width=8% height=8%>
