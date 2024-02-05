@@ -137,7 +137,7 @@ _Wizard, Sorcerer, Bard, Artificer_
 
 Two nodes appear in the air 15 feet apart and electric energy crackles between them accelerating anything that passes thru. The first time a creature would pass through the gate each round, they gain 30 feet movement speed until the end of its turn. The first allied projectiles that passes through gets advantage on the attack roll and deals 2d6 additional force damage. 
 
-**At higher levels.** When cast with a spell slot 3rd level or higher the movement speed increases by 15ft for each level. When cast with a spell slot of 4th level the duration increases to 1 hour and the to hit bonus increases to +2. When cast at a spell level of 6th level the duration increases to 8 hours and the to hit bonus increases to +3.
+**At higher levels.** When cast with a spell slot 3rd level or higher the additional damage increases by 2d6. 
 
 ---
 
