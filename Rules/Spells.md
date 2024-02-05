@@ -149,7 +149,7 @@ _Wizard, Sorcerer, Bard, Artificer_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|2nd|1 Action|10 feet|V,S,|1 minute|Transmutation|none|
+|2nd|1 Action|30 feet|V,S,|1 minute|Transmutation|none|
 
 Two nodes appear in the air 15 feet apart and electric energy crackles between them accelerating anything that passes thru. The first time a creature would pass through the gate each round, they gain 10 feet movement speed until the end of its turn. Allied projectiles that passes through deals 1d6 additional force damage. 
 
