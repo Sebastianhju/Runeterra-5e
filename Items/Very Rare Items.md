@@ -96,7 +96,6 @@ _You have +1 to damage and attack rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ardent Censer.png" Align=right width=8% height=8%>
 
-- 12,500 gold
 - Wonderous Item
 
 **Sanctify**: Whenever you heal or give an ally temporary hit points, they gain 30 feet movement speed and their weapon attacks deal 1d6 additional force damage until the end of their turn. 
@@ -111,7 +110,6 @@ _You have +1 to damage and attack rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Black Cleaver.png" Align=right width=8% height=8%>
 
-- 12,500 Gold
 - Greataxe
 - Attunemnt
 
@@ -131,7 +129,6 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Blade of the Ruined King.png" Align=right width=8% height=8%>
 
-- 15,000 Gold
 - Longsword
 - Attunement
 
@@ -149,7 +146,6 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bloodthirster.png" Align=right width=8% height=8%>
 
-- 12,500 Gold
 - Greatsword
 
 **Engorge**: While above 50% hit points, your attacks with _Bloodthirster_ deals 1d6 additional damage. 
@@ -166,7 +162,6 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Crown of the Shattered Queen.png" Align=right width=8% height=8%>
 
-- 12,000 Gold
 - Wonderous Item
 - Attunement 
 
@@ -182,7 +177,6 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dead man's plate.png" Align=right width=8% height=8%>
 
-- 13,000 Gold
 - Wonderous Item (Shoulderpad)
 
 **Shipwrecker**: Whenever you move you gain a speed of momentum for every feet you move, up to a maximum of 80. For every 40 stack you gain +5 movement speed. Whenever you hit a creature with a melee attack you consume all charges of momentum, dealing 1d6 additional damage and reducing their speed by 15 feet for every 40th feet you've moved that turn. 
@@ -199,7 +193,6 @@ _You gain +1 to your armor class while wearing this piece of equipment_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Duskblade of Draktharr.png" Align=right width=8% height=8%>
 
-- 14,000 Gold
 - Dagger
 
 **Nightstalker**: Whenever a creature you've dealt damage to with _Duskblade of Draktharr_ in the past 6 seconds dies, it casts invisibility on you. Once this effect has ben used, it cannot be used again until 30 seconds pass
@@ -216,7 +209,6 @@ _You gian +2 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Echoes of Helia.png" Align=right width=8% height=8%>
 
-- 13,000 Gold
 - Wonderous Item
 
 **Soul Siphon**: Once a turn when you damage an enemy, you grants you a soul charge up to a maximum of two. The next time you heal or give an ally temporary hit points, you expend all soul charges to heal you both 2d8 hit points for each soul charge.
@@ -233,7 +225,6 @@ _You gian +2 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Edge og Night.png" Align=right width=8% height=8%>
 
-- 10,000 Gold
 - Wonderous Item
 - Attunement
 
@@ -252,7 +243,6 @@ _You gain +1 to all saving throws_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Essence Reaver.png" Align=right width=8% height=8%>
 
-- 11,000
 - Sickle
 - Attunement
 
@@ -268,7 +258,6 @@ _You have +2 to hit and attack rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Everfrost.png" Align=right width=8% height=8%>
 
-- 11,000 Gold
 - Wonderous Item
 - Attunement 
 
@@ -286,7 +275,6 @@ _You gain +2 to spell attack rolls and +1 to spell save DCs_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Frozen Heart.png" Align=right width=8% height=8%>
 
-- 12,000 Gold
 - Wonderous Item
 - Attunement
 
@@ -304,7 +292,6 @@ _You gain +2 to spell attack rolls and +1 to spell save DCs_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Gargoyle Stoneplate.png" Align=right width=8% height=8%>
 
-- 10,000 Gold
 - Plate
 - Attunement
 
@@ -322,7 +309,6 @@ _You gain +2 to your armor class while wearing this piece of armor_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Goredrinker.png" Align=right width=8% height=8%>
 
-- 11,000 Gold
 - Morningstar
 
 **Thirsting Slash**: As an action, you can swing the Goredrinker around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this ability is used, it cannot be used again until 30 seconds pass. 
@@ -339,7 +325,6 @@ _You gain +2 to hit and damage rolls with this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Guardian's Angel.png" Align=right width=8% height=8%>
 
-- 13,000 Gold
 - Greatsword
 - Attunement
 
@@ -355,7 +340,6 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Guinsoo's Rageblade.png" Align=right width=8% height=8%>
 
-- 15,000 Gold
 - Scimitar
 
 **Wrath**: This scimitar deals an additional 2d6 fire damage
@@ -369,7 +353,6 @@ _You gain +2 to hit and damage rolls with this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Heartsteel.png" Align=right width=8% height=8%>
 
-- 13,000 Gold
 - Shield
 - Attunement
 
@@ -385,7 +368,6 @@ _You gain +1 to your armor class while wearing this piece of armor_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Gunblade.png" Align=right width=8% height=8%>
 
-- 13,000 Gold
 - Pistol / Longsword
 
 **Gunblade**: This weapon can eighter be used as a +2 Pistol or a +2 Longsword, you gain different benefit from eighter option.
@@ -402,7 +384,6 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Rocketbelt.png" Align=right width=8% height=8%>
 
-- 10,000 Gold
 - Wonderous
 
 **Supersonic**: As a bouns action you can activate the rocketbelt. You gain 60 feet flying speed and agility, but you must land on a surface at the end of your turn, when you end your turn, all creatures within 5 feet of you take 2d4+2 force damage. Once this effect is used, it cannot be used again until 30 seconds pass. 
@@ -417,7 +398,6 @@ _You gian +3 to initiative rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Iceborn Gauntlet.png" Align=right width=8% height=8%>
 
-- 11,000 Gold
 - Wonderous
 
 **Frostborn**: You gain resistance to cold damage, and your unarmed attacks deals 1d8 additional cold damage. 
@@ -432,7 +412,6 @@ _You gian +3 to initiative rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Immortal Shieldbow.png" Align=right width=8% height=8%>
 
-- 12,000 Gold
 - Shortbow
 - Attunement
 
@@ -451,7 +430,6 @@ _You gain +3 to inititative checks_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Infinity Edge.png" Align=right width=8% height=8%>
 
-- 13,000 Gold
 - Greatsword
 - Attunement
 
@@ -467,7 +445,6 @@ _You gain +2 to hit and damage rolls using this magical weapon _
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Knight's Vow.png" Align=right width=8% height=8%>
 
-- 12,000 Gold
 - Wonderous
 - Attunement
 
@@ -483,7 +460,6 @@ _You gain +2 to hit and damage rolls using this magical weapon _
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Liandry's Anguish.png" Align=right width=8% height=8%>
 
-- 14,000 Gold
 - Wonderous Item
 - Attunement
 
@@ -499,7 +475,6 @@ _Burn: At the start of their turn, a creature with burn stacks takes force damag
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Litch Bane.png" Align=right width=8% height=8%>
 
-- 11,500 Gold
 - Shortsword
 
 **Spellblade**: You can use you spellcasting ability when determening to hit and damge modifiers for this weapon.
@@ -516,7 +491,6 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Locket of the Iron Solari.png" Align=right width=8% height=8%>
 
-- 10,000 Gold
 - Wonderous
 - Attunement 
 
@@ -532,7 +506,6 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lord Dominik's Regards.png" Align=right width=8% height=8%>
 
-- 12,000 Gold
 - Crossbow, heavy
 
 **Breathtaking**: Whenever you damage enemies, you ignore resistances to piercing damage. If a creature would be immune to piercing damage, they take half damage from your attacks.
@@ -550,7 +523,6 @@ _You gain +3 to initiative rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Luden's Tempest.png" Align=right width=8% height=8%>
 
-- 12,500 Gold
 - Quarterstaff
 - Attunement
 
@@ -568,7 +540,6 @@ _You gain +2 to spell attacks and your save dc while attuned to this magical ite
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mejai's Soulstealer.png" Align=right width=8% height=8%>
 
-- 7,500 Gold
 - Wonderous Item
 - Attunement
 
@@ -586,7 +557,6 @@ _You gain +2 to spell attacks and your save dc while attuned to this magical ite
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Morellonomicon.png" Align=right width=8% height=8%>
 
-- 13,000
 - Arcane Focus
 - Attunement
 
@@ -602,7 +572,6 @@ _You gain +2 to your spell attack rolls and spell save DC while attuned to this 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rabadon's Deathcap.png" Align=right width=8% height=8%>
 
-- 15,000 Gold
 - Wonderous Item, hat
 - Attunement
 
@@ -616,7 +585,6 @@ _You gain +2 to your spell attack rolls and spell save DC while attuned to this 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Radiant Virtue.png" Align=right width=8% height=8%>
 
-- 14,000 Gold
 - Wonderous Item
 - Attunement
 
@@ -634,7 +602,6 @@ _You gain +1 to your armor class_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Randuin's Omen.png" Align=right width=8% height=8%>
 
-- 10,000 Gold
 - Shield
 - Attunement
 
@@ -652,7 +619,6 @@ _You have +1 to your armor class while wearing this shield_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rapid Firecanon.png" Align=right width=8% height=8%>
 
-- 12,500 Gold
 - Pepperbox
 
 **Enegized**: Whenever you move you gain a stack of energized for every feet you move and whenever you attack you gain five stacks of energized, up to a maximum of 80.
@@ -673,7 +639,6 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ravenous Hydra.png" Align=right width=8% height=8%>
 
-- 15,000 Gold
 - Greataxe
 
 **Cleave**: Whenever you hit a creature with an attack using Ravenous Hydra, all enemies within 5 feet of the target takes damage equal to your strength modifier. Youl heal 1 hit points for each creature within 5 feet of the original target. 
@@ -693,7 +658,6 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Runaan's Hurricane.png" Align=right width=8% height=8%>
 
-- 11,000 Gold
 - Longbow
 
 **Winds Fury**: Whenever you attack a creature with _Ruunan's Hurricane_. Two targets within 10 feet of the original target suffers damage equal to your dexterity modifier.
@@ -712,7 +676,6 @@ _You gian +3 to initiative rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Serylda's Grudge.png" Align=right width=8% height=8%>
 
-- 12,000 Gold
 - Pike
 - Attunement
 
@@ -730,7 +693,6 @@ _You have +2 to damage and attack rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Statikk Shiv.png" Align=right width=8% height=8%>
 
-- 15,000 Gold
 - Dagger
 
 **Enegized**: Whenever you move you gain a stack of energized for every feet you move and whenever you attack you gain five stacks of energized, up to a maximum of 80.
@@ -751,7 +713,6 @@ _You gian +3 to initiative rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sterak's Gage.png" Align=right width=8% height=8%>
 
-- 10,000 Gold
 - Wonderous Item
 
 **Catching Claws**: You gain +2 to hit and damage on your unarmed attacks. Whenever you hit an unarmed attack, you can attempt to grapple the target as a free action.
@@ -766,7 +727,6 @@ _You gian +3 to initiative rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stridebreaker.png" Align=right width=8% height=8%>
 
-- 11,000 Gold
 - Whip
 
 **Halting Slash**: As an action, you can swing _Stridebreaker_ around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or be knocked prone and take damage equal to this weapons damage. Once this ability is used, it cannot be used again until 30 seconds pass. 
@@ -781,7 +741,6 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 
 ## Sundered Sky
 
-- 11,000 Gold
 - Lance
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sundered Sky.png" Align=right width=8% height=8%>
@@ -800,7 +759,6 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 
 ## Sunfire Aegis
 
-- 13,000 Gold
 - Shield
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sunfire Aegis.png" Align=right width=8% height=8%>
@@ -817,7 +775,6 @@ _You gain +1 to your armor class while wielding this piece of armor_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/The Collector.png" Align=right width=8% height=8%>
 
-- 12,500 Gold
 - Blunderbuss
 
 **Critical**: Your Critical strike chance increases by one. 
@@ -834,7 +791,6 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Thornmail.png" Align=right width=8% height=8%>
 
-- 13,000 Gold
 - Chainmail
 
 **Thorns**: Whenever you are damaged by a weapon attack, the attacker takes damage equal to twice your proficiency bonus and gains two stacks of grievous wounds. 
@@ -849,7 +805,6 @@ _You gain +2 to your armor class while wearing this piece of armor_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Titanic Hydra.png" Align=right width=8% height=8%>
 
-- 13,000 Gold
 - Greataxe
 
 **Cleave**: Your attacks deal 1d6 additional foce damage for every 50th maximum hit points you have in a 15 feet cone, including the target. 
@@ -864,7 +819,6 @@ _You gain +2 to attack and damage rolls using this weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Triforce.png" Align=right width=8% height=8%>
 
-- 25,000 Gold
 - Wonderous Item
 - Attunement
 
@@ -880,7 +834,6 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Warmogs Armor.png" Align=right width=8% height=8%>
 
-- 15,000 Gold
 - Breastplate
 - Attunement (You must have atleast 75 hit points to attune to _Warmogs Armor_)
 
@@ -900,7 +853,6 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Zhonya's Hourglass.png" Align=right width=8% height=8%>
 
-- 12,000 Gold
 - Wonderous Item
 
 **Perfect Timing**: As a reaction upon taking damage, when you know the amount taken, you can become invulnerable and incapazitaded until the start of your next turn, doing this negates the damage that triggerd the reaction. Once this effect is used, it cannot be used again until 42 secons pass. 
