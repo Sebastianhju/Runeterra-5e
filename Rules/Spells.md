@@ -135,11 +135,11 @@ _Wizard, Sorcerer, Bard, Artificer_
 |---|---|---|---|---|---|---|
 |2nd|1 Action|10 feet|V,S,|1 minute concentration|Transmutation|none|
 
-Two nodes appear in the air 10 feet apart and electric energy crackles between them accelerating anything that passes thru. The first time a creature would pass through the gate each round, they gain 30 feet movement speed until the end of its turn. Allied projectiles that passes through gets a +3 to hit and deal 1d6 additional force damage. 
+Two nodes appear in the air 10 feet apart and electric energy crackles between them accelerating anything that passes thru. The first time a creature would pass through the gate each round, they gain 30 feet movement speed until the end of its turn. Allied projectiles that passes through gets a +1 to hit and deal 1d6 additional force damage. 
 
 As a bonus action on your turn you can move the gate to a area within 10 feet of you. 
 
-**At higher levels.** When cast with a spell slot 3rd level or higher the movement speed increases by 15ft for each level. When cast with a spell slot of 4th level the duration increases to 1 hour. When cast at a spel level of 6th level the duration increases to 8 hours.
+**At higher levels.** When cast with a spell slot 3rd level or higher the movement speed increases by 15ft for each level. When cast with a spell slot of 4th level the duration increases to 1 hour and the to hit bonus increases to +2. When cast at a spell level of 6th level the duration increases to 8 hours and the to hit bonus increases to +3.
 
 ---
 
