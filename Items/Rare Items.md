@@ -399,19 +399,6 @@ _You have +1 to attack and damage rolls using this magical weapon._
 
 ---
 
-## Ironspike Whip
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ironspike Whip.png" Align=right width=8% height=8%>
-
-- 3000 Gold
-- Whip
-
-**Crescent**: As an action, you can twirl the whip around you. All creatures within 10 feet of you must succeed a dexterity saving throw (DC: 9 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 30 seconds pass. 
-
-_You gain +1 to hit and damage rolls using this magical weapon_ 
-
----
-
 ## Jak'Sho The Protean
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Jak'Sho, The Protean.png" Align=right width=8% height=8%>
