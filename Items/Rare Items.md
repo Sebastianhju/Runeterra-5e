@@ -539,7 +539,7 @@ ___
 - 2700 Gold
 - Scimitar
 
-**Quicksilver** As a reaction upon begin immobilized you can remove all immobilizing effects and cast lesser restoration on yourself, until the end of yout turn you gain +1 crit chance with _Mecurial Scimitar_. Once this effect is used it cannot be used again until 30 seconds pass.  
+**Quicksilver** As a reaction upon begin immobilized you can remove all immobilizing effects and cast lesser restoration on yourself, until the end of your turn you gain +1 crit chance with _Mecurial Scimitar_. Once this effect is used it cannot be used again until 30 seconds pass.  
 
 _You have +1 to attack and damage rolls with this magical weapon_
 
