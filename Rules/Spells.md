@@ -170,7 +170,7 @@ _Wizard, Sorcerer, Druid_
 
 As a bonus action you burst out in flames. Whenever you deal fire damage to a creature during the duration the target gains a stack of burn. 
 
-When you give a creature their third stack of burn, you consume all their burn stacks as they burst into flames. All creatures within 10 feet of the target must succeed a dexterity saving throw or take 1d6 fire damage, halfed on a save. The damage is increased by 1d6 for every stack above three the target had. 
+When you give a creature their third or more stack of burn, you consume three burn stacks as they burst into flames. All creatures within 10 feet of the target must succeed a dexterity saving throw or take 1d6 fire damage for every third stack consumed, halfed on a save. 
 
 **At Higher Levels.** When cast with a spell slot of 4th level the duration increases to 1 hour. 
 
