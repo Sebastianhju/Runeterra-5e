@@ -234,7 +234,7 @@ You target a creature you can see and fiery cinders conver their skin. The targe
 
 Additionaly if the target fails the saving throw, they gain two stacks of burn. If they already had burn stacks, you also apply two burn stacks to all enemies within 30 feet of the original target. 
 
-**At Higher Levels.**
+**At Higher Levels.** When cast with a spell slot of 4th level or higher the damage increases by 2d6. 
 
 ---
 
