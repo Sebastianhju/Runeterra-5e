@@ -292,7 +292,7 @@ You unleash a devastationg torrent of fire towards an enemy you can see within r
 
 The torrent of fire then bounces to another creature within 30 feet of the target and can target a total of five target. 
 
-**At Higher Levels.**
+**At Higher Levels.** When cast with a spell slot of 5th or higher the damage increases by 1d6. 
 
 ---
 
