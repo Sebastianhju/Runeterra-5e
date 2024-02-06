@@ -288,7 +288,7 @@ _Wizard, Sorcerer, Druid_
 |---|---|---|---|---|---|---|
 |4th| 1 action| 120 feet| V,S,M| Instantanious| Evocation |Dexterity|
 
-You unleash a devastationg torrent of fire towards an enemy you can see within range. A target hit takes 6d6 fire damage and gains two stacks of burn, halfed on a failure. If the target already has stacks of burn, they take 12d6 damage instead. 
+You unleash a devastationg torrent of fire towards an enemy you can see within range. A target hit takes 6d6 fire damage and gains two stacks of burn, halfed on a save. If the target already has stacks of burn, they take 12d6 damage instead. 
 
 The torrent of fire then bounces to another creature within 30 feet of the target and can target a total of five target. 
 
