@@ -2,7 +2,7 @@
 
 ## Winter's Approach 
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Winter's Approach.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Winter's approach.png" Align=right width=8% height=8%>
 
 - A fully stacked Tear
 - Hide
