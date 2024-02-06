@@ -98,7 +98,7 @@ You target a creature you can see within reach and time rewinds around them decr
 
 **Starcall**
 
-_Wizard, Druid, Cleric_
+_Wizard, Sorcerer, Druid, Cleric_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
