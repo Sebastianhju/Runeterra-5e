@@ -6,7 +6,9 @@ Ultimates often comes with a cooldown. Cooldowns go down by one whenever you fin
 
 ---
 
-## Devour <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img%20-%20Ult/Devour.png" align=right width=10% height=10%>
+## Devour 
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img%20-%20Ult/Devour.png" align=right width=15% height=15%>
 
 |Orgin	|Tahm Kench|
 |---|---|
