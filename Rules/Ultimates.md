@@ -19,4 +19,4 @@ As an action, you can attempt to devour a creature within 5ft of you if their cu
 
 If it's an ally of yours, they gain temporary hit points equal to five times your proficiency bonus and can exit to a space within 10 feet of you at any time.
 
-If it's an enemy, their hit points are reduced to zero after two turns. They can attempt to escape as an action on their turn, making a successfull strength saving throw, dc equals 18+ proficiency bonus. If the target escapes early, they take 6d8 acid damage.
+If it's an enemy, their hit points are reduced to zero after two turns. They can attempt to escape as an action on their turn, making a successfull strength saving throw, dc 18 + proficiency bonus. If the target escapes early, they take 6d8 acid damage.
