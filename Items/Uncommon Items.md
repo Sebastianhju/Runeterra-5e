@@ -291,7 +291,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 **Spikes**: The _Ironspike Whip_ deals 1d4 additional piercing damage. 
 
-**Crescent**: As an action, you can twirl the whip around you. All creatures within your reach must succeed a dexterity saving throw (DC: 9 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 18 seconds pass. 
+**Crescent**: As an action, you can twirl the whip around you. All creatures within your reach must succeed a dexterity saving throw (DC: 8 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 18 seconds pass. 
 
 
 ---
