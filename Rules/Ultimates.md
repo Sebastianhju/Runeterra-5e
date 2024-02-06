@@ -1,6 +1,6 @@
 # Ultimates
 
-Ultimates are very powerfull actions that you obtain during you adventures. You have limited access to using them, so you may spend them wisely. 
+Ultimates are very powerful actions that you obtain during you adventures. You have limited access to using them, so you may spend them wisely. 
 
 Ultimates often comes with a cooldown. Cooldowns go down by one whenever you finish a long rest, or participate in a takedown of a **Greater Foe**.
 
@@ -23,11 +23,15 @@ For every time you use this action, the mana cost increases and you deal additio
 
 ---
 
-## Devour (Cooldown 5) <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img%20-%20Ult/Devour.png" align=right width=10% height=10%>
+## Devour <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img%20-%20Ult/Devour.png" align=right width=10% height=10%>
 
-As an action, you may devour a creature within 5ft of you if their current hit points is lower than you maximum hit points. A devoured creature is restrained, blinded and muted.
-If it's an ally of yours, they can exit to a space within 10 feet of you during their turn as a free action. 
+|Orgin	|Tahm Kench|
+|---|---|
+|Cooldown|	5|
+|Requirement|	Kill the Scuttle King|
 
-If it's an enemy, they can spend their turn to try to escape. They must make a strength saving throw (Dc: 12 + constitution modifier + prof)
+As an action, you can attempt to devour a creature within 5ft of you if their current hit points is lower than you maximum hit points.
 
-If the enemy is still inside you at the start of your turn 12 seconds after you devour them, they die. 
+If it's an ally of yours, they gain temporary hit points equal to five times your proficiency bonus and can exit to a space within 10 feet of you at any time.
+
+If it's an enemy, their hit points are reduced to zero after two turns. They can attempt to escape as an action on their turn, making a successfull strength saving throw, dc equals 18+ proficiency bonus. If the target escapes early, they take 6d8 acid damage.
