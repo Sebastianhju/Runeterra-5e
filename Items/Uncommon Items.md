@@ -334,7 +334,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Peacemaker.png" Align=right width=8% height=8%>
 
 - 1250 Gold
-- Bad News
+- Musket
 
 **Ace**: Whenver you hit an attack, you gain a stack of *Ace*. You gain two stacks if your attack is made against a creature that you are hidden from. 
 
