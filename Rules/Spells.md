@@ -52,7 +52,7 @@ You enhance the bandage in your hands and toss them towards a target that is wit
 
 **Sear**
 
-_Wizard, Sorcerer, Druid, Light Domain_
+_Wizard, Sorcerer, Druid_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
@@ -143,6 +143,22 @@ If the attack hit, the target and all creatures within 5 feet of it must succeed
 
 ---
 
+**Blaze**
+
+_Wizard, Sorcerer, Druid_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|2nd|1 Bonus Action|Self|V,S,M*|1 minute(C)|Evocation|Dexterity|
+
+As a bonus action you burst out in flames. Whenever you deal fire damage to a creature during the duration the target gains a stack of burn. 
+
+When you give a creature their third stack of burn, you consume all their burn stacks as they burst into flames. All creatures within 10 feet of the target must succeed a dexterity saving throw or take 1d6 fire damage, halfed on a save. The damage is increased by 1d6 for every stack above three the target had. 
+
+**At Higher Levels.** When cast with a spell slot of 4th level the duration increases to 1 hour. 
+
+---
+
 **Ebb and Flow**
 
 _Bard, Cleric, Druid, Ranger_
@@ -161,7 +177,7 @@ As an action you can send out a flow of water, targeting a creature within 30 fe
 
 **Pillar of Flame**
 
-_Wizard, Sorcerer, Druid, Light Domain_
+_Wizard, Sorcerer, Druid_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
