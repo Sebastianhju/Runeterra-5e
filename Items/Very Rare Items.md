@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Fimbulwinter.png" Align=right width=8% height=8%>
 
-- A fully stacked Tear
+- A fully stacked Winter's Approach
 - Hide
 - Attunement
 
@@ -22,7 +22,7 @@ _While wearing this armor you have a +2 to your armor class_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Muramana.png" Align=right width=8% height=8%>
 
-- A fully stacked tear
+- A fully stacked Manamune
 - Spear
 - Attunement
 
@@ -59,7 +59,7 @@ _You have +2 to attack rolls and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Seraph's Embrace.png" Align=right width=8% height=8%>
 
-- A fully stacked tear
+- A fully stacked Archangel's Staff
 - Quarterstaff
 - Attunement
 
