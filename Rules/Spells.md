@@ -96,6 +96,23 @@ You target a creature you can see within reach and time rewinds around them decr
 
 ---
 
+**Starcall**
+
+_Wizard, Druid, Cleric_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|1st|1 Action|10 foot cube|V,S|Instantanious|Evocation|Charisma|
+
+You call down a radiant blast in a 10 foot cube. All creatures within the area must succeed a charisma saving throw or take 2d6 radiant damage, halved on a failure. 
+
+You can then give an ally stacks of regeneration equal to the amount of target hit by this spell. 
+
+
+**At Higher Levels.** When cast with a spell slot of 2nd level or higher, the damage increases by 1d6. 
+
+---
+
 **Transfusion**
 
 _Wizard, Sorcerer, Warlock, Death & Grave Domain_
