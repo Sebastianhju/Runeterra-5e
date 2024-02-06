@@ -8,7 +8,7 @@
 - Hide
 - Attunement
 
-**Mana**: You gain +15 maximum mana. 
+**Mana**: You gain +13 maximum mana. 
 
 **Awe**: Your maximum hit points increase with a number equal to half your maximum mana. 
 
@@ -26,7 +26,7 @@ _While wearing this armor you have a +1 to your armor class_
 - Spear
 - Attunement
 
-**Mana**: You gain +15 maximum mana
+**Mana**: You gain +13 maximum mana
 
 **Awe**: Your weapon attacks with Muramana deal one additional damage for every 10th maximum mana you have
 
@@ -42,7 +42,7 @@ _You have +1 to attack rolls and damage rolls using this magical weapon_
 - Quarterstaff
 - Attunement
 
-**Mana**: You gain +15 maximum mana
+**Mana**: You gain +13 maximum mana
 
 **Awe**: Your spells deal additional damage equal to half the mana spent to cast that spell. 
 
