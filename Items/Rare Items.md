@@ -1,3 +1,55 @@
+# Upgradables
+
+## Winter's Approach 
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Winter's Approach.png" Align=right width=8% height=8%>
+
+- A fully stacked Tear
+- Hide
+- Attunement
+
+**Mana**: You gain +15 maximum mana. 
+
+**Awe**: Your maximum hit points increase with a number equal to half your maximum mana. 
+
+**Focus:** Once a turn when you cast a spell you gain stacks of focus equal to the mana spent up to a maximum of 500 stacks. When this item reaches 500 stacks it upgrades to **Fimbulwinter**
+
+_While wearing this armor you have a +1 to your armor class_
+
+---
+
+## Manamune
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Manamune.png" Align=right width=8% height=8%>
+
+- A fully stacked tear
+- Spear
+- Attunement
+
+**Mana**: You gain +15 maximum mana
+
+**Awe**: Your weapon attacks with Muramana deal one additional damage for every 10th maximum mana you have
+
+**Focus:** Once a turn when you cast a spell you gain stacks of focus equal to the mana spent up to a maximum of 500 stacks. When this item reaches 500 stacks it upgrades to **Muramana**
+
+_You have +1 to attack rolls and damage rolls using this magical weapon_ 
+
+## Archangel's Staff
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Archangel's Staff.png" Align=right width=8% height=8%>
+
+- A fully stacked tear
+- Quarterstaff
+- Attunement
+
+**Mana**: You gain +15 maximum mana
+
+**Awe**: Your spells deal additional damage equal to half the mana spent to cast that spell. 
+
+**Focus:** Once a turn when you cast a spell you gain stacks of focus equal to the mana spent up to a maximum of 500 stacks. When this item reaches 500 stacks it upgrades to **Seraph's Embrace**
+
+_You have +1 to spell attack rolls and +1 to your spell save DC when attuned to this item_
+
 # Rare items
 
 ## Abyssal Mask
