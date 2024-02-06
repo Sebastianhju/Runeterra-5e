@@ -133,11 +133,13 @@ _Wizard, Sorcerer, Bard, Artificer_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|2nd|1 Bonus action|30 feet|V,S,|1 Round|Transmutation|none|
+|2nd|1 Bonus action|30 feet|V,S,|1 Round|Transmutation|Dexterity|
 
-Two nodes appear in the air 15 feet apart and electric energy crackles between them accelerating anything that passes thru. The first time a creature would pass through the gate each round, they gain 30 feet movement speed until the end of its turn. The first allied projectiles that passes through gets advantage on the attack roll and deals 2d6 additional force damage. 
+Two nodes appear in the air 15 feet apart and electric energy crackles between them accelerating anything that passes thru. The first time a creature would pass through the gate each round, they gain 30 feet movement speed until the end of its turn. The first allied projectiles that passes through gets advantage on the attack roll.
 
-**At higher levels.** When cast with a spell slot 3rd level or higher the additional damage increases by 2d6. 
+If the attack hit, the target and all creatures within 5 feet of it must succeed a dexterity saving throw or take 2d10 additional force damage, halfed on a save. 
+
+**At higher levels.** When cast with a spell slot 3rd level or higher the additional damage increases by 1d10. 
 
 ---
 
