@@ -222,6 +222,22 @@ The earth cracks and erupts as void spikes shoot out of the ground in a 10ft dia
 
 ## Third Level Spells
 
+**Conflagration**
+
+_Wizard, Sorcerer, Druid_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|3rd|1 Action|90 feet| V,S|Instantanious|Evocation|Constitution|
+
+You target a creature you can see and fiery cinders conver their skin. The target must succeed a constitution saving throw or take 6d6 fire damage, halfed on a save. 
+
+Additionaly if the target fails the saving throw, they gain two stacks of burn. If they already had burn stacks, you also apply two burn stacks to all enemies within 30 feet of the original target. 
+
+**At Higher Levels.**
+
+---
+
 **Event Horizon**
 
 _Wizard, Sorcerer, Warlock_
