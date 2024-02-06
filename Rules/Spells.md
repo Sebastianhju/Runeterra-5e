@@ -200,7 +200,7 @@ _Wizard, Sorcerer, Druid_
 |---|---|---|---|---|---|---|
 |2nd|1 Action|60 feet|V,S|Instantanious|Evocation|Dexterity|
 
-A cinder blows up to a pillar of flames in a 15 feet diameter, 40 feet tall sphere. All creatures within the area must succeed a Dexterity saving throw or take 3d6 fire damage, if they already have stacks of burn, this damage increaseswith 2d6 additional fire damage, halved on a save. All creatures also gain 2 stacks of burn regardless if they succeed the saving throw or not. 
+A cinder blows up to a pillar of flames in a 15 feet diameter, 40 feet tall sphere. All creatures within the area must succeed a Dexterity saving throw or take 3d6 fire damage, if they already have stacks of burn, this damage increases with 2d6 additional fire damage, halved on a save. All creatures also gain 2 stacks of burn regardless if they succeed the saving throw or not. 
 
 **At Higher Levels.** When cast with a spell slot of 3rd level or higher, the damage increases by 1d6. 
 
