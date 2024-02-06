@@ -463,7 +463,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 **Focus**: Once a turn when you cast a spell you gain stacks of focus equal to the mana spent. For every tenth stack of focus, you gain +1 maximum mana up to a maximum of 130 stacks. 
 
-_Upgrade_: When the tear is fully stacked, it can be upgraded into Seraphs Embrace, Muramana or Fimbulwinter.
+_Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's Staff, Manamune or Winter's Approach.
 
 ---
 
