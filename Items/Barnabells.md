@@ -128,6 +128,19 @@ _You gain +1 bonus to spell attack rolls_
 
 ---
 
+## Ironspike Whip
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ironspike Whip.png" Align=right width=8% height=8%>
+
+- 60 Gold
+- Whip
+
+**Spikes**: The _Ironspike Whip_ deals 1d4 additional piercing damage. 
+
+**Crescent**: As an action, you can twirl the whip around you. All creatures within your reach must succeed a dexterity saving throw (DC: 8 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 18 seconds pass. 
+
+---
+
 ## Sheen
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sheen.png" Align=right width=8% height=8%>
@@ -289,19 +302,6 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 **Thorns**: Whenever you are damaged by a melee attack, the attacker takes damage equal to your proficiency bonus and gains a stack of grievous wounds. 
 
 You gain +1 to your armor class while wearing this magical armor. 
-
----
-
-## Ironspike Whip
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ironspike Whip.png" Align=right width=8% height=8%>
-
-- 300 Gold
-- Whip
-
-**Crescent**: As an action, you can twirl the whip around you. All creatures within 10 feet of you must succeed a dexterity saving throw (DC: 9 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 30 seconds pass. 
-
-_You gain +1 to hit and damage rolls using this magical weapon_ 
 
 ---
 
