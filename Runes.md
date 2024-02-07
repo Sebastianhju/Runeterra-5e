@@ -381,9 +381,9 @@ _Burn: At the start of their turn, a creature with burn stacks takes force damag
 
 ### Waterwalking  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Waterwalking.png" Align=left width=7% height=7%> 
 
-Whenever you heal or target an ally, they gain +10 movement speed and can walk on water for an hour. This effect doens't stack with itself.
+Whenever you target an ally with a heal or buff, they gain +10 movement speed and can walk on water for an hour. This effect doens't stack with itself.
 
-When you target an ally you can choose to enhance their attacks. For their three next damaging attacks they make within 30 seconds they can add 1d6 cold damage and reduce their targets speed by 10 feet. Once this action is used it cannot be used again until 30 seconds have passed. 
+When you target an ally with a heal or buff you can choose to enhance their attacks. For their three next damaging attacks they make within 30 seconds they can add 1d6 cold damage and reduce their targets speed by 10 feet. Once this action is used it cannot be used again until 30 seconds have passed. 
 
 ---
 
