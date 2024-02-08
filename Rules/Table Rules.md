@@ -76,6 +76,19 @@ Wenever a character gets downed, they gain a stack of exhaustion.
 
 If a downed creature would take damage, they gain a **Wound**. Wounds are defuss that can vary in degree dependent on the situation they were given in. 
 
+## Healing
+
+We are currently playtesting the updated healing spells from the 2024 Players Handbook playtest 8. This fits the setting due to its deadliness and the added consequences of downing. 
+
+**Healing Word**: Heals 2d4 + spellcasting modifier. Upcasts for 2d4 for each spell level. 
+
+**Cure Wounds**: Heals 2d8 + spellcasting modifier. Upcasts for 2d8 for each spell level. 
+
+**Healing Word**: Heals 2d4 + spellcasting modifier. Upcasts for 1d4 for each spell level.
+
+**Mass Cure Wounds**: Heals for 5d8 + spellcasting modifier. Upcasts for 1d8 for each spell level. 
+
+
 ## Resting
 
 You can only long rest at a *Safe Haven* (Dm discretion). Usually this means in a safe tavern or the partys operation base. During travels and dungeoncrawling, short rest will be the only available option. 
