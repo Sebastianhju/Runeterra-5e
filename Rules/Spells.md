@@ -182,13 +182,13 @@ _Wizard, Sorcerer, Druid_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|2nd|1 Bonus Action|Self|V,S,M*|1 minute(C)|Evocation|Dexterity|
+|1st|1 Bonus Action|Self|V,S,M*|1 minute(C)|Evocation|Dexterity|
 
 As a bonus action you burst out in flames. Whenever you deal fire damage to a creature during the duration the target gains a stack of burn. 
 
 When you give a creature their fourth or more stack of burn, you consume four burn stacks as they burst into flames. All creatures within 5 feet of the target must succeed a dexterity saving throw or take 2d6 force damage, halved on a save.
 
-**At Higher Levels.** When cast with a spell slot of 4th level or higher the duration increases to 1 hour. 
+**At Higher Levels.** When cast with a spell slot of 2nd level or higher the damage increases by 1d6 for each level above 1st level. 
 
 ---
 
