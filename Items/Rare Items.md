@@ -510,6 +510,22 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 ---
 
+## Liandry's Anguish
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Liandry's Anguish.png" Align=right width=8% height=8%>
+
+- Wonderous Item
+- Attunement
+- 3000 Gold
+
+**Torment**: When you deal spelldamage to a creature you can apply *Burn* to the target. 
+
+**Health**: You gain health equal to your hit dice
+
+_You gain +1 to spell attacks and your save dc while attuned to this magical item_
+
+---
+
 ## Lifewell Pendant
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lifewell Pendant.png" Align=right width=8% height=8%>
