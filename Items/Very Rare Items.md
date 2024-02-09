@@ -545,7 +545,7 @@ _You gain +2 to spell attacks and your save dc while attuned to this magical ite
 - Arcane Focus
 - Attunement
 
-**Affliction**: Whenever you deal Spell damage to a target, you apply two stacks of grievous wounds to the target if they don't have any. Whenever you damage a creature that already grievous wounds, you deal 2d6 additional necrotic damage and remove all stacks of grievous wounds they have.
+**Affliction**: Whenever you deal Spell damage to a target, you apply grievous wounds to the target. Whenever you damage a creature that has grievous wounds, you deal 2d6 additional necrotic damage.
 
 **Hidden Knowledge**: When you are attuned to this book you can increase two different ability scores by one. 
 
@@ -778,7 +778,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 - Chainmail
 
-**Thorns**: Whenever you are damaged by a weapon attack, the attacker takes damage equal to twice your proficiency bonus and gains two stacks of grievous wounds. 
+**Thorns**: Whenever you are damaged by a weapon attack, the attacker takes damage equal to twice your proficiency bonus and gains grievous wounds. 
 
 **Health**: You gain maximum hit points equal to twice your level. 
 
