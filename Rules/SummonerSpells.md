@@ -40,9 +40,7 @@ As a bonus action, you can restore a number of hit points equal to ten + five ti
 ---
 
 # Ignite<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Ignite_HD.png" align=right width=10% height=10%>
-As a *Bonus Action* you can ignite a target within 30 feet of you. They gain stacks of *burn* equal to twice your proficiency bonus and gains an equal amount of grievous wounds. 
-
-_Burn: At the start of their turn, a creature with burn stacks takes force damage equal to the stacks of burn and remove the amount of stacks by one. A creature can have a maximum of stacks equal to five times your proficiency bonus_
+As a *Bonus Action* you can apply ignite to a target within 30 feet of for 24 seconds. All incoming healing is halved and takes 2d6 force damage on the start of its turns. 
 
 ---
 
