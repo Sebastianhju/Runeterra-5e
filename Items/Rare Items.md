@@ -277,13 +277,10 @@ _You gain +1 to attack and damage rolls using this weapon._
 
 - 3000 Gold
 - Wondrous
-- Attunement
 
-**Dark Pact**: When you would take or give stacks of grievous wounds, you instead take or give stacks of burn. 
+**Dark Pact**: When you would take or apply grievous wounds, you instead take or apply burn. 
 
 **Health**: You gain health equal to your hit dice. 
-
-Burn: At the start of their turn, a creature with burn stacks takes force damage equal to the stacks of burn and remove the amount of stacks by one. A creature can have a maximum of stacks equal to five times your proficiency bonus
 
 ---
 
@@ -605,7 +602,7 @@ _You have +1 to attack and damage rolls with this magical weapon_
 
 **Sepsis**: Dealing Damage with _Mortal Reminder_ towards a target applies two stacks of grievous wonds. Whenever you make an attack roll against a target with grievous wounds with _Mortal Reminder_ you have +1 crit chance. 
 
-**Death's Drag**: When you critically hit a target, you convert all stacks they have of griecous wounds into stacks of burn. 
+**Death's Drag**: When you critically hit a target ???
 
 _You gain +1 to attack and damage rolls using this magical weapon_
 
@@ -829,15 +826,13 @@ _You gain +1 to spell attack rolls and saving throws_
 - Trident
 - Attunement
 
-**Burning Sting**: All attacks with the *Seastone Trident* apllies a stack of burn to the target. 
+**Burning Sting**: All attacks with the *Seastone Trident* apllies burn to the target. 
 
 **Chum the Water**: You learn the *Summon Beast* spell and can cast it once a long rest without spending mana, hower it must be in the form of a shark and take the water envoirment. 
 
 **Evasion**: This trident has 2 charges, and it regains all expended charges after you finish a long rest. When you fail a Dexterity saving throw while attuned to it, you can use your reaction to expend 1 of its charges to succeed on that saving throw instead.
 
 _You gain +1 to hit and attack rolls using this magical weapon_
-
-Burn: At the start of their turn, a creature with burn stacks takes force damage equal to the stacks of burn and remove the amount of stacks by one. A creature can have a maximum of stacks equal to five times your proficiency bonus
 
 ---
 
@@ -890,7 +885,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 - 3500 gold
 - Wonderus
 
-**Cinderbloom**: When you apply stacks of burn to a creature, you remove all temporary hit points they currently have. 
+**Cinderbloom**: When you apply burn to a creature, you remove all temporary hit points they currently have. 
 
 **Health**: You gain maximum health equal to half your hit dice.
 
