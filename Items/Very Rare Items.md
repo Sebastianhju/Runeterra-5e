@@ -47,8 +47,6 @@ _You have +2 to attack rolls and damage rolls using this magical weapon_
 
 **Warding**: As an action, you can place down a stealth ward. You can do this a number of times equal to your proficiency bonus before finishing a long rest
 
-**Spoils of War**. Whenever you score a takedown, you gain gold equal to ten times the creautres challenge rating. 
-
 **Shoulderguards**: You armor class increases with +1 while wearing the Pauldrons. 
 
 **Health**: You maximum hit points increases by one hit dice. 
@@ -81,8 +79,6 @@ _You have +2 to spell attack rolls and +2 to your spell save DC when attuned to 
 - Dagger
 
 **True Ice**: The Shard of Ture Ice deals 1d6 cold damage on hit
-
-**Spoils of the Tundra**: Once a turn when you deal cold damge to a creature, you gain gold equal to the damage dealt. 
 
 **Warding**: As an action, you can place down a stealth ward. You can do this a number of times equal to your proficiency bonus before finishing a long rest
 
