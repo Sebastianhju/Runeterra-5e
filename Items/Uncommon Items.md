@@ -108,9 +108,7 @@ _You gain +1 bonus to unarmed attack rolls_
 - 800 Gold
 - Scimitar
 
-**Trial by fire**: When you hit an attack with **Cinder Cutlass** you can choose to apply 2 stacks of burn to the target. Once this effect is used, it cannot be used again until 12 seconds have passed. 
-
-Burn: At the start of their turn, a creature with burn stacks takes force damage equal to the stacks of burn and remove the amount of stacks by one. A creature can have a maximum of stacks equal to five times your proficiency bonus
+**Trial by fire**: When you hit an attack with **Cinder Cutlass** you can choose to apply burn to the target. Once this effect is used, it cannot be used again until 12 seconds have passed. 
 
 ---
 
