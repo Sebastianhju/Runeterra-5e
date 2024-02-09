@@ -456,21 +456,6 @@ _You gain +2 to hit and damage rolls using this magical weapon _
 
 ---
 
-## Liandry's Anguish
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Liandry's Anguish.png" Align=right width=8% height=8%>
-
-- Wonderous Item
-- Attunement
-
-**Torment**: When you deal spelldamage to a new creature that turn you can apply two stacks of *Burn* to the target. 
-
-_You gain +2 to spell attacks and your save dc while attuned to this magical item_
-
-_Burn: At the start of their turn, a creature with burn stacks takes force damage equal to the stacks of burn and remove the amount of stacks by one. A creature can have a maximum of stacks equal to five times your proficiency bonus_
-
----
-
 ## Lich Bane
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Litch Bane.png" Align=right width=8% height=8%>
@@ -763,7 +748,7 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sunfire Aegis.png" Align=right width=8% height=8%>
 
-**Immolate**: As a bonus action you can activate this shield, causing it to burn for a minute. Whenever you end your turn, all enemies within 5 feet of you must succeed a constitution saving throw or take 2d6 + proficiency bonus fire damage, halved on a save, and gives them 2 stacks of burn. Creatures who have stacks of burn takes 4d6 + proficiency bonus fire damage instead. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
+**Immolate**: As a bonus action you can activate this shield, causing it to burn for a minute. Whenever you end your turn, all enemies within 5 feet of you must succeed a constitution saving throw or take 2d6 + proficiency bonus fire damage, halved on a save, and applies burn. Creatures who are burning takes 4d6 + proficiency bonus fire damage instead. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
 
 **Health**: Your maximum hit points increases by an anount equal to twice your level
 
