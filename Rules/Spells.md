@@ -174,22 +174,6 @@ As a bonus action you burst out in flames. Whenever you deal fire damage to a cr
 
 ---
 
-**Blaze**
-
-_Wizard, Sorcerer, Druid_
-
-|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
-|---|---|---|---|---|---|---|
-|1st|1 Bonus Action|Self|V,S,M*|1 minute(C)|Evocation|Dexterity|
-
-As a bonus action you burst out in flames. Whenever you deal fire damage to a creature during the duration the target gains a stack of burn. 
-
-When you give a creature their fourth or more stack of burn, you consume four burn stacks as they burst into flames. All creatures within 5 feet of the target must succeed a dexterity saving throw or take 1d6 force damage, halved on a save.
-
-**At Higher Levels.** When cast with a spell slot of 2nd level or higher the damage increases by 1d6 for each level above 1st level. 
-
----
-
 **Ebb and Flow**
 
 _Bard, Cleric, Druid, Ranger_
@@ -214,7 +198,7 @@ _Wizard, Sorcerer, Druid_
 |---|---|---|---|---|---|---|
 |2nd|1 Action|60 feet|V,S|Instantanious|Evocation|Dexterity|
 
-A cinder blows up to a pillar of flames in a 15 feet diameter, 40 feet tall sphere. All creatures within the area must succeed a Dexterity saving throw or take 3d6 fire damage, if they already have stacks of burn, this damage increases with 2d6 additional fire damage, halved on a save. All creatures also gain 2 stacks of burn regardless if they succeed the saving throw or not. 
+A cinder blows up to a pillar of fmaes in a 15 foot cube. All creatures within the area must succeed a Dexteritu saving throw or take 3d6 fire damage, halved on a save, and starts burning. If a target is burning they take 2d6 additional fire damage. 
 
 **At Higher Levels.** When cast with a spell slot of 3rd level or higher, the damage increases by 1d6. 
 
@@ -242,13 +226,11 @@ _Wizard, Sorcerer, Druid_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|3rd|1 Action|90 feet| V,S|Instantanious|Evocation|Constitution|
+|3rd|1 Action|90 feet| V,S|Instantanious|Evocation|Dexterity|
 
-You target a creature you can see and fiery cinders conver their skin. The target must succeed a constitution saving throw or take 6d6 fire damage, halfed on a save. 
+You target a creature you can see and fiery cinders conver their skin. The target must succeed a dexterity saving throw or take 9d6 fire damage, halved on a save. If the target is burning, all creautres within 10 feet of it must also succeed a dexterity saving throw or take 9d6 fire damage, halved on a save. 
 
-Additionaly if the target fails the saving throw, they gain two stacks of burn. If they already had burn stacks, you also apply two burn stacks to all enemies within 30 feet of the original target. 
-
-**At Higher Levels.** When cast with a spell slot of 4th level or higher the damage increases by 2d6. 
+**At Higher Levels.** When cast with a spell slot of 4th level or higher the damage increases by 1d6. 
 
 ---
 
@@ -302,7 +284,7 @@ _Wizard, Sorcerer, Druid_
 |---|---|---|---|---|---|---|
 |4th| 1 action| 120 feet| V,S,M| Instantanious| Evocation |Dexterity|
 
-You unleash a devastationg torrent of fire towards an enemy you can see within range. The target must succeed a dexterity saving throw or take 6d6 fire damage and gains two stacks of burn, halfed on a save. If the target already has stacks of burn, they take 6d6 additional fire damage.
+You unleash a devastationg torrent of fire towards an enemy you can see within range. The target must succeed a dexterity saving throw or take 6d6 fire damage, halfed on a save. If the target ais burning they take 6d6 additional fire damage.
 
 The torrent of fire then bounces to another creature within 30 feet of the target and can target a total of five target. 
 
