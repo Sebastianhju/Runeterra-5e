@@ -108,7 +108,7 @@ _You gain +1 bonus to unarmed attack rolls_
 - 800 Gold
 - Scimitar
 
-**Trial by fire**: When you hit an attack with **Cinder Cutlass** you can choose to apply burn to the target. Once this effect is used, it cannot be used again until 12 seconds have passed. 
+**Trial by fire**: When you hit an attack with **Cinder Cutlass** you can choose to deal 1d6 additonal fire damage and apply burn to the target. Once this effect is used, it cannot be used again until 12 seconds have passed. 
 
 ---
 
