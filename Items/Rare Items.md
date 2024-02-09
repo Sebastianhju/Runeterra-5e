@@ -171,7 +171,7 @@ _You have +1 to hit and damage rolls with this magical weapon_
 - Chain Vest
 - Attunement
 
-**Thorns**: Whenever you are damaged by a melee attack, the attacker takes damage equal to your proficiency bonus and gains a stack of grievous wounds. 
+**Thorns**: Whenever you are damaged by a melee attack, the attacker takes damage equal to your proficiency bonus and gains grievous wounds. 
 
 You gain +1 to your armor class while wearing this magical armor. 
 
@@ -222,7 +222,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 - 2500 Gold
 - Longsword
 
-**Spinning Blades**: As a bonus action you can start up the chainswords engine. For your next three attacks, the chainsword deals 1d8(1d10 if twohanded) additional damage and applies three stacks of grievous wounds. Once this action is used it cannot be used again until 24 seconds pass. 
+**Spinning Blades**: As a bonus action you can start up the chainswords engine. For your next three attacks, the chainsword deals 1d8(1d10 if twohanded) additional damage and applies grievous wounds. Once this action is used it cannot be used again until 24 seconds pass. 
 
 _You get +1 to attack and damage rolls using this magical weapon_
 
@@ -235,9 +235,9 @@ _You get +1 to attack and damage rolls using this magical weapon_
 - 2500 Gold
 - Quarterstaff
 
-**Puffcap Toxin**: Whenever you heal an ally, their next attack applies 3 stacks of grievous wounds to their target. 
+**Puffcap Toxin**: Whenever you heal an ally, their next attack applies grievous wounds to their target. 
 
-**Cleansing Wounds**: Whenever you heal a creature that has grievous wounds, the healing is not reduced, and you remove an amount of stacks equal to your proficiency bonus. 
+**Cleansing Wounds**: Whenever you heal a creature that has grievous wounds, you first remove the grievous wounds condition. 
 
 ---
 
@@ -618,7 +618,7 @@ _You have +1 to attack and damage rolls with this magical weapon_
 
 **Sepsis**: Dealing Damage with _Mortal Reminder_ towards a target applies two stacks of grievous wonds. Whenever you make an attack roll against a target with grievous wounds with _Mortal Reminder_ you have +1 crit chance. 
 
-**Death's Drag**: When you critically hit a target ???
+**Death's Drag**: When you critically hit a target you deal 1d8 additional necrotic damage
 
 _You gain +1 to attack and damage rolls using this magical weapon_
 
@@ -673,11 +673,11 @@ _You gian +1 to attack and damage rolls using this magical weaponÆ_
 - Arcane Focus
 - Attunement
 
-**Cursed**: Whenever you deal spell damage, you give yourself and the target two stacks of grievous wounds. 
+**Cursed**: Whenever you deal spell damage, you give yourself and the target grievous wounds. 
 
-**Oblivion**: Your single target spells deals 2d6 additional necrotic damage if the target has at least one stack of grievous wounds.
+**Oblivion**: Your single target spells deals 1d6 additional necrotic damage if the target has grievous wounds.
 
-_You gain +2 to spell attack rolls_
+_You gain +1 to spell attack rolls_
 
 ---
 
@@ -1102,13 +1102,13 @@ _You gain +1 to damage and attack rolls using this weapon_
 - Quarterstaff
 - Attunement
 
-**Draining Touch**: Meele attacks with *Vampiric Scepter* deals 1d6 additinal necrotic damage
+**Draining Touch**: Attacks with *Vampiric Scepter* deals 1d6 additinal necrotic damage
 
 **Vampiric Influence**: You are a creature of the night and gain 60ft darkvision.
 
-**Bloood Transfer**: *Once a round when you deal necrotic damage you heal an amount equal to your twice your proficiency bonus. 
+**Bloood Transfer**: Once a round when you deal necrotic damage you heal an amount equal to your twice your proficiency bonus. 
 
-**Curse of the Fangs**: Whenever you take radiant damage you gain two stack of grievous wounds. 
+**Curse of the Fangs**: Whenever you take radiant damage you gain grievous wounds. 
 
 ---
 
