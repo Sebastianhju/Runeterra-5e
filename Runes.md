@@ -290,7 +290,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Ultimate_ gi
 |**[Transcendence](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#transcendence-)**|Reduce the cooldown of items and runes as you level up|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Transcendence.png">|
 |**[Celerity](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#celerity-)**|Your speed improving effects are doubled|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/CelerityTemp.png">|
 |**[Absolute Focus](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#absolute_focus-)**|Deal more damage when you are healthy|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/AbsoluteFocus.png">|
-|**[Scorch](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#scorch-)**|Damaging enemies gives them stacks of burn|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Scorch.png">|
+|**[Scorch](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#scorch-)**|Damaging enemies applies burn to them|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Scorch.png">|
 |**[Waterwalking](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#waterwalking-)**|You gain increased movement speed and damage in watery terrain|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Waterwalking.png">|
 |**[Gathering Storm](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#gathering-storm-)**|You become adept in tempest spells|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/GatheringStorm.png">|
 
@@ -373,9 +373,9 @@ While above 50% health, you deal 1d6 additional damage. When you reach level 11 
 
 ### Scorch  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Scorch.png" Align=left width=7% height=7%>
 
-When you damage an enemy, you can choose to give them stacks of burn equal 2+ your proficiency bonus. Once this effect is used, it cannot be used again until 30 seconds have passed. 
+When you damage an enemy, you apply scorch to the target. Once this effect is used it cannot be used again until 24 seconds have passed. 
 
-_Burn: At the start of their turn, a creature with burn stacks takes force damage equal to the stacks of burn and remove the amount of stacks by one. A creature can have a maximum of stacks equal to five times your proficiency bonus_
+_Scorch: A creature with Scorch takes 1d6 force damage at the start of their turns and counts as burning for the sake of other spells and effect. Scorch can only be removed by a lesser/greater restoration or dispel magic spell_
 
 ---
 
