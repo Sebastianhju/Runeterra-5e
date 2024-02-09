@@ -58,7 +58,7 @@ _Wizard, Sorcerer, Druid_
 |---|---|---|---|---|---|---|
 |1st|1 Action|30 feet|V,S,M*|Instantanious|Evocation|Attack|
 
-You launch a bolt of fire towards your target. If the attack hits they take 3d6 fire damage, if they already have stacks of burn they are also stunned until the end of their turn. If the target doesn't have any stacks of burn, you apply two stacks of burn on them, regardless if the attack hit or missed. 
+You launch a bolt of fire towards a target you can see within range. If the attack hits, they take 3d6 fire damage and starts _burning_. If the target already is burning they are also stunned until the end of their turn. 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6. 
 
@@ -168,11 +168,9 @@ _Wizard, Sorcerer, Druid_
 |---|---|---|---|---|---|---|
 |2nd|1 Bonus Action|Self|V,S,M*|1 minute(C)|Evocation|Dexterity|
 
-As a bonus action you burst out in flames. Whenever you deal fire damage to a creature during the duration the target gains a stack of burn. 
+As a bonus action you burst out in flames. Whenever you deal fire damage to a creature during the duration the target starts _burning_ and you apply a stack of blaze to them. Whenever a target has three stacks of blaze the fire cinders up to an explosion that deals 2d6 force damage to all targets within 5 feet of it. 
 
-When you give a creature their third or more stack of burn, you consume three burn stacks as they burst into flames. All creatures within 10 feet of the target must succeed a dexterity saving throw or take 1d6 fire damage for every third stack consumed, halved on a save. This effect can only trigger once a round on the same target. 
-
-**At Higher Levels.** When cast with a spell slot of 4th level the duration increases to 1 hour. 
+**At Higher Levels.** When cast with a spell slot of 3rd level or higher the damage increases by 1d6 for each level above 2nd level. 
 
 ---
 
