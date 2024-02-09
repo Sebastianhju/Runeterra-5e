@@ -1,12 +1,12 @@
 # Grievous Wounds
 
-If you have atleast one stack of grievous wounds, all healing and temporary hit points you gain are halfed. At the start of your turn you remove one stack of grievous wounds. You can remove all stacks of **Grievous Wounds** by using lesser restoration or similar effects. 
+When Grievous Wouded all healing and temporary hit points you gain are halfed. A creature can remvove **Grievous Wounds** from themself or an ally by spending their action to make a dc 10 medicine check or by using spells like lesser restoration. 
 
 ---
 
 # Burn
 
-At the start of their turn, a creature with burn stacks takes force damage equal to the stacks of burn and remove the amount of stacks by one. A creature can have a maximum of stacks equal to five times your proficiency bonus. You can remove all stacks of burn by using lesser restoration or similar effects. 
+At the start of their turn, a creature with burn stacks takes 1d4 force damage. You can remove burn by spending you action to pat out the flames. You can also stop the burn by walking in water or casting create or destroy water. 
 
 ---
 
