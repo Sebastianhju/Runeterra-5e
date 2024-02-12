@@ -950,10 +950,11 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 - 3500 gold
 - Wonderus
+- Attunement
 
-**Cinderbloom**: When you apply burn to a creature, you remove all temporary hit points they currently have. 
+**Cinderbloom**: Spell Attack rolls have +2 crit chance against bloodied targets. 
 
-**Health**: You gain maximum health equal to half your hit dice.
+_You gain +1 to spell attack rolls while attuned to this item_
 
 ---
 
