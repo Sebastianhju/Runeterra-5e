@@ -847,11 +847,11 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 - Arcane Focus
 - Attunement
 
-**Riftmaker**: When you cast a teleportation spell you can spent 2 additional mana to duoble the range.
+**Riftmaker**: When you cast a teleportation spell you can spent 2 additional mana to double the range.
 
-**Hunger of the Void**: When you deal damage with a spell you gain a stack of _hunger_. When you have 5 stacks of _hunger_ your next spells deal 4d6 additional necrotic damage and you heal for the same amount. 
+**Hunger of the Void**: When you deal damage with a spell you gain a stack of _hunger_. When you have 5 stacks of _hunger_ your next spells deal 3d6 additional necrotic damage and you heal for the same amount. 
 
-_You gain +2 to spell attack rolls_
+_You gain +1 to spell attack rolls_
 
 ---
 
