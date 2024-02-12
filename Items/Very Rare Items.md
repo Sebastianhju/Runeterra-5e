@@ -88,20 +88,6 @@ _You have +1 to damage and attack rolls using this magical weapon_
 
 # Very Rare Items
 
-## Ardent Censer
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ardent Censer.png" Align=right width=8% height=8%>
-
-- Wonderous Item
-
-**Sanctify**: Whenever you heal or give an ally temporary hit points, they gain 30 feet movement speed and their weapon attacks deal 1d6 additional force damage until the end of their turn. 
-
-**Harmony**: Whenever you spend a hit dice you regain one mana. 
-
-**Healing Power**: Your healing spells heal 2 more hit points
-
----
-
 ## Black Cleaver
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Black Cleaver.png" Align=right width=8% height=8%>
@@ -169,22 +155,6 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 ---
 
-## Deadman's Plate
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dead man's plate.png" Align=right width=8% height=8%>
-
-- Wonderous Item (Shoulderpad)
-
-**Shipwrecker**: Whenever you move you gain a speed of momentum for every feet you move, up to a maximum of 80. For every 40 stack you gain +5 movement speed. Whenever you hit a creature with a melee attack you consume all charges of momentum, dealing 1d6 additional damage and reducing their speed by 15 feet for every 40th feet you've moved that turn. 
-
-**Health**: You gain maximum hit points equal to twice your level. 
-
-**Speed**: You gain +5 movement speed. 
-
-_You gain +1 to your armor class while wearing this piece of equipment_
-
----
-
 ## Duskblade of Draktharr
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Duskblade of Draktharr.png" Align=right width=8% height=8%>
@@ -198,22 +168,6 @@ _You gain +1 to your armor class while wearing this piece of equipment_
 **Haste**: The cooldowns of you items and runes are reduced with 6 seconds.  
 
 _You gian +2 to hit and damage rolls using this magical weapon_
-
----
-
-## Echoes of Helia
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Echoes of Helia.png" Align=right width=8% height=8%>
-
-- Wonderous Item
-
-**Soul Siphon**: Once a turn when you damage an enemy, you grants you a soul charge up to a maximum of two. The next time you heal or give an ally temporary hit points, you expend all soul charges to heal you both 2d8 hit points for each soul charge.
-
-**Health**: You gain maximum hit points equal to your hit dice. 
-
-**Haste**: The cooldown of you runes and items are reduced by 6 seconds. 
-
-**Healing Power**: Your healing spells heal 2 more hit points
 
 ---
 
@@ -373,20 +327,6 @@ _You gain +1 to your armor class while wearing this piece of armor_
 **Hextech Blade**: When you hit an attack with the sword part of this weapon you can unleash a burst of energy dealing 2d8 lightning damage to the target. Once this effect is used, it cannot be used again until 60 seconds pass. Whenever you make an attack roll using the gun part of this weapon the cooldown goes down by 12 seconds. 
 
 _You gain +2 to hit and attack rolls using this magical weapon_
-
----
-
-## Hextech Rocketbelt
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Rocketbelt.png" Align=right width=8% height=8%>
-
-- Wonderous
-
-**Supersonic**: As a bouns action you can activate the rocketbelt. You gain 60 feet flying speed and agility, but you must land on a surface at the end of your turn, when you end your turn, all creatures within 5 feet of you take 2d4+2 force damage. Once this effect is used, it cannot be used again until 30 seconds pass. 
-
-**Health**: You gain hit points equal to your hit dice. 
-
-_You gian +3 to initiative rolls_
 
 ---
 
@@ -702,23 +642,7 @@ _You gian +3 to initiative rolls_
 
 **Health**: You gain maximum hit points equal to twice your level. 
 
----
-
-## Stridebreaker
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stridebreaker.png" Align=right width=8% height=8%>
-
-- Whip
-
-**Halting Slash**: As an action, you can swing _Stridebreaker_ around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or be knocked prone and take damage equal to this weapons damage. Once this ability is used, it cannot be used again until 30 seconds pass. 
-
-**Heroic Gait**: Whenever you deal physical damage to creatures, you gain +5 feet movement speed and agility until the end of your turn. 
-
-**Haste**: The cooldown of your items and runes are reduced with 6 seconds.
-
-_You have +2 to attack and damage rolls when using this magical weapon_
-
----
+---  
 
 ## Sundered Sky
 
