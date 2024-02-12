@@ -320,10 +320,9 @@ _You gain +1 to attack and damage rolls using this weapon._
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Echoes of Helia.png" Align=right width=8% height=8%>
 
 - Wonderous Item
+- 3500 Gold
 
 **Soul Siphon**: Once a turn when you damage an enemy, you grants you a soul charge up to a maximum of two. The next time you heal or give an ally temporary hit points, you expend all soul charges to heal you both 2d8 hit points for each soul charge.
-
-**Health**: You gain maximum hit points equal to your hit dice. 
 
 **Haste**: The cooldown of you runes and items are reduced by 6 seconds. 
 
