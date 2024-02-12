@@ -429,17 +429,6 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
 
-## Hextech Alternator 
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Alternator.png" Align=right width=8% height=8%>
-
-- 2500 Gold
-- Wondrous Item
-
-**Revved**: Whenever you damage an enemy, you also deal lightning damage equal to 1d8 plus your proficiency bonus. Once this effect is used, it cannot be used again until 30 seconds pass. The cooldown of this item decreases by 12 seconds whenever you deal or take lightning damage. 
-
----
-
 ## Hextech Revolver
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Revolver.png" Align=right width=8% height=8%>
