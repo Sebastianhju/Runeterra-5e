@@ -1011,10 +1011,10 @@ _You gain +1 to damage and attack rolls using this weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spectre's Cowl.png" Align=right width=8% height=8%>
 
-- 2600 Gold
+- 2750 Gold
 - Wondrous Item 
 
-**Incorporeal**: Whenever you take damage from a spell, you gain two stacks of regeneration. During your turn, you can spend three stacks of regeneration to gain the ability to phase through walls and creatures until the end of your turn, while phasing you cannot be restrained or grappled. 
+**Incorporeal**: Whenever you take damage, you gain a stacks of regeneration. During your turn, you can spend three stacks of regeneration to gain the ability to phase through walls and creatures until the end of your turn, while phasing you cannot be restrained or grappled. 
 
 **Health**: You gain maximum hit points equal to half your hit dice. 
 
