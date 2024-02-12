@@ -68,6 +68,21 @@ _You gain +1 to your saving throws_
 
 ---
 
+## Ardent Censer
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ardent Censer.png" Align=right width=8% height=8%>
+
+- Wondrous Item
+- 3000 Gold
+
+**Sanctify**: Whenever you heal or give an ally temporary hit points, their weapon attacks deal 1d6 additional force damage until the end of their turn. 
+
+**Harmony**: Whenever you spend a hit dice you regain one mana. 
+
+**Healing Power**: Your healing spells heal 2 more hit points
+
+---
+
 ## Axiom Arc
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Axiom Arc.png" Align=right width=8% height=8%>
@@ -255,6 +270,23 @@ _You get +1 to attack and damage rolls using this magical weapon_
 
 ---
 
+## Deadman's Plate
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dead man's plate.png" Align=right width=8% height=8%>
+
+- Wonderous Item (Shoulderpad)
+- 3000 Gold
+
+**Shipwrecker**: Whenever you move you gain a speed of momentum for every feet you move, up to a maximum of 80. Whenever you hit a creature with a melee attack you consume all charges of momentum, dealing 1d8 additional damage and reducing their speed by 15 feet for every 40th stack of momentum you have.
+
+**Health**: You gain maximum hit points equal to your hit dice. 
+
+**Speed**: You gain +5 feet walking speed
+
+_You gain +1 to your armor class while wearing this piece of equipment_
+
+---
+
 ## Death's Dance
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Death's Dance.png" Align=right width=8% height=8%>
@@ -281,6 +313,22 @@ _You gain +1 to attack and damage rolls using this weapon._
 **Dark Pact**: When you would take or apply grievous wounds, you instead take or apply burn. 
 
 **Health**: You gain health equal to your hit dice. 
+
+---
+
+## Echoes of Helia
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Echoes of Helia.png" Align=right width=8% height=8%>
+
+- Wonderous Item
+
+**Soul Siphon**: Once a turn when you damage an enemy, you grants you a soul charge up to a maximum of two. The next time you heal or give an ally temporary hit points, you expend all soul charges to heal you both 2d8 hit points for each soul charge.
+
+**Health**: You gain maximum hit points equal to your hit dice. 
+
+**Haste**: The cooldown of you runes and items are reduced by 6 seconds. 
+
+**Healing Power**: Your healing spells heal 2 more hit points
 
 ---
 
@@ -402,6 +450,21 @@ You gain +1 to hit and damage rolls using this magical weapon.
 **Shock**: When you hit an attack with _Hextech Revolver_ you can choose to force the target to succeed a constitution saving throw, the DC equal to 8 + proficiency bonus + dexterity modifier, on a failed save they take 2d8 lightning damage and are stunned until the end of their turn. On a success they are not stunned and take half damage. Once this effect is used, it cannot be used again until 36 seconds have passed.
 
 _You gain +1 to hit and damage rolls with this magical weapon_ 
+
+---
+
+## Hextech Rocketbelt
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Rocketbelt.png" Align=right width=8% height=8%>
+
+- Wondrous
+- 3000 Gold
+
+**Supersonic**: As a bouns action you can activate the rocketbelt. You gain 60 feet flying speed and agility, but you must land on a surface at the end of your turn, when you end your turn, all creatures within 5 feet of you take 2d4+2 force damage. Once this effect is used, it cannot be used again until 30 seconds pass. 
+
+**Health**: You gain hit points equal to your hit dice. 
+
+_You gian +3 to initiative rolls_
 
 ---
 
@@ -1030,6 +1093,21 @@ _While attuned to this item your armor class inceases by 1_
 **Boltt**: When you are at 80 stacks of energized, your next attack with _Stormrazor_ has +1 crit chance, deals 1d8 lightning damage after the weapons initial damage and grants you agility and 30 feet movement speed until the end of your turn.
 
 _You gain +1 to attack and damage rolls using this weapon_
+
+---
+
+## Stridebreaker
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stridebreaker.png" Align=right width=8% height=8%>
+
+- Whip
+- 3000 Gold
+
+**Halting Slash**: As an action, you can swing _Stridebreaker_ around you. All creatures within range must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or be knocked prone and take damage equal to this weapons damage. Once this ability is used, it cannot be used again until 30 seconds pass. 
+
+**Heroic Gait**: Whenever you deal physical damage to creatures, you gain +5 feet movement speed and agility until the end of your turn. 
+
+_You have +2 to attack and damage rolls when using this magical weapon_
 
 ---
 
