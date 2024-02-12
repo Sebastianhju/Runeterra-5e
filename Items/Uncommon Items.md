@@ -229,7 +229,7 @@ _You gain +1 to your initiative rolls_
 - 450 Gold
 - Shield
 
-**Endure**: Whenever you take damage, you gain a stack of _regeneration_. 
+**Endure**: Once a round when you take damage, you gain two stacks of _regeneration_. 
 
 _Regeneration_: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus. 
 
