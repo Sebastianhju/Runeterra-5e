@@ -33,7 +33,7 @@
 - 600 Gold
 - Wonderous
   
-**Mana Barrier**: Whenver you are about to take damage while bloodied, you can choose to spend mana to first gain temporary hit points equal to two times the mana spent.
+**Mana Barrier**: Whenver you are about to take damage, you can choose to spend mana to first gain temporary hit points equal to two times the mana spent.
 
 ---
 
