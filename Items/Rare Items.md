@@ -738,7 +738,7 @@ _You gain +1 to spell attack rolls_
 - 3250 Gold
 - Maul
 
-**Sturdy**: Whenever you hit a crature with phage, you get a stacks of _regeneration_. 
+**Sturdy**: Once a turn when you hit a creature with phage, you get two stacks of _regeneration_. 
 
 **Health**: You gain maximum hit points equal to your hit dice. 
 
