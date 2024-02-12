@@ -280,6 +280,17 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ---
 
+## Hextech Alternator 
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Alternator.png" Align=right width=8% height=8%>
+
+- 600 Gold
+- Wondrous Item
+
+**Revved**: Whenever you damage an enemy, you also deal lightning damage afterwards. Once this effect is used, it cannot be used again until 30 seconds pass. The cooldown of this item decreases by 12 seconds whenever you deal or take lightning damage. 
+
+---
+
 ## Ironspike Whip
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ironspike Whip.png" Align=right width=8% height=8%>
