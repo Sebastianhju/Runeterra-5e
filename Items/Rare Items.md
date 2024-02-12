@@ -1091,7 +1091,7 @@ _You gain +1 to attack and damage rolls using this weapon_
 - Whip
 - 3000 Gold
 
-**Halting Slash**: As an action, you can swing _Stridebreaker_ around you. All creatures within range must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or be knocked prone and take damage equal to this weapons damage. Once this ability is used, it cannot be used again until 30 seconds pass. 
+**Halting Slash**: As an action, you can swing _Stridebreaker_ around you. All creatures within range must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or be knocked prone and take damage equal to this weapons damage. Once this ability is used, it cannot be used again until 18 seconds pass. 
 
 **Heroic Gait**: Whenever you deal physical damage to creatures, you gain +5 feet movement speed and agility until the end of your turn. 
 
