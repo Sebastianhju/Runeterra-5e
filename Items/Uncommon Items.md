@@ -252,7 +252,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 - 700 Gold
 - Long Sword
 
-**Rend**: Whenever you hit a creature with this weapon, you apply of grievous wounds to them.
+**Rend**: Whenever you hit a creature with this weapon, you apply grievous wounds to them.
 
 ---
 
