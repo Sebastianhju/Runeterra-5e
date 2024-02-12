@@ -311,7 +311,7 @@ _You gain +1 to attack and damage rolls using this weapon._
 
 **Dark Pact**: When you would take or apply grievous wounds, you instead take or apply burn. 
 
-**Health**: You gain health equal to your hit dice. 
+**Gift of the Fallen**: You gain an eldritch invocation of your choice. You only need to meet the level requirement. When you gain a level you can change this invoation.
 
 ---
 
