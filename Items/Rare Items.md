@@ -75,7 +75,7 @@ _You gain +1 to your saving throws_
 - Wondrous Item
 - 3000 Gold
 
-**Sanctify**: Whenever you heal or give an ally temporary hit points, their weapon attacks deal 1d6 additional force damage until the end of their turn. 
+**Sanctify**: Whenever you cast a buffing spell on an ally, their weapon attacks deal 1d6 additional force damage until the end of their turn. 
 
 **Harmony**: Whenever you spend a hit dice you regain one mana. 
 
@@ -249,7 +249,7 @@ _You get +1 to attack and damage rolls using this magical weapon_
 - 2500 Gold
 - Quarterstaff
 
-**Puffcap Toxin**: Whenever you heal an ally, their next attack applies grievous wounds to their target. 
+**Puffcap Toxin**: Whenever you target an ally with a heal or buff, their next attack applies grievous wounds to their target. 
 
 **Cleansing Wounds**: Whenever you heal a creature that has grievous wounds, you first remove the grievous wounds condition. 
 
@@ -423,7 +423,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Health**: You gain maximum hit points equal to half your hit dice.
 
-**Madness**: Whenever you are concentrating on a spell, you can choose to enter a state of madness. While in this state you get a +3 modifier to concentration checks and your spells deal 1d6 additional force damage. If you loose concentration while in this state you gain a long term madness until you finish a long rest.
+**Madness**: Whenever you are concentrating on a spell, you can choose to enter a state of madness. While in this state you get advantage on your concentration checks and your spells and can concentrate on two spells at the same time. If you loose concentration while in this state you gain a long term madness until you finish a long rest.
 
 ---
 
@@ -451,7 +451,7 @@ _You gain +1 to hit and damage rolls with this magical weapon_
 
 **Health**: You gain hit points equal to your hit dice. 
 
-_You gian +3 to initiative rolls_
+_You gain +3 to initiative rolls_
 
 ---
 
@@ -462,9 +462,9 @@ _You gian +3 to initiative rolls_
 - 2500 Gold
 - Wondrous
 
-**Spell Sniper**: Once a turn when you deal spell damage to a target that is 90 feet or more away from you, the target becomes marked with dim blue light for a minute. While marked it can't go invisible and attack rolls against it has advantage. Once this effect is used it cannot be used again until 18 seconds pass. 
+**Spell Sniper**: Once a turn when you target an enemy that is 90 feet or more away from you with a spell, the target becomes marked with dim blue light for a minute. While marked it can't go invisible and attack rolls against it has advantage. Once this effect is used it cannot be used again until 18 seconds pass. 
 
-_You gain +1 to spell attack rolls_ 
+**Haste**: The cooldown of your runes and items are reduced by 6 seconds. 
 
 ---
 
@@ -568,7 +568,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 - Attunement
 - 3000 Gold
 
-**Torment**: When you deal spelldamage to a creature you can apply *Burn* to the target. 
+**Torment**: When you target a creature with a spell, you can choose to apply *Burn* to the target. 
 
 **Health**: You gain health equal to your hit dice
 
@@ -615,7 +615,7 @@ _You have +1 to hit and damage rolls using this weapon_
 
 **Enlighten**: Whenever you take a short rest, you regain mana equal to your proficiency bonus for each hit dice you spend.
 
-**Strong Connection**: Once this item is attuned to you, it takes four hours to sever the connection. 
+**Strong Bond**: Once this item is attuned to you, you must spend a part of a long rest to sever the connection. 
 
 You gain +1 to spell attack rolls and your saving throw DC. 
 
@@ -653,7 +653,9 @@ _You have +1 to attack and damage rolls with this magical weapon_
 - 3000 Gold
 - Wondrous
 
-**Purify**: You know the lesser restoration spell and can cast it once a day without spending mana. Whenever you cast lesser- or greater restoration on a target, you also heal then for 2d8 hit points. 
+**Purify**: You know the lesser restoration spell and can cast it once a long rest as an reaction without spending mana. 
+
+**Enhanced Cleansing** Whenever you cast lesser- or greater restoration on a target, you may spend at least one additional mana to eighter target another creature within range, or remove an additional effect affecting a creature.  
 
 **Healing Power**: Your healing spells heal 2 more hit points.  
 
@@ -871,19 +873,6 @@ _You gain +1 to spell attack rolls and saving throws_
 
 ---
 
-## Rylai's Crystal Scepter
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rylai's Crystal Scepter.png" Align=right width=8% height=8%>
-
-- 3,000
-- Quarterstaff
-
-**Touch of Cold** Whenever you deal elemental damage, you aslo deal 1d6 cold damage. The targets movement speed is reduced by an amount equal to five times the number rolled. 
-
-**Health**: You maximum hit points increases by half your hit dice. 
-
----
-
 ## Seastone Trident
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Seastone Trident.png" Align=right width=8% height=8%>
@@ -910,9 +899,11 @@ _You gain +1 to hit and attack rolls using this magical weapon_
 - Wondrous Item
 - Attunement
 
-**Armguard**: Whenever you score a takedown you gain a stack of *Pact*. When you have 30 stacks, you gain +1 to your armor class. When you have 60 stacks it increases to +2. 
+**Ice Spiked Guards**: Once per short rest, can cast the _Armor of Agathys spell as a first level spell without spending mana.
 
-**Witch's Pact**: Whenever you deal elemental damage, that damage is always converted to cold damage and deals 1d8 additional cold damage. 
+**Witch's Pact**: As an reaction when you see an ally get hit by an attack that deals elemental damage, you can choose to change the type of elemental damage to another elemental damage of your choice.
+
+_You gain +1 to your armor class_
 
 ---
 
@@ -954,7 +945,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 **Cinderbloom**: Spell Attack rolls have +2 crit chance against bloodied targets. 
 
-_You gain +1 to spell attack rolls while attuned to this item_
+_You gain +1 to spell attack rolls_
 
 ---
 
@@ -1091,11 +1082,13 @@ _You gain +1 to attack and damage rolls using this weapon_
 - Whip
 - 3000 Gold
 
-**Halting Slash**: As an action, you can swing _Stridebreaker_ around you. All creatures within range must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or be knocked prone and take damage equal to this weapons damage. Once this ability is used, it cannot be used again until 18 seconds pass. 
+**Bladed Whip**: Stridebreaker deals 1d4 additional slashing damage. 
 
-**Heroic Gait**: Whenever you deal physical damage to creatures, you gain +5 feet movement speed and agility until the end of your turn. 
+**Halting Slash**: Whenever you hit an attack with stride breaker the target must succed a strength saving throw or be knoicked prone. The dc equals to 9 + proficiency bonus + Dexterity/Strength modifier. 
 
-_You have +2 to attack and damage rolls when using this magical weapon_
+**Cresent**: Once a turn whenever you knock a creature prone with stridebreaker you can choose to pull them to another available square within your reach.
+
+_You have +1 to attack and damage rolls when using this magical weapon_
 
 ---
 
@@ -1185,9 +1178,9 @@ _You gain +1 to damage and attack rolls using this weapon_
 - 4000 Gold
 - Quarterstaff
 
-**Corruption**: Whenever you deal acid, poison or necrotic damage, you can sacrifice health to deal 1d6 additional damage to the target for every 5th health sacrificed. Once this effect is used, it cannot be used again 36 seconds pass. 
+**Corruption**: Once a turn when you immobilize a creature, you can give them _Corruption_ removing all resistances and immunities from the target. At the end of its turn, the target can attempt to remove _Corruptin_, making a constitution saving throw against your spell save dc. Once this action is used it cannot be used again until 30 seconds have passed. 
 
-_You gain +1 to spell attacks and your spell saving throw dc_
+_You gain +1 to spell attacks and spell saving throw dc_
 
 ---
 
@@ -1216,6 +1209,8 @@ While wielding this armor you gain +1 to your armor class_
 **Tailwind**: You and all allies that start their turn within 10 feet of you gain 30 feet additional walking speed until the end of their turn. 
 
 **Eye of the Storm**: As a bonus action you can give a creature or object you can see temporay hit points equal to four times your proficiency bonus. Once this action is used it cannot be used again until 24 seconds have passed. 
+
+---
 
 ## Wit's End
 
