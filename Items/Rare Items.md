@@ -1195,6 +1195,8 @@ _You gain +1 to damage and attack rolls using this weapon_
 
 _You gain +1 to all saving throws_
 
+---
+
 ## Void Staff
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Void Staff.png" Align=right width=8% height=8%>
