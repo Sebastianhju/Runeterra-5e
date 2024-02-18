@@ -68,6 +68,19 @@ _You gain +1 to your saving throws_
 
 ---
 
+## Oracle Lens
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Oracle_Lens.png" Align=right width=8% height=8%>
+
+- 4000 Gold
+- Wondrous
+
+**Shared Vision**: When you cast a spell that obscures vision in any way, you can choose to spend one additional mana to let a creature of your choice see through it. 
+
+**Sweeping Drone**: As an action you can send out the and arcane drone to sweep an 30 foot diameter sphere within 300 feet of you. You and your allies then know how many creatures are within the diameter and doesn't get disadvantage on attack rolls due to the area being obscured.
+
+---
+
 ## Ardent Censer
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ardent Censer.png" Align=right width=8% height=8%>
@@ -1168,6 +1181,19 @@ _You gain +1 to damage and attack rolls using this weapon_
 **Curse of the Fangs**: Whenever you take radiant damage you gain grievous wounds. 
 
 ---
+
+## Verdant Barrier
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Verdant Barrier.png" Align=right width=8% height=8%>
+
+- 3000 gold
+- Wondrous
+
+**Focus**: Wheneve you roll dice to deal spell damage or heal, you can reroll up to 6 dices. 
+
+**Arcane Protection** Whenever you target an ally with a heal or buff you grant them resistance from the next incoming damage source. Once this effect is used it cannot be used again until 12 seconds have passed. 
+
+_You gain +1 to all saving throws_
 
 ## Void Staff
 
