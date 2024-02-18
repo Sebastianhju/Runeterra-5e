@@ -396,6 +396,19 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ---
 
+## Rylai's Crystal Scepter
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rylai's Crystal Scepter.png" Align=right width=8% height=8%>
+
+- 3,000
+- Quarterstaff
+
+**Touch of Cold** Whenever you target an enemy with a spell, you also reduce their movement speed by 10 feet. 
+
+**Health**: You maximum hit points increases by half your hit dice. 
+
+---
+
 ## Saphire Crystal
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sapphire Crystal.png" Align=right width=8% height=8%>
