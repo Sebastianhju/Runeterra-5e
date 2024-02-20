@@ -496,6 +496,16 @@ _You have +1 to attack and damage rolls using this magical weapon._
 
 ---
 
+## Huntress's Javelin
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Huntress's Javelin.png" Align=right width=8% height=8%>
+
+**Loyality**: Whenever you throw the Hunters Javelin it teleports back to your hand if it hits a target or misses. 
+
+**Deadly Aim**: Whenever you hit an attack roll with the Hunters Javelin you deal 1d6 additional damage for every 30th feet between you and the target. 
+
+_You have +1 to hit and damage rolls using this magical Weapon_
+
 ## Imperial Mandate
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Imperial Mandate.png" Align=right width=8% height=8%>
@@ -1147,6 +1157,17 @@ You gain +1 to hit and damage rolls using this magical weapon.
 **Health**: You gain maximum health equal to your hit dice. 
 
 _You gain +1 to your armor class while wearing this piece of armor_
+
+---
+
+## Twin Shadows
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Twin Shadows.png" Align=right width=8% height=8%>
+
+**Haunt**: Once a turn when you affect an enemy with a negative, non-damaging spell, you can use your reaction to summon a spectra version of yourself that haunts the target. Choose one ability, whenever the target make an attack roll, saving throw or ability check using that ability, they have disadvantage on the roll. 
+At the end of its turn, the target can use its action to make a wisdom saving throw against your spell save to get rid of the haunt. 
+Once this action is used, it cannot be used again until 30 seconds have passed. 
+
+**Haste**: The cooldown of your runes and items are reduced by 6 seconds.
 
 ---
 
