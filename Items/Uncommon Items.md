@@ -399,7 +399,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rylai's Crystal Scepter.png" Align=right width=8% height=8%>
 
-- 3,000
+- 600 Gold
 - Quarterstaff
 
 **Touch of Cold** The first time you target a new enemy with a spell, you also reduce their movement speed by 10 feet. 
