@@ -4,6 +4,68 @@ The shop in Rokrund, run by a short king. He is serioius but kind.
 
 ---
 
+# Consumables
+
+## Potion of Healing
+
+**Cost:** 50 gold
+
+**Quantity**: 5
+
+As a Bonus Action you regain 2d4+2 hit points
+
+---
+
+## Potion of Delayed Healing
+
+**Cost:** 100 gold
+
+**Quantity**: 3
+
+As a bonus action you regain 1d4+1 hit points and 2d4+2 hit points at the start of your next turn.
+
+---
+
+## Potion of Haste
+
+**Cost:** 100 Gold
+
+**Quantity**: 3
+
+As a bonus action you reduce all the cooldowns of your runes and items by 12 seconds. 
+
+---
+
+## Stealth Ward
+
+**Cost:** 75 Gold
+
+**Quantity**: 3
+
+As a bonus action you can place this ward down in the envoirment, after 6 seconds the ward turns invisible. The ward last for one hour and grants you and allies within 30 feet of the ward light wherever the ward stands. If the ward is in a bush or another hiding envoirment, enemies have disadvantage when hiding there. 
+
+As an action you can scry into the ward as long as you are on the same plane as the ward. You can see everything that happens within 30 feet of the ward. 
+
+The ward has an armor class of 10 and hit points equal to twice your level. 
+
+---
+
+## Control Ward
+
+**Cost:** 150 Gold
+
+**Quantity**: 1
+
+As a bonus action you can place this ward down in the envoirment. The ward stays until destoryed and grants you and allies within 30 feet of the ward truesight wherever the ward can see from where it stands. It does not see trough envoirment, exept the envoirment it is placed in. 
+
+As an action you can scry into the ward as long as you are on the same plane as the ward. You can see everything that happens within 30 feet of the ward. 
+
+The ward has an armor class of 10 and hit points equal to four times your level. 
+
+---
+
+# Uncommon Items
+
 ## Aether Wisp 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Aether Wisp.png" Align=right width=8% height=8%>
