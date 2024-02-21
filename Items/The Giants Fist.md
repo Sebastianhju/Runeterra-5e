@@ -80,6 +80,16 @@ The ward has an armor class of 10 and hit points equal to four times your level.
 
 ---
 
+## Amulet of Manashield
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Amulet of Manashield.png" Align=right width=8% height=8%>
+
+- 600 Gold
+- Wonderous
+  
+**Mana Barrier**: Whenver you are about to take damage, you can choose to spend mana to first gain temporary hit points equal to four times the mana spent.
+
+---
+
 ## Cinder Cutlass
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cinder Cutlass.png" Align=right width=8% height=8%>
 
