@@ -167,7 +167,7 @@ _You gain +1 to your initiative rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rylai's Crystal Scepter.png" Align=right width=8% height=8%>
 
-- 3,000
+- 600 Gold
 - Quarterstaff
 
 **Touch of Cold** The first time you target a new enemy with a spell, you also reduce their movement speed by 10 feet. 
