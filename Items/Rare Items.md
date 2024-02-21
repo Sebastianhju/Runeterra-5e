@@ -431,12 +431,13 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Haunting Guise.png" Align=right width=8% height=8%>
 
-- 2750
+- 4000
 - Wondrous
+- Attunement
 
 **Health**: You gain maximum hit points equal to half your hit dice.
 
-**Madness**: Whenever you are concentrating on a spell, you can choose to enter a state of madness. While in this state you get advantage on your concentration checks and your spells and can concentrate on two spells at the same time. If you loose concentration while in this state you gain a long term madness until you finish a long rest.
+**Madness**: Whenever you are concentrating on a spell, you can choose to enter a state of madness. While in this state you get advantage on your concentration checks and you can concentrate on two spells at the same time. If you loose concentration while in this state you gain a long term madness until you finish a long rest.
 
 ---
 
@@ -673,12 +674,12 @@ _You have +1 to attack and damage rolls with this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mikael's Blessing.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 4000 Gold
 - Wondrous
 
 **Purify**: You know the lesser restoration spell and can cast it once a long rest as an reaction without spending mana. 
 
-**Enhanced Cleansing** Whenever you cast lesser- or greater restoration on a target, you may spend at least one additional mana to eighter target another creature within range, or remove an additional effect affecting a creature.  
+**Enhanced Cleansing** Whenever you cast lesser- or greater restoration on a target you can target creatures within 30 feet of you. Aditionally, you may spend at least one additional mana to eighter target another creature within range, or remove an additional effect affecting a creature.  
 
 **Healing Power**: Your healing spells heal 2 more hit points.  
 
