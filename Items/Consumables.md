@@ -72,6 +72,18 @@ As a bonus action you reduce all the cooldowns of your runes and items by 12 sec
 
 ---
 
+## Potion of Manaregeneration
+
+Cost: 50 Gold
+
+As a bonus action you regain 1d4+1 mana. 
+
+## Potion of Greater Manaregeneration
+
+Cost: 250 Gold
+
+As a bonus action yoiu regain 2d4+2 mana.
+
 ## Stealth Ward
 
 Cost: 75 Gold
