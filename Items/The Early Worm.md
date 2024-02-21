@@ -123,19 +123,14 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ---
 
-## Tear of the Goddess
+## Saphire Crystal
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tear of the Goddess.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sapphire Crystal.png" Align=right width=8% height=8%>
 
-- 500 Gold
-- Wondrous Item
-- Atunement
+- 550 Gold
+- Wonderous item
 
-**Mana**: You gain +2 maximum mana
-
-**Focus**: Once a turn when you cast a spell you gain stacks of focus equal to the mana spent. For every tenth stack of focus, you gain +1 maximum mana up to a maximum of 130 stacks. 
-
-_Upgrade_: When the tear is fully stacked, it can be upgraded into Seraphs Embrace, Muramana or Fimbulwinter.
+**Mana**: You gain +5 maximum mana 
 
 ---
 
