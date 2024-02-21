@@ -33,7 +33,7 @@
 - 600 Gold
 - Wonderous
   
-**Mana Barrier**: Whenver you are about to take damage, you can choose to spend mana to first gain temporary hit points equal to two times the mana spent.
+**Mana Barrier**: Whenver you are about to take damage, you can choose to spend mana to first gain temporary hit points equal to four times the mana spent.
 
 ---
 
@@ -302,7 +302,6 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 **Crescent**: As an action, you can twirl the whip around you. All creatures within your reach must succeed a dexterity saving throw (DC: 8 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 18 seconds pass. 
 
-
 ---
 
 ## Needlessly Large Rod
@@ -403,7 +402,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 - 3,000
 - Quarterstaff
 
-**Touch of Cold** Whenever you target an enemy with a spell, you also reduce their movement speed by 10 feet. 
+**Touch of Cold** The first time you target a new enemy with a spell, you also reduce their movement speed by 10 feet. 
 
 **Health**: You maximum hit points increases by half your hit dice. 
 
