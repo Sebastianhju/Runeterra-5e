@@ -507,6 +507,8 @@ _You have +1 to attack and damage rolls using this magical weapon._
 
 _You have +1 to hit and damage rolls using this magical Weapon_
 
+---
+
 ## Imperial Mandate
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Imperial Mandate.png" Align=right width=8% height=8%>
@@ -562,7 +564,7 @@ _You gain +2 to you Constitution saving throws_
 
 **Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain five stacks of _energized_, up to a maximum of 80.
 
-**Jolt**: When you are at 80 stacks of _energized_, your next attack with _Kircheis Shard_ also deals 2d8 lightning damage after the  weapons initial damage. 
+**Jolt**: When you are at 80 stacks of _energized_, your next attack with _Kircheis Shard_ also deals 2d8 lightning damage after the weapons initial damage. 
 
 You gain +1 to hit and damage rolls using this magical weapon. 
 
@@ -577,7 +579,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Breathtaking**: Whenever you damage enemies, you ignore resistances to piercing damage. If a creature would be immune to piercing damage, they take half damage from your attacks.
 
-**Loaded string**: As a bonus action, you load you bow. Your next attack that hits deals 1d6 additional damage. You can use this effect a number of times equal to your proficiency bonus before you must take a long rest. 
+**Loaded string**: As a bonus action, you load you bow. Your next attack has advantage and deals 1d8 additional damage. You can use this effect a number of times equal to your proficiency bonus before you must take a short rest. 
 
 _You gain +2 to initative rolls_ 
 _You gain +1 to hit and damage rolls using this magical weapon._
@@ -628,6 +630,8 @@ _You gain +1 to spell attacks and your save dc while attuned to this magical ite
 **Relentless Pursuit**: Once a turn when you dash, blink or teleport you can make a free attack with lightslinger against a creature within range.  
 
 _You have +1 to hit and damage rolls using this weapon_
+
+---
 
 ## Lost Chapter
 
