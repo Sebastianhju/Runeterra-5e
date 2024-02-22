@@ -7,7 +7,6 @@
 - 750 Gold
 - Wondrous Item
 
-  
 **Charges**: This item has 2 charges, that all replenish whenever you finish a long rest. Whenever you end your turn after moving at least 45 feet, you regain one charge. 
 
 **Spectral Might**: Whenever you deal spell damage you can spend any amount of charges to deal 1d6 additional damage for each charge spent.
@@ -31,9 +30,9 @@
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Amulet of Manashield.png" Align=right width=8% height=8%>
 
 - 600 Gold
-- Wonderous
+- Wondrous
   
-**Mana Barrier**: Whenver you are about to take damage, you can choose to spend mana to first gain temporary hit points equal to four times the mana spent.
+**Mana Barrier**: As an reaction when you are about to take damage, you can choose to spend mana to first gain temporary hit points equal to four times the mana spent.
 
 ---
 
@@ -57,9 +56,9 @@ _You gain +1 bonus to spell attack rolls_
 - 1250 Gold
 - Wondrous Item
 
-**Void Pen**: Whenever you deal poison, acid or necrotic damage, you ignore the targets temporary hit points. 
+**Void Pen**: Whenever you deal poison, acid or necrotic damage, if the target has any temporary hit poins they take double damage.  
 
-**Voids Embrace**: Whenever you deal poison, acid or necrotic damage, you can treat any 1 on the dice as a 2
+**Voids Embrace**: Whenever you deal poison, acid or necrotic damage, you can treat any 1 on the dice as a 6
 
 ---
 
@@ -70,9 +69,9 @@ _You gain +1 bonus to spell attack rolls_
 - 750 Gold
 - Greatsword
 
-**Balance**: This great sword is large size but counts as a medium size weapon for the creature holding it. 
-
 **The Bigger the Better**: You deal 1d6 additional damage when using this weapon and it has _reach_. 
+
+**To Big To Handle**: This great sword is large size but counts as a medium size weapon for the creature holding it. However you have disadvantage on Dexterity saving throws.
 
 ---
 
@@ -119,7 +118,7 @@ _You gain +1 bonus to unarmed attack rolls_
 - 550 Gold
 - Cloak
 
-**Momentery Focus**: As a bonus action you can enter a state of focus that last for a minute, when in this state your critical strike chance is increased by one and you are agile. Once this effect is used it cannot be used again until you finish a long rest. 
+**Momentery Focus**: As a bonus action you can enter a state of focus that last for a minute, when in this state your critical strike chance is increased by one and you are agile. Once this effect is used it cannot be used again until you finish a short rest rest. 
 
 _You gain +1 to dexterity saving throws_
 
@@ -207,7 +206,7 @@ _You gain +1 to your initiative rolls_
 - 450 Gold
 - Shortsword
 
-**Warmonger**: Whenever you score a takedown you heal equal to your proficiency bonus.
+**Warmonger**: Whenever you score a takedown you heal equal to twice your proficiency bonus.
 
 ---
 
@@ -276,7 +275,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 - 750 Gold
 - Longsword
 
-**Lifeline**: If you take spell damage that would reduce your hitpoints to zero, you first gain temporary hit points equal to five times your proficiency bonus that lasts until the end of your turn. Once this action is used it cannot be used again until you finish a long rest.
+**Lifeline**: If your hitpoints are reduced to zero, you first gain temporary hit points equal to five times your proficiency bonus that lasts until the end of your turn. Once this action is used it cannot be used again until you finish a long rest.
 
 ---
 
@@ -321,9 +320,9 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Nimbus Staff.png" Align=right width=8% height=8%>
 
 - 750 Gold
-- Quarterstaf
+- Quarterstaff
 
-**Crushing Blow**: Whenever you critically hit a creature with *Nimbus Staff*, their armor class is reduced by 2 for a minute.
+**Crushing Blow**: Whenever you critically hit a creature with *Nimbus Staff* or unarmed attacks, their armor class is reduced by 2 for a minute.
 
 ---
 
@@ -443,7 +442,6 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 **Tribute**: The next time you deal damage to a target, you gain gold equal to the damage dealt. Once this action is used, it cannot be used again until 18 seconds have passed. 
 
 **Quest**: Whenever you've gained 300 gold using this item, it transforms into _Shard of True Ice._
-
 
 ---
 
