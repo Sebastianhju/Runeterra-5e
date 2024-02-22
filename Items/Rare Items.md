@@ -129,9 +129,9 @@ While wielding this piece of armor you gain +1 to your armor class._
 - 3000 Gold
 - Wondrous Item
 
-**Health**: You gain maximum hit points equal to half your hit dice.  
+**Health**: You gain maximum hit points equal to your hit dice.  
 
-**Bursting Cinder**: As an action, you can make the cinder blow up in fire for a minute. Whenever an enemy starts their turn within 5 feet of you, they must succeed a dexterity saving throw (DC = 8 + proficiency bonus + constitution modifier). On a failure they take 2d6 fire damage, halved on a save. You can use this action two times before taking a long rest. 
+**Bursting Cinder**: As an action, you can make the cinder blow up in fire for a minute. Whenever an enemy starts their turn within 5 feet of you, they must succeed a dexterity saving throw (DC = 8 + proficiency bonus + constitution modifier). On a failure they take 2d6 fire damage, halved on a save. You can use this action a number of times equal to your before taking a long rest. 
 
 ---
 
@@ -141,7 +141,6 @@ While wielding this piece of armor you gain +1 to your armor class._
 
 - 3200 Gold
 - Wondrous Item
-- Attunement
 
 **Spell Reflection**: As a reaction whenever you see a spell that forces a creature to make a saving throw, you can spend up to 10 mana to lower the dc by one for every other mana spent. 
 
@@ -195,10 +194,10 @@ _You have +1 to hit and damage rolls with this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bramblevest.png" Align=right width=8% height=8%>
 
 - 3000 Gold
-- Chain Vest
+- Chain Shirt
 - Attunement
 
-**Thorns**: Whenever you are damaged by a melee attack, the attacker takes damage equal to your proficiency bonus and gains grievous wounds. 
+**Thorns**: Whenever you are targeted by a melee attack, the attacker takes damage equal to your proficiency bonus and gains grievous wounds. 
 
 You gain +1 to your armor class while wearing this magical armor. 
 
@@ -238,7 +237,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 - 2500 Gold
 - Wonderous Item
 
-**Master of Elixirs**: Once a day you can as an action lift the chalice up, recite the incantation of the chalice and name an elixir, the goblet will fill itself with the named elixir. The elixir must then be consumed within one minute or vaporize.
+**Master of Elixirs**: Once per short rest, you can as an action lift the chalice up, recite the incantation of the chalice and name an elixir, the goblet will fill itself with the named elixir. The elixir must then be consumed within one minute or vaporize.
 
 ---
 
@@ -249,7 +248,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 - 2500 Gold
 - Longsword
 
-**Spinning Blades**: As a bonus action you can start up the chainswords engine. For your next three attacks, the chainsword deals 1d8(1d10 if twohanded) additional damage and applies grievous wounds. Once this action is used it cannot be used again until 24 seconds pass. 
+**Spinning Blades**: As a bonus action you can start up the chainswords engine. For your next three attacks, the chainsword deals 1d8 additional damage, applies grievous wounds and burn. Once this action is used it cannot be used again until 18 seconds pass. 
 
 _You get +1 to attack and damage rolls using this magical weapon_
 
@@ -265,6 +264,8 @@ _You get +1 to attack and damage rolls using this magical weapon_
 **Puffcap Toxin**: Whenever you target an ally with a heal or buff, their next attack applies grievous wounds to their target. 
 
 **Cleansing Wounds**: Whenever you heal a creature that has grievous wounds, you first remove the grievous wounds condition. 
+
+**Healing Power**: Your healing spells heal 2 more hit points
 
 ---
 
@@ -288,6 +289,7 @@ _You get +1 to attack and damage rolls using this magical weapon_
 
 - Wonderous Item (Shoulderpad)
 - 3000 Gold
+- Attunement
 
 **Shipwrecker**: Whenever you move you gain a speed of momentum for every feet you move, up to a maximum of 80. Whenever you hit a creature with a melee attack you consume all charges of momentum, dealing 1d8 additional damage and reducing their speed by 15 feet for every 40th stack of momentum you have.
 
@@ -656,7 +658,7 @@ You gain +1 to spell attack rolls and your saving throw DC.
 - 3000 Gold
 - Longsword
 
-**Elemental Jaws**: At the end of a long rest, you can choose one type of elemental damage type. You gian resistance from that elemental damage until you finish a long rest. Whenever you take that type of damage, _Maw of Malmortius_ deals 1d8/1d10 additional damage of that damage type until the end of your turn.  
+**Elemental Jaws**: At the end of a short rest, you can choose one type of elemental damage type. You gian resistance from that elemental damage until you finish a long rest. Whenever you take that type of damage, _Maw of Malmortius_ deals 1d8/1d10 additional damage of that damage type until the end of your turn.  
 
 _You have +1 to attack and damage rolls with this magical weapon_
 
@@ -674,6 +676,7 @@ ___
 _You have +1 to attack and damage rolls with this magical weapon_
 
 ---
+
 ## Mikael's Blessing
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mikael's Blessing.png" Align=right width=8% height=8%>
@@ -696,7 +699,7 @@ _You have +1 to attack and damage rolls with this magical weapon_
 - 3000 Gold
 - Longbow
 
-**Sepsis**: Dealing Damage with _Mortal Reminder_ towards a target applies two stacks of grievous wonds. Whenever you make an attack roll against a target with grievous wounds with _Mortal Reminder_ you have +1 crit chance. 
+**Sepsis**: Dealing Damage with _Mortal Reminder_ towards a target applies grievous wonds. Whenever you make an attack roll against a target with grievous wounds with _Mortal Reminder_ you have +1 crit chance. 
 
 **Death's Drag**: When you critically hit a target you deal 1d8 additional necrotic damage
 
@@ -715,9 +718,10 @@ _You gain +1 to attack and damage rolls using this magical weapon_
 
 **Spellblade**: You can use your spellcasting modifier for attack and damage rolls.
 
-_You gian +1 to attack and damage rolls using this magical weaponÆ_
+_You gian +1 to attack and damage rolls using this magical weapon_
 
 ---
+
 ## Negatron Cloak
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Negatron Cloak.png" Align=right width=8% height=8%>
@@ -738,10 +742,11 @@ _You gian +1 to attack and damage rolls using this magical weaponÆ_
 
 - 3000 Gold
 - Wondrous Item
+- Attunement
 
 **Statikk Ammunition**: The noonquiver is magically loaded with _Statikk Ammunition_ that deal 1d6 additional lightning damage. 
 
-**High Noon**: As a bonus action you can enter a state of focus that lasts until the end of your turn. Whenever you take the attack action you can do an additional attack as a part of that action. Once this action is used it cannot be used again until 60 second pass. Whenever you score a takedown, this cooldown is reduced by 12 seconds. 
+**High Noon**: As a bonus action you can enter a state of focus that lasts until the end of your turn. Whenever you take the attack action you can do an additional attack as a part of that action. You can do this a number of times equal to your proficiency bonus before finishing a long rest. 
 
 ---
 
@@ -750,8 +755,7 @@ _You gian +1 to attack and damage rolls using this magical weaponÆ_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Oblivion Orb.png" Align=right width=8% height=8%>
 
 - 2500 Gold
-- Arcane Focus
-- Attunement
+- Wondrous Item
 
 **Cursed**: Whenever you deal spell damage, you give yourself and the target grievous wounds. 
 
@@ -786,7 +790,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 - Sickle
 - Attunement
 
-**Spectral Waltz**: When you hit an attack roll, you gain a stack of _Waltz_, up to a maximum of 4. If you have at least one stack of _Waltz_ you gain 30 feet additional walking speed. When you have 3 stacks you can phace through terrain and creatures. At the end of your turn you loose a stack of _Waltz_
+**Spectral Waltz**: When you hit an attack roll while holding _Phantom Dancer_, you gain a stack of _Waltz_, up to a maximum of 4. If you have at least one stack of _Waltz_ you gain 30 feet additional walking speed. When you have 3 stacks you can phace through terrain and creatures. At the end of your turn you loose a stack of _Waltz_
 
 _You gain +1 to attack and damage rolls using this magical weapon_
 
@@ -797,7 +801,6 @@ _You gain +1 to attack and damage rolls using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Prowlers Claw.png" Align=right width=8% height=8%>
 
 - 2500 Gold
-- Wondrous
 - Dagger
 
 **Leaping Strike**: If you are hidden from a target, you can spend your attack action to teleport 30 feet to a location within 5 feet of the target. You can then make an attak wih _Prowler's Claw_, critting on a successfull hit. Once this action is used it cannot be used again until 30 seconds pass. 
@@ -813,15 +816,14 @@ _You gain +1 to attack and damage rolls using this weapon_
 - 3500 Gold
 - Dagger
 
-**Wrath**: This dagger deals 1d6 additional fire damage. 
+**Wrath**: Once a turn when you hit an attack against a target with _rageknife_ they gain a stack of _Rage_. 
 
-**Rage**: Whenever make an attack roll against a target with _Rage knife_ you gain a stack of rage up to a maximum of 3. You loose all stacks whenever a minute passes without attacking anyone. 
-
-**Seething Strike**: When you take the attack action on your turn, you can spend three stacks of rage to gain an additional attack as a part of that attack action. 
+**Rage**: Once an enemy has two stacks of rage, they consume all stacks and must make a wisdom saving throw, dc equals 0 + proficiency bonus + constitution modifier. On a failure they loose control of their self and must act as if they were under the confusion spell during their next turn.
 
 _You gain +1 to hit and damage rolls using this magical weapon._
 
 ---
+
 ## Rectrix
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rectrix.png" Align=right width=8% height=8%>
@@ -832,11 +834,12 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 **Sharpend Edge**: You gain +1 to all attack rolls.
 
-**Swift Winds**: You gain +10 feet movement speed
+**Swift Winds**: You gain +10 feet walking speed
 
-**Burst of Flight**: Once a day you can spend your action to gain flying speed equal to your walking speed for a minute. 
+**Burst of Flight**: Once a short rest you can spend your action to gain flying speed equal to your walking speed for a minute. 
 
 ---
+
 ## Recurve Bow
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Recurve Bow.png" Align=right width=8% height=8%>
