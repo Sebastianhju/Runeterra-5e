@@ -307,9 +307,9 @@ _You gain +1 to your armor class while wearing this piece of equipment_
 - Longsword
 - Attunement
 
-**Ignore Pain**: Whenever you take damage, you reduce that damage by an amount equal to twice your proficiency bonus. The mitigated damage is instead converted to stacks of _doom_. At the end of your turn, you remove all stacks and take that much damage.
+**Ignore Pain**: Whenever you take damage, you take half damage and the rest is mitigated. The mitigated damage is instead converted to stacks of _doom_. At the end of your turn, you remove all stacks and take that much damage.
 
-**Defy**: When you score a takedown, you remove stacks of _doom_ equal to your proficiency bonus. 
+**Defy**: When you score a takedown, you remove stacks of _doom_ equal to ten times your proficiency bonus. 
 
 _You gain +1 to attack and damage rolls using this weapon._
 
