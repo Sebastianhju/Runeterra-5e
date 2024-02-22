@@ -118,7 +118,7 @@ _You gain +1 to your saving throws_
 
 **Aegis Aura**: As a bonus action you can activate the Aegis Aura, giving all allies within 5 feet of you temporary hit points equal to two times your proficiency bonus. Once this action is used, it cannot be used again until 18 seconds have passed. 
 
-While wielding this piece of armor you gain +1 to your armor class.  
+While wielding this piece of armor you gain +1 to your armor class._  
 
 ---
 
@@ -321,6 +321,7 @@ _You gain +1 to attack and damage rolls using this weapon._
 
 - 3000 Gold
 - Wondrous
+- Attunement
 
 **Dark Pact**: When you would take or apply grievous wounds, you instead take or apply burn. 
 
@@ -334,10 +335,11 @@ _You gain +1 to attack and damage rolls using this weapon._
 
 - Wonderous Item
 - 3500 Gold
+- Attunement
 
 **Soul Siphon**: Once a turn when you damage an enemy, you grants you a soul charge up to a maximum of two. The next time you heal or give an ally temporary hit points, you expend all soul charges to heal you both 2d8 hit points for each soul charge.
 
-**Haste**: The cooldown of you runes and items are reduced by 6 seconds. 
+**Health**: You gain maximum hit points equal to half your hit dice
 
 **Healing Power**: Your healing spells heal 2 more hit points
 
@@ -448,7 +450,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 2500 Gold
 - Pistol
 
-**Shock**: When you hit an attack with _Hextech Revolver_ you can choose to force the target to succeed a constitution saving throw, the DC equal to 8 + proficiency bonus + dexterity modifier, on a failed save they take 2d8 lightning damage and are stunned until the end of their turn. On a success they are not stunned and take half damage. Once this effect is used, it cannot be used again until 36 seconds have passed.
+**Shock**: When you hit an attack with _Hextech Revolver_ you can choose to force the target to succeed a constitution saving throw, the DC equal to 9 + proficiency bonus + dexterity modifier, on a failed save they take 2d8 lightning damage and are stunned until the end of their turn. On a success they are not stunned and take half damage. Once this effect is used, it cannot be used again until 24 seconds have passed.
 
 _You gain +1 to hit and damage rolls with this magical weapon_ 
 
@@ -489,7 +491,7 @@ _You gain +3 to initiative rolls_
 - 3000 Gold
 - Warhammer
 
-**Boarding Party**: Whenever there are no allies within 45 feet of you, you gain +2 to your armor class and saving throws (Attune to get this effect) 
+**Boarding Party**: Whenever there are no allies within 30 feet of you, you gain +2 to your armor class and saving throws (Attune to get this effect) 
 
 **Siege Weapon**: The Hullbreaker deals double damage against objects and constructs. 
 
@@ -501,9 +503,7 @@ _You have +1 to attack and damage rolls using this magical weapon._
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Huntress's Javelin.png" Align=right width=8% height=8%>
 
-**Loyality**: Whenever you throw the Hunters Javelin it teleports back to your hand if it hits a target or misses. 
-
-**Deadly Aim**: Whenever you hit an attack roll with the Hunters Javelin you deal 1d6 additional damage for every 30th feet between you and the target. 
+**Javelin Toss**: Once a turn when you take the attack action, you can replace one of the attacks with a Javelin Toss. You toss the Javelin in a 120 feet line, hitting the first creature that fails a dexterity saving throw, dc 9 + proficienct bonus + Strength modifier. The creature takes 1d6 damage for every tenth feet the Javelin traveled. When the Javelin is used in this way it teleports back to your hand. Once this ability is used it cannot be used again until 18 seconds have passed. 
 
 _You have +1 to hit and damage rolls using this magical Weapon_
 
