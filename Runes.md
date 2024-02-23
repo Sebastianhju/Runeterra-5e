@@ -131,8 +131,8 @@ When you reach level 11 the damage increases to 2d6
 
 ### Cut Down <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CutDown.png" Align=left width=7% height=7%>
 
-Whenever you deal damage, you deal 1d6 extra damage to a creature for each size larger than you it is. 
-When you reach level 11, the damage dice increases to 1d10. 
+Whenever you deal damage, you deal 1d6 additional damage if your target is larger than you. 
+When you reach level 11 the damage increases to 2d6
 
 ---
 
