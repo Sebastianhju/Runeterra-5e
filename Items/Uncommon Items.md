@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Aether Wisp.png" Align=right width=8% height=8%>
 
-- 750 Gold
+- 400 Gold
 - Wondrous Item
 
 **Charges**: This item has 2 charges, that all replenish whenever you finish a long rest. Whenever you end your turn after moving at least 45 feet, you regain one charge. 
