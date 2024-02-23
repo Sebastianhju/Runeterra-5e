@@ -17,7 +17,7 @@
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Amplifying Tome.png" Align=right width=8% height=8%>
 
-- 450 Gold
+- 500 Gold
 - Wondrous 
 
 **Tomes Knowledge**: You can prepare one additional spell each day
@@ -40,7 +40,7 @@ _You gain +1 to your spell save dc_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Blasting Wand.png" Align=right width=8% height=8%>
 
-- 600 Gold
+- 500 Gold
 - Arcane Focus
 
 **Spell Enhancer**: Whenever you deal damage from a spell you may reroll up to three damage dices.
@@ -66,7 +66,7 @@ _You gain +1 bonus to spell attack rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/B.F. Sword.png" Align=right width=8% height=8%>
 
-- 750 Gold
+- 800 Gold
 - Greatsword
 
 **The Bigger the Better**: You deal 1d6 additional damage when using this weapon and it has _reach_. 
@@ -128,7 +128,7 @@ _You gain +1 to dexterity saving throws_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cloth Armor.png" Align=right width=8% height=8%>
 
-- 575 Gold
+- 600 Gold
 - Studded Leather
 
 **Very Light Fabric**: You don't need to be proficient to wear this armor. 
@@ -192,7 +192,7 @@ _You gain +1 to your initiative rolls_
 ## Decisive Sword
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Decisive Sword.png" Align=right width=8% height=8%>
 
-- 800 Gold
+- 700 Gold
 - Greatsword
 
 **March**: As a bonus action you can give youself 15 feet movement speed and advantage one your next attack roll with *Decisive Sword*, if the attack hits, the target is mute until the end of their turn. Once this action is used it cannot be used again until 18 seconds pass. 
@@ -203,7 +203,7 @@ _You gain +1 to your initiative rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Blade.png" Align=right width=8% height=8%>
 
-- 450 Gold
+- 500 Gold
 - Shortsword
 
 **Warmonger**: Whenever you score a takedown you heal equal to twice your proficiency bonus.
@@ -214,7 +214,7 @@ _You gain +1 to your initiative rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Ring.png" Align=right width=8% height=8%>
 
-- 450 Gold
+- 600 Gold
 - Wondrous Item, Ring
 
 **Focus**: Whenever you score a takedown, you gain a stack of _Manastore_. Whenever you have 5 stacks of manastore, you regain mana equal to your proficiency bonus. 
@@ -225,7 +225,7 @@ _You gain +1 to your initiative rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Shield.png" Align=right width=8% height=8%>
 
-- 450 Gold
+- 600 Gold
 - Shield
 
 **Endure**: Once a round when you take damage, you gain two stacks of _regeneration_. 
@@ -248,7 +248,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Executioner's CAlling.png" Align=right width=8% height=8%>
 
-- 700 Gold
+- 500 Gold
 - Long Sword
 
 **Rend**: Whenever you hit a creature with this weapon, you apply grievous wounds to them.
@@ -259,8 +259,8 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Faerie Charm.png" Align=right width=8% height=8%>
 
-- 450 Gold
-- Wonderous Item, Amulet
+- 400 Gold
+- Wondrous Item
 
 **Mana well**: Whenever you spend a hit dice you regain 1 mana.
 
@@ -272,10 +272,10 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hexdrinker.png" Align=right width=8% height=8%>
 
-- 750 Gold
+- 600 Gold
 - Longsword
 
-**Lifeline**: If your hitpoints are reduced to zero, you first gain temporary hit points equal to five times your proficiency bonus that lasts until the end of your turn. Once this action is used it cannot be used again until you finish a long rest.
+**Lifeline**: If your hitpoints are reduced to zero, you first gain temporary hit points equal to five times your proficiency bonus that lasts until the end of your turn. Your next attack then deals 2d8 additional damage. Once this action is used it cannot be used again until you finish a long rest.
 
 ---
 
@@ -286,7 +286,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 - 600 Gold
 - Wondrous Item
 
-**Revved**: Whenever you damage an enemy, you also deal lightning damage afterwards. Once this effect is used, it cannot be used again until 30 seconds pass. The cooldown of this item decreases by 12 seconds whenever you deal or take lightning damage. 
+**Revved**: Whenever you damage an enemy, you also deal 1d8 lightning damage afterwards. Once this effect is used, it cannot be used again until 30 seconds pass. The cooldown of this item decreases by 12 seconds whenever you deal or take lightning damage. 
 
 ---
 
@@ -307,8 +307,8 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Needlessly Large Rod.png" Align=right width=8% height=8%>
 
-- 750 Gold
-- Arcane Focus, Quarterstaff
+- 700 Gold
+- Quarterstaff
 
 **Needlessly Large**: Any spell with a radius, cone, cube or similar effect gains an extra 5ft to the size in all dimentions. 
 
@@ -319,7 +319,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 ## Nimbus Staff
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Nimbus Staff.png" Align=right width=8% height=8%>
 
-- 750 Gold
+- 600 Gold
 - Quarterstaff
 
 **Crushing Blow**: Whenever you critically hit a creature with *Nimbus Staff* or unarmed attacks, their armor class is reduced by 2 for a minute.
@@ -330,7 +330,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Null-Magic Mantle.png" Align=right width=8% height=8%>
 
-- 625 Gold
+- 600 Gold
 - Cloak
 
 **Magic Resiliance**: Whenever you roll a saving throw against spells that deal damage, you gain +2 to that saving throw. 
@@ -340,7 +340,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 ## Peacemaker
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Peacemaker.png" Align=right width=8% height=8%>
 
-- 1250 Gold
+- 700 Gold
 - Musket
 
 **Ace**: Whenver you hit an attack, you gain a stack of *Ace*. You gain two stacks if your attack is made against a creature that you are hidden from. 
@@ -352,7 +352,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 ## Pow Pow
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Pow Pow.png" Align=right width=8% height=8%>
 
-- 750 Gold
+- 800 Gold
 - Minigun
 
 **Charging up**: Whenever you hit an attack with Pow Pow you gain a stack of **Zap!**, up to a maximum of 5 stacks. For every stack of **Zap!**, you get a +1 bonus to attack rolls with Pow Pow. While at 5 stack, you can make another attack as a part of the attack action when using Pow Pow. You lose all stacks op **Zap!** if you dont deal damage for a minute. 
@@ -363,8 +363,8 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Quicksilver Sash.png" Align=right width=8% height=8%>
 
-- 700 Gold
-- Wonderous Item
+- 600 Gold
+- Wondrous Item
 
 **Quicksilver** As a reaction upon begin immobilized you can remove all immobilizing effects and cast lesser restoration on yourself. Once this effect is used it cannot be used again until you finish a long rest.  
 
@@ -374,7 +374,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rejuvenation Bead.png" Align=right width=8% height=8%>
 
-- 525 Gold
+- 500 Gold
 - Wonderous Item
 
 **Rejuvinate**: As a bonus action you can expend a hit dice to heal yourself. The amount healed is equal to your hit dice plus you constitution modifier. Once this effect is used it cannot be used again until you finish a short rest. 
@@ -387,7 +387,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ruby Crystal.png" Align=right width=8% height=8%>
 
-- 550 Gold
+- 500 Gold
 - Wonderous Item
 
 **Health**: You gain maximum hit points equal to half your hit dice.  
@@ -411,7 +411,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sapphire Crystal.png" Align=right width=8% height=8%>
 
-- 550 Gold
+- 600 Gold
 - Wonderous item
 
 **Mana**: You gain +5 maximum mana 
@@ -474,7 +474,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tear of the Goddess.png" Align=right width=8% height=8%>
 
-- 500 Gold
+- 700 Gold
 - Wondrous Item
 - Atunement
 
@@ -489,7 +489,7 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's S
 ## Tempest
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tempest.png" Align=right width=8% height=8%>
 
-- 1250 Gold 
+- 800 Gold 
 - Scimitar
 
 **Whirlwind**: Whenever you hit an attack, you gain a stack of whirlwind. You loose all stacks of whirlwind if you dont deal damage for a minute. 
@@ -501,7 +501,7 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's S
 ## Timewinder
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Timewinder.png" Align=right width=8% height=8%>
 
-- 1250 Gold
+- 700 Gold
 - Club
 
 **Resonance**: Whenever you damage an enemy with *Timewinder* you apply a stack of Resonance. Whenever you damage a creature that has two stacks of Resonance, you deal 3d6 additional force damage and gain 30 feet movement speed until the end of your turn. 
