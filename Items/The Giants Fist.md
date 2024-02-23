@@ -70,7 +70,7 @@ The ward has an armor class of 10 and hit points equal to four times your level.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Aether Wisp.png" Align=right width=8% height=8%>
 
-- 750 Gold
+- 400 Gold
 - Wondrous Item
 
   
@@ -83,7 +83,7 @@ The ward has an armor class of 10 and hit points equal to four times your level.
 ## Amulet of Manashield
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Amulet of Manashield.png" Align=right width=8% height=8%>
 
-- 600 Gold
+- 500 Gold
 - Wonderous
   
 **Mana Barrier**: Whenver you are about to take damage, you can choose to spend mana to first gain temporary hit points equal to four times the mana spent.
@@ -104,10 +104,10 @@ The ward has an armor class of 10 and hit points equal to four times your level.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cloak of Agility.png" Align=right width=8% height=8%>
 
-- 550 Gold
+- 600 Gold
 - Cloak
 
-**Momentery Focus**: As a bonus action you can enter a state of focus that last for a minute, when in this state your critical strike chance is increased by one and you are agile. Once this effect is used it cannot be used again until you finish a long rest. 
+**Momentery Focus**: As a bonus action you can enter a state of focus that last for a minute, when in this state your critical strike chance is increased by one and you are agile. Once this effect is used it cannot be used again until you finish a short rest. 
 
 _You gain +1 to dexterity saving throws_
 
@@ -117,7 +117,7 @@ _You gain +1 to dexterity saving throws_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cloth Armor.png" Align=right width=8% height=8%>
 
-- 575 Gold
+- 600 Gold
 - Studded Leather
 
 **Very Light Fabric**: You don't need to be proficient to wear this armor. 
@@ -166,7 +166,7 @@ _You gain +1 to your initiative rolls_
 ## Pow Pow
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Pow Pow.png" Align=right width=8% height=8%>
 
-- 750 Gold
+- 800 Gold
 - Minigun
 
 **Charging up**: Whenever you hit an attack with Pow Pow you gain a stack of **Zap!**, up to a maximum of 5 stacks. For every stack of **Zap!**, you get a +1 bonus to attack rolls with Pow Pow. While at 5 stack, you can make another attack as a part of the attack action when using Pow Pow. You lose all stacks op **Zap!** if you dont deal damage for a minute. 
