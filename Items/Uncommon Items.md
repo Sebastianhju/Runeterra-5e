@@ -62,7 +62,7 @@ _You gain +1 bonus to spell attack rolls_
 
 ---
 
-## B. F. Sword
+## B.F. Sword
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/B.F. Sword.png" Align=right width=8% height=8%>
 
