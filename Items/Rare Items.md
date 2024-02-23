@@ -34,6 +34,8 @@ _While wearing this armor you have a +1 to your armor class_
 
 _You have +1 to attack rolls and damage rolls using this magical weapon_ 
 
+---
+
 ## Archangel's Staff
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Archangel's Staff.png" Align=right width=8% height=8%>
