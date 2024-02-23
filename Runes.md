@@ -90,7 +90,7 @@ Whenever you score a _takedown_, you gain a stack of Alacrity that gives you ben
 |Stacks|Feature|
 |---|---|
 |0| You gain +5 to your initiative rolls|
-|25| Whenever you take the attack action, you can make an extra attack as a part of that action|
+|25| Whenever you take the attack action, you can make an extra attack as a part of that action. You can do this a number of times equal to your proficiency bonus before you finish a short rest|
 |50| Your critical strike chance increases by 1|
 
 ---
@@ -125,6 +125,7 @@ Whenever you score a _takedown_ you gain a stack of Bloodline that gives you ben
 ### Coup De Grace <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CoupDeGrace.png" Align=left width=7% height=7%>
 
 Whenever you deal damage, you deal 1d6 extra damage to _bloodied_ creatures. 
+
 When you reach level 11 the damage increases to 2d6
 
 ---
@@ -132,6 +133,7 @@ When you reach level 11 the damage increases to 2d6
 ### Cut Down <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CutDown.png" Align=left width=7% height=7%>
 
 Whenever you deal damage, you deal 1d6 additional damage if your target is larger than you. 
+
 When you reach level 11 the damage increases to 2d6
 
 ---
@@ -139,6 +141,7 @@ When you reach level 11 the damage increases to 2d6
 ### Last Stand <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LastStand.png" Align=left width=7% height=7%>
 
 Whenever you deal damage, you deal 1d6 additional damage if you are _bloodied_. 
+
 When you reach level 11 the damage increases to 2d6
 
 ---
