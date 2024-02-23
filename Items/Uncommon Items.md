@@ -29,7 +29,7 @@ _You gain +1 to your spell save dc_
 ## Amulet of Manashield
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Amulet of Manashield.png" Align=right width=8% height=8%>
 
-- 600 Gold
+- 500 Gold
 - Wondrous
   
 **Mana Barrier**: As an reaction when you are about to take damage, you can choose to spend mana to first gain temporary hit points equal to four times the mana spent.
@@ -53,7 +53,7 @@ _You gain +1 bonus to spell attack rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Blighting Jewel.png" Align=right width=8% height=8%>
 
-- 1250 Gold
+- 600 Gold
 - Wondrous Item
 
 **Void Pen**: Whenever you deal poison, acid or necrotic damage, if the target has any temporary hit poins they take double damage.  
