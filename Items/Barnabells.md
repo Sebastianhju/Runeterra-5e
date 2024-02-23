@@ -21,12 +21,12 @@ _You gain +1 to your initiative rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Amplifying Tome.png" Align=right width=8% height=8%>
 
-- 45 Gold
+- 50 Gold
 - Wondrous
 
-**Spell Enhancer**: Whenever you deal damage from a spell you may reroll up to three damage dices. 
-
 **Tomes Knowledge**: You can prepare one additional spell each day
+
+_You gain +1 to your spell save dc_
 
 ---
 
@@ -34,10 +34,10 @@ _You gain +1 to your initiative rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Blade.png" Align=right width=8% height=8%>
 
-- 45 Gold
+- 50 Gold
 - Shortsword
 
-**Warmonger**: Whenever you score a takedown you heal equal to your proficiency bonus.
+**Warmonger**: Whenever you score a takedown you heal equal to twice your proficiency bonus.
 
 ---
 
@@ -45,7 +45,7 @@ _You gain +1 to your initiative rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Ring.png" Align=right width=8% height=8%>
 
-- 45 Gold
+- 60 Gold
 - Wondrous Item, Ring
 
 **Focus**: Whenever you score a takedown, you gain a stack of _Manastore_. Whenever you have 5 stacks of manastore, you regain mana equal to your proficiency bonus. 
@@ -56,10 +56,10 @@ _You gain +1 to your initiative rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Shield.png" Align=right width=8% height=8%>
 
-- 45 Gold
+- 60 Gold
 - Shield
 
-**Endure**: Whenever you take damage, you gain a stack of _regeneration_. 
+**Endure**: Once a round when you take damage, you gain two stacks of _regeneration_. 
 
 _Regeneration_: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus. 
 
@@ -69,7 +69,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Faerie Charm.png" Align=right width=8% height=8%>
 
-- 45 Gold
+- 40 Gold
 - Wonderous Item, Amulet
 
 **Mana well**: Whenever you spend a hit dice you regain 1 mana.
@@ -78,9 +78,11 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ---
 
+## Rejuvenation Bead
+
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rejuvenation Bead.png" Align=right width=8% height=8%>
 
-- 52 Gold
+- 50 Gold
 - Wonderous Item
 
 **Rejuvinate**: As a bonus action you can expend a hit dice to heal yourself. The amount healed is equal to your hit dice plus you constitution modifier. Once this effect is used it cannot be used again until you finish a short rest. 
@@ -93,10 +95,10 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cloak of Agility.png" Align=right width=8% height=8%>
 
-- 55 Gold
+- 600 Gold
 - Cloak
 
-**Momentery Focus**: As a bonus action you can enter a state of focus that last for a minute, when in this state your critical strike chance is increased by one and you are agile. Once this effect is used it cannot be used again until you finish a long rest. 
+**Momentery Focus**: As a bonus action you can enter a state of focus that last for a minute, when in this state your critical strike chance is increased by one and you are agile. Once this effect is used it cannot be used again until you finish a short rest. 
 
 _You gain +1 to dexterity saving throws_
 
@@ -106,7 +108,7 @@ _You gain +1 to dexterity saving throws_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cloth Armor.png" Align=right width=8% height=8%>
 
-- 57 Gold
+- 60 Gold
 - Studded Leather
 
 **Very Light Fabric**: You don't need to be proficient to wear this armor. 
@@ -119,10 +121,10 @@ _You have +1 to your armor class while wearing this magical armor_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Blasting Wand.png" Align=right width=8% height=8%>
 
-- 60 Gold
+- 50 Gold
 - Arcane Focus
 
-**Blasting**: Whenever you deal damage with a spell, you can choose to deal any type of elemental damage instead of the initial damage type.
+**Spell Enhancer**: Whenever you deal damage from a spell you may reroll up to three damage dices.
 
 _You gain +1 bonus to spell attack rolls_
 
@@ -158,7 +160,7 @@ _You gain +1 bonus to spell attack rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Quicksilver Sash.png" Align=right width=8% height=8%>
 
-- 70 Gold
+- 60 Gold
 - Wonderous Item
 
 **Quicksilver** As a reaction upon begin immobilized you can remove all immobilizing effects and cast lesser restoration on yourself. Once this effect is used it cannot be used again until you finish a long rest.  
@@ -169,8 +171,8 @@ _You gain +1 bonus to spell attack rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Needlessly Large Rod.png" Align=right width=8% height=8%>
 
-- 75 Gold
-- Arcane Focus, Quarterstaff
+- 70 Gold
+- Quarterstaff
 
 **Needlessly Large**: Any spell with a radius, cone, cube or similar effect gains an extra 5ft to the size in all dimentions. 
 
@@ -178,16 +180,16 @@ _You gain +1 bonus to spell attack rolls_
 
 ---
 
-## B. F. Sword
+## B.F. Sword
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/B.F. Sword.png" Align=right width=8% height=8%>
 
-- 75 Gold
+- 80 Gold
 - Greatsword
 
-**Balance**: This great sword is large size but counts as a medium size weapon for the creature holding it. 
-
 **The Bigger the Better**: You deal 1d6 additional damage when using this weapon and it has _reach_. 
+
+**To Big To Handle**: This great sword is large size but counts as a medium size weapon for the creature holding it. However you have disadvantage on Dexterity saving throws.
 
 ---
 
@@ -195,7 +197,7 @@ _You gain +1 bonus to spell attack rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Aether Wisp.png" Align=right width=8% height=8%>
 
-- 75 Gold
+- 40 Gold
 - Wondrous Item
 
   
