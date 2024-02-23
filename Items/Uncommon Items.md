@@ -18,11 +18,11 @@
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Amplifying Tome.png" Align=right width=8% height=8%>
 
 - 450 Gold
-- Wondrous
-
-**Spell Enhancer**: Whenever you deal damage from a spell you may reroll up to three damage dices. 
+- Wondrous 
 
 **Tomes Knowledge**: You can prepare one additional spell each day
+
+_You gain +1 to your spell save dc_
 
 ---
 
@@ -43,7 +43,7 @@
 - 600 Gold
 - Arcane Focus
 
-**Blasting**: Whenever you deal damage with a spell, you can choose to deal any type of elemental damage instead of the initial damage type.
+**Spell Enhancer**: Whenever you deal damage from a spell you may reroll up to three damage dices.
 
 _You gain +1 bonus to spell attack rolls_
 
