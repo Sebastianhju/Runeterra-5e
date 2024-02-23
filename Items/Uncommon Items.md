@@ -115,7 +115,7 @@ _You gain +1 bonus to unarmed attack rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cloak of Agility.png" Align=right width=8% height=8%>
 
-- 550 Gold
+- 600 Gold
 - Cloak
 
 **Momentery Focus**: As a bonus action you can enter a state of focus that last for a minute, when in this state your critical strike chance is increased by one and you are agile. Once this effect is used it cannot be used again until you finish a short rest rest. 
