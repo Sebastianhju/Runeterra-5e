@@ -28,7 +28,7 @@ _While wearing this armor you have a +1 to your armor class_
 
 **Mana**: You gain +15 maximum mana
 
-**Awe**: Your weapon attacks with Muramana deal one additional damage for every 10th maximum mana you have
+**Awe**: Your weapon attacks with Muramana deal one additional damage for every 20th maximum mana you have
 
 **Focus:** Once a turn when you cast a spell you gain stacks of focus equal to the mana spent up to a maximum of 500 stacks. When this item reaches 500 stacks it upgrades to **Muramana**
 
