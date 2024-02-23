@@ -92,10 +92,10 @@ The ward has an armor class of 10 and hit points equal to four times your level.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Blade.png" Align=right width=8% height=8%>
 
-- 450 Gold
+- 500 Gold
 - Shortsword
 
-**Warmonger**: Whenever you score a takedown you heal equal to your proficiency bonus.
+**Warmonger**: Whenever you score a takedown you heal equal to twice your proficiency bonus.
 
 ---
 
@@ -103,7 +103,7 @@ The ward has an armor class of 10 and hit points equal to four times your level.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Ring.png" Align=right width=8% height=8%>
 
-- 450 Gold
+- 600 Gold
 - Wondrous Item, Ring
 
 **Focus**: Whenever you score a takedown, you gain a stack of _Manastore_. Whenever you have 5 stacks of manastore, you regain mana equal to your proficiency bonus. 
@@ -114,7 +114,7 @@ The ward has an armor class of 10 and hit points equal to four times your level.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Shield.png" Align=right width=8% height=8%>
 
-- 450 Gold
+- 600 Gold
 - Shield
 
 **Endure**: Whenever you take damage, you gain a stack of _regeneration_. 
@@ -127,7 +127,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sapphire Crystal.png" Align=right width=8% height=8%>
 
-- 550 Gold
+- 600 Gold
 - Wonderous item
 
 **Mana**: You gain +5 maximum mana 
