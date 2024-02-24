@@ -401,7 +401,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 - 600 Gold
 - Quarterstaff
 
-**Touch of Cold** The first time you target a new enemy with a spell, you also reduce their movement speed by 10 feet. 
+**Touch of Cold** When you affect an enemy with a spell, you also reduce their movement speed by 10 feet. You can only target the same creature once with this ability each round. 
 
 **Health**: You maximum hit points increases by half your hit dice. 
 
