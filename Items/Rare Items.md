@@ -52,6 +52,8 @@ _You have +1 to attack rolls and damage rolls using this magical weapon_
 
 _You have +1 to spell attack rolls and +1 to your spell save DC when attuned to this item_
 
+---
+
 # Rare items
 
 ## Abyssal Mask
