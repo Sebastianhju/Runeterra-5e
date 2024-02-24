@@ -667,5 +667,6 @@ Whenever you drink a potion, you gain additional special effect from each potion
 |Potion of Resistance| you become immune for one hour instead|
 |Potion of Giant Strenght| The effect lasts until your next long rest instead|
 |Potion of Fire Breath| The save DC is increased by an amount equal to your proficiency bonus|
+|Potion of Manaregeneration| You gain the maximum amount rolled|
 
 ---
