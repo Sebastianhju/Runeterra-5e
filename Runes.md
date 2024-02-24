@@ -505,7 +505,7 @@ When you reach level 11 you instead gain +1 maximum hit points for every third s
 
 ### Revitalize  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Revitalize.png" Align=left width=7% height=7%>
 
-Whenever you gain temporary hit points or are healed, you add 1 + your proficiency bonus to the total amount.
+Once a turn when you gain temporary hit points or are healed, you heal additional hit points equal to twice your proficiency bonus to the total amount.
 
 ---
 
@@ -542,7 +542,7 @@ You gain immunity to the frightened and charmed condition and you cannot be move
 ## Keystones 
 ### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" Align=left width=20% height=20%>
 
-Once a turn when you immobilize a creature, they and all enemies within 10 feet of the target gains a *Mark of Cold* that lasts until they take damage. Once this effect is used, it cannot be used again until 36 seconds has passed
+Once a turn when you immobilize a creature, they and all enemies within 15 feet of the target gains a *Mark of Cold* that lasts until they take damage. Once this effect is used, it cannot be used again until 24 seconds has passed
 
 A marked creatures speed is reduced by 10 feet and they have a -2 penalty to all attack rolls. 
 
@@ -587,7 +587,7 @@ The bonus to initiative increases to +3 at level 5, +4 at level 9, +5 at level 1
 ## Lesser Runes
 ### Hextech Flashtraption  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/HextechFlashtraption.png" Align=left width=7% height=7%>
 
-As a Bonus Action you can target a space within 30ft of you channeling a teleport, you do not have to see the place you are targeting. At the start of your next turn you teleport to the selected location. If the targetet location is a wall, you are instead teleportet to the nearest open area. Once this action is used, it cannot be used again until 36 seconds have passed. 
+As a Bonus Action you can target a space within 30ft of you channeling a teleport, you do not have to see the place you are targeting. At the start of your next turn you teleport to the selected location. If the targetet location is a wall, you are instead teleportet to the nearest open area. You can do this a number of times equal to your proficiency bonus before you must finish a short rest.
 
 ---
 
@@ -606,7 +606,9 @@ You gain the ability to summon a fey Cobbler that sells boots. You can trade and
 
 ### Perfect Timing  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/PerfectTiming.png" Align=left width=7% height=7%>
 
-You gain a _Stopwatch_ and a set of tinkerers tools. Whenever you take a long rest, you can attempt to repair a stopwatch with your tinkerers tools. Spending one hour and a successfull (Dc 12) sleight of hand check repairs the stopwatch, if you were to fail the check the tinkerers tools are broken. You can also try to repair a broken _Zhonya's Hourglass_ (dc 25)
+You gain a _Stopwatch_ and a set of tinkerers tools. You gain proficiency with tinkerers tools. 
+
+Whenever you take a long rest, you can attempt to repair a stopwatch with your tinkerers tools. Spending one hour and a successfull (Dc 12) sleight of hand check repairs the stopwatch, if you were to fail the check the tinkerers tools are broken. You can also try to repair a broken _Zhonya's Hourglass_ (dc 25)
 
 ---
 
@@ -617,7 +619,6 @@ You gain the ability teleport to a pocket dimention with a secret shop after a t
 ---
 
 ### Celestial Curing <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png" Align=left width=7% height=7%>
-
 
 Whenever you roll dice to heal an ally, you can add your proficiency bonus to the roll. 
 
@@ -635,13 +636,15 @@ When you target an ally with a spell or simular effect you can choose to swap pl
 
 ### Biscuit Delivery  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/BiscuitDelivery.png" Align=left width=7% height=7%>
 
-Whyenever you take a long rest, you gain a [Buiscuit of Everlasting Will](https://www.dndbeyond.com/magic-items/7496604-biscuit-of-everlasting-will).
+You get the **Chef** feat. 
+
+Whenever you take a long rest, you gain a [Buiscuit of Everlasting Will](https://www.dndbeyond.com/magic-items/7496604-biscuit-of-everlasting-will).
 
 ---
 
 ### Cosmic Insight  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CosmicInsight.png" Align=left width=7% height=7%>
 
-You learn the _Detect Thoughts_ and can cast it once a day without spending mana. The target has disadvantage on the savingt hrow if you were to delve deeper into their mind, and they are unaware of you preying their mind if they fail the saving throw.
+You learn the _Detect Thoughts_ and can cast it once a long rest without spending mana. The target has disadvantage on the saving throw if you were to delve deeper into their mind, and they are unaware of you preying their mind if they fail the saving throw.
 
 ---
 
@@ -651,8 +654,9 @@ Whenever any creature within 90 feet of you has their movement impaired, you can
 
 ---
 
-
 ### Time Warp Tonic  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/TimeWarpTonic.png" Align=left width=7% height=7%>
+
+You gain proficiency with **Alchemist's supplies**
 
 Whenever you drink a potion, you gain additional special effect from each potion.
 
