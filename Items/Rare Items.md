@@ -766,7 +766,7 @@ _You gain +1 to spell attack rolls_
 
 **Shared Vision**: When you cast a spell that obscures vision in any way, you can choose to spend one additional mana to let a creature of your choice see through it. 
 
-**Sweeping Drone**: As an action you can send out the and arcane drone to sweep an 30 foot diameter sphere within 300 feet of you for 18 seconds. You and your allies then know how many creatures are within the diameter and doesn't get disadvantage on attack rolls due to the area being obscured.
+**Sweeping Drone**: As an action you can send out the and arcane drone to sweep a 30 foot diameter sphere within 300 feet of you for 18 seconds. You and your allies then know how many creatures are within the diameter and doesn't get disadvantage on attack rolls due to the area being obscured.
 
 ---
 
@@ -1176,8 +1176,8 @@ _You gain +1 to your armor class while wearing this piece of armor_
 ## Twin Shadows
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Twin Shadows.png" Align=right width=8% height=8%>
 
-**Haunt**: Once a turn when you affect an enemy with a negative, non-damaging spell, you can use your reaction to summon a spectra version of yourself that haunts the target. Choose one ability, whenever the target make an attack roll, saving throw or ability check using that ability, they have disadvantage on the roll. 
-At the end of its turn, the target can use its action to make a wisdom saving throw against your spell save to get rid of the haunt. 
+**Haunt**: Once a turn when you affect an enemy with a negative, non-damaging spell, you can use your reaction to summon a spectral version of yourself that haunts the target. Choose one ability, whenever the target make an attack roll, saving throw or ability check using that ability, they have disadvantage on the roll. 
+At the end of its turn, the target can attempt a wisdom saving throw against your spell save to get rid of the haunt. 
 Once this action is used, it cannot be used again until 30 seconds have passed. 
 
 **Haste**: The cooldown of your runes and items are reduced by 6 seconds.
