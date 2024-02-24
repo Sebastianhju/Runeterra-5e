@@ -346,10 +346,9 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Manaflow_ gi
 
 Summoner spells has a 20% discount in shops. 
 
-Whenever you use a _summoner spell_ you gain agility and movement speed equal to twenty times your proficiency bonus. 
+Whenever you use a _summoner spell_ all allies within 30 feet of you gains agility and can use their reaction to move up to their movement speed.
 
 ---
-
 
 ### Transcendence  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Transcendence.png" Align=left width=7% height=7%>
 
