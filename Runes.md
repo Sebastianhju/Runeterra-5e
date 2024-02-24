@@ -245,7 +245,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Ingenoius_ g
 |Amount|Effect|
 |---|---|
 |0|Your items and runes cooldown is reduced with 6 seconds |
-|25|Whenever you make a saving throw, before you know the result of the roll you can add 1d6 to the total. You can do this a number of times equal to your proficiency bonus before finishing a long rest|
+|25|Whenever you fail a saving throw you can add 1d10 to the total and use the new result. You can do this a number of times equal to your proficiency bonus before finishing a long rest|
 |50|Your items and runes cooldown is recued with 6 seconds everytime you score a takedown|
 
 ---
@@ -358,7 +358,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Tanscendence
 |Stacks|Effect|
 |---|---|
 |0| Your cooldowns are reduced by 6 seconds|
-|25|Whenever you roll an ability check, before you the result you can add 1d10 to the total. You can do this a number of times equal to your proficiency bonus before you must finish a long rest|
+|25|Whenever you fail ability check you can add 1d10 to the total and use the new result. You can do this a number of times equal to your proficiency bonus before you must finish a long rest|
 |50|Your cooldowns are reduced by 12 seconds|
 
 ---
