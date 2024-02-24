@@ -117,7 +117,7 @@ Whenever you score a _takedown_ you gain a stack of Bloodline that gives you ben
 |Stacks|Feature|
 |---|---|
 |0| Whenever you deal damage to a creature, you heal equal to half your proficiency bonus rounded up|
-|25| You gain +5 maximum hit points|
+|25| You gain the tough feat|
 |50| Whenever you deal damage to a creature, you heal hit points equal to your proficiency bonus|
 
 ---
