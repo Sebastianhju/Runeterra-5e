@@ -123,7 +123,7 @@ While wielding this piece of armor you gain +1 to your armor class._
 
 **Health**: You gain maximum hit points equal to your hit dice.  
 
-**Bursting Cinder**: As an action, you can make the cinder blow up in fire for a minute. Whenever an enemy starts their turn within 5 feet of you, they must succeed a dexterity saving throw (DC = 8 + proficiency bonus + constitution modifier). On a failure they take 2d6 fire damage, halved on a save. You can use this action a number of times equal to your before taking a long rest. 
+**Bursting Cinder**: As an action, you can make the cinder blow up in fire for a minute. Whenever an enemy starts their turn within 5 feet of you, they must succeed a dexterity saving throw (DC = 8 + proficiency bonus + constitution modifier). On a failure they take 2d6 fire damage, halved on a save. You can use this action a number of times equal to your proficiency bonus before taking a long rest. 
 
 ---
 
