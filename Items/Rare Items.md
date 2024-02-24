@@ -478,6 +478,19 @@ _You gain +3 to initiative rolls_
 
 ---
 
+## Hubris
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hubris.png" Align=right width=8% height=8%>
+
+- 400 Gold
+- Wondrous
+
+**Ego**: Whenever you score a takedown on a creature a statue of yourself is summoned in their place. The stone statue has 10 armor class and hit points equal to ten times your proficiency bonus. As long as you can see the statue you have advantage on attack rolls and your attacks deals 1d6 additional damage. Once this effect is used, it cannot be used again until you finish a short rest. 
+
+**Haste**: The cooldown of your runes and items are reduced by 6 seconds. 
+
+---
+
 ## Hullbreaker
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hullbreaker.png" Align=right width=8% height=8%>
