@@ -33,7 +33,7 @@
 
 **Powerful Build**: You count as one size larger when determining your carrying capacity and the weight you can push, drag and lift. 
 
-**Regeneration**: As a bonus action you can expend a hit dice to heal yourself. The amount healed is equal to your hit dice plus you constitution modifier.  
+**Regeneration**: As a bonus action, your body regenerates the wounds you've suffered. You regain hit points equal to 1d10 plus your level. You can do this a number of times equal to your proficiency bonus before you must finish a short rest.  
 
 ---
 ## Subspecies
@@ -77,7 +77,7 @@
 
 **Ability Score Improvement**: When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1.
 
-**Languages**: Your character can read, speak and write Va-Nox, Sylvan and one other Language of your choice
+**Languages**: Your character can read, speak and write Va-Nox and Yoyeesh
 
 **Fey Ancestry**: You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
 
@@ -119,7 +119,7 @@
 
 **Climbers**: You gain climbing speed equal to your walking speed. 
 
-**Natural Acrobats**: You are proficient in the acrobatics skill. In addition, whenever you take the jump action, you can use your dexterity instead of your strength to calculate your jumping distance. 
+**Natural Acrobats**: You are proficient in the acrobatics skill and your jumping distance is doubled. Additionally, whenever you take the jump action, you can use your dexterity instead of your strength to calculate your jumping distance. 
 
 ---
 
@@ -143,7 +143,7 @@
 
 **Caretakers**: You are proficient with the animal handling skill. 
 
-**Animal Whisperer**: You know the first level spell *Speak with Animals* and can cast it once a day without spending mana. 
+**Animal Whisperer**: You know the first level spell *Speak with Animals* and can castat will without spending mana. 
 
 ---
 
@@ -156,6 +156,8 @@
 **Slow Fall**: You take half damage from falling damage. 
 
 **Performers**: You are proficient with the performance skill. 
+
+**Strong Bond**: You gain a pool of inspiration dice that you can spend as a bonus action to help a creatue within 30 feet of you. The target gets + 1d6 to their next ability check. You can do this a numbers of times equal to your proficiency bonus before you must finish a short rest. 
 
 ---
 
