@@ -70,18 +70,6 @@ _You gain +1 to your saving throws_
 
 ---
 
-## Oracle Lens
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Oracle_Lens.png" Align=right width=8% height=8%>
-
-- 4000 Gold
-- Wondrous
-
-**Shared Vision**: When you cast a spell that obscures vision in any way, you can choose to spend one additional mana to let a creature of your choice see through it. 
-
-**Sweeping Drone**: As an action you can send out the and arcane drone to sweep an 30 foot diameter sphere within 300 feet of you. You and your allies then know how many creatures are within the diameter and doesn't get disadvantage on attack rolls due to the area being obscured.
-
----
 
 ## Ardent Censer
 
@@ -764,6 +752,19 @@ _You gian +1 to attack and damage rolls using this magical weapon_
 **Oblivion**: Your single target spells deals 1d6 additional necrotic damage if the target has grievous wounds.
 
 _You gain +1 to spell attack rolls_
+
+---
+
+## Oracle Lens
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Oracle_Lens.png" Align=right width=8% height=8%>
+
+- 4000 Gold
+- Wondrous
+
+**Shared Vision**: When you cast a spell that obscures vision in any way, you can choose to spend one additional mana to let a creature of your choice see through it. 
+
+**Sweeping Drone**: As an action you can send out the and arcane drone to sweep an 30 foot diameter sphere within 300 feet of you for 18 seconds. You and your allies then know how many creatures are within the diameter and doesn't get disadvantage on attack rolls due to the area being obscured.
 
 ---
 
