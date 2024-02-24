@@ -199,17 +199,17 @@ The damage dice increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 an
 ## Lesser Runes
 ### Cheap Shot <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/CheapShot.png" Align=left width=7% height=7%>
 
-Whenever you damage a creature, you can choose to deal 1d8 extra force damage for every negative status effect they have. Once used, this effect cannot be used again until 30 seconds has passed.
+Once a turn when you damage a creature, you can choose to deal 1d8 extra force damage for every negative status effect they have. Once used, this effect cannot be used again until 18 seconds has passed.
 
 ---
 ### Taste of Blood <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png" Align=left width=7% height=7%>
 
-Whenever you damage a creature, you can choose to heal an amount equal to four times your proficiency bonus. Once used, this effect cannot be used again until 30 seconds has passed. 
+Once a turn you damage a creature, you can choose to heal an amount equal to four times your proficiency bonus. Once used, this effect cannot be used again until 24 seconds has passed. 
 
 ---
 ### Sudden Impact <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png" Align=left width=7% height=7%>
 
-Whenever you leave invisibility, dash, blink or teleport your next damaging attack deals 2d6 additional force damage and ignores all resistances. 
+Once a turn when you are invisible, hidden, dash, blink or teleport your next damaging attack deals 2d6 additional force damage and ignores all resistances. Once used, this effect cannot be used again until 18 seconds has passed.
 
 The damage increases by 1d6 at level 5, 9 13 and 17. 
 
@@ -326,7 +326,7 @@ The damage dice increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 an
 ## Lesser Runes
 ### Nullifying Orb  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Nullifying Orb.png" Align=left width=7% height=7%>
 
-Whenever you take elemental damage, before the damage occurs you gain temporary hitpoints equal to four times your proficiency bonus. Once used, this effect cannot be used again until 30 seconds has passed. 
+Once a round, whenever you take elemental damage, before the damage occurs you gain temporary hitpoints equal to four times your proficiency bonus. Once used, this effect cannot be used again until 24 seconds has passed. 
 
 ---
 ### Manaflow Band  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ManaflowBand.png" Align=left width=7% height=7%>
@@ -364,7 +364,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Tanscendence
 ---
 ### Celerity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/CelerityTemp.png" Align=left width=7% height=7%>
 
-Whenever you gain movement speed during your turn, double it. 
+Whenever you cast a spell you gain agility and movement speed equal to five time the spell level until the end of your turn. 
 
 ---
 
@@ -423,7 +423,7 @@ Whenever you are in stormy weather you gain 1+ crit chance to your attack rolls 
 
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=20% height=20%>
 
-Once a turn when you immobilize a creature, you gain temporary hit points equal to four times your proficiency bonus. At the end of your next turn you deal 1d6 damage to all creatures within 5 feet of you. Once this effect is used it cannot be used again until 18 seconds have passed
+Once a turn when you immobilize a creature, you gain temporary hit points equal to five times your proficiency bonus. At the end of your next turn you deal 1d6 damage to all creatures within 5 feet of you. Once this effect is used it cannot be used again until 18 seconds have passed
 
 The damage increases by 1d6 at level 5, 9, 13 and 17.
 
@@ -431,7 +431,7 @@ The damage increases by 1d6 at level 5, 9, 13 and 17.
 
 ### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=20% height=20%>
 
-If you or an ally within 30ft of you takes damage, you can choose to trigger Guardian. You and the selected ally immediately gain temporary hit points equal to four times your proficiency bonus. Guardian activates before you would take the initial damage. 
+Once a round, if you or an ally within 30ft of you takes damage, you can choose to trigger Guardian. You and the selected ally immediately gain temporary hit points equal to four times your proficiency bonus and the ally gains resistance from all incoming damage until the start of their turn. Guardian activates before you would take the initial damage. 
 
 Once this action is used, it cannot be used again until 24 seconds have passed. 
 
@@ -439,11 +439,11 @@ Once this action is used, it cannot be used again until 24 seconds have passed.
 
 ### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=20% height=20%>
 
-Whenever you deal damage (once per attack) or you take damage from an enemy, you gain a stack of Grasp. When you are at four stacks, your next attack deals 1d4 additional necrotic damage. You heal equal to the necrotic damage dealt.
+Whenever you deal damage (once per attack) or you take damage from an enemy, you gain a stack of Grasp. When you are at three stacks, your next attack deals 1d6 additional necrotic damage. You heal equal twice the necrotic damage dealt.
 
-In addition you gain a stack of Undying whenever you drain an opponent using this ability. You gain +1 maximum hit points for every tenth stack of Undying you have.
+In addition you gain a stack of Undying whenever you drain an opponent using this ability. You gain +1 maximum hit points for every fifth stack of Undying you have.
 
-The damage increases by 1d4 at level 5, 9, 13 and 17.
+The damage increases by 1d6 at level 5, 9, 13 and 17.
 
 ---
 
@@ -456,7 +456,7 @@ Whenever you end your turn within 15 feet of a construct or object that can be d
 
 ### Font Of Life  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/FontOfLife.png" Align=left width=7% height=7%>
 
-Whenever you reduce a creatures movement speed, they gain a mark of _life_. The next time an ally damages a creature with _life_ they heal equal to four times your proficiency bonus. Once this effect is used, it cannot be used again until 30 seconds pass. 
+Once a turn, when you immobilize or reduce a creatures movement speed, they gain a mark of _life_. The next time an ally damages a creature with _life_ they heal equal to four times your proficiency bonus. Once this effect is used, it cannot be used again until 24 seconds pass. 
 
 ---
 
