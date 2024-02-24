@@ -423,7 +423,7 @@ Whenever you are in stormy weather you gain 1+ crit chance to your attack rolls 
 
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=20% height=20%>
 
-Once a turn when you immobilize a creature, you gain temporary hit points equal to three times your proficiency bonus. At the end of your next turn you deal 1d6 damage to all creatures within 5 feet of you. Once this effect is used it cannot be used again until 18 seconds have passed
+Once a turn when you immobilize a creature, you gain temporary hit points equal to four times your proficiency bonus. At the end of your next turn you deal 1d6 damage to all creatures within 5 feet of you. Once this effect is used it cannot be used again until 18 seconds have passed
 
 The damage increases by 1d6 at level 5, 9, 13 and 17.
 
@@ -497,9 +497,9 @@ The first three times you take damage, you gain resistance to all damage types. 
 
 ### Overgrowth  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Overgrowth.png" Align=left width=7% height=7%>
 
-You gain +3 maximum hit points. Whenever you score a _takedown_ on a creature, you gain a stack of _overgrowth_. For every tenth stack, you gain +1 maximum hit points. 
+Whenever you score a _takedown_ on a creature, you gain a stack of _overgrowth_. For every fift stack, you gain +1 maximum hit points. 
 
-When you reach level 11 you instead gain +2 maximum hit points for every tenth stack. 
+When you reach level 11 you instead gain +1 maximum hit points for every third stack. 
 
 ---
 
