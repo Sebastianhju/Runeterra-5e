@@ -134,7 +134,7 @@ While wielding this piece of armor you gain +1 to your armor class._
 - 3200 Gold
 - Wondrous Item
 
-**Spell Reflection**: As a reaction whenever you see a spell that forces a creature to make a saving throw, you can spend up to 10 mana to lower the dc by one for every other mana spent. 
+**Spell Reflection**: As a reaction whenever you see a creature fail a saving throw against a spell, you can spend two mana to add 1d6 to their saving throw. 
 
 **Mana Restoration**: Whenever you take a short rest, you can choose expend two hit dice to regain mana equal to three times your proficiency bonus. 
 
