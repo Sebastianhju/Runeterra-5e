@@ -482,10 +482,11 @@ _You gain +3 to initiative rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hubris.png" Align=right width=8% height=8%>
 
-- 400 Gold
+- 4000 Gold
 - Wondrous
+- Attunement
 
-**Ego**: Whenever you score a takedown on a creature a statue of yourself is summoned in their place. The stone statue has 10 armor class and hit points equal to ten times your proficiency bonus. As long as you can see the statue you have advantage on attack rolls and your attacks deals 1d6 additional damage. Once this effect is used, it cannot be used again until you finish a short rest. 
+**Ego**: Once a round when you score a takedown on a creature, a statue of yourself is summoned in their place. The statue has an armor class of 10 and hit points equal to ten times your proficiency bonus, it is immune to fire damage, and vulnerable to thunder damage. As long as you can see the statue your first attack each turn have advantage and deals 1d6 additional damage for each statue. Once a minute passes by, the statue is pulverized to dust.
 
 **Haste**: The cooldown of your runes and items are reduced by 6 seconds. 
 
