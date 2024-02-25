@@ -102,12 +102,24 @@ _You gain +1 bonus to unarmed attack rolls_
 ---
 
 ## Cinder Cutlass
+
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cinder Cutlass.png" Align=right width=8% height=8%>
 
 - 800 Gold
 - Scimitar
 
 **Trial by fire**: When you hit an attack with **Cinder Cutlass** you can choose to deal 1d6 additonal fire damage and apply burn to the target. Once this effect is used, it cannot be used again until 12 seconds have passed. 
+
+---
+
+## Cleaved Longsword
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Long Sword.png" Align=right width=8% height=8%>
+
+- 500 Gold
+- Longsword
+
+**Cleave**: When you kill a unit with the _Cleaved Longsword_ you can force the blade to another target within 5 feet of you, dealing damage equal to your strength modifier. 
 
 ---
 
@@ -374,15 +386,6 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 **Ace**: Whenver you hit an attack, you gain a stack of *Ace*. You gain two stacks if your attack is made against a creature that you are hidden from. 
 
 **Headshot**: When you have 10 stacks, the next attack that hits with peacemaker consumes all stacks of *Ace* and critically hits. If it already would critically hit, it does not consume any *Ace* stacks. 
-
----
-
-## Cleaved Longsword
-
-- 500 Gold
-- Longsword
-
-**Cleave**: When you kill a unit with the _Cleaved Longsword_ you can force the blade to another target within 5 feet of you, dealing damage equal to your strength modifier. 
 
 ---
 
