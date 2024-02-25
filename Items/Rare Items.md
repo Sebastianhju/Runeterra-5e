@@ -1070,11 +1070,11 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 - 4500 Gold
 - Chainmail
 
-**Boundless Vitality**: Whenever you heal or gain temporary hit points, you can increase that amount by an amount equal to your proficiency bonus. 
+**Boundless Vitality**: Once a turn when heal or gain temporary hit points, you can increase that by an amount equal to your proficiency bonus. 
 
 **Health**: Your maximum hit points increases an amount equal to twice your level. 
 
-_You gain +1 to your armorclass while wearing this armor_
+_You gain +1 to your armor class while wearing this armor_
 
 ---
 
