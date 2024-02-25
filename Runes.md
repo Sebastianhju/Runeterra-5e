@@ -118,7 +118,7 @@ Whenever you score a _takedown_ you gain a stack of Bloodline that gives you ben
 |---|---|
 |0| You have advantage on constitution saving throws. Additionally you gain maximum hit points equal to your level|
 |25| Whenever you deal damage to a creature, you heal hit points equal to your proficiency bonus |
-|50| Whenever you score a takedown you heal equal to five times your proficiency bonus|
+|50| You are immune to the grievous wounds condition|
 
 ---
 
@@ -438,7 +438,7 @@ Once this action is used, it cannot be used again until 24 seconds have passed.
 
 ### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=20% height=20%>
 
-Whenever you deal damage (once per attack) or you take damage from an enemy, you gain a stack of Grasp. When you are at three stacks, your next attack deals 1d6 additional necrotic damage. You heal equal twice the necrotic damage dealt.
+Once a turn when you damage an enemy or take damage from an enemy, you gain a stack of Grasp. When you are at three stacks, your next attack deals 1d6 additional necrotic damage. You heal equal to the necrotic damage dealt.
 
 In addition you gain a stack of Undying whenever you drain an opponent using this ability. You gain +1 maximum hit points for every fifth stack of Undying you have.
 
@@ -455,7 +455,7 @@ Whenever you end your turn within 15 feet of a construct or object that can be d
 
 ### Font Of Life  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/FontOfLife.png" Align=left width=7% height=7%>
 
-Once a turn, when you immobilize or reduce a creatures movement speed, they gain a mark of _life_. The next time an ally damages a creature with _life_ they heal equal to four times your proficiency bonus. Once this effect is used, it cannot be used again until 24 seconds pass. 
+When you immobilize or reduce a creatures movement speed, they gain a mark of _life_. The next time an ally damages a creature with _life_ they heal equal to your proficiency bonus.
 
 ---
 
