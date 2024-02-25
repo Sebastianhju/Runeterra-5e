@@ -423,20 +423,6 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
 
-## Haunting Guise
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Haunting Guise.png" Align=right width=8% height=8%>
-
-- 4000
-- Wondrous
-- Attunement
-
-**Health**: You gain maximum hit points equal to half your hit dice.
-
-**Madness**: Whenever you are concentrating on a spell, you can choose to enter a state of madness. While in this state you get advantage on your concentration checks and you can concentrate on two spells at the same time. If you loose concentration while in this state you gain a long term madness until you finish a long rest.
-
----
-
 ## Hextech Revolver
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Revolver.png" Align=right width=8% height=8%>
