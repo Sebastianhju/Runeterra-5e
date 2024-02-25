@@ -268,6 +268,23 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ---
 
+## High Stake
+
+- 500 Gold
+- Wondrous
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/High Stake.png" Align=right width=8% height=8%>
+
+**Nab**: Whenever you hit a creautre with a weapon or unarmed attack you get a **Silver Serpent**, up to a maximum of four. You can spend one to four **Silver Serpents** to gamble for one of actions below. For each **Silver Serpent** you spend you get a +1 to the d4 roll and you must meet a 5 to gain the effect.
+
+**Risky Venture**: As a free action you roll 1d6 and can move 10 times the number rolled with climbing, walking and swimming speed.  
+
+**Daring Leap**: As a bonus action you double your jumping distance until the end of your turn. If you jump all creatures within 5 feet of your landing you must succeed a dexterity saving throw or are pushed 10 feet away from you. The saving throw dc equals 8 + proficiency bonus + constitution modifier. 
+
+**Tip the Scales**: When you fail an ability check, you can add 1d6 to the roll and use the new results. 
+
+---
+
 ## Hexdrinker
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hexdrinker.png" Align=right width=8% height=8%>
