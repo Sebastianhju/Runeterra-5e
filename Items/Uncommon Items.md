@@ -268,6 +268,17 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ---
 
+## Haunting Guise
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Haunting Guise.png" Align=right width=8% height=8%>
+
+- 600
+- Wondrous
+
+**Madness**: Once a turn when you deal or take damage you gain a stack of _Madness_. When you have 5 stacks of madness your gain +1 crit chance.
+
+---
+
 ## High Stake
 
 - 500 Gold
