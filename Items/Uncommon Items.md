@@ -534,6 +534,19 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's S
 
 ---
 
+## Trailblazer
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Trailblazer.png" Align=right width=8% height=8%>
+
+- 500 Gold
+- Wondrous  
+
+**Speed**: You gain +5 walking speed
+
+**Lead the Way**: As a bonus action you can leave behind a trail in every square you leave during your turn. The first time each ally moves within the trail they gain movement speed equal to half your walking speed. 
+
+---
+
 ## Wideshot
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Wideshot.png" Align=right width=8% height=8%>
 
