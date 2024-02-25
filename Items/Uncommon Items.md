@@ -275,7 +275,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/High Stake.png" Align=right width=8% height=8%>
 
-**Nab**: Whenever you hit a creautre with a weapon or unarmed attack you get a **Silver Serpent**, up to a maximum of four. You can spend one to four **Silver Serpents** to gamble for one of actions below. For each **Silver Serpent** you spend you get a +1 to the d4 roll and you must meet a 5 to gain the effect.
+**Nab**: Whenever you hit a creautre with a weapon or unarmed attack you get a _Silver Serpent_, up to a maximum of four. You can spend one to four _Silver Serpents_ to gamble for one of actions below. For each _Silver Serpent_ you spend you get a +1 to the d4 roll and you must meet a 5 to gain the effect.
 
 **Risky Venture**: As a free action you roll 1d6 and can move 10 times the number rolled with climbing, walking and swimming speed.  
 
