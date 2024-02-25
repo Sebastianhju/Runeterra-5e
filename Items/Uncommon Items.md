@@ -349,6 +349,15 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 ---
 
+## Cleaved Longsword
+
+- 500 Gold
+- Longsword
+
+**Cleave**: When you kill a unit with the _Cleaved Longsword_ you can force the blade to another target within 5 feet of you, dealing damage equal to your strength modifier. 
+
+---
+
 ## Pow Pow
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Pow Pow.png" Align=right width=8% height=8%>
 
