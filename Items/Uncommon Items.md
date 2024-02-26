@@ -209,6 +209,8 @@ _You gain +1 to your initiative rolls_
 
 **March**: As a bonus action you can give youself 15 feet movement speed and advantage one your next attack roll with *Decisive Sword*, if the attack hits, the target is mute until the end of their turn. Once this action is used it cannot be used again until 18 seconds pass. 
 
+_You get +1 to attack and damage rolls using this weapon_
+
 ---
 
 ## Dorans Blade
@@ -219,6 +221,8 @@ _You gain +1 to your initiative rolls_
 - Shortsword
 
 **Warmonger**: Whenever you score a takedown you heal equal to twice your proficiency bonus.
+
+_You get +1 to attack and damage rolls using this weapon_
 
 ---
 
@@ -317,6 +321,8 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 **Lifeline**: If your hitpoints are reduced to zero, you first gain temporary hit points equal to five times your proficiency bonus that lasts until the end of your turn. Your next attack then deals 2d8 additional damage. Once this action is used it cannot be used again until you finish a long rest.
 
+_You get +1 to attack and damage rolls using this weapon_
+
 ---
 
 ## Hextech Alternator 
@@ -327,6 +333,21 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 - Wondrous Item
 
 **Revved**: Whenever you damage an enemy, you also deal 1d8 lightning damage afterwards. Once this effect is used, it cannot be used again until 30 seconds pass. The cooldown of this item decreases by 12 seconds whenever you deal or take lightning damage. 
+
+---
+
+## Ionic Spark
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ionic Spark.png" Align=right width=8% height=8%>
+
+- 600 Gold
+- Shortbow
+
+**Lightning Conduit**: Whenever you hit an enemy with an attack from _Ionic Spark_ they gain a _Lighting Mark_.
+
+**Shocking Bolt**: Once a turn when you hit an enemy with an attack with _Ionic Spark_, you can make a sprak of electric energy burst from all of your arrows. The target and all targets within 30 feet of it that has a _Lightning Mark_ suffers 1d6 lightning damage. 
+
+_You have +1 to hit and attack rolls using this magical weapon_ 
 
 ---
 
@@ -364,6 +385,8 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 
 **Crushing Blow**: Whenever you critically hit a creature with *Nimbus Staff* or unarmed attacks, their armor class is reduced by 2 for a minute.
 
+_You get +1 to attack and damage rolls using this weapon_
+
 ---
 
 ## Null-Magic Mantle
@@ -373,7 +396,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 - 600 Gold
 - Cloak
 
-**Magic Resiliance**: Whenever you roll a saving throw against spells that deal damage, you gain +2 to that saving throw. 
+**Magic Resiliance**: You get +1 to all saving throws
 
 ---
 
@@ -386,6 +409,8 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 **Ace**: Whenver you hit an attack, you gain a stack of *Ace*. You gain two stacks if your attack is made against a creature that you are hidden from. 
 
 **Headshot**: When you have 10 stacks, the next attack that hits with peacemaker consumes all stacks of *Ace* and critically hits. If it already would critically hit, it does not consume any *Ace* stacks. 
+
+_You get +1 to hit and attack rolls using this magical weapon_
 
 ---
 
@@ -534,7 +559,9 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's S
 
 **Whirlwind**: Whenever you hit an attack, you gain a stack of whirlwind. You loose all stacks of whirlwind if you dont deal damage for a minute. 
 
-**Crashing Tornado**: When you have three stacks, you next attack is replaced with a tornado that goes in a 15 foot line. Each target in the line must make a dexterity saving throw, dc equals 8 + str/dex + proficiency bonus or take 2d8 thunder damage and be knocked 15 feet airbone, falling to the ground at the end of its next turn. While suspended in the air its speed is 0. A creature takes half damage on a successful save. 
+**Crashing Tornado**: When you have three stacks, you next attack is replaced with a tornado that goes in a 15 foot line. Each target in the line must make a dexterity saving throw, dc equals 9 + str/dex + proficiency bonus or take 2d8 thunder damage and be knocked 15 feet airbone, falling to the ground at the end of its next turn. While suspended in the air its speed is 0. A creature takes half damage on a successful save. 
+
+_You get +1 to attack and damage rolls using this weapon_
 
 ---
 
@@ -544,7 +571,9 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's S
 - 700 Gold
 - Club
 
-**Resonance**: Whenever you damage an enemy with *Timewinder* you apply a stack of Resonance. Whenever you damage a creature that has two stacks of Resonance, you deal 3d6 additional force damage and gain 30 feet movement speed until the end of your turn. 
+**Resonance**: Whenever you damage an enemy with *Timewinder* you apply a stack of Resonance. Whenever you damage a creature that has two stacks of Resonance, you deal 4d6 additional force damage and gain 30 feet movement speed until the end of your turn. 
+
+_You get +1 to hit and damage rolls using this weapon_
 
 ---
 
@@ -567,6 +596,8 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's S
 - 800 Gold
 - Longbow
 
-**Volley**: You can replace one attack with a volley of spectral arrows in a 30 foot cone. All creatures in the cone must succeed a dexterity saving throw, dc 8+ proficiency bonus + dexterity modifier or take 2d8 force damage, halfed on a save. Once this action is used it cannot be used again until 18 seconds pass. 
+**Volley**: You can replace one attack with a volley of spectral arrows in a 30 foot cone. All creatures in the cone must succeed a dexterity saving throw, dc 9+ proficiency bonus + dexterity modifier or take 2d8 force damage, halfed on a save. Once this action is used it cannot be used again until 18 seconds pass. 
+
+_You get +1 to hit and damage rolls using this weapon_
 
 ---
