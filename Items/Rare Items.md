@@ -1208,11 +1208,15 @@ _You gain +1 to damage and attack rolls using this weapon_
 - Quarterstaff
 - Attunement
 
+**Thirsting Strike**: The Vampiric Scepter deals necrotic damage.
+
 **Convert Power**: When you deal necrotic damage, you can choose to suffer nonmigatable necrotic damage, up to a number equal to five times your proficieny bonus. For every fifth damage suffered, you deal 1d6 additional necrotic damage. 
 
 **Bloood Transfer**: Once a round when you deal necrotic damage you heal an amount equal to your twice your proficiency bonus. 
 
 **Curse of the Fangs**: Whenever you take radiant damage you gain grievous wounds. 
+
+_You have +1 to hit and attack rolls using this weapon_
 
 ---
 
