@@ -71,7 +71,7 @@ Whenever you are at maximum hit points and have temporary hit points you gain 10
 
 ---
 ### Triumph  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Triumph.png" Align=left width=7% height=7%>
-Whenever you score a takedown, you gain gold equal to ten times the creatures _Challenge Rating_. In addition you heal yourself equal to 1d4 plus your proficiency bonus. 
+Whenever you score a takedown, you gain gold equal to twenty times the creatures _Challenge Rating_. In addition you heal yourself equal to three times your proficiency bonus. 
 
 ---
 
