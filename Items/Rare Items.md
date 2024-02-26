@@ -1316,7 +1316,7 @@ _While wielding this armor you gain +1 to your armor class_
 
 **Critical**: Your critical strike chance increases by one.
 
-**Sharp Edged**: Whenever you critically hit a target with Zeal, you can make an additional attack with Zeal as a bonus action.
+**Sharp Edged**: Once a turn when critically hit a target with Zeal, you can make an additional attack with Zeal.
 
 _You gain a +2 to your initiative rolls_ 
 
