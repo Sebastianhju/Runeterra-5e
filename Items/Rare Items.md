@@ -110,7 +110,7 @@ _You gain +1 to your saving throws_
 
 **Aegis Aura**: As a bonus action you can activate the Aegis Aura, giving all allies within 5 feet of you temporary hit points equal to two times your proficiency bonus. Once this action is used, it cannot be used again until 18 seconds have passed. 
 
-While wielding this piece of armor you gain +1 to your armor class._  
+_While wielding this piece of armor you gain +1 to your armor class._  
 
 ---
 
@@ -177,7 +177,7 @@ _You gain +1 to your armor class while attuned to this item_
 
 **Rend**: As a bonus action, you can pull out all spectral spears from all creatures within 60 feet of you. A target then takes 1d6 force damage for each spear in them. Once this is action is used it cannot be used again until 30 seconds have passed. 
 
-_You have +1 to hit and damage rolls with this magical weapon_ 
+_You have +2 to hit and damage rolls with this magical weapon_ 
 
 ---
 
@@ -202,9 +202,9 @@ You gain +1 to your armor class while wearing this magical armor.
 - 2500 Gold
 - Warhammer
 
-**Hammering Haste**: Whenever you hit an attaack using Caulfiends Hammer, the cooldown of your runes and items are reduced by 6 seconds. 
+**Hammering Haste**: Once a turn when you hit an attack roll with _Caulfields Warhammer_ you reduce the cooldown of your runes and items by 12. 
 
-_You gain +1 to hit and damage rolls using this magical weapon_
+_You gain +2 to hit and damage rolls using this magical weapon_
 
 ---
 
@@ -229,7 +229,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 - 2500 Gold
 - Wonderous Item
 
-**Master of Elixirs**: Once per short rest, you can as an action lift the chalice up, recite the incantation of the chalice and name an elixir, the goblet will fill itself with the named elixir. The elixir must then be consumed within one minute or vaporize.
+**Master of Elixirs**: Once per long rest, you can as an action lift the chalice up, recite the incantation of the chalice and name an elixir, the goblet will fill itself with the named elixir. The elixir must then be consumed within one minute or vaporize.
 
 ---
 
@@ -242,7 +242,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 **Spinning Blades**: As a bonus action you can start up the chainswords engine. For your next three attacks, the chainsword deals 1d8 additional damage, applies grievous wounds and burn. Once this action is used it cannot be used again until 18 seconds pass. 
 
-_You get +1 to attack and damage rolls using this magical weapon_
+_You get +2 to attack and damage rolls using this magical weapon_
 
 ---
 
@@ -269,7 +269,7 @@ _You get +1 to attack and damage rolls using this magical weapon_
 - Wondrous Item
 - Attunement
 
-**Piercing Crystals**: While wearing these Bracers your unarmed attacks have +1 to hit and damage rolls. 
+**Piercing Crystals**: While wearing these Bracers your unarmed attacks have +2 to hit and damage rolls. 
 
 **Healing Crystals**: Once a turn when you hit a target with a unarmed attack, you can choose to heal equal to half the damage dealt.
 
@@ -305,7 +305,7 @@ _You gain +1 to your armor class while wearing this piece of equipment_
 
 **Defy**: When you score a takedown, you remove stacks of _doom_ equal to ten times your proficiency bonus. 
 
-_You gain +1 to attack and damage rolls using this weapon._
+_You gain +2 to attack and damage rolls using this weapon._
 
 ---
 
@@ -350,6 +350,8 @@ _You gain +1 to attack and damage rolls using this weapon._
 
 **Haste**: The cooldown of your runes and items are reduced by 6 seconds. 
 
+_You get +2 to your spell attack and spell save dc_
+
 ---
 
 ## Forbidden Idol
@@ -364,6 +366,8 @@ _You gain +1 to attack and damage rolls using this weapon._
 
 **Restore Power**: Whenever you cast a healing spell, you regain one mana.
 
+**Healing Power**: Your healing spells heal 2 more hit points
+
 ---
 
 ## Glacial Buckler
@@ -377,7 +381,7 @@ _You gain +1 to attack and damage rolls using this weapon._
 
 **Mana**: You gain +5 maximum mana.
 
-While wielding this shield you gain +1 to your armor class. 
+_While wielding this shield you gain +1 to your armor class._
 
 ---
 
@@ -393,6 +397,8 @@ While wielding this shield you gain +1 to your armor class.
 **Siege Weapon**: The gloves deal double damage to objects and constructs. 
 
 **Tunneler**: When given time the gloves can make simple tunnels. The gloves can carve through dirt and rock, spending a minute to carve out a 5ft cube. Carving through metal takes ten minutes for a 5ft cube. 
+
+_You get +2 to unarmed attack and damage rolls_ 
 
 ---
 
@@ -417,9 +423,9 @@ While wielding this shield you gain +1 to your armor class.
 - 2500 Gold
 - Battleaxe
 
-**Nimble**: Whenever you hit a creature with _Hearthbound Axe_ you gain +5 feet movement speed and agility until the end of your next turn. 
+**Nimble**: Whenever you hit a creature with _Hearthbound Axe_ you gain +10 feet movement speed and agility until the end of your next turn. 
 
-You gain +1 to hit and damage rolls using this magical weapon.
+You gain +2 to hit and damage rolls using this magical weapon.
 
 ---
 
@@ -430,9 +436,9 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 2500 Gold
 - Pistol
 
-**Shock**: When you hit an attack with _Hextech Revolver_ you can choose to force the target to succeed a constitution saving throw, the DC equal to 9 + proficiency bonus + dexterity modifier, on a failed save they take 2d8 lightning damage and are stunned until the end of their turn. On a success they are not stunned and take half damage. Once this effect is used, it cannot be used again until 24 seconds have passed.
+**Shock**: When you hit an attack with _Hextech Revolver_ you can choose to force the target to succeed a constitution saving throw, the DC equal to 10 + proficiency bonus + dexterity modifier, on a failed save they take 2d8 lightning damage and are stunned until the end of their turn. On a success they are not stunned and take half damage. Once this effect is used, it cannot be used again until 24 seconds have passed.
 
-_You gain +1 to hit and damage rolls with this magical weapon_ 
+_You gain +2 to hit and damage rolls with this magical weapon_ 
 
 ---
 
@@ -462,6 +468,8 @@ _You gain +3 to initiative rolls_
 
 **Haste**: The cooldown of your runes and items are reduced by 6 seconds. 
 
+_You get +2 to your spell attack and spell save DC_
+
 ---
 
 ## Hubris
@@ -472,7 +480,7 @@ _You gain +3 to initiative rolls_
 - Wondrous
 - Attunement
 
-**Ego**: Once a round when you score a takedown on a creature, a statue of yourself is summoned in their place. The statue has an armor class of 10 and hit points equal to ten times your proficiency bonus, it is immune to fire damage, and vulnerable to thunder damage. As long as you can see the statue your first attack each turn have advantage and deals 1d6 additional damage for each statue. Once a minute passes by, the statue is pulverized to dust.
+**Ego**: Once a round when you score a takedown on a creature, a statue of yourself is summoned in their place. The statue has an armor class of 10 and hit points equal to ten times your proficiency bonus, it is immune to fire and psychic damage, and vulnerable to thunder damage. As long as you can see the statue your first attack each turn have advantage and deals 1d6 additional damage for each statue. Once a minute passes by, the statue is pulverized to dust.
 
 **Haste**: The cooldown of your runes and items are reduced by 6 seconds. 
 
@@ -489,7 +497,7 @@ _You gain +3 to initiative rolls_
 
 **Siege Weapon**: The Hullbreaker deals double damage against objects and constructs. 
 
-_You have +1 to attack and damage rolls using this magical weapon._
+_You have +2 to attack and damage rolls using this magical weapon._
 
 ---
 
@@ -499,7 +507,7 @@ _You have +1 to attack and damage rolls using this magical weapon._
 
 **Javelin Toss**: Once a turn when you take the attack action, you can replace one of the attacks with a Javelin Toss. You toss the Javelin in a 120 feet line, hitting the first creature that fails a dexterity saving throw, dc 9 + proficienct bonus + Strength modifier. The creature takes 1d6 damage for every tenth feet the Javelin traveled. When the Javelin is used in this way it teleports back to your hand. Once this ability is used it cannot be used again until 18 seconds have passed. 
 
-_You have +1 to hit and damage rolls using this magical Weapon_
+_You have +2 to hit and damage rolls using this magical Weapon_
 
 ---
 
@@ -560,7 +568,7 @@ _You gain +2 to you Constitution saving throws_
 
 **Jolt**: When you are at 80 stacks of _energized_, your next attack with _Kircheis Shard_ also deals 2d8 lightning damage after the weapons initial damage. 
 
-You gain +1 to hit and damage rolls using this magical weapon. 
+You gain +2 to hit and damage rolls using this magical weapon. 
 
 ---
 
@@ -576,7 +584,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 **Loaded string**: As a bonus action, you load you bow. Your next attack has advantage and deals 1d8 additional damage. You can use this effect a number of times equal to your proficiency bonus before you must take a short rest. 
 
 _You gain +2 to initative rolls_ 
-_You gain +1 to hit and damage rolls using this magical weapon._
+_You gain +2 to hit and damage rolls using this magical weapon._
 
 ---
 
@@ -592,7 +600,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 **Health**: You gain health equal to your hit dice
 
-_You gain +1 to spell attacks and your save dc while attuned to this magical item_
+_You gain +2 to spell attacks and your save dc while attuned to this magical item_
 
 ---
 
@@ -604,9 +612,9 @@ _You gain +1 to spell attacks and your save dc while attuned to this magical ite
 - Wondrous Item
 - Attunement
 
-**Hope**: As a bonus action, you can give yourself temporary hit points equal to twice your proficiency bonus. Once you do this it cannot be done again until 30 seconds pass.
+**Hope**: As a bonus action, you can give yourself temporary hit points equal to twice your proficiency bonus.
 
-**Well Timed**: Whenever you gain temporary hit points, the cooldowns of your runes and items are reduced by 6 seconds. 
+**Well Timed**: Once a turn when you gain temporary hit points, the cooldowns of your runes and items are reduced by 6 seconds. 
 
 **Protection**: You gain a +1 to your armor class while wearing the _Lifewell Pendant_.
 
@@ -619,11 +627,11 @@ _You gain +1 to spell attacks and your save dc while attuned to this magical ite
 - 3200
 - Pistol
 
-**Piercing Light**: When you take the attack action you can replace one of the attacks with a beam of light that shoots in a 30 foot long line. Each creature in the line must succeed a Dexterity saving throw, dc equals to 9 + proficiency bonus + your dexterity modifier, or take 3d10 radiant damage, halved on a save. Once this effect is used it cannot be used again until 60 seconds have passed. Every attack made with the lightslinger reduces this abilities cooldown by 6 seconds. 
+**Piercing Light**: When you take the attack action you can replace one of the attacks with a beam of light that shoots in a 30 foot long line. Each creature in the line must succeed a Dexterity saving throw, dc equals to 10 + proficiency bonus + your dexterity modifier, or take 3d10 radiant damage, halved on a save. Once this effect is used it cannot be used again until 60 seconds have passed. Every attack made with the lightslinger reduces this abilities cooldown by 6 seconds. 
 
 **Relentless Pursuit**: Once a turn when you dash, blink or teleport you can make a free attack with lightslinger against a creature within range.  
 
-_You have +1 to hit and damage rolls using this weapon_
+_You have +2 to hit and damage rolls using this weapon_
 
 ---
 
@@ -639,7 +647,7 @@ _You have +1 to hit and damage rolls using this weapon_
 
 **Strong Bond**: Once this item is attuned to you, you must spend a part of a long rest to sever the connection. 
 
-You gain +1 to spell attack rolls and your saving throw DC. 
+You gain +2 to spell attack rolls and your saving throw DC. 
 
 ---
 
@@ -652,7 +660,7 @@ You gain +1 to spell attack rolls and your saving throw DC.
 
 **Elemental Jaws**: At the end of a short rest, you can choose one type of elemental damage type. You gian resistance from that elemental damage until you finish a long rest. Whenever you take that type of damage, _Maw of Malmortius_ deals 1d8/1d10 additional damage of that damage type until the end of your turn.  
 
-_You have +1 to attack and damage rolls with this magical weapon_
+_You have +2 to attack and damage rolls with this magical weapon_
 
 ___
 
@@ -665,7 +673,7 @@ ___
 
 **Quicksilver** As a reaction upon begin immobilized you can remove all immobilizing effects and cast lesser restoration on yourself, until the end of your turn you gain +1 crit chance with _Mecurial Scimitar_. Once this effect is used it cannot be used again until 30 seconds pass.  
 
-_You have +1 to attack and damage rolls with this magical weapon_
+_You have +2 to attack and damage rolls with this magical weapon_
 
 ---
 
@@ -695,7 +703,7 @@ _You have +1 to attack and damage rolls with this magical weapon_
 
 **Death's Drag**: When you critically hit a target you deal 1d8 additional necrotic damage
 
-_You gain +1 to attack and damage rolls using this magical weapon_
+_You gain +2 to attack and damage rolls using this magical weapon_
 
 ---
 
@@ -710,7 +718,7 @@ _You gain +1 to attack and damage rolls using this magical weapon_
 
 **Spellblade**: You can use your spellcasting modifier for attack and damage rolls.
 
-_You gian +1 to attack and damage rolls using this magical weapon_
+_You gian +2 to attack and damage rolls using this magical weapon_
 
 ---
 
@@ -724,7 +732,9 @@ _You gian +1 to attack and damage rolls using this magical weapon_
 
 **Negate**: Whenever you take Physical, Elemental, Acid, or Poision damage from spells you can reduce that by 3. 
 
-**Resistance**: You have advantage on saving throws against spells. 
+**Health**: You get health equal to your hit dice. 
+
+_You get +1 to all saving throws_
 
 ---
 
@@ -753,7 +763,7 @@ _You gian +1 to attack and damage rolls using this magical weapon_
 
 **Oblivion**: Your single target spells deals 1d6 additional necrotic damage if the target has grievous wounds.
 
-_You gain +1 to spell attack rolls_
+_You gain +2 to you spell attacks_
 
 ---
 
@@ -781,7 +791,7 @@ _You gain +1 to spell attack rolls_
 
 **Health**: You gain maximum hit points equal to your hit dice. 
 
-You gain +1 to hit and damage rolls using this magical weapon. 
+You gain +2 to hit and damage rolls using this magical weapon. 
 
 _Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
 
@@ -797,7 +807,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 **Spectral Waltz**: When you hit an attack roll while holding _Phantom Dancer_, you gain a stack of _Waltz_, up to a maximum of 4. If you have at least one stack of _Waltz_ you gain 30 feet additional walking speed. When you have 3 stacks you can phace through terrain and creatures. At the end of your turn you loose a stack of _Waltz_
 
-_You gain +1 to attack and damage rolls using this magical weapon_
+_You gain +2 to attack and damage rolls using this magical weapon_
 
 ---
 
@@ -810,7 +820,7 @@ _You gain +1 to attack and damage rolls using this magical weapon_
 
 **Leaping Strike**: If you are hidden from a target, you can spend your attack action to teleport 30 feet to a location within 5 feet of the target. You can then make an attak wih _Prowler's Claw_, critting on a successfull hit. Once this action is used it cannot be used again until 30 seconds pass. 
 
-_You gain +1 to attack and damage rolls using this weapon_
+_You gain +2 to attack and damage rolls using this weapon_
 
 ---
 
@@ -825,7 +835,7 @@ _You gain +1 to attack and damage rolls using this weapon_
 
 **Rage**: Once an enemy has two stacks of rage, they consume all stacks and must make a wisdom saving throw, dc equals 0 + proficiency bonus + constitution modifier. On a failure they loose control of their self and must act as if they were under the confusion spell during their next turn.
 
-_You gain +1 to hit and damage rolls using this magical weapon._
+_You gain +2 to hit and damage rolls using this magical weapon._
 
 ---
 
@@ -858,7 +868,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 _You gain +2 to initiative checks_
 
-_You gain +1 to hit and damage rolls using this magical weapon_
+_You gain +2 to hit and damage rolls using this magical weapon_
 
 ---
 
@@ -889,7 +899,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 **Hunger of the Void**: When you deal damage with a spell you gain a stack of _hunger_. When you have 5 stacks of _hunger_ your next spells deal 3d6 additional necrotic damage and you heal for the same amount. 
 
-_You gain +1 to spell attack rolls_
+_You gain +2 to your spell attack and save dc_
 
 ---
 
@@ -905,7 +915,7 @@ _You gain +1 to spell attack rolls_
 
 **Wisdom of Ages**: When rolling damage for a spell you can add your spellcasting ability modifier to the damage roll
 
-_You gain +1 to spell attack rolls and saving throws_
+_You gain +2 to spell attack rolls and saving throws_
 
 ---
 
@@ -917,13 +927,13 @@ _You gain +1 to spell attack rolls and saving throws_
 - Trident
 - Attunement
 
-**Burning Sting**: All attacks with the *Seastone Trident* apllies burn to the target. 
+**Burning Sting**: All attacks with the *Seastone Trident* deals 1d8 lightning damage and apllies burn to the target. 
 
 **Chum the Water**: You learn the *Summon Beast* spell and can cast it once a long rest without spending mana, hower it must be in the form of a shark and take the water envoirment. 
 
 **Evasion**: This trident has 2 charges, and it regains all expended charges after you finish a long rest. When you fail a Dexterity saving throw while attuned to it, you can use your reaction to expend 1 of its charges to succeed on that saving throw instead.
 
-_You gain +1 to hit and attack rolls using this magical weapon_
+_You gain +2 to hit and attack rolls using this magical weapon_
 
 ---
 
@@ -950,9 +960,11 @@ _You gain +1 to your armor class_
 - 2750 Gold
 - Shortsword
 
-**Shield Reaver**: When you hit an attack with _Serpent's Fang_ you can choose to inject venom to your for, giving them crams in their arms. The target must succeed a constitution saving throw (dc: 15) or drop anything in their arms.
+ **Poison Loaded**: The first attack with _Serpent's Fang_ each turn deals 2d6 additional poision damage. 
 
-_You gain +1 to attack and damage rolls using this weapon_
+**Shield Reaver**: When you hit an attack with _Serpent's Fang_ you can choose to inject venom to your for, giving them cramps in their arms. The target must succeed a constitution saving throw (dc: 15) or drop anything in their arms.
+
+_You gain +2 to attack and damage rolls using this weapon_
 
 ---
 
@@ -965,9 +977,11 @@ _You gain +1 to attack and damage rolls using this weapon_
 
 **Gouge**: Whenever you deal damage to a creature with temporary hit points using _Serrated Dirk_, you first remove the temporary hit points and deal 2d6 additional damage. 
 
+**Out of Sight**: Once per short rest you can cast the invisible spell on yourself
+
 _You gain +2 to stealth checks_
 
-_You gain +1 to hit and damage rolls using this magical weapon._
+_You gain +2 to hit and damage rolls using this magical weapon._
 
 ---
 
@@ -981,7 +995,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 **Cinderbloom**: Spell Attack rolls have +2 crit chance against bloodied targets. 
 
-_You gain +1 to spell attack rolls_
+_You gain +2 to spell attack rolls and save dc_
 
 ---
 
@@ -1014,7 +1028,7 @@ _You gain +1 to spell attack rolls_
 
 **Health**: You gain maximum hit points equal to half your hit dice. 
 
-_You gain +1 to attack and damage rolls using this magical weapon_
+_You gain +2 to attack and damage rolls using this magical weapon_
 
 ---
 
@@ -1030,7 +1044,7 @@ _You gain +1 to attack and damage rolls using this magical weapon_
 
 **Dragging Thrust**: When you take the attack action you can replace one of your attacks with a dragging thrust. Make a melee attack roll targeting an enemy within 15 feet of you, on a hit they take 1d8 additional damage and are pulled 10 feet towards you. 
 
-_You gain +1 to damage and attack rolls using this weapon_
+_You gain +2 to damage and attack rolls using this weapon_
 
 ---
 
@@ -1088,7 +1102,7 @@ _You gain +1 to your armor class while wearing this armor_
 - Wondrous
 - Attunement
 
-**Fury**: As a bonus action you can enter a state of fury for a minute. While in fury your weapon attacks deal 1d6 additional damage, additionaly you gain temporary hit points equal to twice your proficiency bonus whenever you score a takedown. You can use this action twice before finishing a long rest. 
+**Fury**: As a bonus action you can enter a state of fury for a minute. While in fury your weapon attacks deal 1d6 additional damage, additionaly you gain temporary hit points equal to twice your proficiency bonus whenever you score a takedown. You can use this action a number of times equal to your proficiency bonus before finishing a long rest. 
 
 **Calm**: You gain +1 to all saving throws
 
@@ -1105,9 +1119,9 @@ _While attuned to this item your armor class inceases by 1_
 
 **Energized**: Whenever you move you gain a stack of energized for every feet you move and whenever you attack you gain five stacks of energized, up to a maximum of 80.
 
-**Boltt**: When you are at 80 stacks of energized, your next attack with _Stormrazor_ has +1 crit chance, deals 1d8 lightning damage after the weapons initial damage and grants you agility and 30 feet movement speed until the end of your turn.
+**Bolt**: When you are at 80 stacks of energized, your next attack with _Stormrazor_ has +1 crit chance, deals 2d8 lightning damage after the weapons initial damage and grants you agility and 20 feet movement speed until the end of your turn.
 
-_You gain +1 to attack and damage rolls using this weapon_
+_You gain +2 to attack and damage rolls using this weapon_
 
 ---
 
@@ -1120,11 +1134,11 @@ _You gain +1 to attack and damage rolls using this weapon_
 
 **Bladed Whip**: Stridebreaker deals 1d4 additional slashing damage. 
 
-**Halting Slash**: Whenever you hit an attack with stride breaker the target must succed a strength saving throw or be knoicked prone. The dc equals to 9 + proficiency bonus + Dexterity/Strength modifier. 
+**Halting Slash**: Whenever you hit an attack with stride breaker the target must succed a strength saving throw or be knoicked prone. The dc equals to 10 + proficiency bonus + Dexterity/Strength modifier. 
 
 **Cresent**: Once a turn whenever you knock a creature prone with stridebreaker you can choose to pull them to another available square within your reach.
 
-_You have +1 to attack and damage rolls when using this magical weapon_
+_You have +2 to attack and damage rolls when using this magical weapon_
 
 ---
 
@@ -1141,7 +1155,7 @@ _You have +1 to attack and damage rolls when using this magical weapon_
 
 Carve: Your armor class is reduced by one for every other stack of carve you have, up to a maximum of eight. Whenever you start your turn, you remove one stack of carve
 
-_You gain +1 to hit and damage rolls using this magical weapon_
+_You gain +2 to hit and damage rolls using this magical weapon_
 
 ---
 
@@ -1152,9 +1166,11 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 - 2500 Gold
 - Greataxe
 
+**Apprehend**: Once a turn when you take the attack action you can replace one of you attacks by lunging out a nasty hook with the _Tiamat_. All creatures of your choice must succeed a dexterity saving throw (dc = 10 + proficiency bonus + strength modifier) or take 2d12 slashing damage and are moved to a location of your choice within the area. Once this effect is used it cannot be used again until 18 seconds have passed. 
+
 **Cleave**: Whenever you hit a creature with an attack using _Tiamat_, all enemies within 5 feet of the target takes damage equal to your strength modifier. 
 
-You gain +1 to hit and damage rolls using this magical weapon. 
+You gain +2 to hit and damage rolls using this magical weapon. 
 
 ---
 
@@ -1182,6 +1198,8 @@ Once this action is used, it cannot be used again until 30 seconds have passed.
 
 **Haste**: The cooldown of your runes and items are reduced by 6 seconds.
 
+_You get +2 to you spell attack and spell save dc_
+
 ---
 
 ## Umbral Glaive
@@ -1196,7 +1214,7 @@ Once this action is used, it cannot be used again until 30 seconds have passed.
 
 **Ghost Slayer**: Whenever you deal damage with _Umbral Glaive_ to a invisible creature, you deal 1d10 additional damage. 
 
-_You gain +1 to damage and attack rolls using this weapon_
+_You gain +2 to damage and attack rolls using this weapon_
 
 ---
 
@@ -1216,7 +1234,7 @@ _You gain +1 to damage and attack rolls using this weapon_
 
 **Curse of the Fangs**: Whenever you take radiant damage you gain grievous wounds. 
 
-_You have +1 to hit and attack rolls using this weapon_
+_You have +2 to hit and attack rolls using this weapon_
 
 ---
 
@@ -1244,7 +1262,7 @@ _You gain +1 to all saving throws_
 
 **Corruption**: Once a turn when you immobilize a creature, you can give them _Corruption_ removing all resistances and immunities from the target. At the end of its turn, the target can attempt to remove _Corruptin_, making a constitution saving throw against your spell save dc. Once this action is used it cannot be used again until 30 seconds have passed. 
 
-_You gain +1 to spell attacks and spell saving throw dc_
+_You gain +2 to spell attacks and spell saving throw dc_
 
 ---
 
@@ -1290,6 +1308,8 @@ While wielding this armor you gain +1 to your armor class_
 
 **Swift Strike**: Whenever you cast a spell that requires an action to cast, you can make one attack with _Wit's End_ as a bonus action. 
 
+_You have +2 to attack and damage rolls with this magical weapon_
+
 ---
 
 ## Winged Moonplate
@@ -1320,7 +1340,7 @@ _While wielding this armor you gain +1 to your armor class_
 
 _You gain a +2 to your initiative rolls_ 
 
-_You gain +1 to hit and damage rolls using this magical weapon_
+_You gain +2 to hit and damage rolls using this magical weapon_
 
 ---
 
@@ -1351,4 +1371,4 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 **Like the Wind**: Making attacks with _Zephyr_ grants stacks of **Gale**, up to a maximum of six. For every other stack you gain 10 feet flying speed and +1 to hit. If you don´t make any attacks for a minute you loose all stacks. 
 
-_You gain +1 to hit and damage rolls using this magical weapon_
+_You gain +2 to hit and damage rolls using this magical weapon_
