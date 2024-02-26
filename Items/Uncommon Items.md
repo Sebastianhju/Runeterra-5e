@@ -112,14 +112,14 @@ _You gain +1 bonus to unarmed attack rolls_
 
 ---
 
-## Cleaved Longsword
+## Cleaving Longsword
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Long Sword.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Longsword
 
-**Cleave**: When you kill a unit with the _Cleaved Longsword_ you can force the blade to another target within 5 feet of you, dealing damage equal to your strength modifier. 
+**Cleave**: When you hit a target with the _Cleaved Longsword_ you can force the blade to another target within 5 feet of the original target, dealing damage equal to your strength modifier. 
 
 ---
 
@@ -287,7 +287,7 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 - 600
 - Wondrous
 
-**Madness**: Once a turn when you deal or take damage you gain a stack of _Madness_. When you have 5 stacks of madness your gain +1 crit chance.
+**Madness**: Once a turn when you deal or take damage you gain a stack of _Madness_. When you have 5 stacks of madness your gain +1 crit chance for a minute.
 
 ---
 
