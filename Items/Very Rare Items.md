@@ -28,7 +28,7 @@ _While wearing this armor you have a +2 to your armor class_
 
 **Mana**: You gain +18 maximum mana
 
-**Awe**: Your weapon attacks with Muramana deal one additional damage for every 10th maximum mana you have
+**Awe**: Your weapon attacks with Muramana deal one additional damage for every 20th maximum mana you have
 
 **Shock**: When you deal damage with muramana, you can spend **five** charges to change the damage dealt to lightning damage, the target must also succeed a constitution saving throw (dc: 14 or you spell save dc, whatever is higher), on a failed save they are stunned until the end of your next turn. 
 
