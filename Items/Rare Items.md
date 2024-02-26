@@ -1288,7 +1288,7 @@ While wielding this armor you gain +1 to your armor class_
 
 **Fray**: This blade deals 1d6 additional psychic damage and you have recistance to psycic damage.
 
-**Multiattack**: When you take the attack action with Wit's End, you can make an additional attack.
+**Swift Strike**: Whenever you cast a spell that requires an action to cast, you can make one attack with _Wit's End_ as a bonus action. 
 
 ---
 
