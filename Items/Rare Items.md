@@ -204,7 +204,7 @@ You gain +1 to your armor class while wearing this magical armor.
 
 **Hammering Haste**: Once a turn when you hit an attack roll with _Caulfields Warhammer_ you reduce the cooldown of your runes and items by 12. 
 
-**Crushing Blow**: When you take the attack action you can replace one of your attacks with a crushing blow, one target within reach must succeed a strength saving throw (dc = 10 + proficiency bonus + strength modifier) or take 4d6 bludgeoning damage and are knocked prone. On a save they take half damage and are not kncoked prone. Once this action is used it cannot be used again until 36 seconds have passed.
+**Crushing Blow**: When you hit an attack roll with _Caulfields Warhammer_ you can choose to knock the target prone. Once this action is used it cannot be used again until 30 seconds have passed.
 
 _You gain +2 to hit and damage rolls using this magical weapon_
 
