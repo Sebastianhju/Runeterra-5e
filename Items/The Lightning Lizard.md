@@ -97,16 +97,15 @@ _You gain +1 to your initiative rolls_
 
 ---
 
-## Dagger of Swiftness
+## Decisive Sword
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Decisive Sword.png" Align=right width=8% height=8%>
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dagger.png" Align=right width=8% height=8%>
+- 700 Gold
+- Greatsword
 
-- 400 Gold
-- Dagger
+**March**: As a bonus action you can give youself 15 feet movement speed and advantage one your next attack roll with *Decisive Sword*, if the attack hits, the target is mute until the end of their turn. Once this action is used it cannot be used again until 18 seconds pass. 
 
-**Swift strike**: You off-hand attacks with this dagger are made with advantage.
-
-_You gain +1 to your initiative rolls_
+_You get +1 to attack and damage rolls using this weapon_
 
 ---
 
