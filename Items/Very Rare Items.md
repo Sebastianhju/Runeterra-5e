@@ -165,7 +165,7 @@ _You get +3 to your spell attack and spell save dc_
 - Dagger
 - Attunement
 
-**Nightstalker**: Whenever a creature you've dealt damage to with _Duskblade of Draktharr_ in the past 6 seconds dies, it casts invisibility on you. Once this effect has ben used, it cannot be used again until 24 seconds pass
+**Nightstalker**: Whenever a creature you've dealt damage to with _Duskblade of Draktharr_ in the past 6 seconds dies, it casts _greater invisibility_ on you. Once this effect has ben used, it cannot be used again until 36 seconds pass
 
 **Deep Wounds**: Once on a turn when you are hidden, your next attack with _Duskblade of Draktharr_ or another dagger deal 4d6 additional force damage. 
 
@@ -182,13 +182,12 @@ _You gain +3 to hit and damage rolls using this magical weapon_
 - Wonderous Item
 - Attunement
 
-**Annul**: As an reaction upon begin targeted by a spell that targets you, you can cancel it and gain charges equal to the spells mana cost. You can stack up to a maximum of 50 charges, if you don't have enough charges to contain the spell targeting you, the spell is not canceled. 
+**Annul**: As an reaction upon begin targeted by a spell that targets you, you can cancel it and gain charges equal to the spells mana cost. You can stack up to a maximum of 30 charges, if you don't have enough charges to contain the spell targeting you, the spell is not canceled. 
 
-**Nightfall**: You can spend charges to cast the following spells by spendng charges: 
-- (10) Invisibility 
-- (20) Pass without a Trace
-- (30) Greater invisibility
-- (40) Globe of Invulnerability
+**Nightfall**: You can spend charges to cast the following spells on yourself by spendng charges: 
+- (5) Invisibility 
+- (15) Pass without a Trace
+- (25) Greater invisibility
 
 _You gain +2 to all saving throws_ 
 
@@ -220,7 +219,7 @@ _You have +3 to hit and attack rolls using this magical weapon_
 - Wonderous Item
 - Attunement 
 
-**Glaciate**: Once a day you can cast the cone of cold spell without spending mana. Wisdom is your spellcasting ability unless your class uses another one. Whenever you use this feature you can spend two extra mana to cast it a spell level higher, up to 9th level. Once you've used this feature, it cannot be used again until you finish a long rest.
+**Infinite Cold**: Whenever you cast a damaging spell, you can choose to change the damage type to cold damage. Whenever you deal cold damage to a target, they gain a mark of cold. A creature with a mark of cold has their armor class reduced by an amount equal to half your proficiency bonus, rounded up. 
 
 **Mana**: You gain +10 maximum mana
 
