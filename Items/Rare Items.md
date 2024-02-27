@@ -962,9 +962,9 @@ _You gain +1 to your armor class_
 - 2750 Gold
 - Shortsword
 
- **Poison Loaded**: The first attack with _Serpent's Fang_ each turn deals 2d6 additional poision damage. 
+**Poison Loaded**: The first attack with _Serpent's Fang_ each turn deals 2d6 additional poision damage. 
 
-**Shield Reaver**: When you hit an attack with _Serpent's Fang_ you can choose to inject venom to your for, giving them cramps in their arms. The target must succeed a constitution saving throw (dc: 15) or drop anything in their arms.
+**Shield Reaver**: When you hit an attack with _Serpent's Fang_ you can choose to inject venom to your for, giving them cramps in their arms. The target must succeed a constitution saving throw (Dc= 10 + proficiency bonus + dexterity modifier) or drop anything in their arms.
 
 _You gain +2 to attack and damage rolls using this weapon_
 
