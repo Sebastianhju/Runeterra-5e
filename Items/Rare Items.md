@@ -835,7 +835,7 @@ _You gain +2 to attack and damage rolls using this weapon_
 
 **Wrath**: Once a turn when you hit an attack against a target with _rageknife_ they gain a stack of _Rage_. 
 
-**Rage**: Once an enemy has two stacks of rage, they consume all stacks and must make a wisdom saving throw, dc equals 0 + proficiency bonus + constitution modifier. On a failure they loose control of their self and must act as if they were under the confusion spell during their next turn.
+**Rage**: Once an enemy has two stacks of rage, they consume all stacks and must make a wisdom saving throw, dc equals 10 + proficiency bonus + constitution modifier. On a failure they loose control of their self and must act as if they were under the confusion spell during their next turn.
 
 _You gain +2 to hit and damage rolls using this magical weapon._
 
