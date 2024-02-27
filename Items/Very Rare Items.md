@@ -335,9 +335,9 @@ _You gain +2 to your armor class while wearing this piece of armor_
 
 **Gunblade**: This weapon can eighter be used as a +3 Pistol or a +3 Scimitar, you gain different benefit from eighter option.
 
-**Hextech Gun**: When you hit an attack with the gun part of this weapon, you can choose to heal yourself and an ally within 15 feet of the target for 2d8 + proficiency bonus hit points. Once this effect is used, it cannot be used again until 30 seconds pass. Whenever you make an attack roll using the sword part of this weapon the cooldown goes down by 12 seconds. 
+**Hextech Gun**: When you hit an attack with the gun part of this weapon, you can choose to heal yourself and an ally within 15 feet of the target for 2d8 + proficiency bonus hit points. Once this effect is used, it cannot be used again until 48 seconds pass. Whenever you make an attack roll using the sword part of this weapon the cooldown goes down by 12 seconds. 
 
-**Hextech Blade**: When you hit an attack with the sword part of this weapon you can unleash a burst of energy dealing 4d8 lightning damage to the target. Once this effect is used, it cannot be used again until 30 seconds pass. Whenever you make an attack roll using the gun part of this weapon the cooldown goes down by 12 seconds. 
+**Hextech Blade**: When you hit an attack with the sword part of this weapon you can unleash a burst of energy dealing 4d8 lightning damage to the target. Once this effect is used, it cannot be used again until 48 seconds pass. Whenever you make an attack roll using the gun part of this weapon the cooldown goes down by 12 seconds. 
 
 _You gain +3 to hit and attack rolls using this magical weapon_
 
