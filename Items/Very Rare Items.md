@@ -772,18 +772,20 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Warmogs Armor.png" Align=right width=8% height=8%>
 
-- Breastplate
+- Wonderous Item (Armor that can be used by the barbarian class as well)
 - Attunement
 
-**Substain**: The maximum amount of regeneration stacks you can gain are doubled. 
+**Substain**: The maximum amount of regeneration stacks is increased by three times your proficiency bonus. 
 
 **Warmogs Heart**: As a bonus action, you can give yoursel stacks of regeneration equal to two times your proficiency bonus. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
 
 **Health**: You gain maximum hit points equal to three times your level. 
 
+**Armor**: Your armor class is 16 with this armor unless your unarmored defence is higher
+
 _Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
 
-_You get +2 to you armor class while wearing this armor_
+
   
 ---
 
