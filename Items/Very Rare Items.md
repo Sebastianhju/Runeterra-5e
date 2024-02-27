@@ -718,7 +718,7 @@ _You gain +2 to your armor class while wielding this piece of armor_
 
 **Taxes**: Whenever you kill a creature you gain gold equal to 50 times your proficiency bonus. 
 
-**Trigger Safety**: When you roll a nautrual 1 you can instantly repair _The Collector_ you can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
+**Trigger Safety**: When _The Collector_ jams, you can instantly repair _The Collector_ you can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
 
 _You gain +3 to hit and damage rolls using this magical weapon_
 
