@@ -490,7 +490,7 @@ _You gain +3 to spell attacks and your save dc while attuned to this magical ite
 
 **Dread**: While at 5 or more stacks, you deal 1d4 additional damage whenever you deal spell damage. This damage increases to 1d6 whenever you are at 10 stacks. While at 15 stacks this damage increases to 2d6 and you gain + 10 feet movement speed. 
 
-**Secretkeeper**: The first time you achive 25 stacks you can increase all ability modifiers by one. Once the book is used in this way, this feature cannot be used again.
+**Secretkeeper**: The first time you achive 15 stacks you can increase all ability modifiers by one. Once the book is used in this way, this feature cannot be used again.
 
 --- 
 
