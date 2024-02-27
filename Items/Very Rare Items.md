@@ -590,7 +590,7 @@ _You have +3 to hit and damage rolls with this magical weapon_
 
 **Lifesteal**: Whenever you hit an attack with _Ravenous Hydra_ you regain health equal to half your proficiency bonus
 
-**Hunger**: Whenever you score a takedown, you gain a stack of _Satisfaction_, up to a maximum of 30. If your hitpoints reaches zero, you loose ten stacks. For every stack of _Satisfaction_ you gain the following features:
+**Hunger**: Whenever you score a takedown, you gain a stack of _Satisfaction_, up to a maximum of 15. If your hitpoints reaches zero, you loose ten stacks. For every stack of _Satisfaction_ you gain the following features:
 - (5): You gain +3 to hit and damage rolls
 - (10): All healing from this item is doubled
 - (15): You gain +4 to hit and damage rolls.
