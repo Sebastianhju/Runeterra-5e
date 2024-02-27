@@ -694,14 +694,15 @@ _You have +3 to attack and damage rolls when using this magical weapon_
 ## Sunfire Aegis
 
 - Shield
+- Attunement
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sunfire Aegis.png" Align=right width=8% height=8%>
 
-**Immolate**: As a bonus action you can activate this shield, causing it to burn for a minute. Whenever you end your turn, all enemies within 5 feet of you must succeed a constitution saving throw or take 2d6 + proficiency bonus fire damage, halved on a save, and applies burn. Creatures who are burning takes 4d6 + proficiency bonus fire damage instead. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
+**Immolate**: As a bonus action you can activate this shield, causing it to burn for a minute. Whenever you end your turn, all enemies within 5 feet of you must succeed a constitution saving throw or take 2d6 + proficiency bonus fire damage, halved on a save, and applies burn. Creatures who are burning takes 4d6 + proficiency bonus fire damage instead. Creatures within 5 feet that attack you while _Immolate_ is enabled suffers the damage without making a saving throw. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
 
 **Health**: Your maximum hit points increases by an anount equal to twice your level
 
-_You gain +1 to your armor class while wielding this piece of armor_
+_You gain +2 to your armor class while wielding this piece of armor_
 
 ---
 
@@ -709,15 +710,18 @@ _You gain +1 to your armor class while wielding this piece of armor_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/The Collector.png" Align=right width=8% height=8%>
 
-- Blunderbuss
+- Bad News
+- Attunement
 
-**Critical**: Your Critical strike chance increases by one. 
+**Critical**: Your Critical strike chance increases by two. 
 
 **Death**: If a hit from _The Collector_ would leave a creature below 5% of their maximum hit points, you execute them.
 
-**Taxes**: Whenever you kill a creature you gain gold equal to ten times your proficiency bonus. 
+**Taxes**: Whenever you kill a creature you gain gold equal to 50 times your proficiency bonus. 
 
-_You gain +2 to hit and damage rolls using this magical weapon_
+**Trigger Safety**: When you roll a nautrual 1 you can instantly repair _The Collector_ you can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
+
+_You gain +3 to hit and damage rolls using this magical weapon_
 
 ---
 
@@ -731,7 +735,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 **Health**: You gain maximum hit points equal to twice your level. 
 
-_You gain +2 to your armor class while wearing this piece of armor_
+_You gain +3 to your armor class while wearing this piece of armor_
 
 ---
 
@@ -740,12 +744,13 @@ _You gain +2 to your armor class while wearing this piece of armor_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Titanic Hydra.png" Align=right width=8% height=8%>
 
 - Greataxe
+- Attunemnet
 
 **Cleave**: Your attacks deal 1d6 additional foce damage for every 50th maximum hit points you have in a 15 feet cone, including the target. 
 
 **Health**: You gain maximum hit points equal to twice your level.
 
-_You gain +2 to attack and damage rolls using this weapon_
+_You gain +3 to attack and damage rolls using this weapon_
 
 ---
 
@@ -769,18 +774,18 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Warmogs Armor.png" Align=right width=8% height=8%>
 
 - Breastplate
-- Attunement (You must have atleast 75 hit points to attune to _Warmogs Armor_)
+- Attunement
 
 **Substain**: The maximum amount of regeneration stacks you can gain are doubled. 
 
 **Warmogs Heart**: As a bonus action, you can give yoursel stacks of regeneration equal to two times your proficiency bonus. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
 
-**always Ready**: Whenever you roll initiative, if you are bloodied you instead start with 60% hit points. 
-
 **Health**: You gain maximum hit points equal to three times your level. 
 
 _Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
 
+_You get +2 to you armor class while wearing this armor_
+  
 ---
 
 ## Zhonya's Hourglass
