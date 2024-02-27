@@ -710,7 +710,7 @@ _You gain +2 to your armor class while wielding this piece of armor_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/The Collector.png" Align=right width=8% height=8%>
 
-- Bad News
+- Pepperbox
 - Attunement
 
 **Critical**: Your Critical strike chance increases by two. 
