@@ -167,7 +167,7 @@ _You get +3 to your spell attack and spell save dc_
 
 **Nightstalker**: Whenever a creature you've dealt damage to with _Duskblade of Draktharr_ in the past 6 seconds dies, it casts invisibility on you. Once this effect has ben used, it cannot be used again until 24 seconds pass
 
-**Deep Wounds**: Whenever you hit a creature that are unaware of your presence. _Duskblade of Draktharr_ or another dagger deal 4d6 additional force damage. 
+**Deep Wounds**: Once on a turn when you are hidden, your next attack with _Duskblade of Draktharr_ or another dagger deal 4d6 additional force damage. 
 
 **Haste**: The cooldowns of you items and runes are reduced with 6 seconds.  
 
