@@ -504,8 +504,7 @@ When you reach level 11 you instead gain +1 maximum hit points for every other s
 
 ### Revitalize  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Revitalize.png" Align=left width=7% height=7%>
 
-Once a turn when you gain temporary hit points or are healed, you heal additional hit points equal to twice your proficiency bonus to the total amount.
-
+Once a turn when you gain temporary hit points or are healed, you can choose to heal additional hit points equal to twice your proficiency bonus to the total amount. The additional healing is halved if the source of healing is _Regeneration_.
 
 ---
 
