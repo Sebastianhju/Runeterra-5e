@@ -352,7 +352,7 @@ _You gain +3 to hit and attack rolls using this magical weapon_
 
 **Frostborn**: You gain immunity to cold damage, and your unarmed attacks deals 2d8 cold damage. 
 
-**Local Blizzard**: Whenever you hit with a unarmed or weapon attack, you can send out a local blizzard. Until the end of your next turn, a 15ft sphere of ice and cold swirls around you. Any enemy creature that starts their turn within the sphere has their movement speed halved and are blinded until the end of their turn. Once this effect is used, it cannot be used again until 30 seconds pass.
+**Local Blizzard**: Whenever you hit with a unarmed or weapon attack, you can send out a local blizzard. Until the end of your next turn, a 10ft radius of ice and cold swirls the target. Any enemy creature that starts their turn within the sphere has their movement speed halved and are blinded until the end of their turn. Once this effect is used, it cannot be used again until 30 seconds pass.
 
 **Health**: You gain maximum hit points equal to two times your level. 
 
