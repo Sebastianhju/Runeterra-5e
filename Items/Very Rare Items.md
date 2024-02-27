@@ -309,6 +309,7 @@ _You have +3 to hit and damage rolls with this magical weapon_
 
 _You gain +3 to hit and damage rolls with this magical weapon_
 
+---
 
 ## Heartsteel
 
