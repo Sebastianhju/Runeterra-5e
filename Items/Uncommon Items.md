@@ -248,7 +248,7 @@ _You get +1 to attack and damage rolls using this weapon_
 
 **Endure**: Once a round when you take damage, you gain two stacks of _regeneration_. 
 
-_Regeneration_: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus. 
+_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to two plus your proficiency bonus._ 
 
 ---
 
