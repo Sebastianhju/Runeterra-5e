@@ -209,7 +209,7 @@ _You gain +2 to all saving throws_
 
 **Critical**: Your crit chance increases by one
 
-_You have +2 to hit and attack rolls using this magical weapon_ 
+_You have +3 to hit and attack rolls using this magical weapon_ 
 
 ---
 
