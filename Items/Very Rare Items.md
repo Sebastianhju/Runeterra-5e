@@ -763,7 +763,7 @@ _You gain +3 to attack and damage rolls using this weapon_
 
 **Extra Attack**: You can make an extra attack as a part of the attack action.
 
-_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
+_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to two plus your proficiency bonus._
 
 ---
 
@@ -784,8 +784,6 @@ _You get +2 to your armorclass while wearing this magical armor_
 
 _Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to two plus your proficiency bonus._
 
-
-  
 ---
 
 ## Zhonya's Hourglass
