@@ -303,7 +303,7 @@ _You have +3 to hit and damage rolls with this magical weapon_
 - Scimitar
 - Attunement
 
-**Wrath**: This scimitar deals an additional 3d6 fire damage
+**Wrath**: This scimitar deals an additional 2d6 fire damage
 
 **Seething Strike**: Whenever you take the attack action you can choose to make one or more of the attacks with disadvantage. For each attack you make with disadvantage using this feature, you can make an additional attack with disadvantage. 
 
