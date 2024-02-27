@@ -1166,7 +1166,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 - 2500 Gold
 - Greataxe
 
-**Apprehend**: Once a turn when you take the attack action you can replace one of you attacks by lunging out a nasty hook with the _Tiamat_. All creatures of your choice must succeed a dexterity saving throw (dc = 10 + proficiency bonus + strength modifier) or take 2d12 slashing damage and are moved to a location of your choice within the area. Once this effect is used it cannot be used again until 18 seconds have passed. 
+**Apprehend**: Once a turn when you take the attack action you can replace one of you attacks by lunging out a nasty hook with the _Tiamat_. All creatures of your choice in a 30 feet cone must succeed a dexterity saving throw (dc = 10 + proficiency bonus + strength modifier) or take 2d12 slashing damage and are moved to a location of your choice within the area. Once this effect is used it cannot be used again until 18 seconds have passed. 
 
 **Cleave**: Whenever you hit a creature with an attack using _Tiamat_, all enemies within 5 feet of the target takes damage equal to your strength modifier. 
 
