@@ -480,11 +480,11 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Conditioning
 
 ### Comeback  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/SecondWind.png" Align=left width=7% height=7%>
 
-When you gain the bloodied condition you also gain stacks of regenerataion equal to three times your proficiency bonus. Once this effect is used, it cannot be used again until 48 seconds pass. 
+When you gain the bloodied condition you also gain stacks of regenerataion equal to two times your proficiency bonus. Once this effect is used, it cannot be used again until 48 seconds pass. 
 
-The maximum stacks of regeneration is increased to five times your proficiency bonus. 
+The maximum stacks of regeneration is increased by one.
 
-_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
+_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to two plus your proficiency bonus._
 
 ---
 
@@ -505,6 +505,7 @@ When you reach level 11 you instead gain +1 maximum hit points for every other s
 ### Revitalize  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Revitalize.png" Align=left width=7% height=7%>
 
 Once a turn when you gain temporary hit points or are healed, you heal additional hit points equal to twice your proficiency bonus to the total amount.
+
 
 ---
 
