@@ -82,10 +82,10 @@ _You have +2 to spell attack rolls and +2 to your spell save DC when attuned to 
 
 **Warding**: As an action, you can place down a stealth ward. You can do this a number of times equal to your proficiency bonus before finishing a long rest
 
-_You have +1 to damage and attack rolls using this magical weapon_
+_You have +2 to damage and attack rolls using this magical weapon_
 
 ---
-
+  
 # Very Rare Items
 
 ## Black Cleaver
@@ -95,7 +95,7 @@ _You have +1 to damage and attack rolls using this magical weapon_
 - Greataxe
 - Attunemnt
 
-**Carve**: Whenever you hit a creature with Black Cleaver, they gain two stacks of _Carve_
+**Carve**: Whenever you hit a creature with Black Cleaver, they gain three stacks of _Carve_
 
 **Haste**: The cooldown of your items and runes are reduced with 6 seconds.
 
@@ -103,7 +103,7 @@ _You have +1 to damage and attack rolls using this magical weapon_
 
 _Carve: Your armor class is reduced by one for every other stack of carve you have, up to a maximum of eight. Whenever you start your turn, you remove one stack of carve_
 
-_You gain +2 to hit and attack rolls using this magical weapon_
+_You gain +3 to hit and attack rolls using this magical weapon_
 
 ---
 
@@ -114,13 +114,13 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 - Longsword
 - Attunement
 
-**Mists Edge**: Whenever you damage a creauture with _Blade of the Ruined King_, they take 1d4 additional necrotic damage and you heal for that amount.  
+**Mists Edge**: Whenever you damage a creauture with _Blade of the Ruined King_, they take 1d8 additional necrotic damage and you heal for that amount.  
 
-**Siphon**: Damaging creatures gives them a stack of _Siphon_. Whenever a creature gains five stacks they take 2d8 necrotic damage and are blinded for a minute. Once this effect is used, it cannot be used again until 30 seconds pass.
+**Siphon**: Damaging creatures gives them a stack of _Siphon_. Whenever a creature gains three stacks they take 3d8 necrotic damage and are blinded for a minute. Once this effect is used, it cannot be used again until 30 seconds pass.
 
 **Extra Attack**: You can make an extra attack as a part of the attack action.
 
-_You gain +2 to hit and attack rolls using this magical weapon_
+_You gain +3 to hit and attack rolls using this magical weapon_
 
 ---
 
@@ -129,14 +129,15 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bloodthirster.png" Align=right width=8% height=8%>
 
 - Greatsword
+- Attunement
 
-**Engorge**: While above 50% hit points, your attacks with _Bloodthirster_ deals 1d6 additional damage. 
+**Engorge**: While above 50% hit points, your attacks with _Bloodthirster_ deals 2d6 additional damage. 
 
-**Lifestel**: Whenever you hit an attack with _Bloodthirster_ you heal equal to your proficiency bonus
+**Lifesteal**: Whenever you hit an attack with _Bloodthirster_ you heal equal to twice your proficiency bonus
 
-**Critical**: Your Critical strike chance increases by one. 
+**Critical**: Your Critical strike chance increases by two. 
 
-_You gain +2 to hit and damage rolls using this magical weapon_
+_You gain +3 to hit and damage rolls using this magical weapon_
 
 ---
 
@@ -147,11 +148,13 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 - Wonderous Item
 - Attunement 
 
-**Safeguard**: Once a round whenever you are about to take damage, safeguard activates and negates all damage taken. Once used it cannot be used again until 30 seconds pass. As long as safeguard is off cooldown, your spells deal 1d8 additional cold damage. 
+**Safeguard**: Once a round whenever you are about to take damage, safeguard activates and negates all damage taken. Once used it cannot be used again until 30 seconds pass. As long as safeguard is off cooldown, your spells deal 2d6 additional cold damage. 
 
-**Mana**: You gain +5 maximum mana
+**Mana**: You gain +10 maximum mana
 
 **Haste**: The cooldown of your items and runes are reduced with 6 seconds.
+
+_You get +3 to your spell attack and spell save dc_
 
 ---
 
@@ -160,14 +163,15 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Duskblade of Draktharr.png" Align=right width=8% height=8%>
 
 - Dagger
+- Attunement
 
-**Nightstalker**: Whenever a creature you've dealt damage to with _Duskblade of Draktharr_ in the past 6 seconds dies, it casts invisibility on you. Once this effect has ben used, it cannot be used again until 30 seconds pass
+**Nightstalker**: Whenever a creature you've dealt damage to with _Duskblade of Draktharr_ in the past 6 seconds dies, it casts invisibility on you. Once this effect has ben used, it cannot be used again until 24 seconds pass
 
-**Deep Wounds**: Whenever you hit a creature that are unaware of your presence. you, _Duskblade of Draktharr_ deals 2d6 additional force damage. 
+**Deep Wounds**: Whenever you hit a creature that are unaware of your presence. you, _Duskblade of Draktharr_ deals 4d6 additional force damage. 
 
 **Haste**: The cooldowns of you items and runes are reduced with 6 seconds.  
 
-_You gian +2 to hit and damage rolls using this magical weapon_
+_You gain +3 to hit and damage rolls using this magical weapon_
 
 ---
 
@@ -178,14 +182,15 @@ _You gian +2 to hit and damage rolls using this magical weapon_
 - Wonderous Item
 - Attunement
 
-**Annul**: As an reaction upon begin targeted by a spell that targets only you, you can cancel it and gain charges equal to the spells mana cost. You can stack up to a maximum of 50 charges. If you don't have enough charges to contain the spell targeting you, it still affects you.
+**Annul**: As an reaction upon begin targeted by a spell that targets you, you can cancel it and gain charges equal to the spells mana cost. You can stack up to a maximum of 50 charges, if you don't have enough charges to contain the spell targeting you, the spell is not canceled. 
 
 **Nightfall**: You can spend charges to cast the following spells by spendng charges: 
 - (10) Invisibility 
 - (20) Pass without a Trace
 - (30) Greater invisibility
+- (40) Globe of Invulnerability
 
-_You gain +1 to all saving throws_ 
+_You gain +2 to all saving throws_ 
 
 ---
 
@@ -193,12 +198,16 @@ _You gain +1 to all saving throws_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Essence Reaver.png" Align=right width=8% height=8%>
 
-- Sickle
+- Scimitar (Scythe)
 - Attunement
 
-**Stored Potential**: After casting a spell, your next attack with _Essence Reaver_ has a +2 critically strike chance and deals 1d8 additianal slashing damage.
+**Essence Edge**: The _Essence Reaver_ deals 1d6 additional slashing damage. 
 
-**Manacharge**: Whenever you critically hit a creature, you regain mana equal to your proficiency bonus. 
+**Stored Potential**: After casting a spell, your next attack with _Essence Reaver_ has a +2 critically strike chance and deals 2d6 radiant damage on a hit.
+
+**Manacharge**: Whenever you critically hit a creature, you regain mana equal to twice your proficiency bonus. 
+
+**Critical**: Your crit chance increases by one
 
 _You have +2 to hit and attack rolls using this magical weapon_ 
 
@@ -213,11 +222,11 @@ _You have +2 to hit and attack rolls using this magical weapon_
 
 **Glaciate**: Once a day you can cast the cone of cold spell without spending mana. Wisdom is your spellcasting ability unless your class uses another one. Whenever you use this feature you can spend two extra mana to cast it a spell level higher, up to 9th level. Once you've used this feature, it cannot be used again until you finish a long rest.
 
-**Mana**: You gain +5 maximum mana
+**Mana**: You gain +10 maximum mana
 
 **Haste**: the cooldown of your items and runes are reduced with 6 seconds.
 
-_You gain +2 to spell attack rolls and +1 to spell save DCs_
+_You gain +3 to spell attack rolls spell save dc_
 
 ---
 
@@ -230,11 +239,11 @@ _You gain +2 to spell attack rolls and +1 to spell save DCs_
 
 **Winters Caress**: All enemies within 10 feet of you must make one less weapon attack as a part of their action to a minimum of one attack. 
 
-**Mana**: You gain +5 maximum mana
+**Mana**: You gain +10 maximum mana
 
 **Haste**: Your cooldowns on items and runes are reduced by 6 seconds
 
-**Armor**: You gain +1 to your armor class
+**Armor**: You gain +2 to your armor class
 
 ---
 
@@ -247,7 +256,7 @@ _You gain +2 to spell attack rolls and +1 to spell save DCs_
 
 **Fortify**: You take 3 less damage from pysical and elemental damage. 
 
-**Monolith**: As a bonus action you can give yourself temporary hit points equal to four times your proficiency modifier. Once this effect is used it cannot be used again until 30 seconds pass.  
+**Monolith**: As a bonus action you can give yourself temporary hit points equal to ten times your proficiency modifier. Once this effect is used it cannot be used again until 30 seconds pass.  
 
 **Petricite**: Whenever you gain temporary hit points you can remove one magical effect affecting you, unless you are charmed.
 
@@ -260,16 +269,17 @@ _You gain +2 to your armor class while wearing this piece of armor_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Goredrinker.png" Align=right width=8% height=8%>
 
 - Morningstar
+- Attunement
 
-**Thirsting Slash**: As an action, you can swing the Goredrinker around you. All creatures within 5 feet of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this ability is used, it cannot be used again until 30 seconds pass. 
+**Thirsting Slash**: Once a turn when you take the attack action, you can replace one of your attacks with a thirsting slash, swinging the Goredrinker around you. All creatures within reach of you must succeed a dexterity saving throw (DC: 11 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this ability is used, it cannot be used again until 18 seconds pass. 
 
 **Lifesteal**: Whenever you deal damage to a target with _Goredrinker_ you heal equal to your proficiency bonus
 
 **Haste**: The cooldown of your items and runes are reduced with 6 seconds.
 
-_You gain +2 to hit and damage rolls with this magical weapon_
+_You gain +3 to hit and damage rolls with this magical weapon_
 
----
+---  
 
 ## Guardian's Angel
 
@@ -282,7 +292,7 @@ _You gain +2 to hit and damage rolls with this magical weapon_
 
 **Flight**: You gain 30 feet flying speed
 
-_You have +2 to hit and damage rolls with this magical weapon_ 
+_You have +3 to hit and damage rolls with this magical weapon_ 
 
 ---
 
@@ -291,12 +301,13 @@ _You have +2 to hit and damage rolls with this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Guinsoo's Rageblade.png" Align=right width=8% height=8%>
 
 - Scimitar
+- Attunement
 
-**Wrath**: This scimitar deals an additional 2d6 fire damage
+**Wrath**: This scimitar deals an additional 3d6 fire damage
 
 **Seething Strike**: Whenever you take the attack action you can choose to make one or more of the attacks with disadvantage. For each attack you make with disadvantage using this feature, you can make an additional attack with disadvantage. 
 
-_You gain +2 to hit and damage rolls with this magical weapon_
+_You gain +3 to hit and damage rolls with this magical weapon_
 
 
 ## Heartsteel
@@ -310,7 +321,7 @@ _You gain +2 to hit and damage rolls with this magical weapon_
 
 **Health**: You gain maximum hit points equal to twice your level. 
 
-_You gain +1 to your armor class while wearing this piece of armor_
+_You gain +2 to your armor class while wearing this piece of armor_
 
 ---
 
@@ -318,15 +329,16 @@ _You gain +1 to your armor class while wearing this piece of armor_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Gunblade.png" Align=right width=8% height=8%>
 
-- Pistol / Longsword
+- Pistol / Scimitar
+- Attunement
 
-**Gunblade**: This weapon can eighter be used as a +2 Pistol or a +2 Longsword, you gain different benefit from eighter option.
+**Gunblade**: This weapon can eighter be used as a +3 Pistol or a +3 Scimitar, you gain different benefit from eighter option.
 
-**Hextech Gun**: When you hit an attack with the gun part of this weapon, you can choose to heal yourself and an ally within 15 feet of the target for 2d8 + proficiency bonus hit points. Once this effect is used, it cannot be used again until 60 seconds pass. Whenever you make an attack roll using the sword part of this weapon the cooldown goes down by 12 seconds. 
+**Hextech Gun**: When you hit an attack with the gun part of this weapon, you can choose to heal yourself and an ally within 15 feet of the target for 2d8 + proficiency bonus hit points. Once this effect is used, it cannot be used again until 30 seconds pass. Whenever you make an attack roll using the sword part of this weapon the cooldown goes down by 12 seconds. 
 
-**Hextech Blade**: When you hit an attack with the sword part of this weapon you can unleash a burst of energy dealing 2d8 lightning damage to the target. Once this effect is used, it cannot be used again until 60 seconds pass. Whenever you make an attack roll using the gun part of this weapon the cooldown goes down by 12 seconds. 
+**Hextech Blade**: When you hit an attack with the sword part of this weapon you can unleash a burst of energy dealing 4d8 lightning damage to the target. Once this effect is used, it cannot be used again until 30 seconds pass. Whenever you make an attack roll using the gun part of this weapon the cooldown goes down by 12 seconds. 
 
-_You gain +2 to hit and attack rolls using this magical weapon_
+_You gain +3 to hit and attack rolls using this magical weapon_
 
 ---
 
@@ -335,12 +347,15 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Iceborn Gauntlet.png" Align=right width=8% height=8%>
 
 - Wonderous
+- Attunement
 
-**Frostborn**: You gain resistance to cold damage, and your unarmed attacks deals 1d8 additional cold damage. 
+**Frostborn**: You gain immunity to cold damage, and your unarmed attacks deals 2d8 cold damage. 
 
-**Local Blizzard**: Whenever you hit with a unarmed or weapon attack, you can send out a local blizzard. Until the end of your next turn, a 15ft sphere of ice and cold swirls around you. Any enemy creature that starts their turn within the sphere has their movement speed halved until the end of their turn. Once this effect is used, it cannot be used again until 30 seconds pass.
+**Local Blizzard**: Whenever you hit with a unarmed or weapon attack, you can send out a local blizzard. Until the end of your next turn, a 15ft sphere of ice and cold swirls around you. Any enemy creature that starts their turn within the sphere has their movement speed halved and are blinded until the end of their turn. Once this effect is used, it cannot be used again until 30 seconds pass.
 
-**Health**: You gain maximum hit points equal to your dice. 
+**Health**: You gain maximum hit points equal to two times your level. 
+
+_You have +3 to unarmed attacks and damage rolls_
 
 ---
 
@@ -353,11 +368,12 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 **Lifeline**: If you would take damage that would make you bloodied, you first gain temporary hit points equal to 10 times your proficiency bonus. As long as you have these temporary hit points, you can make an additional attack as a part of your attack action. Once this effect is used, it cannot be used again until you finish a long rest.
 
-**Critical**: Your Critical strike chance increases by one.  
+**Critical**: Your Critical strike chance increases by two.  
 
 **Lifesteal**: Whenever you hit a target with the _Immortal shieldbow_ you heal equal to your proficieny bonus. 
 
-_While wielding this bow, you gian +2 to hit and attack rolls and +1 to your armor class_
+_While wielding this bow, you gian +3 to hit and attack rolls_
+_While wieldign this bow you gain +2 to your armor class_
 _You gain +3 to inititative checks_
 
 ---
@@ -371,9 +387,9 @@ _You gain +3 to inititative checks_
 
 **Infinite Potential**: Whenever you critically hit a creature, your damage rolled is tripled instead of doubled. 
 
-**Critical**: Your Critical strike chance increases by one. 
+**Critical**: Your Critical strike chance increases by two. 
 
-_You gain +2 to hit and damage rolls using this magical weapon _
+_You gain +3 to hit and damage rolls using this magical weapon_
 
 ---
 
@@ -386,9 +402,11 @@ _You gain +2 to hit and damage rolls using this magical weapon _
 
 **Pledge**: As a ritual during your long rest, you can select an ally to be named _Worthy_. The worthy creature can add 1d6 to all ability checks and saving throws until you select a new _Worthy_ target. 
 
-**Sacrifice**: Whenever the _Worthy_ ally is within 120 feet of you and takes damage, you take half of that damage as nonmigatiable damage and they take half damage instead. Whenever the _Worthy_ ally deals damage to a creature, you heal equal to your proficiency bonus, up to a maximum of five times each round. 
+**Sacrifice**: Whenever the _Worthy_ ally is within 120 feet of you and takes damage, you take half of that damage as nonmigatiable damage and they take half damage instead. Whenever the _Worthy_ ally deals damage to a creature, you heal equal twice to your proficiency bonus, up to a maximum of three times each round. 
 
 **Health**: You gain maximum hit points equal to twice your level. 
+
+_You get +2 to your armor class_
 
 ---
 
@@ -397,14 +415,15 @@ _You gain +2 to hit and damage rolls using this magical weapon _
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Litch Bane.png" Align=right width=8% height=8%>
 
 - Shortsword
+- Attunement
 
 **Spellblade**: You can use you spellcasting ability when determening to hit and damge modifiers for this weapon.
 
-**Lingering Power**: After casting a spell, your next attack deals additional psychic damage equal to two times the mana spent. 
+**Lingering Power**: After casting a spell, your next attack deals 1d6 additional psychic damage for every mana spent on that spell.
 
-**Mageslayer**: Whenever you hit a target that is concentrating with _Lich Bane_, they have disadvantage on the consentration check, and their next spell costs 3 more mana. 
+**Mageslayer**: Whenever you hit a target that is concentrating with _Lich Bane_, they loose concentration and they cannot cast any spells until the end of their next turn. 
 
-_You have +2 to attack and damage rolls when using this magical weapon_
+_You have +3 to attack and damage rolls when using this magical weapon_
 
 ---
 
@@ -417,9 +436,10 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 
 **Haste**: The cooldowns on runes and items are reduced by 6 seconds
 
-**Protection**: You gain +1 to your armor class and saving throws. 
+**Devotion**: As an action you can pray for aid and protection over your allies. Up to 6 targets within 60 feet of you gain temporary hit points equal to six times your proficiency bonus. As long as they have the temporary hit points, they can add 1d6 to all d20 roll they make. You can do this action a number of times equal to your proficiency bonus before you must finish a long rest. 
 
-**Devotion**: As an action you can pray for aid and protection over your allies. Up to 6 targets within 60 feet of you gain temporary hit points equal to two times your level. As long as they have the temporary hit points, they can add 1d4 to all d20 roll they make. You can do this action a number of times equal to your proficiency bonus before you must finish a long rest. 
+_You get +2 to your armor class_
+_You get +2 to your saving throws_
 
 ---
 
@@ -428,14 +448,15 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lord Dominik's Regards.png" Align=right width=8% height=8%>
 
 - Crossbow, heavy
+- Attunement
 
-**Breathtaking**: Whenever you damage enemies, you ignore resistances to piercing damage. If a creature would be immune to piercing damage, they take half damage from your attacks.
+**Breathtaking**: You can use eighter strength or dexterity when wielding this weapon. Whenever you damage enemies, you ignore resistances and immunities to piercing damage.
 
-**Giant Slayer**: _Lord Dominic's Regard_ deals 1d8 additional damage to targets that are one or more size larger than you. 
+**Giant Slayer**: _Lord Dominic's Regard_ deals 2d10 additional damage to targets that are one or more size larger than you. 
 
 **Critical**: Your Critical strike chance increases by one. 
 
-_You gain +2 to hit and attack rolls with this magical weapon_
+_You gain +3 to hit and attack rolls with this magical weapon_
 _You gain +3 to initiative rolls_
 
 ---
@@ -447,13 +468,13 @@ _You gain +3 to initiative rolls_
 - Quarterstaff
 - Attunement
 
-**Echo**: Whenever you deal lightning or thunder damage to a creature, you can choose to force up to three creatures within 10 feet of the target to roll a dexterity saving throw or take 2d8 thunder damage, halved on a save. Once this effect is used, it cannot be used again until 60 seconds pass. The cooldown if this item is reduced by 12 whenever you deal or take lightning or thunder damage.
+**Echo**: Whenever you deal lightning or thunder damage to a creature, you can choose to force up to three creatures within 10 feet of the target to roll a dexterity saving throw or take 2d8 thunder damage, halved on a save. Once this effect is used, it cannot be used again until 48 seconds pass. The cooldown if this item is reduced by 12 whenever you deal or take lightning or thunder damage.
 
 **Tempests Servant**: Once a turn whenever you deal lightnig or thunder damage, you can choose to blind them if you deal lightning damage, or deafend them if you deal thuder damage. 
 
 **Haste**: The cooldowns of your runes and items are redcued by 6. 
 
-_You gain +2 to spell attacks and your save dc while attuned to this magical item_
+_You gain +3 to spell attacks and your save dc while attuned to this magical item_
 
 ---
 
@@ -466,9 +487,9 @@ _You gain +2 to spell attacks and your save dc while attuned to this magical ite
 
 **Sealed Tome**: This tome cannot be attuned to unless you unlock it with a fully stacked dark seal. 
 
-**Glory**: Whenever you score a takedown you gain a stack of glory, up to a maximum of 25. Whenever your hit points are reduced to 0 you loose all stacks of glory.
+**Glory**: Whenever you score a takedown you gain a stack of glory, up to a maximum of 15. Whenever your hit points are reduced to 0 you loose ten stacks of glory.
 
-**Dread**: While at 5 or more stacks, you deal 1d4 additional damage whenever you deal spell damage. This damage increases to 2d4 whenever you are at 10 stacks. While at 25 stacks this damage increases to 3d4 and you gain + 10 feet movement speed. 
+**Dread**: While at 5 or more stacks, you deal 1d4 additional damage whenever you deal spell damage. This damage increases to 1d6 whenever you are at 10 stacks. While at 15 stacks this damage increases to 2d6 and you gain + 10 feet movement speed. 
 
 **Secretkeeper**: The first time you achive 25 stacks you can increase all ability modifiers by one. Once the book is used in this way, this feature cannot be used again.
 
@@ -483,9 +504,9 @@ _You gain +2 to spell attacks and your save dc while attuned to this magical ite
 
 **Affliction**: Whenever you deal Spell damage to a target, you apply grievous wounds to the target. Whenever you damage a creature that has grievous wounds, you deal 2d6 additional necrotic damage.
 
-**Hidden Knowledge**: When you are attuned to this book you can increase two different ability scores by one. 
+**Hidden Knowledge**: When you are attuned to this book you can increase two different ability scores by two up to a maximum of 22. 
 
-_You gain +2 to your spell attack rolls and spell save DC while attuned to this magical item_
+_You gain +3 to your spell attack rolls and spell save DC_
 
 ---
 
@@ -493,12 +514,14 @@ _You gain +2 to your spell attack rolls and spell save DC while attuned to this 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rabadon's Deathcap.png" Align=right width=8% height=8%>
 
-- Wonderous Item, hat
+- Wonderous Item
 - Attunement
 
 **Knowledge is Power**: All your ability scores increases by 1 while attuned to this item
 
 **Fast Casting**: You gain an additional bonus action that can be used to cast any cantrip, ignoring their casting time.
+
+_You gain +3 to your spell attacks and spell save DC_
 
 ---
 
@@ -515,7 +538,7 @@ _You gain +2 to your spell attack rolls and spell save DC while attuned to this 
 
 **Celestial Boon**: You get +1 to all saving throws
 
-_You gain +1 to your armor class_
+_You gain +2 to your armor class_
 
 ---
 
@@ -526,13 +549,13 @@ _You gain +1 to your armor class_
 - Shield
 - Attunement
 
-**Humility**: As a bonus action, you force all creatures within 5 feet of you to succeed a strength savingthrow (dc: 10 + proficiency bonus + constitution modifier). On a failed save they take 2d8 thunder damage and are pushed 15 feet away from you. Once this action is used, it cannot be used again until 30 seconds pass. 
+**Humility**: As a bonus action, you force all creatures within 5 feet of you to succeed a strength savingthrow (dc: 11 + proficiency bonus + constitution modifier). On a failed save they take 3d8 thunder damage and are pushed 15 feet away from you. Once this action is used, it cannot be used again until 24 seconds pass. 
 
 **Critical Resilence**: Attacks cannot critically hit against you.
 
 **Health**: You gain maximum hit points equal to twice your level. 
 
-_You have +1 to your armor class while wearing this shield_
+_You have +2 to your armor class while wearing this shield_
 
 ---
 
@@ -541,18 +564,19 @@ _You have +1 to your armor class while wearing this shield_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rapid Firecanon.png" Align=right width=8% height=8%>
 
 - Pepperbox
+- Attunement
 
 **Enegized**: Whenever you move you gain a stack of energized for every feet you move and whenever you attack you gain five stacks of energized, up to a maximum of 80.
 
 **Sharpshooted**: Whenver you are at 80 stacks of energized, your next attack with _Rapid Firecannon_ gains 30 feet additional range and deals 2d10 lightning damage consuming all charges. 
 
-**Critical**: Your Critical strike chance increases by one. 
+**Critical**: Your Critical strike chance increases by two. 
 
-**Speed**: You gain +5 movement speed. 
+**Speed**: You gain +10 movement speed. 
 
 _You gian +3 to initiative rolls_
 
-_You have +2 to hit and damage rolls with this magical weapon_
+_You have +3 to hit and damage rolls with this magical weapon_
 
 ---
 
@@ -561,17 +585,18 @@ _You have +2 to hit and damage rolls with this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ravenous Hydra.png" Align=right width=8% height=8%>
 
 - Greataxe
+- Attunement
 
 **Cleave**: Whenever you hit a creature with an attack using Ravenous Hydra, all enemies within 5 feet of the target takes damage equal to your strength modifier. Youl heal 1 hit points for each creature within 5 feet of the original target. 
 
 **Lifesteal**: Whenever you hit an attack with _Ravenous Hydra_ you regain health equal to half your proficiency bonus
 
 **Hunger**: Whenever you score a takedown, you gain a stack of _Satisfaction_, up to a maximum of 30. If your hitpoints reaches zero, you loose ten stacks. For every stack of _Satisfaction_ you gain the following features:
-- (10): You gain +2 to hit and damage rolls
-- (20): All healing from this item is doubled
-- (30): You gain +3 to hit and damage rolls.
+- (5): You gain +3 to hit and damage rolls
+- (10): All healing from this item is doubled
+- (15): You gain +4 to hit and damage rolls.
 
-_You gain +1 to hit and damage rolls using this magical weapon_
+_You gain +2 to hit and damage rolls using this magical weapon_
 
 ---
 
@@ -580,14 +605,15 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Runaan's Hurricane.png" Align=right width=8% height=8%>
 
 - Longbow
+- Attunement
 
-**Winds Fury**: Whenever you attack a creature with _Ruunan's Hurricane_. Two targets within 10 feet of the original target suffers damage equal to your dexterity modifier.
+**Winds Fury**: Whenever you attack a creature with _Ruunan's Hurricane_. Two targets within 30 feet of the original target suffers damage equal to 3 plus your dexterity modifier.
 
-**Critical**: Your critical strike chance increases by 1
+**Critical**: Your critical strike chance increases by 2
 
 **Extra Attack**: You can make an extra attack as a part of the attack action with _Ruunan's Hurricane_ 
 
-_You gain +2 to hit and damage rolls using Ruunan's Hurricane_
+_You gain +3 to hit and damage rolls using Ruunan's Hurricane_
 
 _You gian +3 to initiative rolls_
 
@@ -602,11 +628,11 @@ _You gian +3 to initiative rolls_
 
 **Haste**: The cooldowns of you runes and items are reduced by 6 seconds. 
 
-**Pole Swing**: As an action, you can swing _Serylda's Grudge_ around you. All creatures within your reach must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 24 seconds pass.
+**Pole Swing**: Once a turn when you take the attack action, you can replace one attacks to swing _Serylda's Grudge_ around you. All creatures within your reach must succeed a dexterity saving throw (DC: 11 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 24 seconds pass.
 
 **Bitter Cold**: Whenever you deal physical damage, the target takes full damage if they are resistant or immune and their movement speed is reduced by 15 feet until the end of their turn. 
 
-_You have +2 to damage and attack rolls using this magical weapon_
+_You have +3 to damage and attack rolls using this magical weapon_
 
 ---
 
@@ -615,16 +641,17 @@ _You have +2 to damage and attack rolls using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Statikk Shiv.png" Align=right width=8% height=8%>
 
 - Dagger
+- Attunement
 
 **Enegized**: Whenever you move you gain a stack of energized for every feet you move and whenever you attack you gain five stacks of energized, up to a maximum of 80.
 
-**Statikk**: Whenver you are at 80 stacks of energized, your next attack with _Statikk Shiv_ deals 2d10 lightning damage. If the attack hits, the lightning spreads to a new target within 15 feet of the original target and you must make a new attack roll to deal 2d10 lightning damage, this lightning continues to spreads to new targets until you miss an attack or there are no new targets.  
+**Statikk**: Whenver you are at 80 stacks of energized, your next attack with _Statikk Shiv_ deals 2d10 lightning damage. If the attack hits, the lightning spreads to a new target within 30 feet of the original target and you must make a new attack roll to deal 2d10 lightning damage, this lightning continues to spreads to new targets until you miss an attack or there are no new targets.  
 
-**Critical**: Your Critical strike chance increases by one. 
+**Critical**: Your Critical strike chance increases by two. 
 
 **Speed**: You gain +5 movement speed. 
 
-_You gain +2 hit and damage rolls with this magical weapon_
+_You gain +3 hit and damage rolls with this magical weapon_
 
 _You gian +3 to initiative rolls_
 
@@ -635,8 +662,9 @@ _You gian +3 to initiative rolls_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sterak's Gage.png" Align=right width=8% height=8%>
 
 - Wonderous Item
+- Attunement
 
-**Catching Claws**: You gain +2 to hit and damage on your unarmed attacks. Whenever you hit an unarmed attack, you can attempt to grapple the target as a free action.
+**Catching Claws**: You gain +3 to hit and damage on your unarmed attacks. Whenever you hit an unarmed attack, you can attempt to grapple the target as a free action.
 
 **Lifeline**: If you would take damage that would reduce your hit points to zero, you first gain temporary hit points equal to 10 times your proficiency bonus. As long as you have these temporary hit points, your size increases by one, as if affected by the enlarge spell, and you are immune to all immobilizing effects. Once this effect is used, it cannot be used again until you finish a long rest.
 
@@ -647,6 +675,7 @@ _You gian +3 to initiative rolls_
 ## Sundered Sky
 
 - Lance
+- Attunement
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sundered Sky.png" Align=right width=8% height=8%>
 
@@ -658,7 +687,7 @@ _You gian +3 to initiative rolls_
 
 **Lightshield Strike**: The first time you hit a new creature that day, sundering sky critically hits. 
 
-_You have +2 to attack and damage rolls when using this magical weapon_
+_You have +3 to attack and damage rolls when using this magical weapon_
 
 ---
 
