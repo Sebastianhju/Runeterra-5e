@@ -369,11 +369,9 @@ _You have +3 to unarmed attacks and damage rolls_
 
 **Lifeline**: If you would take damage that would make you bloodied, you first gain temporary hit points equal to 10 times your proficiency bonus. As long as you have these temporary hit points, you can make an additional attack as a part of your attack action. Once this effect is used, it cannot be used again until you finish a long rest.
 
-**Critical**: Your Critical strike chance increases by two.  
-
 **Lifesteal**: Whenever you hit a target with the _Immortal shieldbow_ you heal equal to your proficieny bonus. 
 
-_While wielding this bow, you gian +3 to hit and attack rolls_
+_While wielding this bow, you gain +3 to hit and attack rolls_
 _While wieldign this bow you gain +2 to your armor class_
 _You gain +3 to inititative checks_
 
