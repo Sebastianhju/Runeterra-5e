@@ -775,7 +775,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 - Wonderous Item (Armor that can be used by the barbarian class as well)
 - Attunement
 
-**Substain**: The maximum amount of regeneration stacks is increased by three times your proficiency bonus. 
+**Substain**: The maximum amount of regeneration stacks is increased by your proficiency bonus. 
 
 **Warmogs Heart**: As a bonus action, you can give yoursel stacks of regeneration equal to two times your proficiency bonus. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
 
