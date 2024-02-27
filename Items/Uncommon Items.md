@@ -121,6 +121,8 @@ _You gain +1 bonus to unarmed attack rolls_
 
 **Cleave**: When you hit a target with the _Cleaved Longsword_ you can force the blade to another target within 5 feet of the original target, dealing damage equal to your strength modifier. 
 
+_You have +1 to attack and damage rolls with this magical weapon_
+
 ---
 
 ## Cloak of Agility
