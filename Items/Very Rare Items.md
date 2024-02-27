@@ -237,7 +237,7 @@ _You gain +3 to spell attack rolls spell save dc_
 - Wonderous Item
 - Attunement
 
-**Winters Caress**: All enemies within 10 feet of you must make one less weapon attack as a part of their action to a minimum of one attack. 
+**Winters Caress**: All enemies that start their turn within 10 feet of you must make one less weapon attack as a part of their action to a minimum of one attack. 
 
 **Mana**: You gain +10 maximum mana
 
