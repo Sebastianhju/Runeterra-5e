@@ -5,14 +5,14 @@
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Fimbulwinter.png" Align=right width=8% height=8%>
 
 - A fully stacked Winter's Approach
-- Hide
+- Studded Leather
 - Attunement
 
 **Mana**: You gain +18 maximum mana. 
 
 **Awe**: Your maximum hit points increase with a number equal to half your maximum mana. 
 
-**Everlasting**: Whenever you immobilize a creature, you gain temporary hit points equal to half your current mana. Once this effect is used, it cannot be used again until 30 seconds pass.  
+**Everlasting**: Whenever you spend mana, you gain temporary hit points equal to twice the mana spent. 
 
 _While wearing this armor you have a +2 to your armor class_
 
@@ -30,7 +30,7 @@ _While wearing this armor you have a +2 to your armor class_
 
 **Awe**: Your weapon attacks with Muramana deal one additional damage for every 20th maximum mana you have
 
-**Shock**: When you deal damage with muramana, you can spend **five** charges to change the damage dealt to lightning damage, the target must also succeed a constitution saving throw (dc: 14 or you spell save dc, whatever is higher), on a failed save they are stunned until the end of your next turn. 
+**Shock**: When you deal damage with muramana, you can choose to deal 1d6 additional lightning damage, the target must succeed a constitution saving throw, on a failed save they are stunned until the end of your next turn. Once this action is used, it cannot be used again until 30 seconds have passed, whenever you spend one or more mana the cooldown is reduced by 6 seconds. 
 
 **Recharge**: This item has five charges, you regain all charges whenever you take a long rest. You also recharge a slot whenever you spend one or more mana. 
 
@@ -771,18 +771,18 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Warmogs Armor.png" Align=right width=8% height=8%>
 
-- Wonderous Item (Armor that can be used by the barbarian class as well)
+- Breastplate
 - Attunement
 
 **Substain**: The maximum amount of regeneration stacks is increased by your proficiency bonus. 
 
-**Warmogs Heart**: As a bonus action, you can give yoursel stacks of regeneration equal to two times your proficiency bonus. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
+**Warmogs Heart**: As a bonus action, you can give yourself stacks of regeneration equal to two times your proficiency bonus. You can do this a number of times equal to your proficiency bonus before you must finish a long rest.
 
 **Health**: You gain maximum hit points equal to three times your level. 
 
-**Armor**: Your armor class is 16 with this armor unless your unarmored defence is higher
+_You get +2 to your armorclass while wearing this magical armor_
 
-_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
+_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to two plus your proficiency bonus._
 
 
   
