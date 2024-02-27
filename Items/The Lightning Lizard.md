@@ -197,7 +197,7 @@ _You get +1 to attack and damage rolls using this weapon_
 
 ## Ionic Spark
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ionic Spark.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/IonicSpark.png" Align=right width=8% height=8%>
 
 - 600 Gold
 - Shortbow
