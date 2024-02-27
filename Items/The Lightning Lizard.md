@@ -4,6 +4,55 @@ Piltovers friendly naborhood shopkeeper
 
 ---
 
+# Consumables
+## Potion of Healing
+
+Cost: 50 gold
+Quantity: 5
+
+As a Bonus Action you regain 2d4+2 hit points
+
+---
+
+## Potion of Manaregeneration
+
+Cost: 50 Gold
+Quantity: 5
+
+As a bonus action you regain 1d4+1 mana. 
+
+---
+
+## Potion of Delayed Healing
+
+Cost: 100 gold
+
+As a bonus action you regain 1d4+1 hit points and 2d4+2 hit points at the start of your next turn.
+
+---
+
+## Scroll of Barrier
+
+Cost 500 Gold
+Quantity: 1
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Barrier_HD.png" align=right width=10% height=10%>
+As a bonus action or reaction, you can create a see-through Barrier in a 15 feet radius sphere that lasts for a minute. For enemies the barrier is solid. Enemy creatures, missiles and objects cannot pass through it. For you and your allies, the barrier is immaterial. The Barriers AC equals 12 + your proficiency bonus and its hit points maximum equals to five plus five times your level.
+
+---
+
+## Scroll of Clarity
+
+Cost 500 Gold
+Quantity: 1
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Clarity.png" align=right width=10% height=10%>
+
+As a bonus action, you can restore a number of mana equal to two + two times your level. Choose any creatures within 30 feet of you, and divide the mana among them.
+
+---
+
+# Uncommon
 ## Amplifying Tome
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Amplifying Tome.png" Align=right width=8% height=8%>
@@ -17,19 +66,6 @@ _You gain +1 to your spell save dc_
 
 ---
 
-## Blasting Wand
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Blasting Wand.png" Align=right width=8% height=8%>
-
-- 500 Gold
-- Arcane Focus
-
-**Spell Enhancer**: Whenever you deal damage from a spell you may reroll up to three damage dices.
-
-_You gain +1 bonus to spell attack rolls_
-
----
-
 ## Blighting Jewel
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Blighting Jewel.png" Align=right width=8% height=8%>
@@ -40,34 +76,6 @@ _You gain +1 bonus to spell attack rolls_
 **Void Pen**: Whenever you deal poison, acid or necrotic damage, if the target has any temporary hit poins they take double damage.  
 
 **Voids Embrace**: Whenever you deal poison, acid or necrotic damage, you can treat any 1 on the dice as a 6
-
----
-
-## B.F. Sword
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/B.F. Sword.png" Align=right width=8% height=8%>
-
-- 800 Gold
-- Greatsword
-
-**The Bigger the Better**: You deal 1d6 additional damage when using this weapon and it has _reach_. 
-
-**To Big To Handle**: This great sword is large size but counts as a medium size weapon for the creature holding it. However you have disadvantage on Dexterity saving throws.
-
----
-
-## Brawlers gloves
-
-- 600 Gold
-- Gloves, Unarmed
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Brawler's Gloves.png" Align=right width=8% height=8%>
-
-**Spikes**: Whenever you score a critical hit with an unarmed attack you deal one additional dice of damamge, minimum 1d4.
-
-**Grapler** After hitting with an unarmed attack you can as a bonus action try to grapple the creature if you meet the rquierments to make such a test.
-
-_You gain +1 bonus to unarmed attack rolls_
 
 ---
 
@@ -97,18 +105,6 @@ _You gain +1 to your initiative rolls_
 
 ---
 
-## Decisive Sword
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Decisive Sword.png" Align=right width=8% height=8%>
-
-- 700 Gold
-- Greatsword
-
-**March**: As a bonus action you can give youself 15 feet movement speed and advantage one your next attack roll with *Decisive Sword*, if the attack hits, the target is mute until the end of their turn. Once this action is used it cannot be used again until 18 seconds pass. 
-
-_You get +1 to attack and damage rolls using this weapon_
-
----
-
 ## Earthquake Leggings
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Earthquake Leggings.png" Align=right width=8% height=8%>
 
@@ -116,17 +112,6 @@ _You get +1 to attack and damage rolls using this weapon_
 - Wondeous
 
 **Pulverize**: Whenever you hit a melee attack, you can attempt to knock the target 15 feet up in the air until the end of their turn. The target must succeed a strength saving throw, dc equals to 8 + your strength modifier + proficiency bonus. Once you've successfully knocked a creature airborne you cannot do this action again until 18 seconds pass.
-
----
-
-## Executioners Calling
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Executioner's CAlling.png" Align=right width=8% height=8%>
-
-- 500 Gold
-- Long Sword
-
-**Rend**: Whenever you hit a creature with this weapon, you apply grievous wounds to them.
 
 ---
 
@@ -140,34 +125,6 @@ _You get +1 to attack and damage rolls using this weapon_
 **Mana well**: Whenever you spend a hit dice you regain 1 mana.
 
 **Faerie Dust**: Once per long rest, you can cast _Faerie fire_ without spending mana.
-
----
-
-## Haunting Guise
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Haunting Guise.png" Align=right width=8% height=8%>
-
-- 600
-- Wondrous
-
-**Madness**: Once a turn when you deal or take damage you gain a stack of _Madness_. When you have 5 stacks of madness your gain +1 crit chance for a minute.
-
----
-
-## High Stake
-
-- 500 Gold
-- Wondrous
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/High Stake.png" Align=right width=8% height=8%>
-
-**Nab**: Whenever you hit a creautre with a weapon or unarmed attack you get a _Silver Serpent_, up to a maximum of four. You can spend one to four _Silver Serpents_ to gamble for one of actions below. For each _Silver Serpent_ you spend you get a +1 to the d4 roll and you must meet a 5 to gain the effect.
-
-**Risky Venture**: As a free action you roll 1d6 and can move 10 times the number rolled with climbing, walking and swimming speed.  
-
-**Daring Leap**: As a bonus action you double your jumping distance until the end of your turn. If you jump all creatures within 5 feet of your landing you must succeed a dexterity saving throw or are pushed 10 feet away from you. The saving throw dc equals 8 + proficiency bonus + constitution modifier. 
-
-**Tip the Scales**: When you fail an ability check, you can add 1d6 to the roll and use the new results. 
 
 ---
 
@@ -207,44 +164,6 @@ _You get +1 to attack and damage rolls using this weapon_
 **Shocking Bolt**: Once a turn when you hit an enemy with an attack with _Ionic Spark_, you can make a sprak of electric energy burst from all of your arrows. The target and all targets within 30 feet of it that has a _Lightning Mark_ suffers 1d6 lightning damage. 
 
 _You have +1 to hit and attack rolls using this magical weapon_ 
-
----
-
-## Ironspike Whip
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ironspike Whip.png" Align=right width=8% height=8%>
-
-- 600 Gold
-- Whip
-
-**Spikes**: The _Ironspike Whip_ deals 1d4 additional piercing damage. 
-
-**Crescent**: As an action, you can twirl the whip around you. All creatures within your reach must succeed a dexterity saving throw (DC: 8 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 18 seconds pass. 
-
----
-
-## Needlessly Large Rod
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Needlessly Large Rod.png" Align=right width=8% height=8%>
-
-- 700 Gold
-- Quarterstaff
-
-**Needlessly Large**: Any spell with a radius, cone, cube or similar effect gains an extra 5ft to the size in all dimentions. 
-
-**Rod**: Whenever you are attacking with Needlessly Large Rod you can use your spellcasting ability when calculating to-hit rolls and damage instead of strength
-
----
-
-## Nimbus Staff
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Nimbus Staff.png" Align=right width=8% height=8%>
-
-- 600 Gold
-- Quarterstaff
-
-**Crushing Blow**: Whenever you critically hit a creature with *Nimbus Staff* or unarmed attacks, their armor class is reduced by 2 for a minute.
-
-_You get +1 to attack and damage rolls using this weapon_
 
 ---
 
@@ -318,21 +237,6 @@ _You get +1 to hit and attack rolls using this magical weapon_
 
 ---
 
-## Tempest
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tempest.png" Align=right width=8% height=8%>
-
-- 800 Gold 
-- Scimitar
-
-**Whirlwind**: Whenever you hit an attack, you gain a stack of whirlwind. You loose all stacks of whirlwind if you dont deal damage for a minute. 
-
-**Crashing Tornado**: When you have three stacks, you next attack is replaced with a tornado that goes in a 15 foot line. Each target in the line must make a dexterity saving throw, dc equals 9 + str/dex + proficiency bonus or take 2d8 thunder damage and be knocked 15 feet airbone, falling to the ground at the end of its next turn. While suspended in the air its speed is 0. A creature takes half damage on a successful save. 
-
-_You get +1 to attack and damage rolls using this weapon_
-
----
-
-
 ## Timewinder
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Timewinder.png" Align=right width=8% height=8%>
 
@@ -345,27 +249,75 @@ _You get +1 to hit and damage rolls using this weapon_
 
 ---
 
-## Trailblazer
+# Rare Items
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Trailblazer.png" Align=right width=8% height=8%>
+## Chempunk Chainsword
 
-- 500 Gold
-- Wondrous  
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chempunk Chainsword.png" Align=right width=8% height=8%>
 
-**Speed**: You gain +5 walking speed
+- 4000 Gold
+- Longsword
 
-**Lead the Way**: As a bonus action you can leave behind a trail in every square you leave during your turn. The first time each ally moves within the trail they gain movement speed equal to half your walking speed. 
+**Spinning Blades**: As a bonus action you can start up the chainswords engine. For your next three attacks, the chainsword deals 1d8 additional damage, applies grievous wounds and burn. Once this action is used it cannot be used again until 18 seconds pass. 
+
+_You get +2 to attack and damage rolls using this magical weapon_
 
 ---
 
-## Wideshot
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Wideshot.png" Align=right width=8% height=8%>
+## Chemtech Putrifier 
 
-- 800 Gold
-- Longbow
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chemtech Putrifier.png" Align=right width=8% height=8%>
 
-**Volley**: You can replace one attack with a volley of spectral arrows in a 30 foot cone. All creatures in the cone must succeed a dexterity saving throw, dc 9+ proficiency bonus + dexterity modifier or take 2d8 force damage, halfed on a save. Once this action is used it cannot be used again until 18 seconds pass. 
+- 4000 Gold
+- Quarterstaff
 
-_You get +1 to hit and damage rolls using this weapon_
+**Puffcap Toxin**: Whenever you target an ally with a heal or buff, their next attack applies grievous wounds to their target. 
+
+**Cleansing Wounds**: Whenever you heal a creature that has grievous wounds, you first remove the grievous wounds condition. 
+
+**Healing Power**: Your healing spells heal 2 more hit points
+
+---
+
+## Hextech Revolver
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Revolver.png" Align=right width=8% height=8%>
+
+- 4000 Gold
+- Pistol
+
+**Shock**: When you hit an attack with _Hextech Revolver_ you can choose to force the target to succeed a constitution saving throw, the DC equal to 10 + proficiency bonus + dexterity modifier, on a failed save they take 2d8 lightning damage and are stunned until the end of their turn. On a success they are not stunned and take half damage. Once this effect is used, it cannot be used again until 24 seconds have passed.
+
+_You gain +2 to hit and damage rolls with this magical weapon_ 
+
+---
+
+## Hextech Rocketbelt
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Rocketbelt.png" Align=right width=8% height=8%>
+
+- Wondrous
+- 4500 Gold
+
+**Supersonic**: As a bouns action you can activate the rocketbelt. You gain 60 feet flying speed and agility, but you must land on a surface at the end of your turn, when you end your turn, all creatures within 5 feet of you take 2d4+2 force damage. Once this effect is used, it cannot be used again until 30 seconds pass. 
+
+**Health**: You gain hit points equal to your hit dice. 
+
+_You gain +3 to initiative rolls_
+
+---
+
+## Horizon Focus
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Horizon Focus.png" Align=right width=8% height=8%>
+
+- 4500 Gold
+- Wondrous
+
+**Spell Sniper**: Once a turn when you target an enemy that is 90 feet or more away from you with a spell, the target becomes marked with dim blue light for a minute. While marked it can't go invisible and attack rolls against it has advantage. Once this effect is used it cannot be used again until 18 seconds pass. 
+
+**Haste**: The cooldown of your runes and items are reduced by 6 seconds. 
+
+_You get +2 to your spell attack and spell save DC_
 
 ---
