@@ -347,7 +347,7 @@ _You get +1 to attack and damage rolls using this weapon_
 
 **Lightning Conduit**: Whenever you hit an enemy with an attack from _Ionic Spark_ they gain a _Lighting Mark_.
 
-**Shocking Bolt**: Once a turn when you hit an enemy with an attack with _Ionic Spark_, you can make a sprak of electric energy burst from all of your arrows. The target and all targets within 30 feet of it that has a _Lightning Mark_ suffers 1d6 lightning damage. 
+**Shocking Bolt**: Whenever you hit a creature with a lightning mark, you remove the mark and all creautres within 10 feet, including the target, takes 2d6 lightning damage. All creatures except the main target gets a _Lightning Mark_
 
 _You have +1 to hit and attack rolls using this magical weapon_ 
 
