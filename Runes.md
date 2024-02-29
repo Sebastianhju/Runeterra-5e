@@ -172,7 +172,7 @@ When you reach level 11 the damage increases to 2d6
 ## Keystones
 
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=20% height=20%>
-Damaging an enemy gives them a mark of electrocute that lasts until the end of your turn. Once a turn when you damage a creature with a mark, you deal 2d8 additional lightning damage. Once used it cannot be used again until 36 seconds has passed. 
+Damaging an enemy gives them a mark of electrocute that lasts until the end of your turn. Once a turn when you damage an enemy with a mark, you deal 2d10 additional lightning damage and they are unable to use their reaction until the start of their next turn. Once used it cannot be used again until 30 seconds has passed. 
 
 Electrocutes damage increases by 2d8 at level 5, 9, 13 and 17. 
 
@@ -182,7 +182,6 @@ Electrocutes damage increases by 2d8 at level 5, 9, 13 and 17.
 Once a turn whenever you damage a bloody creature you gain a stack of *Harvest* and they take 1d4 force damage plus 1d4 for every twenty stack of *Harvest* you already have. A Once used, it cannot be used again until you score a takedown, or finish a long rest. 
 
 The damage dice increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 and 1d12 at level 17.
-
 
 ---
 
