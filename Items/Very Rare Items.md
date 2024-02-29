@@ -78,7 +78,7 @@ _You have +2 to spell attack rolls and +2 to your spell save DC when attuned to 
 - A fully stacked Spellthiev's Edge
 - Dagger
 
-**True Ice**: The Shard of Ture Ice deals 1d6 cold damage on hit
+**True Ice**: The Shard of Ture Ice marks the target with **True Ice**. The next attack against the target comsumes the mark and deals 2d6 additional cold damage. 
 
 **Warding**: As an action, you can place down a stealth ward. You can do this a number of times equal to your proficiency bonus before finishing a long rest
 
