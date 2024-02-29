@@ -309,9 +309,11 @@ Aerys damage and sheilding scales along with your proiciency bonus in level 5, 9
 
 ### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" Align=left width=20% height=20%>
 
-Once a turn when you deal damage to a target you can summon a comet that crashes onto the target. The target and all enemies in a 5 feet radius takes 2d4 magical bludgeoning damage. Once used, it cannot be used again until 36 seconds has passed.
+Once a turn when you deal damage to a target you can summon a comet that crashes onto the target. The target and all enemies in a 5 feet radius takes 2d6 magical bludgeoning damage. Once used, it cannot be used again until 30 seconds has passed.
 
-The radius increases by 5 feet at level 5, 9, 13 and 17. The damage increases to 2d6 at level 5, 2d8 at level 9, 2d10 at level 13 and 2d12 at level 17.
+The radius increases by 5 feet at level 5, 9, 13 and 17. 
+
+The damage increases by 1d6 at levels 5, 9, 13 and 17
 
 ---
 
