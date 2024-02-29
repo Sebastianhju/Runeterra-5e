@@ -541,7 +541,9 @@ You gain immunity to the frightened and charmed condition and you cannot be move
 ## Keystones 
 ### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" Align=left width=20% height=20%>
 
-Once a turn when you immobilize a target, you can choose to cover the terrain beneath them in ice. A 15 foot diameter centered around the enemy is turned to difficult terrain. All enemy targets standing within the area has disadvantage on all attacks and attacks against them has disadvantage. This effect lasts until you use this effect again. Once you have used this action it cannot be used again until 24 seconds have passed. 
+Once a turn when you immobilize a target, you can choose to cover the terrain beneath them in ice. A 15 foot diameter centered around the enemy is turned to difficult terrain. All enemy targets standing within the area has disadvantage on all attacks and attacks against them has advantage. This effect lasts until you use this effect again. 
+
+Once you have used this action it cannot be used again until 24 seconds have passed. 
 
 The area of effect increases by 5 feet at levels 5, 9, 13 and 17. 
 
