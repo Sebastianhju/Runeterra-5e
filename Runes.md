@@ -481,7 +481,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Conditioning
 
 ### Comeback  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/SecondWind.png" Align=left width=7% height=7%>
 
-When you gain the bloodied condition you also gain stacks of regenerataion equal to two times your proficiency bonus. Once this effect is used, it cannot be used again until 48 seconds pass. 
+When you gain the bloodied condition you gain stacks of regeneration equal to 2 plus your proficiency bonus. Then you heal equal to five times your current regeneration stacks. Once this action is used, it cannot be used again until 30 seconds have passed. 
 
 The maximum stacks of regeneration is increased by one.
 
