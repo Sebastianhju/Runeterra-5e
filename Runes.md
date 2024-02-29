@@ -54,6 +54,7 @@ Once per attack, whenever you damage enemies, you gain stacks of Conqueror. Thre
 The damage dice increases to 1d8 at level 5, 1d10 at level 9, 1d12 at level 13 and 2d12 at level 17.
 
 ---
+
 ### Lethal Tempo  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LethalTempo.png" Align=left width=20% height=20%>
 Once per attack, whenever you damage enemies, you gain stacks of Lethal Tempo. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 12 stacks, you can make an extra attack as a part of your attack action and gain an additional 10 feet range (halved for melee attacks). If you don't deal damage within the next minute, you loose all stacks of Lethal Tempo.
 
@@ -172,9 +173,9 @@ When you reach level 11 the damage increases to 2d6
 ## Keystones
 
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=20% height=20%>
-Damaging an enemy gives them a mark of electrocute that lasts until the end of your turn. Once a turn when you damage an enemy with a mark, you deal 2d10 additional lightning damage and they are unable to use their reaction until the start of their next turn. Once used it cannot be used again until 30 seconds has passed. 
+Damaging an enemy gives them a mark of electrocute that lasts until the end of your turn. Once a turn when you damage an enemy with a mark, you then deal 3d8 additional lightning damage and they are unable to use their reaction until the start of their next turn. Once used it cannot be used again until 36 seconds has passed. 
 
-Electrocutes damage increases by 2d8 at level 5, 9, 13 and 17. 
+Electrocutes damage increases by 3d8 at level 5, 9, 13 and 17. 
 
 ---
 
@@ -308,11 +309,9 @@ Aerys damage and sheilding scales along with your proiciency bonus in level 5, 9
 
 ### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" Align=left width=20% height=20%>
 
-Once a turn when you deal damage to a target you can summon a comet that crashes onto the target. The target and all enemies in a 5 feet radius takes 2d6 magical bludgeoning damage. Once used, it cannot be used again until 36 seconds has passed. All creatures within the area must succeed a constitution saving throw, the dc equals 10 + twice your proficiency bonus or be stunned until the end of your next turn.
+Once a turn when you deal damage to a target you can summon a comet that crashes onto the target. The target and all enemies in a 10 feet radius takes 2d6 magical bludgeoning damage. Once used, it cannot be used again until 36 seconds has passed. All creatures within the area must succeed a strength saving throw, the dc equals 10 + twice your proficiency bonus or be knocked prone until the end of your next turn.
 
-The radius increases by 5 feet at level 5, 9, 13 and 17. 
-
-The damage increases by 1d6 at levels 5, 9, 13 and 17
+The damage increases by 2d6 at levels 5, 9, 13 and 17
 
 ---
 
@@ -542,7 +541,7 @@ You gain immunity to the frightened and charmed condition and you cannot be move
 ## Keystones 
 ### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" Align=left width=20% height=20%>
 
-Once a turn when you immobilize a target, you can choose to cover the terrain beneath them in ice. A 15 foot diameter centered around the enemy is turned to difficult terrain. All enemy targets standing within the area has disadvantage on all attacks and attacks against them has advantage. This effect lasts until you use this effect again. 
+Once a turn when you immobilize a target, you can choose to cover the terrain beneath them in ice. A 15 foot radius centered around the enemy is turned to difficult terrain for enemies. All enemy targets standing within the area has disadvantage on all attacks and attacks against them has advantage. This effect lasts until you use this effect again. 
 
 Once you have used this action it cannot be used again until 24 seconds have passed. 
 
