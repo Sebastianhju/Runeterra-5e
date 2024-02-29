@@ -541,13 +541,11 @@ You gain immunity to the frightened and charmed condition and you cannot be move
 ## Keystones 
 ### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" Align=left width=20% height=20%>
 
-Once a turn when you immobilize a creature, they and all enemies within 15 feet of the target gains a *Mark of Cold* that lasts until they take damage. Once this effect is used, it cannot be used again until 24 seconds has passed
+Once a turn when you immobilize a creature, they and all enemies within 15 feet of the target gains a *Mark of Cold* that lasts for a minute. *Mark of Cold* can stack with itself, but all marks can be removed with a lesser restoration spell. Once this effect is used, it cannot be used again until 24 seconds has passed
 
-A marked creatures speed is reduced by 10 feet and they have a -2 penalty to all attack rolls. 
+A marked creatures speed is reduced by 10 feet and their to hit modifiers are reduced by a number equal to half your proficiency bonus rounded up. 
 
-Attacks against creatures with *Mark of the Cold* have advantage and if it hits the mark is consumed and the target takes 1d6 additional cold damage.
-
-The damage increases by 1d6 at level 5, 9, 13 and 17.
+Attacks against creatures with *Mark of the Cold* have advantage.
 
 ---
 
