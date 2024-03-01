@@ -341,6 +341,18 @@ _You gain +2 to attack and damage rolls using this weapon._
 
 ---
 
+## Eclipse
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Eclipse.png" Align=right width=8% height=8%>
+
+**Ever Rising Moon**: You can cast the Moonbeam spell once before you must finish a long rest. 
+
+**Lunar Mark**: Whenever you hit a creature with an attack with Eclipse, they gain a *Lunar Mark*. Whenever you deal damage to a creature with a *Lunar Mark* you deal 2d6 force damage after the attack, and gain temporary hit points equal to twice your proficiency bonus.
+
+**Haste**: The cooldown of your runes and items are reduced by 6 seconds.
+
+---
+
 ## Fiendish Codex
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Fiendish Codex.png" Align=right width=8% height=8%>
