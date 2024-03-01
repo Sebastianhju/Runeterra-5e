@@ -748,9 +748,20 @@ _You get +1 to all saving throws_
 - Wondrous Item
 - Attunement
 
-**Statikk Ammunition**: The noonquiver is magically loaded with _Statikk Ammunition_ that deal 1d6 additional lightning damage. 
+**Chaos Quiver**: This quiver has magical arrows appear when you reach for a new arrow or bullet, giving you a random arrow that has different effects. Whenever you hit an attack roll, roll 1d6 to detimine which of the following arrows are fired. The arrows that requires a saving throw has a save equal to 8 + twice your proficiency bonus. 
 
-**High Noon**: As a bonus action you can enter a state of focus that lasts until the end of your turn. Whenever you take the attack action you can do an additional attack as a part of that action. You can do this a number of times equal to your proficiency bonus before finishing a long rest. 
+|Result|Arrow Type|Effect|
+|---|---|---|
+|(1)| Regular Arrow|Nothing extra happens|
+|(2)| Smoke Arrow|On impact this arrow releases thick fog that heavily obscures a 15 feet radius around it|
+|(3) |Lasso Arrow|On impact magical ropes entangle the target. They are grappled and must use their action to attempt a strenght save to escape|
+|(4)| Thorney Arrow| On impact vines springs out from the target and covers a 15 feet radius area. Whenever a creature moves within the area they take 1d4 piercing damage for every feet moved |
+|(5)| Spectral Arrow|On impact the arrow phases through the target and you can make another attack against another attack you can see within range|
+|(6)| Fire arrow|On impact the target and all creatures within 15 feet of it must succeed a dexterity saving throw or suffer 2d6 damage and get the burn condition, on a save they take half the damage and are not burned|
+|(7) |Silence Arrow|On impact the arrow leaves a smal silence spell that covers a 15 feet radius around the arrow. If the arrow is broken the spell is dispelled|
+|(8) |Lightning Arrow|On impact the target must succeed a constitution saving throw or take 1d10 lighting damage and are stunned |
+|(9)|Poison Arrow|On impact the target must succeed a constitution saving thorow or be poisoned. While poisoned in this way they must choose between taking an action or bonus action on their turn|
+|(10)|Pulling Arrow|On impact the target must succeed a strength saving throw or be pulled 15 feet towards you|
 
 ---
 
