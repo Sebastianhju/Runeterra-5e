@@ -304,13 +304,13 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/High Stake.png" Align=right width=8% height=8%>
 
-**Nab**: Whenever you hit a creautre with a weapon or unarmed attack you get a _Silver Serpent_, up to a maximum of four. You can spend one to four _Silver Serpents_ to gamble for one of actions below. For each _Silver Serpent_ you spend you get a +1 to the d4 roll and you must meet a 5 to gain the effect.
+**Nab**: Whenever you hit a creautre with a weapon or unarmed attack you get a _Silver Serpent_, up to a maximum of five. You can spend one to five _Silver Serpents_ to gamble for one of the actions below. For each _Silver Serpent_ you spend you get a +1 to the d6 roll and you must meet a 7 to gain the effect. If you spend four or more _Silver Serpents_ and roll a six on the dice, you score a **Jackpot** and can use all of the following effects. 
 
 **Risky Venture**: As a free action you roll 1d6 and can move 10 times the number rolled with climbing, walking and swimming speed.  
 
-**Daring Leap**: As a bonus action you double your jumping distance until the end of your turn. If you jump all creatures within 5 feet of your landing you must succeed a dexterity saving throw or are pushed 10 feet away from you. The saving throw dc equals 8 + proficiency bonus + constitution modifier. 
+**Daring Leap**: Your jumping distance is doubled until the end of your turn. If you jump all creatures within 5 feet of your landing you must succeed a dexterity saving throw or are pushed 10 feet away from you. The saving throw dc equals 8 + proficiency bonus + constitution modifier. 
 
-**Tip the Scales**: When you fail an ability check, you can add 1d6 to the roll and use the new results. 
+**Tip the Scales**: You can add 1d6 to your next ability check or attack roll. 
 
 ---
 
@@ -422,7 +422,9 @@ _You get +1 to hit and attack rolls using this magical weapon_
 - 800 Gold
 - Minigun
 
-**Charging up**: Whenever you hit an attack with Pow Pow you gain a stack of **Zap!**, up to a maximum of 5 stacks. For every stack of **Zap!**, you get a +1 bonus to attack rolls with Pow Pow. While at 5 stack, you can make another attack as a part of the attack action when using Pow Pow. You lose all stacks op **Zap!** if you dont deal damage for a minute. 
+**Charging up**: Whenever you make an attack with Pow Pow you gain a stack of **Zap!**, up to a maximum of 6 stacks. For every other stack of **Zap!**, you get a +1 bonus to attack rolls with Pow Pow. While at 6 stack, you can make another attack as a part of the attack action when using Pow Pow. If you don't make an attack with Pow Pow during your turn, you loose two stacks of **Zap!**.
+
+**Windup:**_Whenever you make an attack with a windup weapon, you gain a stack of firepower up to a maximum of six stacks. For every other stack of firepower the weapon gains an additional damage dice to their attacks. If you don´t make an attack with the windup weapon on your turn, you loose two stacks._
 
 ---
 
