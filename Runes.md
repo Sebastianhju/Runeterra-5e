@@ -91,7 +91,7 @@ Whenever you score a _takedown_, you gain a stack of Alacrity that gives you ben
 |Stacks|Feature|
 |---|---|
 |0| You gain +5 to your initiative rolls|
-|25| Whenever you take the attack action, you can make an extra attack as a part of that action. You can do this a number of times equal to your proficiency bonus before you finish a short rest|
+|25| Whenever you take the attack action, you can make an extra attack as a part of that action. You can do this a number of times equal to your proficiency bonus before you finish a long rest. You regain one use when you finish a nights rest|
 |50| Your critical strike chance increases by 1|
 
 ---
@@ -105,7 +105,7 @@ Whenever you score a _takedown_ you gain a stacks of _Tenacity_ that gives you b
 |Stacks|Feature|
 |---|---|
 |0| You gain +10 movement speed, ignore difficult terrain and standing up from the prone condition only costs 5 feet.|
-|25| When you take the dash action and end your movement next to a creature you can make a melee attack roll as a free action|
+|25| When you take the dash action and end your movement next to a creature you can make a melee attack roll as a free action, once this action is used it cannot be used again until you finish a short rest|
 |50| Whenever you have to make a saving throw against immobilizing effects, you have advantage|
 
 ---
