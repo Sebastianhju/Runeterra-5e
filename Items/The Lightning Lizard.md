@@ -17,7 +17,7 @@ As a Bonus Action you regain 2d4+2 hit points
 ## Potion of Manaregeneration
 
 Cost: 50 Gold
-Quantity: 5
+Quantity: 3
 
 As a bonus action you regain 1d4+1 mana. 
 
