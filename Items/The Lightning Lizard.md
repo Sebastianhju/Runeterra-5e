@@ -8,7 +8,7 @@ Piltovers friendly naborhood shopkeeper
 ## Potion of Healing
 
 Cost: 50 gold
-Quantity: 5
+Quantity: 0
 
 As a Bonus Action you regain 2d4+2 hit points
 
@@ -17,7 +17,7 @@ As a Bonus Action you regain 2d4+2 hit points
 ## Potion of Manaregeneration
 
 Cost: 50 Gold
-Quantity: 3
+Quantity: 0
 
 As a bonus action you regain 1d4+1 mana. 
 
