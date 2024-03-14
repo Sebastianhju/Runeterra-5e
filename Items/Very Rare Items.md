@@ -564,15 +564,15 @@ _You have +2 to your armor class while wearing this shield_
 - Pepperbox
 - Attunement
 
-**Enegized**: Whenever you move you gain a stack of energized for every feet you move and whenever you attack you gain five stacks of energized, up to a maximum of 80.
+**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
 
-**Sharpshooted**: Whenver you are at 80 stacks of energized, your next attack with _Rapid Firecannon_ gains 30 feet additional range and deals 2d10 lightning damage consuming all charges. 
+**Sharpshooted**: Whenver you are at 100 stacks of energized, your next attack with _Rapid Firecannon_ gains 30 feet additional range and deals 2d10 lightning damage consuming all charges. 
 
 **Critical**: Your Critical strike chance increases by two. 
 
 **Speed**: You gain +10 movement speed. 
 
-_You gian +3 to initiative rolls_
+_You gain +3 to initiative rolls_
 
 _You have +3 to hit and damage rolls with this magical weapon_
 
@@ -641,9 +641,9 @@ _You have +3 to damage and attack rolls using this magical weapon_
 - Dagger
 - Attunement
 
-**Enegized**: Whenever you move you gain a stack of energized for every feet you move and whenever you attack you gain five stacks of energized, up to a maximum of 80.
+**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
 
-**Statikk**: Whenver you are at 80 stacks of energized, your next attack with _Statikk Shiv_ deals 2d10 lightning damage. If the attack hits, the lightning spreads to a new target within 30 feet of the original target and you must make a new attack roll to deal 2d10 lightning damage, this lightning continues to spreads to new targets until you miss an attack or there are no new targets.  
+**Statikk**: Whenver you are at 100 stacks of energized, your next attack with _Statikk Shiv_ deals 3d10 lightning damage. If the attack hits, the lightning spreads to a new target within 30 feet of the original target and you must make a new attack roll to deal 3d10 lightning damage, this lightning continues to spreads to new targets until you miss an attack or there are no new targets.  
 
 **Critical**: Your Critical strike chance increases by two. 
 
