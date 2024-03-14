@@ -351,7 +351,7 @@ _You get +1 to attack and damage rolls using this weapon_
 
 **Lightning Conduit**: Whenever you have 100 stacks of _energized_ your next attack against an enemy an enemy with _Ionic Spark_ gives them a _Lighting Mark_.
 
-**Shocking Bolt**: Whenever you hit a creature with a lightning mark, you remove the mark and all creautres within 15 feet, including the target, must succeed a dexterity saving throw (Dc equals to 9 plus your proficiency bonus plus your dexterity modifier) or take 2d8 lightning damage and are restrained until the end of their turn. On a success the target takes half damage and are not restrained. 
+**Shocking Bolt**: Whenever you hit a creature with a lightning mark, you remove the mark and all creautres within 15 feet must succeed a dexterity saving throw (Dc equals to 9 plus your proficiency bonus plus your dexterity modifier) or take 2d8 lightning damage and are restrained until the end of their turn. On a success the target takes half damage and are not restrained. 
 
 _You have +1 to hit and attack rolls using this magical weapon_ 
 
