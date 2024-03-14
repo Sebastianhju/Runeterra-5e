@@ -347,9 +347,11 @@ _You get +1 to attack and damage rolls using this weapon_
 - 600 Gold
 - Shortbow
 
-**Lightning Conduit**: Whenever you hit an enemy with an attack from _Ionic Spark_ they gain a _Lighting Mark_.
+**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
 
-**Shocking Bolt**: Whenever you hit a creature with a lightning mark, you remove the mark and all creautres within 10 feet, including the target, takes 2d6 lightning damage. All creatures except the main target gets a _Lightning Mark_
+**Lightning Conduit**: Whenever you have 100 stacks of _energized_ your next attack against an enemy an enemy with _Ionic Spark_ gives them a _Lighting Mark_.
+
+**Shocking Bolt**: Whenever you hit a creature with a lightning mark, you remove the mark and all creautres within 15 feet, including the target, must succeed a dexterity saving throw (Dc equals to 9 plus your proficiency bonus plus your dexterity modifier) or take 2d8 lightning damage and are restrained until the end of their turn. On a success the target takes half damage and are not restrained. 
 
 _You have +1 to hit and attack rolls using this magical weapon_ 
 
