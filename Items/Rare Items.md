@@ -892,9 +892,9 @@ _You gain +2 to hit and damage rolls using this magical weapon._
 - 3250 Gold
 - Shortbow
 
-**Wind Up**: Whenever you make an attack with recurve bow, you gain a charge of _Swift String_, up to a maximum of 10 stacks.
+**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
 
-**Swift String**: Whenever you take the attack action using _Recurve Bow_ you can spend five charges of _Swift String_ to make an extra attack as a part of that action.
+**Swift String**: Whenever you take the attack and have 100 stacks of energized, you can make an additional attack as a part of the attack action.
 
 _You gain +2 to initiative checks_
 
