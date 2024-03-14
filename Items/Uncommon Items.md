@@ -176,16 +176,18 @@ _You have +1 to your armor class while wearing this magical armor_
 
 ---
 
-## Dagger of Swiftness
+## Galvanic Dagger
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dagger.png" Align=right width=8% height=8%>
 
 - 400 Gold
 - Dagger
 
-**Swift strike**: You off-hand attacks with this dagger are made with advantage.
+**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
 
-_You gain +1 to your initiative rolls_
+**Shock**: When you have 100 stacks of energized your next attack with _Galvanic Dagger_ deals 1d8 additional lightining damage. 
+
+_You have a +1 to hit and damage rolls using this magical weapon_
 
 ---
 
