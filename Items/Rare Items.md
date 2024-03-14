@@ -583,9 +583,9 @@ _You gain +2 to you Constitution saving throws_
 - 3000 Gold
 - Spear
 
-**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain five stacks of _energized_, up to a maximum of 80.
+**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
 
-**Jolt**: When you are at 80 stacks of _energized_, your next attack with _Kircheis Shard_ also deals 2d8 lightning damage after the weapons initial damage. 
+**Jolt**: When you are at 100 stacks of _energized_, your next attack with _Kircheis Shard_ also deals 2d8 lightning damage after the weapons initial damage. 
 
 You gain +2 to hit and damage rolls using this magical weapon. 
 
@@ -1147,9 +1147,9 @@ _While attuned to this item your armor class inceases by 1_
 - 2750 Gold
 - Rapier
 
-**Energized**: Whenever you move you gain a stack of energized for every feet you move and whenever you attack you gain five stacks of energized, up to a maximum of 80.
+**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
 
-**Bolt**: When you are at 80 stacks of energized, your next attack with _Stormrazor_ has +1 crit chance, deals 2d8 lightning damage after the weapons initial damage and grants you agility and 20 feet movement speed until the end of your turn.
+**Bolt**: When you are at 100 stacks of energized, your next attack with _Stormrazor_ has +1 crit chance, deals 2d8 lightning damage and 10 feet movement speed until the end of your turn.
 
 _You gain +2 to attack and damage rolls using this weapon_
 
