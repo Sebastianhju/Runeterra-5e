@@ -42,9 +42,9 @@
 ## Keystones
 
 ### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" Align=left width=20% height=20%>
-Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move and five stacks for every attack you hit, up to a maximum of 80 stacks. When you have maximum stacks, the next time you deal damage, you deal 1d4 additional damage, and heal equal to the additional damage dealt. In addition you gain *agility* and 10 feet movement speed until the end of your turn
+Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move and five stacks for every attack you hit, up to a maximum of 80 stacks. When you have maximum stacks, the next time you deal damage, you deal 1d6 additional damage, and heal equal to the additional damage dealt. In addition you gain *agility* and 10 feet movement speed until the end of your turn
 
-The damage increases by 1d4 at level 5, 9, 13 and 17. At level 17 you gain 30 feet movement speed instead. 
+The damage increases by 1d6 at level 5, 9, 13 and 17. At level 17 you gain 30 feet movement speed instead. 
 
 ---
 
