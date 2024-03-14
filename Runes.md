@@ -125,25 +125,23 @@ Whenever you score a _takedown_ you gain a stack of Bloodline that gives you ben
 
 ### Coup De Grace <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CoupDeGrace.png" Align=left width=7% height=7%>
 
-Whenever you deal damage, you deal 1d6 extra damage to _bloodied_ creatures. 
-
-When you reach level 11 the damage increases to 2d6
+As an action you can execute a bloodied creature within 30 feet of you as long as the creatures challenge rating is equal or lower than your level. You can do this a number of times equal to your proficiency bonus before you must finish a long rest.
 
 ---
 
 ### Cut Down <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CutDown.png" Align=left width=7% height=7%>
 
-Whenever you deal damage, you deal 1d6 additional damage if your target is larger than you. 
+When you deal damage to a large or larger creatures you deal 1d6 additional damage. 
 
-When you reach level 11 the damage increases to 2d6
+When you hit a creature with an attack you can learn eighter their armor class, one resistance, vulnarability or saving throw. 
 
 ---
 
 ### Last Stand <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LastStand.png" Align=left width=7% height=7%>
 
-Whenever you deal damage, you deal 1d6 additional damage if you are _bloodied_. 
+Whenever you are bloodied you deal, you gain +1 to you attack rolls and deal 1d6 additional damage for each stack of exhaustion you have.
 
-When you reach level 11 the damage increases to 2d6
+Whenever you take a long rest, you can remove one additional point of exhaustion.
 
 ---
 
