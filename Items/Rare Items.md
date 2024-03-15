@@ -1164,9 +1164,9 @@ _You gain +2 to attack and damage rolls using this weapon_
 
 **Stormcaller**: As an action, if you are outside you can spend an action to call upon a stormy cloud that covers your area for one hour. 
 
-**Stormraider**: Whenever you deal damage to a creature whilst in a storm you mark them with **Squall**. 
+**Stormraider**: Whenever you deal lightning or thunder damage to a creature whilst in a storm you mark them with **Squall**. 
 
-**Squall**: The next time you deal thunder or lightning damage, all creaures with squall must succeed a dexterity saving throw, dc equals 8 + proficiency + constituition modifier, or take the that damage, halved on a save. Once this effect is used it cannot be used again until 30 seconds have passed. 
+**Squall**: When a creature with **Squall** dies, if there is a storm above them lightning strikes from above and shatters the ground in a 15 feet radius around the corpse. All creature within the lightning strike must succeed a dexterity saving throw or take 2d8 lightning damage.
 
 _You gain +2 to attack and damage rolls using this weapon_
 
