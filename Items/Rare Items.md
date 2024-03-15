@@ -1166,7 +1166,7 @@ _You gain +2 to attack and damage rolls using this weapon_
 
 **Stormraider**: This weapon has a +1 crit chance and deals 1d6 additional lightning damage while in stormy weather. 
 
-**Squall**: If damage you deal would make a creature bloodied. The creature gains a mark of **Squall**. At the start of your next turn, they take 3d10 lightning damage. If the creature already died, the lightninge instead explodes in a 15 feet radius. All enemy creatures must succeed a dexterity saving throw or take 3d10 lightning damage, halved on a success. The dc equals to 10 + twice your proficiency bonus, or your spellcasting save. If you or an ally of yours is hit by this lightning surge, you gain temporary hit points instead of taking damage. Once this effect is used, it cannot be used again until 24 seconds have passed. 
+**Squall**: Once a turn if damage you deal would make a creature bloodied. The creature gains a mark of **Squall**. At the start of your next turn, they take 3d10 lightning damage. If the creature already died, the lightninge instead explodes in a 15 feet radius. All enemy creatures must succeed a dexterity saving throw or take 3d10 lightning damage, halved on a success. The dc equals to 10 + twice your proficiency bonus, or your spellcasting save. If you or an ally of yours is hit by this lightning surge, you gain temporary hit points instead of taking damage. Once this effect is used, it cannot be used again until 24 seconds have passed. 
 
 _You gain +2 to attack and damage rolls using this weapon_
 
