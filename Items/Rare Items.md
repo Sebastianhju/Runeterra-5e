@@ -1248,6 +1248,23 @@ _You gain +2 to damage and attack rolls using this weapon_
 
 ---
 
+## Unending Despair
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Unending Despair.png" Align=right width=8% height=8%>
+
+- 4500 Gold
+- Shield
+
+**Health**: You gain maximum hit points equal to your hit dice
+
+**Haste**: The cooldown of your runes and items are reduced by 6 seconds.
+
+**Anguish**: As a bonus action, you can force all creatures within 15 feet of you to make a constitution saving throw, DC equals to 9 + Constitution modifier + proficiency bonus, or take 2d6 necrotic damage on a failure, halved on a save. You heal equal to the necrotic damage dealt in this way. 
+
+_You gain +1 to your armor class while wielding this shield_
+
+---
+
 ## Vampiric Scepter
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Vampiric Scepter.png" Align=right width=8% height=8%>
