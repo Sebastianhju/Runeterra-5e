@@ -1296,6 +1296,21 @@ _You gain +2 to spell attacks and spell saving throw dc_
 
 ---
 
+## Voltaic Cyclosword
+
+- 4500 Gold
+- Longsword
+
+**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
+
+**Glavanize**: Whenever you are invisible, teleport or blink you gain 2 stacks of energized for every feet moved in this way. 
+
+**Firmament**: When you are at 100 stacks of energized, your next attack deals 1d10 additional lightning damage and marks then with **Buzz**. A **Buzzed** targets movement speed is halved. A creature can remove **Buzz** if they end their turn without moving. 
+
+_You gain +2 to attack and damage rolls using this magical weapon_ 
+
+---
+
 ## Wardens Mail
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Warden's Mail.png" Align=right width=8% height=8%>
