@@ -335,7 +335,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Manaflow_ gi
 |Amount|Effect|
 |---|---|
 |0|You gain +6 maximum mana|
-|25|As an action you harness a pool of mana equal to three times your proficiency bonus that you can divide on allies within 60 feet of you. You can also give away mana from your own mana pool to allies. Once this action is used it cannot be used again until you finish a nights rest. |
+|25|As an action you harness a pool of mana equal to three times your proficiency bonus that you can divide on allies within 60 feet of you. You can also give away mana from your own mana pool to allies. Once this action is used it cannot be used again until you finish a long rest. |
 |50|You gain +15 maximum mana|
 
 ---
