@@ -1298,6 +1298,8 @@ _You gain +2 to spell attacks and spell saving throw dc_
 
 ## Voltaic Cyclosword
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Voltaic Cyclosword.png" Align=right width=8% height=8%>
+
 - 4500 Gold
 - Longsword
 
