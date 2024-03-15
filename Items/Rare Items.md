@@ -202,7 +202,7 @@ You gain +1 to your armor class while wearing this magical armor.
 - 2500 Gold
 - Warhammer
 
-**Hammering Haste**: Once a turn when you hit an attack roll with _Caulfields Warhammer_ you reduce the cooldown of your runes and items by 12. 
+**Hammering Haste**: Once a round when you hit an attack roll with _Caulfields Warhammer_ you reduce the cooldown of your runes and items by 12. 
 
 **Crushing Blow**: When you hit an attack roll with _Caulfields Warhammer_ you can choose to knock the target prone. Once this action is used it cannot be used again until 30 seconds have passed.
 
@@ -1070,7 +1070,7 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 - Spear
 - Attunement
 
-**Dragonforce**: Once a turn when you immobilize or slow a creature, the cooldown of your items and runes are reduced by 12 seconds.
+**Dragonforce**: Once a round when you immobilize or slow a creature, the cooldown of your items and runes are reduced by 12 seconds.
 
 **Dragging Thrust**: When you take the attack action you can replace one of your attacks with a dragging thrust. Make a melee attack roll targeting an enemy within 15 feet of you, on a hit they take 1d8 additional damage and are pulled 10 feet towards you. 
 
