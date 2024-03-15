@@ -1,4 +1,4 @@
-![image](https://github.com/Sebastianhju/Runeterra-5e/assets/146032815/10ca64f9-0f6a-4b82-b742-8547820c6d61)# Upgradables
+# Upgradables
 
 ## Winter's Approach 
 
