@@ -1259,7 +1259,7 @@ _You gain +2 to damage and attack rolls using this weapon_
 
 **Haste**: The cooldown of your runes and items are reduced by 6 seconds.
 
-**Anguish**: As a bonus action, you can force all creatures within 15 feet of you to make a constitution saving throw, DC equals to 9 + Constitution modifier + proficiency bonus, or take 2d6 necrotic damage on a failure, halved on a save. You heal equal to the necrotic damage dealt in this way. 
+**Anguish**: As a bonus action, you can force all creatures within 15 feet of you to make a constitution saving throw, DC equals to 9 + Constitution modifier + proficiency bonus, or take 2d6 necrotic damage on a failure, halved on a save. You heal equal to the necrotic damage dealt in this way. One this effect is used, it cannot be used again until 18 seconds have passed. 
 
 _You gain +1 to your armor class while wielding this shield_
 
