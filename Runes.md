@@ -342,9 +342,9 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Manaflow_ gi
 
 ### Nimbus Cloak  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/6361.png" Align=left width=7% height=7%>
 
-Summoner spells has a 20% discount in shops. 
+You gain +10 walking speed. 
 
-Whenever you use a _summoner spell_ all allies within 30 feet of you gains agility and can use their reaction to move up to their movement speed.
+As a bonus action you can channel the forces of the winds and clouds around you. You and all creatures of your choice within 15 feet of you can immidiatly take the dash action as an reaction without provoking opportunity attacks. Once this action is used it cannot be used again until 30 seconds have passed. 
 
 ---
 
