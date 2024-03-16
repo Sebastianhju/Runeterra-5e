@@ -342,9 +342,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Manaflow_ gi
 
 ### Nimbus Cloak  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/6361.png" Align=left width=7% height=7%>
 
-You gain +10 walking speed. 
-
-As a bonus action you can channel the forces of the winds and clouds around you. All creatures of your choice within 15 feet of you can immidiatly spend their reaction to move up to movement speed without provoking opportunity attacks. Once this action is used it cannot be used again until 30 seconds have passed. 
+As a bonus action you can creatue a small rain cloud in a 15 foot radius that counts as a storm. Allies that start their turn within the cloud gains 10 feet movement speed until the end of their turn. Enemies within the storm must roll a d6 at the start of their turns, if they roll a 6 they are struck by lightning and must succeed a dexterity saving throw against you spell save dc or 8 + twice your proficiency bonus, on a failed save they take 2d10 lightning damage. 
 
 ---
 
@@ -361,9 +359,9 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Tanscendence
 ---
 ### Celerity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/CelerityTemp.png" Align=left width=7% height=7%>
 
-Whenever you cast a spell you gain agility and movement speed equal to five time the spell level until the end of your turn. 
+Whenever you cast a spell you gain agility and movement speed equal to ten time the spell level until the end of your turn. 
 
-The first time you deal damage to a creaure during your turn, you deal 1d6 additional damage if you moved atleast 30 feet before you made the attack. 
+Whenever you move atleast 45 feet or more during your turn, your next spell costs one less mana to cast. 
 
 ---
 
