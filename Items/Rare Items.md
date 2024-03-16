@@ -1358,7 +1358,7 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 
 **Mitigate**: Whenever you take physical damage, you reduce the damage taken by an amount equal to your _Mitigate_ stacks. 
 
-While wielding this armor you gain +1 to your armor class_
+_While wielding this armor you gain +1 to your armor class_
 
 ---
 
@@ -1369,10 +1369,11 @@ While wielding this armor you gain +1 to your armor class_
 - 2500 gold
 - Quarterstaff
 
-**Tailwind**: You and all allies that start their turn within 10 feet of you gain 30 feet additional walking speed until the end of their turn. 
+**Tailwind**: You and all allies that start their turn within 10 feet of you gain 10 feet additional walking speed until the end of their turn. 
 
 **Eye of the Storm**: As a bonus action you can give a creature or object you can see temporay hit points equal to four times your proficiency bonus. Once this action is used it cannot be used again until 24 seconds have passed. 
 
+_You gain +2 to attack and damage rolls using this weapon_
 ---
 
 ## Wit's End
