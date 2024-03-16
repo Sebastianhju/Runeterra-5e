@@ -344,7 +344,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Manaflow_ gi
 
 You gain +10 walking speed. 
 
-As a bonus action you can channel the forces of the winds and clouds around you. You and all creatures of your choice within 15 feet of you can immidiatly take the dash action as an reaction without provoking opportunity attacks. Once this action is used it cannot be used again until 30 seconds have passed. 
+As a bonus action you can channel the forces of the winds and clouds around you. All creatures of your choice within 15 feet of you can immidiatly spend their reaction to move up to movement speed without provoking opportunity attacks. Once this action is used it cannot be used again until 30 seconds have passed. 
 
 ---
 
@@ -362,6 +362,8 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Tanscendence
 ### Celerity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/CelerityTemp.png" Align=left width=7% height=7%>
 
 Whenever you cast a spell you gain agility and movement speed equal to five time the spell level until the end of your turn. 
+
+The first time you deal damage to a creaure during your turn, you deal 1d6 additional damage if you moved atleast 30 feet before you made the attack. 
 
 ---
 
