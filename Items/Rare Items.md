@@ -223,7 +223,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 ---
 
-## Chalice of Power
+## Chalice of Harmony
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chalice of Power.png" Align=right width=8% height=8%>
 
