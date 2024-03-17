@@ -438,7 +438,7 @@ Once this action is used, it cannot be used again until 24 seconds have passed.
 
 Once a turn when you damage an enemy or take damage from an enemy, you gain a stack of Grasp. When you are at three stacks, your next attack deals 1d6 additional necrotic damage. You heal equal to the damage dealt from this effect.
 
-In addition you gain a stack of Undying whenever you drain an opponent using this ability. You gain +1 maximum hit points for every fifth stack of Undying you have.
+In addition you gain a stack of Undying whenever you drain an opponent using this ability. You gain +1 maximum hit points for every fifth stack of Undying you have and you gain +1 additional necrotic damage for every 20th stack you have. 
 
 The damage increases by 1d6 at level 5, 9, 13 and 17.
 
