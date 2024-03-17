@@ -981,7 +981,7 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Seeker's Armguard.png" Align=right width=8% height=8%>
 
-- 2750 Gold
+- 4000 Gold
 - Wondrous Item
 - Attunement
 
@@ -997,7 +997,7 @@ _You gain +1 to your armor class_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Serpent's Fang.png" Align=right width=8% height=8%>
 
-- 2750 Gold
+- 4000 Gold
 - Shortsword
 
 **Poison Loaded**: The first attack with _Serpent's Fang_ each turn deals 2d6 additional poision damage. 
@@ -1012,7 +1012,7 @@ _You gain +2 to attack and damage rolls using this weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Serrated Dirk.png" Align=right width=8% height=8%>
 
-- 2900 Gold
+- 4000 Gold
 - Dagger
 
 **Gouge**: Whenever you deal damage to a creature with temporary hit points using _Serrated Dirk_, you first remove the temporary hit points and deal 2d6 additional damage. 
@@ -1029,7 +1029,7 @@ _You gain +2 to hit and damage rolls using this magical weapon._
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Shadowflame.png" Align=right width=8% height=8%>
 
-- 3500 gold
+- 4000 gold
 - Wonderus
 - Attunement
 
@@ -1043,7 +1043,7 @@ _You gain +2 to spell attack rolls and save dc_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Shurelya's Battlesong.png" Align=right width=8% height=8%>
 
-- 2200 gold
+- 4000 gold
 - Wondrous
 - Attunement
 
@@ -1061,7 +1061,7 @@ _You gain +2 to spell attack rolls and save dc_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Silvermere Dawn.png" Align=right width=8% height=8%>
 
-- 2700 Gold
+- 4000 Gold
 - Morningstar
 
 **Quicksilver**: You can cast lesser restoration as a bonus action, when you do this you can remove up to three conditions. You can do this two times before you must finish a long rest. The next time you hit an attack with _Silvermere Dawn_ you can apply one of the removed conditions to the target. 
@@ -1076,7 +1076,7 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spear of Shojin.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 5000 Gold
 - Spear
 - Attunement
 
@@ -1092,7 +1092,7 @@ _You gain +2 to damage and attack rolls using this weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spectre's Cowl.png" Align=right width=8% height=8%>
 
-- 2750 Gold
+- 4000 Gold
 - Wondrous Item 
 
 **Incorporeal**: Whenever you take damage, you gain a stacks of regeneration. During your turn, you can spend three stacks of regeneration to gain the ability to phase through walls and creatures until the end of your turn, while phasing you cannot be restrained or grappled. 
@@ -1106,8 +1106,8 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 ## Spirit Visage
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spirit Visage.png" Align=right width=8% height=8%>
-
-- 4500 Gold
+  
+- 4000 Gold
 - Chainmail
 
 **Boundless Vitality**: Once a turn when heal or gain temporary hit points, you can increase that by an amount equal to your proficiency bonus. 
@@ -1122,7 +1122,7 @@ _You gain +1 to your armor class while wearing this armor_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Staff of flowing water.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 4000 Gold
 - Quarterstaff
 - Attunemnet
 
@@ -1138,7 +1138,7 @@ _You gain +1 to your armor class while wearing this armor_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Steel Sigil.png" Align=right width=8% height=8%>
 
-- 3300 Gold
+- 400 Gold
 - Wondrous
 - Attunement
 
@@ -1154,7 +1154,7 @@ _While attuned to this item your armor class inceases by 1_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stormrazor.png" Align=right width=8% height=8%>
 
-- 2750 Gold
+- 4000 Gold
 - Rapier
 
 **Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
@@ -1162,6 +1162,8 @@ _While attuned to this item your armor class inceases by 1_
 **Bolt**: When you are at 100 stacks of energized, your next attack with _Stormrazor_ has +1 crit chance, deals 2d8 lightning damage and 10 feet movement speed until the end of your turn.
 
 _You gain +2 to attack and damage rolls using this weapon_
+
+_You gain +2 to inititative rolls_ 
 
 ---
 
@@ -1187,7 +1189,7 @@ _You gain +2 to attack and damage rolls using this weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stridebreaker.png" Align=right width=8% height=8%>
 
 - Whip
-- 3000 Gold
+- 4000 Gold
 
 **Bladed Whip**: Stridebreaker deals 1d4 additional slashing damage. 
 
@@ -1203,7 +1205,7 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/The Brutalizer.png" Align=right width=8% height=8%>
 
-- 2750 Gold
+- 4000 Gold
 - Quarterstaff
 
 **Carve**: Whenever you hit a creature with *The Brutalizer* or *unarmed attacks* the target gains a stack of Carve. 
@@ -1220,7 +1222,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tiamat.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 5000 Gold
 - Greataxe
 
 **Apprehend**: Once a turn when you take the attack action you can replace one of you attacks by lunging out a nasty hook with the _Tiamat_. All creatures of your choice in a 30 feet cone must succeed a dexterity saving throw (dc = 10 + proficiency bonus + strength modifier) or take 2d12 slashing damage and are moved to a location of your choice within the area. Once this effect is used it cannot be used again until 18 seconds have passed. 
@@ -1235,7 +1237,7 @@ You gain +2 to hit and damage rolls using this magical weapon.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Turbo Chemtank.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 4500 Gold
 - Breastplate
 
 **Supercharge**: You can dash as a bonus action. At the end of your turn, you reduce the speed of creatures within 5 feet of you an amount equal to half the feet you traveled this turn. Once this action is used, it cannot be used again until 30 seconds pass. 
@@ -1248,6 +1250,9 @@ _You gain +1 to your armor class while wearing this piece of armor_
 
 ## Twin Shadows
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Twin Shadows.png" Align=right width=8% height=8%>
+
+- 4500 Gold
+- Wondrous
 
 **Haunt**: Once a turn when you affect an enemy with a negative, non-damaging spell, you can use your reaction to summon a spectral version of yourself that haunts the target. Choose one ability, whenever the target make an attack roll, saving throw or ability check using that ability, they have disadvantage on the roll. 
 At the end of its turn, the target can attempt a wisdom saving throw against your spell save to get rid of the haunt. 
@@ -1263,7 +1268,7 @@ _You get +2 to you spell attack and spell save dc_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Umbral Glaice.png" Align=right width=8% height=8%>
 
-- 2750 Gold
+- 4000 Gold
 - Glaive
 - Attunement
 
@@ -1284,8 +1289,6 @@ _You gain +2 to damage and attack rolls using this weapon_
 
 **Health**: You gain maximum hit points equal to your hit dice
 
-**Haste**: The cooldown of your runes and items are reduced by 6 seconds.
-
 **Anguish**: As a bonus action, you can force all creatures within 15 feet of you to make a constitution saving throw, DC equals to 9 + Constitution modifier + proficiency bonus, or take 2d6 necrotic damage on a failure, halved on a save. You heal equal to the necrotic damage dealt in this way. One this effect is used, it cannot be used again until 24 seconds have passed. 
 
 _You gain +1 to your armor class while wielding this shield_
@@ -1296,7 +1299,7 @@ _You gain +1 to your armor class while wielding this shield_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Vampiric Scepter.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 4500 Gold
 - Quarterstaff
 - Attunement
 
@@ -1316,7 +1319,7 @@ _You have +2 to hit and attack rolls using this weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Verdant Barrier.png" Align=right width=8% height=8%>
 
-- 3000 gold
+- 4000 gold
 - Wondrous
 
 **Focus**: Wheneve you roll dice to deal spell damage or heal, you can reroll up to 6 dices. 
@@ -1331,7 +1334,7 @@ _You gain +1 to all saving throws_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Void Staff.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 4500 Gold
 - Quarterstaff
 
 **Corruption**: Once a turn when you immobilize a creature, you can give them _Corruption_ removing all resistances and immunities from the target. At the end of its turn, the target can attempt to remove _Corruptin_, making a constitution saving throw against your spell save dc. Once this action is used it cannot be used again until 30 seconds have passed. 
@@ -1344,7 +1347,7 @@ _You gain +2 to spell attacks and spell saving throw dc_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Voltaic Cyclosword.png" Align=right width=8% height=8%>
 
-- 4500 Gold
+- 4000 Gold
 - Longsword
 
 **Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
@@ -1361,7 +1364,7 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Warden's Mail.png" Align=right width=8% height=8%>
 
-- 2750 Gold
+- 4500 Gold
 - Half Plate
 
 **Rock Solid**: Whenever you spend mana, you gain stacks of _Mitigate_ equal mana spent, that last until the start of your next turn. 
@@ -1376,7 +1379,7 @@ _While wielding this armor you gain +1 to your armor class_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Whisper of Wind.png" Align=right width=8% height=8%>
 
-- 2500 gold
+- 4000 gold
 - Quarterstaff
 
 **Tailwind**: You and all allies that start their turn within 10 feet of you gain 10 feet additional walking speed until the end of their turn. 
@@ -1391,7 +1394,7 @@ _You gain +2 to attack and damage rolls using this weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Wit's End.png" Align=right width=8% height=8%>
 
-- 2800 gold
+- 5000 gold
 - Scimitar
 - Attunement
 
@@ -1409,7 +1412,7 @@ _You have +2 to attack and damage rolls with this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Winged Moonplate.png" Align=right width=8% height=8%>
 
-- 3500 Gold
+- 4500 Gold
 - Plate
 
 **Flight**: You gain the ability to cast fly on yourself without spending mana, once this ability is used it cannot be used again until you finish a long rest. 
@@ -1424,7 +1427,7 @@ _While wielding this armor you gain +1 to your armor class_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Zeal.png" Align=right width=8% height=8%>
 
-- 3250 Gold
+- 4000 Gold
 - Shortsword
 
 **Critical**: Your critical strike chance increases by one.
@@ -1441,7 +1444,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Zeke's Convergence.png" Align=right width=8% height=8%>
 
-- 3200 Gold
+- 4500 Gold
 - Woundrous item
 - Attunement
 
@@ -1459,7 +1462,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Zephyr.png" Align=right width=8% height=8%>
 
-- 3250 Gold
+- 4000 Gold
 - Greatsword
 
 **Like the Wind**: Making attacks with _Zephyr_ grants stacks of **Gale**, up to a maximum of six. For every other stack you gain 10 feet flying speed and +1 to hit. If you don´t make any attacks for a minute you loose all stacks. 
