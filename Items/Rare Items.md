@@ -227,7 +227,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chalice of Power.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 4000 Gold
 - Wonderous Item
 - Attunement
 
@@ -243,7 +243,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chempunk Chainsword.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 4500 Gold
 - Longsword
 
 **Spinning Blades**: As a bonus action you can start up the chainswords engine. For your next three attacks, the chainsword deals 1d8 additional damage, applies grievous wounds and burn. Once this action is used it cannot be used again until 18 seconds pass. 
@@ -256,7 +256,7 @@ _You get +2 to attack and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chemtech Putrifier.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 5500 Gold
 - Quarterstaff
 
 **Puffcap Toxin**: Whenever you target an ally with a heal or buff, their next attack applies grievous wounds to their target. 
@@ -265,13 +265,15 @@ _You get +2 to attack and damage rolls using this magical weapon_
 
 **Healing Power**: Your healing spells heal 2 more hit points
 
+_You gain +2 to attack and damage rolls with this weapon_
+
 ---
 
 ## Crystalline Bracer
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Crystalline Bracer.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 5500 Gold
 - Wondrous Item
 - Attunement
 
@@ -286,7 +288,7 @@ _You get +2 to attack and damage rolls using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dead man's plate.png" Align=right width=8% height=8%>
 
 - Wonderous Item (Shoulderpad)
-- 3000 Gold
+- 6000 Gold
 - Attunement
 
 **Shipwrecker**: Whenever you move you gain a speed of momentum for every feet you move, up to a maximum of 80. Whenever you hit a creature with a melee attack you consume all charges of momentum, dealing 1d8 additional damage and reducing their speed by 15 feet for every 40th stack of momentum you have.
@@ -303,7 +305,7 @@ _You gain +1 to your armor class while wearing this piece of equipment_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Death's Dance.png" Align=right width=8% height=8%>
 
-- 4500 Gold
+- 5000 Gold
 - Longsword
 - Attunement
 
@@ -319,7 +321,7 @@ _You gain +2 to attack and damage rolls using this weapon._
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Demonic Embrace.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 4000 Gold
 - Wondrous
 - Attunement
 
@@ -334,7 +336,7 @@ _You gain +2 to attack and damage rolls using this weapon._
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Echoes of Helia.png" Align=right width=8% height=8%>
 
 - Wonderous Item
-- 3500 Gold
+- 4500 Gold
 - Attunement
 
 **Soul Siphon**: Once a turn when you damage an enemy, you grants you a soul charge up to a maximum of three. The next time you heal or give an ally temporary hit points, you expend all soul charges to heal you both 1d8 hit points for each soul charge.
@@ -350,7 +352,7 @@ _You gain +2 to attack and damage rolls using this weapon._
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Eclipse.png" Align=right width=8% height=8%>
 
 - Double Edged Scimitar
-- 4000 Gold
+- 5500 Gold
 
 **Ever Rising Moon**: You can cast the _Moonbeam_ spell once before you must finish a short rest. 
 
@@ -366,7 +368,7 @@ _You get +2 to attack and damage rolls using this weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Fiendish Codex.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 4500 Gold
 - Spell Focus
 
 **Fiendish Knowledge**: You may prepare two extra spell from you spellcasting list. 
@@ -381,7 +383,7 @@ _You get +2 to your spell attack and spell save dc_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Forbidden Idol.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 5000 Gold
 - Spell focus
 - Attunement
 
@@ -397,10 +399,10 @@ _You get +2 to your spell attack and spell save dc_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Glacial Buckler.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 4500 Gold
 - Shield
 
-**Steadfast**: Whenever anyone misses a melee attack roll towards you, their movement speed is reduced by 10 feet. 
+**Steadfast**: Whenever anyone misses a melee attack roll towards you can spend your reaction to force them to make a dexterity saving throw against your spell save dc or be restrained in ice until the end of their next turn. The ice has an armor class of 10 and hitpoints equal to five times your proficiency bonus, if it is broken they are no longer restrained.
 
 **Mana**: You gain +5 maximum mana.
 
