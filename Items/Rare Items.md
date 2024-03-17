@@ -78,7 +78,7 @@ _You gain +1 to your saving throws_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ardent Censer.png" Align=right width=8% height=8%>
 
 - Wondrous Item
-- 4500 Gold
+- 4000 Gold
 
 **Sanctify**: Whenever you cast a buffing spell on an ally, their weapon attacks deal 1d6 additional force damage until the end of their turn. 
 
@@ -104,7 +104,7 @@ _You gain +1 to your saving throws_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Aegis of the Legion.png" Align=right width=8% height=8%>
 
-- 5000 Gold
+- 4500 Gold
 - Shield
 
 **Aegis Aura**: As a bonus action you can activate the Aegis Aura, giving all allies within 5 feet of you temporary hit points equal to two times your proficiency bonus. Once this action is used, it cannot be used again until 18 seconds have passed. 
@@ -130,7 +130,7 @@ _While wielding this piece of armor you gain +1 to your armor class._
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bandleglass mirror.png" Align=right width=8% height=8%>
 
-- 4500 Gold
+- 4000 Gold
 - Wondrous Item
 
 **Spell Reflection**: As a reaction whenever you see a creature fail a saving throw against a spell, you can spend two mana to add 1d6 to their saving throw. 
@@ -143,7 +143,7 @@ _While wielding this piece of armor you gain +1 to your armor class._
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Banner of Command.png" Align=right width=8% height=8%>
 
-- 5000 Gold
+- 4500 Gold
 - Wondrous Item
 - Attunement
 
@@ -169,7 +169,7 @@ _You gain +1 to your armor class while attuned to this item_
 ## Black Spear
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Black Spear.png" Align=right width=8% height=8%>
 
-- 5000 Gold
+- 4500 Gold
 - Spear
   
 **Spectral Spears**: Whenever you throw the *Black Spear* it teleports back to your hand when it hits a target or the attack misses. When the attack hits a sprectral spear lingers in the black spears place. 
@@ -184,7 +184,7 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bramblevest.png" Align=right width=8% height=8%>
 
-- 4500 Gold
+- 4000 Gold
 - Chain Shirt
 - Attunement
 
@@ -198,7 +198,7 @@ You gain +1 to your armor class while wearing this magical armor.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Caulfield's Warhammer.png" Align=right width=8% height=8%>
 
-- 5500 Gold
+- 5000 Gold
 - Warhammer
 
 **Hammering Haste**: Once a round when you hit an attack roll with _Caulfields Warhammer_ you reduce the cooldown of your runes and items by 12. 
@@ -213,7 +213,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chalice of Blessing.png" Align=right width=8% height=8%>
 
-- 5500 Gold
+- 5000 Gold
 - Wondrous Item
 - Attunement
 
@@ -243,7 +243,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chempunk Chainsword.png" Align=right width=8% height=8%>
 
-- 4500 Gold
+- 4000 Gold
 - Longsword
 
 **Spinning Blades**: As a bonus action you can start up the chainswords engine. For your next three attacks, the chainsword deals 1d8 additional damage, applies grievous wounds and burn. Once this action is used it cannot be used again until 18 seconds pass. 
@@ -256,7 +256,7 @@ _You get +2 to attack and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chemtech Putrifier.png" Align=right width=8% height=8%>
 
-- 5500 Gold
+- 5000 Gold
 - Quarterstaff
 
 **Puffcap Toxin**: Whenever you target an ally with a heal or buff, their next attack applies grievous wounds to their target. 
@@ -273,7 +273,7 @@ _You gain +2 to attack and damage rolls with this weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Crystalline Bracer.png" Align=right width=8% height=8%>
 
-- 5500 Gold
+- 4500 Gold
 - Wondrous Item
 - Attunement
 
@@ -288,7 +288,7 @@ _You gain +2 to attack and damage rolls with this weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dead man's plate.png" Align=right width=8% height=8%>
 
 - Wonderous Item (Shoulderpad)
-- 6000 Gold
+- 5000 Gold
 - Attunement
 
 **Shipwrecker**: Whenever you move you gain a speed of momentum for every feet you move, up to a maximum of 80. Whenever you hit a creature with a melee attack you consume all charges of momentum, dealing 1d8 additional damage and reducing their speed by 15 feet for every 40th stack of momentum you have.
@@ -305,7 +305,7 @@ _You gain +1 to your armor class while wearing this piece of equipment_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Death's Dance.png" Align=right width=8% height=8%>
 
-- 5000 Gold
+- 4500 Gold
 - Longsword
 - Attunement
 
@@ -336,7 +336,7 @@ _You gain +2 to attack and damage rolls using this weapon._
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Echoes of Helia.png" Align=right width=8% height=8%>
 
 - Wonderous Item
-- 4500 Gold
+- 4000 Gold
 - Attunement
 
 **Soul Siphon**: Once a turn when you damage an enemy, you grants you a soul charge up to a maximum of three. The next time you heal or give an ally temporary hit points, you expend all soul charges to heal you both 1d8 hit points for each soul charge.
@@ -352,7 +352,7 @@ _You gain +2 to attack and damage rolls using this weapon._
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Eclipse.png" Align=right width=8% height=8%>
 
 - Double Edged Scimitar
-- 5500 Gold
+- 5000 Gold
 
 **Ever Rising Moon**: You can cast the _Moonbeam_ spell once before you must finish a short rest. 
 
@@ -368,7 +368,7 @@ _You get +2 to attack and damage rolls using this weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Fiendish Codex.png" Align=right width=8% height=8%>
 
-- 4500 Gold
+- 4000 Gold
 - Spell Focus
 
 **Fiendish Knowledge**: You may prepare two extra spell from you spellcasting list. 
@@ -383,7 +383,7 @@ _You get +2 to your spell attack and spell save dc_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Forbidden Idol.png" Align=right width=8% height=8%>
 
-- 5000 Gold
+- 4500 Gold
 - Spell focus
 - Attunement
 
@@ -414,7 +414,7 @@ _While wielding this shield you gain +1 to your armor class._
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tunneler.png" Align=right width=8% height=8%>
 
-- 2750 Gold
+- 4500 Gold
 - Wondrous, gloves
 
 **Drilling Fist**: The gloves have enchanted drills attached to them, unarmed attacks made with the gloves deal 1d6 additional piercing damage. 
@@ -431,7 +431,7 @@ _You get +2 to unarmed attack and damage rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Giants Belt.png" Align=right width=8% height=8%>
 
-- 3500 Gold
+- 6000 Gold
 - Wondrous item
 - Attunement
 
@@ -445,12 +445,14 @@ _You get +2 to unarmed attack and damage rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hearthbound Axe.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 4000 Gold
 - Battleaxe
 
 **Nimble**: Whenever you hit a creature with _Hearthbound Axe_ you gain +10 feet movement speed and agility until the end of your next turn. 
 
 You gain +2 to hit and damage rolls using this magical weapon.
+
+_You gain +2 to initiative_
 
 ---
 
@@ -458,7 +460,7 @@ You gain +2 to hit and damage rolls using this magical weapon.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Revolver.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 4500 Gold
 - Pistol
 
 **Shock**: When you hit an attack with _Hextech Revolver_ you can choose to force the target to succeed a constitution saving throw, the DC equal to 10 + proficiency bonus + dexterity modifier, on a failed save they take 2d8 lightning damage and are stunned until the end of their turn. On a success they are not stunned and take half damage. Once this effect is used, it cannot be used again until 24 seconds have passed.
@@ -472,7 +474,7 @@ _You gain +2 to hit and damage rolls with this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Rocketbelt.png" Align=right width=8% height=8%>
 
 - Wondrous
-- 3000 Gold
+- 5000 Gold
 
 **Supersonic**: As a bouns action you can activate the rocketbelt. You gain 60 feet flying speed and agility, but you must land on a surface at the end of your turn, when you end your turn, all creatures within 5 feet of you take 2d4+2 force damage. Once this effect is used, it cannot be used again until 30 seconds pass. 
 
@@ -486,7 +488,7 @@ _You gain +3 to initiative rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Horizon Focus.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 4500 Gold
 - Wondrous
 
 **Spell Sniper**: Once a turn when you target an enemy that is 90 feet or more away from you with a spell, the target becomes marked with dim blue light for a minute. While marked it can't go invisible and attack rolls against it has advantage. Once this effect is used it cannot be used again until 18 seconds pass. 
@@ -515,7 +517,7 @@ _You get +2 to your spell attack and spell save DC_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hullbreaker.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 4000 Gold
 - Warhammer
 
 **Boarding Party**: Whenever there are no allies within 30 feet of you, you gain +2 to your armor class and saving throws (Attune to get this effect) 
@@ -530,7 +532,10 @@ _You have +2 to attack and damage rolls using this magical weapon._
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Huntress's Javelin.png" Align=right width=8% height=8%>
 
-**Javelin Toss**: Once a turn when you take the attack action, you can replace one of the attacks with a Javelin Toss. You toss the Javelin in a 120 feet line, hitting the first creature that fails a dexterity saving throw, dc 9 + proficienct bonus + Strength modifier. The creature takes 1d6 damage for every tenth feet the Javelin traveled. When the Javelin is used in this way it teleports back to your hand. Once this ability is used it cannot be used again until 18 seconds have passed. 
+- 4000 Gold
+- Javelin
+
+**Javelin Toss**: Once a turn when you take the attack action, you can replace one of the attacks with a Javelin Toss. You toss the Javelin in a 120 feet line, hitting the first creature that fails a dexterity saving throw, dc 10 + proficienct bonus + Strength modifier. The creature takes 1d6 damage for every tenth feet the Javelin traveled. When the Javelin is used in this way it teleports back to your hand. Once this ability is used it cannot be used again until 18 seconds have passed. 
 
 _You have +2 to hit and damage rolls using this magical Weapon_
 
@@ -540,7 +545,7 @@ _You have +2 to hit and damage rolls using this magical Weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Imperial Mandate.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 4000 Gold
 - Wondrous
 
 **Coordinated Fire**: Whenever you slow or immobilize a target, they gain a mark that lasts until start of your next turn. The mark is consumed the next time the target takes damage from one of you allies, dealing 2d8 radiant damage.
@@ -555,7 +560,6 @@ _You have +2 to hit and damage rolls using this magical Weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Jak'Sho, The Protean.png" Align=right width=8% height=8%>
 
-- 3200 Gold
 - Plate
 - Attunement
 
@@ -571,7 +575,7 @@ _You have +2 to hit and damage rolls using this magical Weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Kindlegem.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 4000 Gold
 - Wondrous
 
 **Haste**: The cooldowns of your runes and items are reduced by 6 seconds. 
@@ -586,7 +590,7 @@ _You gain +2 to you Constitution saving throws_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Kircheis Shard.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 4000 Gold
 - Spear
 
 **Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
@@ -601,7 +605,7 @@ You gain +2 to hit and damage rolls using this magical weapon.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Last Whisper.png" Align=right width=8% height=8%>
 
-- 2900 Gold
+- 4000 Gold
 - Longbow
 
 **Breathtaking**: Whenever you damage enemies, you ignore resistances to piercing damage. If a creature would be immune to piercing damage, they take half damage from your attacks.
@@ -619,7 +623,7 @@ _You gain +2 to hit and damage rolls using this magical weapon._
 
 - Wonderous Item
 - Attunement
-- 3000 Gold
+- 4500 Gold
 
 **Torment**: When you target a creature with a spell, you can choose to apply *Burn* to the target. 
 
@@ -633,7 +637,7 @@ _You gain +2 to spell attacks and your save dc while attuned to this magical ite
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lifewell Pendant.png" Align=right width=8% height=8%>
 
-- 3500 Gold
+- 4000 Gold
 - Wondrous Item
 - Attunement
 
@@ -649,7 +653,7 @@ _You gain +2 to spell attacks and your save dc while attuned to this magical ite
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lightslinger.png" Align=right width=8% height=8%>
 
-- 3200
+- 5000
 - Pistol
 
 **Piercing Light**: When you take the attack action you can replace one of the attacks with a beam of light that shoots in a 30 foot long line. Each creature in the line must succeed a Dexterity saving throw, dc equals to 10 + proficiency bonus + your dexterity modifier, or take 3d10 radiant damage, halved on a save. Once this effect is used it cannot be used again until 60 seconds have passed. Every attack made with the lightslinger reduces this abilities cooldown by 6 seconds. 
@@ -664,7 +668,7 @@ _You have +2 to hit and damage rolls using this weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lost Chapter.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 4500 Gold
 - Wondrous
 - Attunement
 
@@ -680,10 +684,10 @@ You gain +2 to spell attack rolls and your saving throw DC.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Maw of Malmortius.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 4000 Gold
 - Longsword
 
-**Elemental Jaws**: At the end of a short rest, you can choose one type of elemental damage type. You gian resistance from that elemental damage until you finish a long rest. Whenever you take that type of damage, _Maw of Malmortius_ deals 1d8/1d10 additional damage of that damage type until the end of your turn.  
+**Elemental Jaws**: At the end of a short rest, you can choose one type of elemental damage type. You gain resistance from that elemental damage until you finish a long rest. Whenever you take that type of damage, _Maw of Malmortius_ deals 1d8/1d10 additional damage of that damage type until the end of your turn.  
 
 _You have +2 to attack and damage rolls with this magical weapon_
 
@@ -693,10 +697,10 @@ ___
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mercurial Scimitar.png" Align=right width=8% height=8%>
 
-- 2700 Gold
+- 4000 Gold
 - Scimitar
 
-**Quicksilver** As a reaction upon begin immobilized you can remove all immobilizing effects and cast lesser restoration on yourself, until the end of your turn you gain +1 crit chance with _Mecurial Scimitar_. Once this effect is used it cannot be used again until 30 seconds pass.  
+**Quicksilver** As a reaction upon begin immobilized you can remove all immobilizing effects and cast lesser restoration on yourself, until the end of your next turn you gain +1 crit chance with _Mecurial Scimitar_. Once this effect is used it cannot be used again until 30 seconds pass.  
 
 _You have +2 to attack and damage rolls with this magical weapon_
 
@@ -711,9 +715,9 @@ _You have +2 to attack and damage rolls with this magical weapon_
 
 **Purify**: You know the lesser restoration spell and can cast it once a long rest as an reaction without spending mana. 
 
-**Enhanced Cleansing** Whenever you cast lesser- or greater restoration on a target you can target creatures within 30 feet of you. Aditionally, you may spend at least one additional mana to eighter target another creature within range, or remove an additional effect affecting a creature.  
+**Enhanced Cleansing** Whenever you cast lesser- or greater restoration on a target you can target creatures within 30 feet of you. Additionally, you may spend at least one additional mana to eighter target another creature within range, or remove an additional effect affecting a creature.
 
-**Healing Power**: Your healing spells heal 2 more hit points.  
+**Healing Power**: Your healing spells heal 2 more hit points.
 
 ---
 
@@ -721,7 +725,7 @@ _You have +2 to attack and damage rolls with this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mortal Reminder.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 4500 Gold
 - Longbow
 
 **Sepsis**: Dealing Damage with _Mortal Reminder_ towards a target applies grievous wonds. Whenever you make an attack roll against a target with grievous wounds with _Mortal Reminder_ you have +1 crit chance. 
@@ -736,7 +740,7 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Nashor's Tooth.png" Align=right width=8% height=8%>
 
-- 3250 Gold
+- 4000 Gold
 - Dagger
 
 **Ichatian Bite**: When you cast a spell, _Nashor's Tooth_ deals 1d6 additional necrotic damage and you gain an additional attack when you take your next attack action. 
@@ -751,11 +755,11 @@ _You gian +2 to attack and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Negatron Cloak.png" Align=right width=8% height=8%>
 
-- 2750 Gold
+- 4500 Gold
 - Wondrous Item
 - Attunement
 
-**Negate**: Whenever you take Physical, Elemental, Acid, or Poision damage from spells you can reduce that by 3. 
+**Negate**: Whenever you take Elemental damage you can reduce that by 3. 
 
 **Health**: You get health equal to your hit dice. 
 
@@ -767,7 +771,7 @@ _You get +1 to all saving throws_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Noonquiver.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 4000 Gold
 - Wondrous Item
 - Attunement
 
@@ -792,7 +796,7 @@ _You get +1 to all saving throws_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Oblivion Orb.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 4000 Gold
 - Wondrous Item
 
 **Cursed**: Whenever you deal spell damage, you give yourself and the target grievous wounds. 
@@ -820,7 +824,7 @@ _You gain +2 to you spell attacks_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Phage.png" Align=right width=8% height=8%>
 
-- 3250 Gold
+- 4000 Gold
 - Maul
 
 **Sturdy**: Once a turn when you hit a creature with phage, you get two stacks of _regeneration_. 
@@ -837,7 +841,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Phantom Dancer.png" Align=right width=8% height=8%>
 
-- 3500 Gold
+- 4500 Gold
 - Sickle
 - Attunement
 
@@ -851,7 +855,7 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Prowlers Claw.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 5000 Gold
 - Dagger
 
 **Leaping Strike**: If you are hidden from a target, you can spend your attack action to teleport 30 feet to a location within 5 feet of the target. You can then make an attak wih _Prowler's Claw_, critting on a successfull hit. Once this action is used it cannot be used again until 30 seconds pass. 
@@ -864,7 +868,7 @@ _You gain +2 to attack and damage rolls using this weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rageknife.png" Align=right width=8% height=8%>
 
-- 3500 Gold
+- 4500 Gold
 - Dagger
 
 **Wrath**: Once a turn when you hit an attack against a target with _rageknife_ they gain a stack of _Rage_. 
@@ -879,7 +883,7 @@ _You gain +2 to hit and damage rolls using this magical weapon._
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rectrix.png" Align=right width=8% height=8%>
 
-- 2750 Gold
+- 6000 Gold
 - Wondrous
 - Attunement
 
@@ -895,7 +899,7 @@ _You gain +2 to hit and damage rolls using this magical weapon._
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Recurve Bow.png" Align=right width=8% height=8%>
 
-- 3250 Gold
+- 4500 Gold
 - Shortbow
 
 **Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
@@ -912,7 +916,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Redemption.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 5000 Gold
 - Wondrous
 
 **Intervention**: As a bonus action you can target a point you can see and call upon help from the divine. At the start of your next turn a beam of light strikes in a 20 foot radius, centered on your point. All allies within the effect heals 2d8 + proficiency bonus. All enemies takes 2d8 radiant damage. You can use this action a number of times equal to your proficiency bonus before you must finish a long rest. 
@@ -927,7 +931,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Riftmaker.png" Align=right width=8% height=8%>
 
-- 3200 Gold
+- 5000 Gold
 - Arcane Focus
 - Attunement
 
@@ -943,7 +947,7 @@ _You gain +2 to your spell attack and save dc_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rod of Ages.png" Align=right width=8% height=8%>
 
-- 2800 Gold
+- 4500 Gold
 - Arcane Focus
 - Attunement
 
