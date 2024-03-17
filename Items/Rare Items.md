@@ -927,7 +927,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 **Riftmaker**: When you cast a teleportation spell you can spent 2 additional mana to double the range.
 
-**Hunger of the Void**: When you deal damage with a spell you gain a stack of _hunger_. When you have 5 stacks of _hunger_ your next spells deal 3d6 additional necrotic damage and you heal for the same amount. 
+**Hunger of the Void**: When you deal damage with a spell you gain a stack of _hunger_ up to a maximum of five. When you have 5 stacks of _hunger_ your next spells consumes all charges and deals 3d6 additional necrotic damage and you heal for the same amount. If the spell has multiple damage sources, the first source of damage consumes the charges.
 
 _You gain +2 to your spell attack and save dc_
 
@@ -943,7 +943,7 @@ _You gain +2 to your spell attack and save dc_
 
 **Vitality**: You gain health and mana equal to three times your proficiency bonus
 
-**Wisdom of Ages**: When rolling damage for a spell you can add your spellcasting ability modifier to the damage roll
+**Wisdom of Ages**: When rolling damage for your cantrips you can add your proficiency bonus to the damage. 
 
 _You gain +2 to spell attack rolls and saving throws_
 
