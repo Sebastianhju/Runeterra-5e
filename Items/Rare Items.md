@@ -1374,6 +1374,7 @@ _While wielding this armor you gain +1 to your armor class_
 **Eye of the Storm**: As a bonus action you can give a creature or object you can see temporay hit points equal to four times your proficiency bonus. Once this action is used it cannot be used again until 24 seconds have passed. 
 
 _You gain +2 to attack and damage rolls using this weapon_
+
 ---
 
 ## Wit's End
@@ -1401,7 +1402,7 @@ _You have +2 to attack and damage rolls with this magical weapon_
 - 3500 Gold
 - Plate
 
-**Flight**: You gain the ability to cast fly on yourself once a day without spending mana. 
+**Flight**: You gain the ability to cast fly on yourself without spending mana, once this ability is used it cannot be used again until you finish a long rest. 
 
 You don't have disadvantage on stealth checks when wielding this armor. 
 
