@@ -307,7 +307,7 @@ Aerys damage and sheilding scales along with your proiciency bonus in level 5, 9
 
 ### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" Align=left width=20% height=20%>
 
-Once a turn when you deal damage to a target you can summon a comet that crashes onto the target. The target and all enemies in a 10 feet radius takes 2d6 magical bludgeoning damage. Once used, it cannot be used again until 36 seconds has passed. All creatures within the area must succeed a strength saving throw, the dc equals 10 + twice your proficiency bonus or be knocked prone until the end of your next turn.
+Once a turn when you deal damage to a target you can summon a comet that crashes onto the target. The target and all enemies in a 10 feet radius takes 2d6 magical bludgeoning damage. Once used, it cannot be used again until 36 seconds has passed. All creatures within the area must succeed a strength saving throw, the dc equals 10 + twice your proficiency bonus or be knocked prone.
 
 The damage increases by 2d6 at levels 5, 9, 13 and 17
 
@@ -436,7 +436,7 @@ Once this action is used, it cannot be used again until 24 seconds have passed.
 
 ### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=20% height=20%>
 
-Once a turn when you damage an enemy or take damage from an enemy, you gain a stack of Grasp. When you are at three stacks, your next attack deals 1d6 additional necrotic damage. You heal equal to the necrotic damage dealt.
+Once a turn when you damage an enemy or take damage from an enemy, you gain a stack of Grasp. When you are at three stacks, your next attack deals 1d6 additional necrotic damage. You heal equal to the damage dealt from this effect.
 
 In addition you gain a stack of Undying whenever you drain an opponent using this ability. You gain +1 maximum hit points for every fifth stack of Undying you have.
 
@@ -478,7 +478,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Conditioning
 
 ### Comeback  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/SecondWind.png" Align=left width=7% height=7%>
 
-When you gain the bloodied condition you gain stacks of regeneration equal to 2 plus your proficiency bonus. Then you heal equal to three times your current regeneration stacks. Once this action is used, it cannot be used again until 30 seconds have passed. 
+When you gain the bloodied condition you gain stacks of regeneration equal to 2 plus your proficiency bonus. Then you heal equal to three times your current regeneration stacks. Once this effect is used, it cannot be used again until 30 seconds have passed. 
 
 The maximum stacks of regeneration is increased by one.
 
