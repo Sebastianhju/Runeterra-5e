@@ -60,7 +60,7 @@ _You have +1 to spell attack rolls and +1 to your spell save DC when attuned to 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Abyssal Mask.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 4000 Gold
 - Wondrous
 - Attunement
 
@@ -78,7 +78,7 @@ _You gain +1 to your saving throws_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ardent Censer.png" Align=right width=8% height=8%>
 
 - Wondrous Item
-- 3000 Gold
+- 4500 Gold
 
 **Sanctify**: Whenever you cast a buffing spell on an ally, their weapon attacks deal 1d6 additional force damage until the end of their turn. 
 
@@ -92,7 +92,6 @@ _You gain +1 to your saving throws_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Axiom Arc.png" Align=right width=8% height=8%>
 
-- 3000 Gold
 - Wondrous
 
 **Haste**: The cooldown of your runes and items are reduced by 6. 
@@ -105,7 +104,7 @@ _You gain +1 to your saving throws_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Aegis of the Legion.png" Align=right width=8% height=8%>
 
-- 3250 Gold
+- 5000 Gold
 - Shield
 
 **Aegis Aura**: As a bonus action you can activate the Aegis Aura, giving all allies within 5 feet of you temporary hit points equal to two times your proficiency bonus. Once this action is used, it cannot be used again until 18 seconds have passed. 
@@ -118,7 +117,7 @@ _While wielding this piece of armor you gain +1 to your armor class._
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bami's Cinder.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 4000 Gold
 - Wondrous Item
 
 **Health**: You gain maximum hit points equal to your hit dice.  
@@ -131,7 +130,7 @@ _While wielding this piece of armor you gain +1 to your armor class._
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bandleglass mirror.png" Align=right width=8% height=8%>
 
-- 3200 Gold
+- 4500 Gold
 - Wondrous Item
 
 **Spell Reflection**: As a reaction whenever you see a creature fail a saving throw against a spell, you can spend two mana to add 1d6 to their saving throw. 
@@ -144,7 +143,7 @@ _While wielding this piece of armor you gain +1 to your armor class._
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Banner of Command.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 5000 Gold
 - Wondrous Item
 - Attunement
 
@@ -160,7 +159,7 @@ _You gain +1 to your armor class while attuned to this item_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Banshee's Veil.png" Align=right width=8% height=8%>
 
-- 3250 Gold
+- 6000 Gold
 - Wondrous Item
 
 **Annull**: A spectral orb of energy lingers on you. When Banshee's Veil is off cooldown you automatically succeed your next saving throw. Once this effect is used, it cannot be used again until 36 seconds pass.
@@ -170,7 +169,7 @@ _You gain +1 to your armor class while attuned to this item_
 ## Black Spear
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Black Spear.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 5000 Gold
 - Spear
   
 **Spectral Spears**: Whenever you throw the *Black Spear* it teleports back to your hand when it hits a target or the attack misses. When the attack hits a sprectral spear lingers in the black spears place. 
@@ -185,7 +184,7 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bramblevest.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 4500 Gold
 - Chain Shirt
 - Attunement
 
@@ -199,7 +198,7 @@ You gain +1 to your armor class while wearing this magical armor.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Caulfield's Warhammer.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 5500 Gold
 - Warhammer
 
 **Hammering Haste**: Once a round when you hit an attack roll with _Caulfields Warhammer_ you reduce the cooldown of your runes and items by 12. 
@@ -214,13 +213,13 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chalice of Blessing.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 5500 Gold
 - Wondrous Item
 - Attunement
 
 **Blessing**: You learn the bless spell and can cast it once a day without using a spell slot. Whenever you cast bless, you can spend 4 mana to empower it. An empowered bless spells dice increases to 1d6 and heals the blessed creature equal to the number rolled on the bless dice whenever they make an attack roll or saving throw. 
 
-**Health**: You gain maximum hit points equal to half your hit dice.  
+**Mana**: You gain maximum hit points equal to half your hit dice.  
 
 ---
 
@@ -230,8 +229,13 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 - 2500 Gold
 - Wonderous Item
+- Attunement
 
-**Master of Elixirs**: Once per long rest, you can as an action lift the chalice up, recite the incantation of the chalice and name an elixir, the goblet will fill itself with the named elixir. The elixir must then be consumed within one minute or vaporize.
+**Master of Potions**: Whenever you drink a healing or mana potion, you regain the maximum amount possible. 
+
+**Health**: You gain health equal to your hit dice
+
+**Mana**: You gain +5 maximum mana
 
 ---
 
