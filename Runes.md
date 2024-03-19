@@ -611,6 +611,8 @@ Whenever you take a long rest, you can attempt to repair a stopwatch with your t
 
 You gain the ability teleport to a pocket dimention with a secret shop after a ten minute channel. Whenever you visit a shopkeeper after obtaining this rune, all of their wares become available in the Futures Market.
 
+Additionally you can buy nonmagical common items at half price at any time as an bonus action. 
+
 ---
 
 ### Celestial Curing <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png" Align=left width=7% height=7%>
