@@ -268,7 +268,7 @@ _You get +2 to attack and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chemtech Putrifier.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 5000 Gold
 - Quarterstaff
 
 **Puffcap Toxin**: Whenever you target an ally with a heal or buff, their next attack applies grievous wounds to their target. 
@@ -277,18 +277,7 @@ _You get +2 to attack and damage rolls using this magical weapon_
 
 **Healing Power**: Your healing spells heal 2 more hit points
 
----
-
-## Hextech Revolver
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Revolver.png" Align=right width=8% height=8%>
-
-- 4000 Gold
-- Pistol
-
-**Shock**: When you hit an attack with _Hextech Revolver_ you can choose to force the target to succeed a constitution saving throw, the DC equal to 10 + proficiency bonus + dexterity modifier, on a failed save they take 2d8 lightning damage and are stunned until the end of their turn. On a success they are not stunned and take half damage. Once this effect is used, it cannot be used again until 24 seconds have passed.
-
-_You gain +2 to hit and damage rolls with this magical weapon_ 
+_You gain +2 to attack and damage rolls with this weapon_
 
 ---
 
@@ -297,7 +286,7 @@ _You gain +2 to hit and damage rolls with this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Rocketbelt.png" Align=right width=8% height=8%>
 
 - Wondrous
-- 4500 Gold
+- 5000 Gold
 
 **Supersonic**: As a bouns action you can activate the rocketbelt. You gain 60 feet flying speed and agility, but you must land on a surface at the end of your turn, when you end your turn, all creatures within 5 feet of you take 2d4+2 force damage. Once this effect is used, it cannot be used again until 30 seconds pass. 
 
