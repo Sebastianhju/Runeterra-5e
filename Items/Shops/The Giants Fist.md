@@ -137,16 +137,14 @@ _You have +1 to your armor class while wearing this magical armor_
 
 ---
 
-## Dagger of Swiftness
+## Haunting Guise
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dagger.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Haunting Guise.png" Align=right width=8% height=8%>
 
-- 400 Gold
-- Dagger
+- 600
+- Wondrous
 
-**Swift strike**: You off-hand attacks with this dagger are made with advantage.
-
-_You gain +1 to your initiative rolls_
+**Madness**: Once a turn when you deal or take damage you gain a stack of _Madness_. When you have 3 stacks of madness your gain +1 crit chance for a minute.
 
 ---
 
@@ -186,50 +184,77 @@ _You gain +1 to your initiative rolls_
 
 ---
 
+## Trailblazer
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Trailblazer.png" Align=right width=8% height=8%>
+
+- 500 Gold
+- Wondrous  
+
+**Speed**: You gain +5 walking speed
+
+**Lead the Way**: As a bonus action you can leave behind a trail in every square you leave during your turn. The first time each ally moves within the trail they gain movement speed equal to half your walking speed. 
+
+---
+
 # Rare Items
 
 ## Bramble Vest
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bramblevest.png" Align=right width=8% height=8%>
 
-- 3000 Gold
-- Chain Vest
+- 4000 Gold
+- Chain Shirt
 - Attunement
 
-**Thorns**: Whenever you are damaged by a melee attack, the attacker takes damage equal to your proficiency bonus and gains grievous wounds. 
+**Thorns**: Whenever you are targeted by a melee attack, the attacker takes damage equal to your proficiency bonus and gains grievous wounds. 
 
 You gain +1 to your armor class while wearing this magical armor. 
 
 ---
 
+## Giants Belt
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Giants Belt.png" Align=right width=8% height=8%>
+
+- 6000 Gold
+- Wondrous item
+- Attunement
+
+**Giants Might**: While wielding this item your strength score is set to 22.
+
+**Health**: You gain maximum hit points equal to half your hit dice. 
+
+---
+w
+
 ## Kircheis Shard
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Kircheis Shard.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 4000 Gold
 - Spear
 
-**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain five stacks of _energized_, up to a maximum of 80.
+**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
 
-**Jolt**: When you are at 80 stacks of _energized_, your next attack with _Kircheis Shard_ also deals 2d8 lightning damage after the  weapons initial damage. 
+**Jolt**: When you are at 100 stacks of _energized_, your next attack with _Kircheis Shard_ also deals 2d8 lightning damage after the weapons initial damage. 
 
-You gain +1 to hit and damage rolls using this magical weapon. 
+You gain +2 to hit and damage rolls using this magical weapon. 
 
 ---
 
 ## Phage
-
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Phage.png" Align=right width=8% height=8%>
 
-- 3250 Gold
+- 4000 Gold
 - Maul
 
 **Sturdy**: Once a turn when you hit a creature with phage, you get two stacks of _regeneration_. 
 
 **Health**: You gain maximum hit points equal to your hit dice. 
 
-You gain +1 to hit and damage rolls using this magical weapon. 
+You gain +2 to hit and damage rolls using this magical weapon. 
 
-_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
+_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to two plus your proficiency bonus._
 
 ---
