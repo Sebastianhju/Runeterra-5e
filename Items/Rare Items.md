@@ -1138,7 +1138,7 @@ _You gain +1 to your armor class while wearing this armor_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Steel Sigil.png" Align=right width=8% height=8%>
 
-- 400 Gold
+- 4000 Gold
 - Wondrous
 - Attunement
 
