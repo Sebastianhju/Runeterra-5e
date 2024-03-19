@@ -233,6 +233,8 @@ Whenever you score a takedown, you gain a stack of eyeball collection. You gain 
 
 Whenever you defeat a *greater foe* you can make an investegation check to find special loot. The check DC equals to 5 + the creatures _Challenge Rating_.
 
+Additionally you can focus your senses to discover hidden objects. Once a short rest, you can make an investeagation check dc 15. On a sucsess you know if there is any loot within 100 feet of you and where it is. 
+
 ---
 
 ### Ingenious Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png" Align=left width=7% height=7%>
