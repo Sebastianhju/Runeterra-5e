@@ -4,8 +4,8 @@
 
 ## Elixir of Iron
 
-Cost: 200 Gold
-Quantity: 1
+- Cost: 200 Gold
+- Quantity: 1
 
 As an action you can drink this elixir. For the next hour, you become large, gain +1 to all saving throws and gain maximum hit points equal to two times your level. 
 
@@ -13,8 +13,8 @@ As an action you can drink this elixir. For the next hour, you become large, gai
 
 ## Elixir of Sorcery
 
-Cost: 200 Gold
-Quantity: 1
+- Cost: 200 Gold
+- Quantity: 1
 
 As an action you can drink this elixir. For the next hour, you can roll 1d6 additional damage when rolling for elemental damage, and you ignore resistances to elemental damage types.
 
@@ -22,8 +22,8 @@ As an action you can drink this elixir. For the next hour, you can roll 1d6 addi
 
 ## Elixir of Wrath
 
-Cost: 200 Gold
-Quantity: 1
+- Cost: 200 Gold
+- Quantity: 1
 
 As an action you can drink this elixir. For the next hour, whenever you deal bludgeoning, piercing and slashing damage, you deal 1d6 additional damage and heal equal to the additional damage. 
 
@@ -31,8 +31,8 @@ As an action you can drink this elixir. For the next hour, whenever you deal blu
 
 ## Potion of Healing
 
-Cost: 50 gold
-Quantity: 10
+- Cost: 50 gold
+- Quantity: 10
 
 As a Bonus Action you regain 2d4+2 hit points
 
@@ -40,8 +40,8 @@ As a Bonus Action you regain 2d4+2 hit points
 
 ## Potion of Greater Healing
 
-Cost: 250 gold
-Quantity: 5
+- Cost: 250 gold
+- Quantity: 5
 
 As a Bonus Action you regain 4d4+4 hit points
 
@@ -49,8 +49,8 @@ As a Bonus Action you regain 4d4+4 hit points
 
 ## Potion of Manaregeneration
 
-Cost: 50 Gold
-Quantity: 10
+- Cost: 50 Gold
+- Quantity: 10
 
 As a bonus action you regain 1d4+1 mana. 
 
@@ -58,18 +58,14 @@ As a bonus action you regain 1d4+1 mana.
 
 ## Potion of Greater Manaregeneration
 
-Cost: 250 Gold
-Quantity: 10
+- Cost: 250 Gold
+- Quantity: 10
 
 As a bonus action yoiu regain 2d4+2 mana.
 
 # Summoner Spells
 
-
-
-# Spell Scrolls
-
-# Ignite<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Ignite_HD.png" align=right width=10% height=10%>
+## Ignite<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Ignite_HD.png" align=right width=10% height=10%>
 
 Cost: 500 Gold
 Quantity: 1
@@ -78,7 +74,7 @@ As a *Bonus Action* you can apply ignite to a target within 30 feet of for 24 se
 
 ---
 
-# Flash<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Flash_HD.png" align=right width=10% height=10%>
+## Flash<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-Summoners/Flash_HD.png" align=right width=10% height=10%>
 
 Cost: 500 Gold
 Quantity: 1
@@ -86,6 +82,50 @@ Quantity: 1
 At any time, you can teleport to a location within 30 feet of you, you do not need to see the location. If the location targeted is a wall, you are instead placed at the nearest open area.
 
 ---
+
+# Spell Scrolls
+
+## 1st Level (100 Gold) 
+- Essence Theft
+- Expeditious Retreat
+- Grease
+- Jump
+- Silent Image
+- Protection from Evil and Good
+- Tenser's Floating Disk
+- snare
+
+
+## 2nd Level (250 Gold)
+- Acceleration Gate
+- Rapture
+- Silvery Barbs
+- Arcane Lock
+- Blur
+- Darkvision
+- Enlarge/Reduce
+- Hold Person
+- Invisibility
+- Schorching Ray
+
+
+## 3rd Level (500 Gold) 
+- Blink
+- Fear
+- Fly
+- Gaesous Form
+- Magic Circle
+- Stinking Cloud
+
+## 4th Level (1000 Gold)
+- Banishment
+- Blight
+- Dimension Door
+- Fabricate
+
+## 5th Level (3000 Gold) 
+- Cloudkill
+- Wall of Force
 
 ---
 
