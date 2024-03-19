@@ -1,4 +1,5 @@
 |Lions Den er Noxus Prime sin største og beste butikk for våpen og andre adventuring supplies|
+|---|
 
 # Consumables
 
