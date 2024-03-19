@@ -60,6 +60,19 @@ The ward has an armor class of 10 and hit points equal to four times your level.
 
 # Uncommon
 
+## Blasting Wand
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Blasting Wand.png" Align=right width=8% height=8%>
+
+- 500 Gold
+- Arcane Focus
+
+**Spell Enhancer**: Whenever you deal damage from a spell you may reroll up to three damage dices.
+
+_You gain +1 bonus to spell attack rolls_
+
+---
+
 ## Dark Seal
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dark Seal.png" Align=right width=8% height=8%>
@@ -159,6 +172,20 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 **Spoils of War**: Whenever you score a takedown, you gain gold equal to ten times the creatures challenge rating, up to a maximum of 300 gold
 
 **Quest**: Whenever you've gained 300 gold using this item, it transforms into _Pauldrons of Whiterock_
+
+---
+
+## Tempest
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tempest.png" Align=right width=8% height=8%>
+
+- 800 Gold 
+- Scimitar
+
+**Whirlwind**: Whenever you hit an attack, you gain a stack of whirlwind. You loose all stacks of whirlwind if you dont deal damage for a minute. 
+
+**Crashing Tornado**: When you have three stacks, you next attack is replaced with a tornado that goes in a 15 foot line. Each target in the line must make a dexterity saving throw, dc equals 9 + str/dex + proficiency bonus or take 2d8 thunder damage and be knocked 15 feet airbone, falling to the ground at the end of its next turn. While suspended in the air its speed is 0. A creature takes half damage on a successful save. 
+
+_You get +1 to attack and damage rolls using this weapon_
 
 ---
 
