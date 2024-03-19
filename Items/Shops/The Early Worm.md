@@ -195,7 +195,7 @@ _You get +1 to attack and damage rolls using this weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Abyssal Mask.png" Align=right width=8% height=8%>
 
-- 3000 Gold
+- 4000 Gold
 - Wondrous
 - Attunement
 
@@ -211,14 +211,14 @@ _You gain +1 to your saving throws_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Glacial Buckler.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 4500 Gold
 - Shield
 
-**Steadfast**: Whenever anyone misses a melee attack roll towards you, their movement speed is reduced by 10 feet. 
+**Steadfast**: Whenever anyone misses a melee attack roll towards you can spend your reaction to force them to make a dexterity saving throw against your spell save dc or be restrained in ice until the end of their next turn. The ice has an armor class of 10 and hitpoints equal to five times your proficiency bonus, if it is broken they are no longer restrained.
 
 **Mana**: You gain +5 maximum mana.
 
-While wielding this shield you gain +1 to your armor class. 
+_While wielding this shield you gain +1 to your armor class._
 
 ---
 
@@ -226,7 +226,7 @@ While wielding this shield you gain +1 to your armor class.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Imperial Mandate.png" Align=right width=8% height=8%>
 
-- 2500 Gold
+- 4000 Gold
 - Wondrous
 
 **Coordinated Fire**: Whenever you slow or immobilize a target, they gain a mark that lasts until start of your next turn. The mark is consumed the next time the target takes damage from one of you allies, dealing 2d8 radiant damage.
@@ -234,5 +234,20 @@ While wielding this shield you gain +1 to your armor class.
 **Harmony**: Whenever a mark is consumed, you gain a stack of _Harmony_. When you have five stacks of harmony, you regain 1 mana. 
 
 **Haste**: The cooldown of your items and runes are reduced by 6 seconds. 
+
+---
+
+## Kindlegem
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Kindlegem.png" Align=right width=8% height=8%>
+
+- 4000 Gold
+- Wondrous
+
+**Haste**: The cooldowns of your runes and items are reduced by 6 seconds. 
+
+**Health**: You gain maximum hit points equal to your hit dice. 
+
+_You gain +2 to you Constitution saving throws_
 
 ---
