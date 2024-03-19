@@ -295,7 +295,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 - 600
 - Wondrous
 
-**Madness**: Once a turn when you deal or take damage you gain a stack of _Madness_. When you have 5 stacks of madness your gain +1 crit chance for a minute.
+**Madness**: Once a turn when you deal or take damage you gain a stack of _Madness_. When you have 3 stacks of madness your gain +1 crit chance for a minute.
 
 ---
 
