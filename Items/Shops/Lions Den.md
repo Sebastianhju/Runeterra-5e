@@ -338,21 +338,6 @@ _You gain +2 to attack and damage rolls using this weapon._
 
 ---
 
-## Fiendish Codex
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Fiendish Codex.png" Align=right width=8% height=8%>
-
-- 4000 Gold
-- Spell Focus
-
-**Fiendish Knowledge**: You may prepare two extra spell from you spellcasting list. 
-
-**Haste**: The cooldown of your runes and items are reduced by 6 seconds. 
-
-_You get +2 to your spell attack and spell save dc_
-
----
-
 ## Hullbreaker
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hullbreaker.png" Align=right width=8% height=8%>
