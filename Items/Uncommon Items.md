@@ -201,7 +201,7 @@ _You have a +1 to hit and damage rolls using this magical weapon_
 
 **Glory** Whenever you score a takedown you gain a stack of glory, up to a maximum of 10. Whenever your hit points are reduced to 0 you loose all stacks of glory. 
 
-**Dread**: While at 5 or more stacks, you deal 1d4 additional damage whenever you spell damage. This damage increases to 2d4 whenever you are at 10 stacks. 
+**Dread**: While at 5 or more stacks, you deal 1d4 additional damage whenever you spell damage. This damage increases to 1d6 whenever you are at 10 stacks. 
 
 ---
 
