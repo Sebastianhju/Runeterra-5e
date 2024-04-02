@@ -194,6 +194,19 @@ You gain +1 to your armor class while wearing this magical armor.
 
 ---
 
+## Bravado
+
+- 5000 Gold
+- Warhammer
+  
+**Cosmic Radiance**: Bravado shines with the light of the stars and sheds bright light in a radius of 40ft and and additional 40ft of dim light. Whenever you deal radiant damage you can change the damage dice to one higher, making a d8 a d10 for example.  
+
+**Dazzle**: Whenever you score a critical hit that deals radiant damage the target is blinded untill the end of your next turn. 
+
+_You have +2 to hit and damage rolls with this magical weapon_ 
+
+---
+
 ## Caulfields Warhammer
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Caulfield's Warhammer.png" Align=right width=8% height=8%>
@@ -1063,7 +1076,7 @@ _You gain +2 to spell attack rolls and save dc_
 - Wonderus
 - Attunement
 
-**Spellpainter**: Artistry is taxing and come at a cost. When casting a spell you can foul it with a hitt dice in addition to the normal mana cost. When you do so you can add one of the following effects to the spell: Disaster, Serenity, Torment.
+**Spellpainter**: Artistry is taxing and come at a cost. When casting a spell you can fuel it with a hitt dice in addition to the normal mana cost. When you do so you can add one of the following effects to the spell: Disaster, Serenity, Torment.
 
 **Disaster**: Roll the hitt dice and add the total to one of the spells damage rolls.  
 
