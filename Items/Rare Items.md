@@ -1057,6 +1057,24 @@ _You gain +2 to spell attack rolls and save dc_
 
 ---
 
+## Signature of the Visionary
+
+- 6000 gold
+- Wonderus
+- Attunement
+
+**Spellpainter**: Artistry is taxing and come at a cost. When casting a spell you can foul it with a hitt dice in addition to the normal mana cost. When you do so you can add one of the following effects to the spell: Disaster, Serenity, Torment.
+
+**Disaster**: Roll the hitt dice and add the total to one of the spells damage rolls.  
+
+**Serenity**: All target of the spell gains 10ft of movement speed, 1 point of regeneration and advantage to their next d20 roll.
+
+**Torment**: All targets of the spell must make a wisdome saving throw, agianst your spell save dc, or become frighted of you untill the end of your next turn. When frightened in this way their speed becomes 0 
+
+_You gain +2 to spell attack rolls and save dc_
+
+---
+
 ## Silvermere Dawn
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Silvermere Dawn.png" Align=right width=8% height=8%>
