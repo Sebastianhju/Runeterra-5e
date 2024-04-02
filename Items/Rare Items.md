@@ -199,7 +199,7 @@ You gain +1 to your armor class while wearing this magical armor.
 - 5000 Gold
 - Warhammer
   
-**Cosmic Radiance**: Bravado shines with the light of the stars and sheds bright light in a radius of 40ft and and additional 40ft of dim light. Whenever you deal radiant damage you can change the damage dice to one higher, making a d8 a d10 for example.  
+**Cosmic Radiance**: Bravado shines with the light of the stars and sheds bright light in a radius of 40ft and an additional 40ft of dim light. Whenever you deal radiant damage you can change the damage dice to one higher, making a d8 a d10 for example.  
 
 **Dazzle**: Whenever you score a critical hit that deals radiant damage the target is blinded untill the end of your next turn. 
 
