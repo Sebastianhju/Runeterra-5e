@@ -1233,6 +1233,20 @@ You gain +2 to hit and damage rolls using this magical weapon.
 
 ---
 
+## Titans Wrath
+
+
+- 5000 Gold
+- Maul
+
+**Dredge Line**: Once a turn when you take the attack action you can replace one of you attacks by hurling Titans Wrath at an enemy within 30ft. Make an attack roll and on a hit you can pull yourself to a space within 5ft of the target. The target can be either a creature or a huge or larger object. Once this effect is used it cannot be used again until 24 seconds have passed. 
+
+**Staggering blow**: Once a turn you hit a creature with a melee attack with Titans Wrath that you have not hit before in this combat you can choose to stagger the target. The targets movement speed is reduced to 0 and it has disadvantage on it's next attack roll.
+
+You gain +2 to hit and damage rolls using this magical weapon. 
+
+---
+
 ## Turbo Chemtank
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Turbo Chemtank.png" Align=right width=8% height=8%>
