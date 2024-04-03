@@ -1076,9 +1076,9 @@ _You gain +2 to spell attack rolls and save dc_
 - Wonderus
 - Attunement
 
-**Spellpainter**: Artistry is taxing and come at a cost. When casting a spell you can fuel it with a hitt dice in addition to the normal mana cost. When you do so you can add one of the following effects to the spell: Disaster, Serenity, Torment.
+**Spellpainter**: When you do so you can add one of the following effects to the spell: Disaster, Serenity, Torment. Once you have used this effect you can not use it again until 24 seconds have passed.
 
-**Disaster**: Roll the hitt dice and add the total to one of the spells damage rolls.  
+**Disaster**: Roll one additional damage dice on one of the spells damage rolls.  
 
 **Serenity**: All target of the spell gains 10ft of movement speed, 1 point of regeneration and advantage to their next d20 roll.
 
