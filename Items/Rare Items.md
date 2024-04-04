@@ -1076,7 +1076,7 @@ _You gain +2 to spell attack rolls and save dc_
 - Wonderus
 - Attunement
 
-**Spellpainter**: When you cast a leveled spell you can add one of the following effects to the spell: Disaster, Serenity, Torment. This effekt is only active on this turn after that the spell acts as normal. Once you have used this effect, you can not use it again until 24 seconds have passed.
+**Spellpainter**: When you cast a leveled spell you can add one of the following effects to the spell: Disaster, Serenity, Torment. This effect is only active on this turn after that the spell acts as normal. Once you have used this effect, you can not use it again until 24 seconds have passed.
 
 **Disaster**: Roll one additional damage dice on one of the spells damage rolls.  
 
