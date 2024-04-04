@@ -32,8 +32,6 @@ _While wearing this armor you have a +2 to your armor class_
 
 **Shock**: When you deal damage with muramana, you can choose to deal 1d6 additional lightning damage, the target must succeed a constitution saving throw, on a failed save they are stunned until the end of your next turn. Once this action is used, it cannot be used again until 30 seconds have passed, whenever you spend one or more mana the cooldown is reduced by 6 seconds. 
 
-**Recharge**: This item has five charges, you regain all charges whenever you take a long rest. You also recharge a slot whenever you spend one or more mana. 
-
 _You have +2 to attack rolls and damage rolls using this magical weapon_ 
 
 ---
