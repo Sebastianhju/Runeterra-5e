@@ -242,7 +242,9 @@ _Wizard, Sorcerer, Warlock_
 |---|---|---|---|---|---|---|
 |3rd|1 Action|90 feet|V,S,M|Instantanious|Conjuration|Wisdom|
 
-You summon a dark purple pentagonal wall keeping the enemies inside as your allies can move freely thru the walls. Each wall is 20ft tall and 20 ft long, an enemy that tries to pass through the wall must make a wisdom save or become stunned until the end of it’s next turn, after which it can move thru the part of the wall it got stunned on. On a successful save the creature can move through the wall.
+You summon a dark purple squared wall keeping the enemies inside as your allies can move freely thru the walls. Each wall is 25ft tall and 25 ft long, an enemy that tries to pass through the wall must make a wisdom save or become stunned until the end of it’s next turn, after which it can move thru the part of the wall it got stunned on. On a successful save the creature can move through the wall.
+
+You summon a dark purple shimmer in a 25 foot square that is 25 foot tall. Allies can move freely thru the walls. An enemy that tries to pass trough the wall must make a wisdom saving throw or become stunned until the end of it's next turn, after which it can move freely thru the part of the wall it got stunned on. On a succsessfull save the creature can move through the wall and cannot be stunned by that part of the wall. 
 
 **At Higher Levels.** If cast at 5th lvl or higher a failed save makes the creature paralyzed instead of stunned.
 
