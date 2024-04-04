@@ -233,7 +233,7 @@ Whenever you score a takedown, you gain a stack of eyeball collection. You gain 
 
 Whenever you defeat a *greater foe* you can make an investegation check to find special loot. The check DC equals to 5 + the creatures _Challenge Rating_.
  
-Additionally you can focus your senses to discover hidden objects. Once a short rest, you can make an investigation check dc 15. On a sucess you know if there is any loot within 100 feet of you and where it is. 
+Additionally you can cast the locate object spell once per short rest without spending mana. 
 
 ---
 
