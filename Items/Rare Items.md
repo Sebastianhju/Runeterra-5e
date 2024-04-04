@@ -1076,13 +1076,13 @@ _You gain +2 to spell attack rolls and save dc_
 - Wonderus
 - Attunement
 
-**Spellpainter**: When you do so you can add one of the following effects to the spell: Disaster, Serenity, Torment. Once you have used this effect you can not use it again until 24 seconds have passed.
+**Spellpainter**: When you cast a leveled spell you can add one of the following effects to the spell: Disaster, Serenity, Torment. This effekt is only active on this turn after that the spell acts as normal. Once you have used this effect, you can not use it again until 24 seconds have passed.
 
 **Disaster**: Roll one additional damage dice on one of the spells damage rolls.  
 
-**Serenity**: All target of the spell gains 10ft of movement speed, 1 point of regeneration and advantage to their next d20 roll.
+**Serenity**: All target of the spell gains 10ft of movement speed, and one of the targets can roll a hit dice and regain a number of hit points or mana equal to the total roll.
 
-**Torment**: All targets of the spell must make a wisdome saving throw, agianst your spell save dc, or become frighted of you untill the end of your next turn. When frightened in this way their speed becomes 0 
+**Torment**: All targets of the spell must make a wisdome saving throw agianst your spell save dc, or become frighted of you untill the end of your next turn. When frightened in this way their speed becomes 0.
 
 _You gain +2 to spell attack rolls and save dc_
 
