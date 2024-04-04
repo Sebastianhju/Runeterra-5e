@@ -1266,6 +1266,7 @@ You gain +2 to hit and damage rolls using this magical weapon.
 
 ## Titans Wrath
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Titans Wrath.png" Align=right width=8% height=8%>
 
 - 5000 Gold
 - Maul
