@@ -1072,6 +1072,8 @@ _You gain +2 to spell attack rolls and save dc_
 
 ## Signature of the Visionary
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Signature of the Visionary.png" Align=right width=8% height=8%>
+
 - 6000 gold
 - Wonderus
 - Attunement
