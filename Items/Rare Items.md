@@ -196,6 +196,8 @@ You gain +1 to your armor class while wearing this magical armor.
 
 ## Bravado
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bravado.png" Align=right width=8% height=8%>
+
 - 5000 Gold
 - Warhammer
   
