@@ -553,7 +553,7 @@ _You get +1 to hit and attack rolls using this magical weapon_
 
 **Mana**: You gain +2 maximum mana
 
-**Focus**: Whenever you spend mana you gain a stacks of. For every fift stack of focus, you gain +1 maximum mana up to a maximum of 60 stacks. 
+**Focus**: Whenever you spend mana you gain a stacks of. For every fift stack of focus, you gain +1 maximum mana up to a maximum of 50 stacks. 
 
 _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's Staff, Manamune or Winter's Approach.
 
