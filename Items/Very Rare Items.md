@@ -28,9 +28,11 @@ _While wearing this armor you have a +2 to your armor class_
 
 **Mana**: You gain +18 maximum mana
 
-**Awe**: Your weapon attacks with Muramana deal one additional damage for every 20th maximum mana you have
+**Awe**: Your first attack with Manamune each turn gains deals 1d6 additional damage for every 20th mana you have. 
 
-**Shock**: When you deal damage with muramana, you can choose to deal 1d6 additional lightning damage, the target must succeed a constitution saving throw, on a failed save they are stunned until the end of your next turn. Once this action is used, it cannot be used again until 30 seconds have passed, whenever you spend one or more mana the cooldown is reduced by 6 seconds. 
+**Recharge:** Whenever you critically hit with this weapon you regain mana equal to twice your proficiency bonus.
+
+**Precision:** When you make an attack roll, after you roll the dice but before you know the result you can spend one mana to reroll the d20. 
 
 _You have +2 to attack rolls and damage rolls using this magical weapon_ 
 
@@ -61,9 +63,9 @@ _You have +2 to attack rolls and damage rolls using this magical weapon_
 
 **Mana**: You gain +18 maximum mana
 
-**Awe**: Your spells deal additional damage equal to the mana spent to cast that spell. 
+**Awe**: Your spells deal additional damage equal to the spells level.
 
-**Lifeline**: Whenever you take damage that would reduce your hit points to zero, you first gain temporary hit points equal to half your maximum mana. Once this effect is used, it cannot be used again until you finish a long rest. 
+**Lifeline**: Whenever you take damage that would reduce your hit points to zero, you first gain temporary hit points equal to half your maximum mana. Once this effect is used, it cannot be used again until you finish a short rest. 
 
 _You have +2 to spell attack rolls and +2 to your spell save DC when attuned to this item_
 
