@@ -706,7 +706,7 @@ You gain +2 to spell attack rolls and your saving throw DC.
 
 _You have +2 to attack and damage rolls with this magical weapon_
 
-___
+---
 
 ## Mercurial Scimitar
 
@@ -1339,9 +1339,7 @@ _You gain +2 to damage and attack rolls using this weapon_
 
 **Health**: You gain maximum hit points equal to your hit dice
 
-**Anguish**: As a bonus action, you can force all creatures within 15 feet of you to make a constitution saving throw, DC equals to 9 + Constitution modifier + proficiency bonus, or take 2d6 necrotic damage on a failure, halved on a save. You heal equal to the necrotic damage dealt in this way. One this effect is used, it cannot be used again until 24 seconds have passed. 
-
-_You gain +1 to your armor class while wielding this shield_
+**Anguish**: As a bonus action, you can force all creatures within 10 feet of you to make a constitution saving throw, DC equals to 8 + Constitution modifier + proficiency bonus, or take 2d6 necrotic damage on a failure, halved on a save. You heal equal to hald the necrotic damage dealt in this way. One this effect is used, it cannot be used again until 24 seconds have passed. 
 
 ---
 
