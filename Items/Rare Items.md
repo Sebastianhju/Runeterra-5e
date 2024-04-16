@@ -12,7 +12,7 @@
 
 **Awe**: Your maximum hit points increase with a number equal to half your maximum mana. 
 
-**Focus:** Once a turn when you cast a spell you gain stacks of focus equal to the mana spent up to a maximum of 500 stacks. When this item reaches 500 stacks it upgrades to **Fimbulwinter**
+**Focus:** When you reach level 8 this item upgrades to **Fimbulwinter**
 
 _While wearing this armor you have a +1 to your armor class_
 
@@ -28,9 +28,11 @@ _While wearing this armor you have a +1 to your armor class_
 
 **Mana**: You gain +15 maximum mana
 
-**Awe**: Your weapon attacks with Muramana deal one additional damage for every 20th maximum mana you have
+**Awe**: Your weapon attacks with Muramana deal one additional damage for every 20th maximum mana you have.
 
-**Focus:** Once a turn when you cast a spell you gain stacks of focus equal to the mana spent up to a maximum of 500 stacks. When this item reaches 500 stacks it upgrades to **Muramana**
+**Recharge:** Whenever you critically hit with this weapon you regain mana equal to twice your proficiency bonus.
+
+**Focus:** When you reach level 8 this item upgrades to **Muramana**
 
 _You have +1 to attack rolls and damage rolls using this magical weapon_ 
 
@@ -46,9 +48,9 @@ _You have +1 to attack rolls and damage rolls using this magical weapon_
 
 **Mana**: You gain +15 maximum mana
 
-**Awe**: Your spells deal additional damage equal to half the mana rounded up spent to cast that spell. 
+**Awe**: Your spells deal additional damage equal to the spells level.
 
-**Focus:** Once a turn when you cast a spell you gain stacks of focus equal to the mana spent up to a maximum of 500 stacks. When this item reaches 500 stacks it upgrades to **Seraph's Embrace**
+**Focus:** When you reach level 8 this item upgrades to **Seraph's Embrace**
 
 _You have +1 to spell attack rolls and +1 to your spell save DC when attuned to this item_
 
