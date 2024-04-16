@@ -28,7 +28,7 @@ _While wearing this armor you have a +1 to your armor class_
 
 **Mana**: You gain +15 maximum mana
 
-**Awe**: Your weapon attacks with Muramana deal one additional damage for every 20th maximum mana you have.
+**Awe**: Your first attack with Manamune each turn gains deals 1d6 additional damage for every 20th mana you have. 
 
 **Recharge:** Whenever you critically hit with this weapon you regain mana equal to twice your proficiency bonus.
 
