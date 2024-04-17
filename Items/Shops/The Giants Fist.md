@@ -100,19 +100,6 @@ The ward has an armor class of 10 and hit points equal to four times your level.
 
 ---
 
-## Cloak of Agility
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cloak of Agility.png" Align=right width=8% height=8%>
-
-- 600 Gold
-- Cloak
-
-**Momentery Focus**: As a bonus action you can enter a state of focus that last for a minute, when in this state your critical strike chance is increased by one and you are agile. Once this effect is used it cannot be used again until you finish a short rest. 
-
-_You gain +1 to dexterity saving throws_
-
----
-
 ## Cloth Armor
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cloth Armor.png" Align=right width=8% height=8%>
@@ -134,17 +121,6 @@ _You have +1 to your armor class while wearing this magical armor_
 - Wondrous Item, Helmet
 
 **Spelldance**: Whenever you cast a spell, you gain 10 feet movement speed. 
-
----
-
-## Haunting Guise
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Haunting Guise.png" Align=right width=8% height=8%>
-
-- 600
-- Wondrous
-
-**Madness**: Once a turn when you deal or take damage you gain a stack of _Madness_. When you have 3 stacks of madness your gain +1 crit chance for a minute.
 
 ---
 
