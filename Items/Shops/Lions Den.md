@@ -12,24 +12,6 @@ As an action you can drink this elixir. For the next hour, you become large, gai
 
 ---
 
-## Elixir of Sorcery
-
-- Cost: 200 Gold
-- Quantity: 1
-
-As an action you can drink this elixir. For the next hour, you can roll 1d6 additional damage when rolling for elemental damage, and you ignore resistances to elemental damage types.
-
----
-
-## Elixir of Wrath
-
-- Cost: 200 Gold
-- Quantity: 1
-
-As an action you can drink this elixir. For the next hour, whenever you deal bludgeoning, piercing and slashing damage, you deal 1d6 additional damage and heal equal to the additional damage. 
-
----
-
 ## Potion of Healing
 
 - Cost: 50 gold
@@ -51,7 +33,7 @@ As a Bonus Action you regain 4d4+4 hit points
 ## Potion of Manaregeneration
 
 - Cost: 50 Gold
-- Quantity: 10
+- Quantity: 4
 
 As a bonus action you regain 1d4+1 mana. 
 
