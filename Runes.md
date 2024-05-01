@@ -118,7 +118,7 @@ Whenever you score a _takedown_ you gain a stack of Bloodline that gives you ben
 |Stacks|Feature|
 |---|---|
 |0| You have advantage on constitution saving throws. Additionally you gain maximum hit points equal to your level|
-|25| Whenever you deal damage to a creature, you heal hit points equal to your proficiency bonus |
+|25| Once per attack when you deal damage to a creature, you heal hit points equal to your proficiency bonus |
 |50| You are immune to the grievous wounds condition|
 
 ---
