@@ -37,7 +37,7 @@
 
 ## Keystones
 
-### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" Align=left width=20% height=20%>
+### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/FleetFootwork.png" Align=left width=15% height=15%>
 
 Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move and ten stacks for every attack you hit, up to a maximum of 100 stacks. When you have maximum stacks, the next time you deal damage, you gain 10 feet movement speed and you deal 1d6 additional damage, and heal equal to half the damage dealt by that attack.
 
@@ -45,7 +45,7 @@ The speed increases by 5ft at level 5, 9, 13 and 17.
 
 ---
 
-### Conqueror  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" Align=left width=20% height=20%>
+### Conqueror  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" Align=left width=15% height=15%>
 
 Once per attack, whenever you damage enemies, you gain stacks of Conqueror. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 12 stacks, you deal 1d6 additional damage from your damage sources as shown on the table below, and you heal for the additional damage dealt. If you don't deal damage within the next minute, you loose all stacks of Conqueror.
 
@@ -53,9 +53,9 @@ The damage dice increases to 1d8 at level 5, 1d10 at level 9, 1d12 at level 13 a
 
 ---
 
-### Press the Attack  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PressTheAttack.png" Align=left width=20% height=20%>
+### Press the Attack  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PressTheAttack.png" Align=left width=15% height=15%>
 
-Whenever you attack a creature with a single target attack, they gain a stack of pressure that lasts until the creature dies or you target another creature with a single target damaging effect. Once per combat when a creature gains three stacks of pressure, they take 1d6 additional force damage from all damage sources. 
+Whenever you attack a creature with a single target attack, they gain a stack of pressure that lasts until the creature dies or you target another creature with a single target damaging effect. Once per combat when a creature gains three stacks of pressure, they take 1d6 additional force damage from all damage sources for a minute. 
 
 ---
 
