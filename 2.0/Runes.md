@@ -171,20 +171,20 @@ Whenever you take a long rest, you can remove one additional point of exhaustion
 
 ## Keystones
 
-### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=20% height=20%>
+### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=15% height=15%>
 Damaging an enemy gives them a mark of electrocute. Once per combat when a creature gains their 3rd stack of electrocute they take 2d8 lightning damage. 
 
 Electrocutes damage increases by 2d8 at level 5, 9, 13 and 17. 
 
 ---
 
-### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=20% height=20%>
+### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=15% height=15%>
 
 Whenever you damage a bloody creature you gain a stack of *Harvest* and they take 1d6 force damage. Dark harvest deals 1d6 additional damage for every 15th stack of *Harvest* you already have. Once used this effect cannot be used again until you finish a long rest, or score a takedown. 
 
 ---
 
-### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=20% height=20%>
+### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=15% height=15%>
 
 Once per combat you can dash as a bonus action. Whenever you do, all attacks this turn gains a boon and the next time you deal damage you deal 1d6 additional damage for every 30 feet traveled that turn, up to 90 feet. 
 
@@ -192,7 +192,7 @@ The damage for each treshhold increases by 1d6 at level 5, 9, 13 and 17.
 
 ---
 
-## Hail of Blades <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/HailOfBlades.png" Align=left width=20% height=20%>
+## Hail of Blades <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/HailOfBlades.png" Align=left width=15% height=15%>
 
 The first time you act in combat, you can eighter make an additional attack as a part of your attack action. Or cast spells of first level or higher as both your bonus action and action. 
 
@@ -298,7 +298,7 @@ You can spend two charges to place a stealth ward near a creature that you know 
 |**[Gathering Storm](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#gathering-storm-)**|You become adept in tempest spells|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/GatheringStorm.png">|
 
 ## Keystones
-### Summon Aery  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/SummonAery.png" Align=left width=20% height=20%>
+### Summon Aery  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/SummonAery.png" Align=left width=15% height=15%>
 Once per long rest you can cast the find familliar spell, summoning [Aery](https://www.dndbeyond.com/monsters/3896400-aery), without using components. Aery is a spirit that can shield your allies or deal damage to enemies. 
 
 Aerys hit points scales with your level. Their hit point maximum equals 5 times your level. 
@@ -307,7 +307,7 @@ Aerys damage and sheilding scales along with your proiciency bonus in level 5, 9
 
 ---
 
-### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" Align=left width=20% height=20%>
+### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" Align=left width=15% height=15%>
 
 Once per combat, as an action you can summon an arcane comet that crashes into a 30 foot radius, all creatures in the effect must make a dexterity saving throw or take 4d6 bludgeoning damage and are knocked prone. The save DC equals 8 + twice your proficiency bonus or your spell save DC. 
 
@@ -315,7 +315,7 @@ The damage increases by 2d6 at levels 5, 9, 13 and 17
 
 ---
 
-### Phase Rush  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" Align=left width=20% height=20%>
+### Phase Rush  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" Align=left width=15% height=15%>
 
 Once per combat you can spend your bonus acition to enter Phase Rush. 
 
