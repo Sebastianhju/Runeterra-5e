@@ -201,7 +201,7 @@ The damage for each treshhold increases by 1d6 at level 5, 9, 13 and 17.
 
 ## Hail of Blades <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/HailOfBlades.png" Align=left width=15% height=15%>
 
-The first time you act in combat, you can eighter make an additional attack as a part of your attack action. Or cast spells of first level or higher as both your bonus action and action. 
+The first time you act in combat, you can eighter make an additional attack as a part of your attack action or cast spells of first level or higher as both your bonus action and action. 
 
 ---
 
@@ -443,7 +443,7 @@ Whenever it is storming, you gain +1 crit chance.
 
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=15% height=15%>
 
-Once per round when you immobilize a creature you gain temporary hit points equal to four times your proficiency bonus. Whenever you take damage while you have temporary hit points, all creatures within 5 feet of you take 1d6 force damage. 
+Once per round when you immobilize a creature you gain temporary hit points equal to four times your proficiency bonus. Whenever a creature wihtin melee deals damage to you while you have these temporary hit points, they take 1d6 force damage. 
 
 The damage increases by 1d6 at level 5, 9, 13 and 17.
 
