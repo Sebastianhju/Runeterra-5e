@@ -324,7 +324,7 @@ The damage increases by 2d6 at levels 5, 9, 13 and 17
 
 ### Phase Rush  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" Align=left width=15% height=15%>
 
-Once per combat you can spend your bonus action to enter Phase Rush for a minute. 
+Whenever you damage a creature, they gain a stack of *phase* that lasts until you damage another creature. When a creature gains three stacks of *phase* you enter *Phase Rush* for a minute. 
 
 While in Phase Rush you can dash as a bonus action, you dont provoke oppourtunity attacks and you are immune to the grappled and restrained conditions.
 
