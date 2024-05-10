@@ -319,7 +319,9 @@ The damage increases by 2d6 at levels 5, 9, 13 and 17
 
 ### Phase Rush  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" Align=left width=20% height=20%>
 
-Once per combat you can spend your bonus acition to enter Phase Rush. While in Phase Rush you can dash as a bonus action, you dont provoke oppourtunity attacks and you are immune to begin grappled or restrained.
+Once per combat you can spend your bonus acition to enter Phase Rush. 
+
+While in Phase Rush you can dash as a bonus action, you dont provoke oppourtunity attacks and you are immune to begin grappled or restrained.
 
 ---
 
@@ -434,7 +436,7 @@ Whenever it is storming, you gain +1 crit chance.
 
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=20% height=20%>
 
-Once a turn when you immobilize a creature, you gain temporary hit points equal to five times your proficiency bonus. At the end of your next turn you deal 1d6 damage to all creatures within 5 feet of you. Once this effect is used it cannot be used again until 18 seconds have passed
+Once per round when you immobilize a creature you gain temporary hit points equal to four times your proficiency bonus. Whenever you take damage while you have temporary hit points, all creatures within 5 feet of you take 1d6 force damage. 
 
 The damage increases by 1d6 at level 5, 9, 13 and 17.
 
@@ -442,17 +444,15 @@ The damage increases by 1d6 at level 5, 9, 13 and 17.
 
 ### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=20% height=20%>
 
-Once a round, if you or an ally within 30ft of you takes damage, you can choose to trigger Guardian. You and the selected ally immediately gain temporary hit points equal to four times your proficiency bonus and the ally gains resistance from all incoming damage until the start of their turn. Guardian activates before you would take the initial damage. 
-
-Once this action is used, it cannot be used again until 24 seconds have passed. 
+Once per combat when you or an ally within 30 feet of you takes damage, before you can choose grant yourself and that ally temporary hit points. The target taking damage gains temporary hit points equal to eight times your proficiency bonus and the other gains half that amount.
 
 ---
 
 ### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=20% height=20%>
 
-Once a turn when you damage an enemy or take damage from an enemy, you gain a stack of Grasp. When you are at three stacks, your next attack deals 1d6 additional necrotic damage. You heal equal to the damage dealt from this effect.
+Once a turn when you damage an enemy or take damage from an enemy, you gain a stack of Grasp. When you are at three stacks, your next attack deals 2d6 additional necrotic damage. You heal equal to the damage dealt from this effect.
 
-In addition you gain a stack of Undying whenever you drain an opponent using this ability. You gain +1 maximum hit points for every fifth stack of Undying you have and you gain +1 additional necrotic damage for every 20th stack you have. 
+In addition you gain a stack of Undying whenever you drain an opponent using this ability. For every 15th stack, you gain maximum hit points equal to your level. 
 
 The damage increases by 1d6 at level 5, 9, 13 and 17.
 
@@ -461,19 +461,23 @@ The damage increases by 1d6 at level 5, 9, 13 and 17.
 ## Lesser Runes
 ### Demolish  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Demolish.png" Align=left width=7% height=7%>
 
-Whenever you end your turn within 15 feet of a construct or object that can be destroyed, they gain a stack of demolish (Up to a maximum of five). The next time you deal damage a target with demolish, they take 1d12 additional damage for every stack of demolish the target have.
+Whenever you end your turn within 15 feet of a construct or object that can be destroyed, they gain a stack of demolish (Up to a maximum of five). The next time you deal damage a target with demolish, they take 1d10 additional damage for every stack of demolish the target have.
 
 ---
 
 ### Font Of Life  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/FontOfLife.png" Align=left width=7% height=7%>
 
-When you immobilize or reduce a creatures movement speed, they gain a mark of _life_. The next time an ally damages a creature with _life_ they heal equal to your proficiency bonus.
+This rune has three charges, you regain all charges at the end of a long rest. 
+
+When you slow or immobilize a creature, you can spend a charge to give the them a mark of _life_. The next time an ally damages the creature, they heal equal to four times your proficiency bonus. 
 
 ---
 
 ### Shield Bash  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/MirrorShell.png" Align=left width=7% height=7%>
 
-Whenever you gain temporary hit points, your next attack deals 1d6 additional damage plus 1d6 for every tenth temporary hit points you currently have.
+This rune has three charges, you regain all charges at the end of a long rest. 
+
+Whenever you have temporary hit points you can spend a charge to deal 1d6 additional damage plus 1d6 for every tenth temporary hit points you currently have.
 
 ---
 
@@ -485,14 +489,13 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Conditioning
 |Amount|Effect|
 |---|---|
 |0|You take 2 less damage whenever you take physical damage|
-|25|You gain +1 to your armor class|
-|50|You take 4 less damage whenever you take physical damage|
+|30|You gain +1 to your armor class|
 
 ---
 
 ### Comeback  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/SecondWind.png" Align=left width=7% height=7%>
 
-When you gain the bloodied condition you gain stacks of regeneration equal to 2 plus your proficiency bonus. Then you heal equal to three times your current regeneration stacks. Once this effect is used, it cannot be used again until 30 seconds have passed. 
+Once per combat when you are reduced below 50% max Hp, you gain stacks of regeneration equal to 2 plus your proficiency bonus. Then you heal equal to three times your current regeneration stacks.
 
 The maximum stacks of regeneration is increased by one.
 
@@ -502,15 +505,17 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ### Bone Plating  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/BonePlating.png" Align=left width=7% height=7%>
 
-The first three times you take damage, you gain resistance to all damage types. Once this effect has ben used, it cannot be used again until 48 seconds pass
+This rune has four charges, you regain all charges at the end of a long rest. 
+
+Whenever you take damage you can spend two charges to reduce the damage by an amount equal to five times your proficiency bonus
 
 ---
 
 ### Overgrowth  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Overgrowth.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ on a creature, you gain a stack of _overgrowth_. For every fourth stack, you gain +1 maximum hit points. Additionally you gain +1 armor class for every 50th stack. 
+You gain maximum hit points equal to your level. 
 
-When you reach level 11 you instead gain +1 maximum hit points for every other stack. 
+Whenever you score a _takedown_ on a creature, you gain a stack of _Overgrowth_. For every 15th stack, you gain maximum hit points equal to your level. 
 
 ---
 
@@ -522,7 +527,7 @@ Once a turn when you gain temporary hit points or are healed, you can choose to 
 
 ### Unflincing  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Unflinching.png" Align=left width=7% height=7%>
 
-You gain immunity to the frightened and charmed condition and you cannot be moved against your will unless your are grappled or etc.
+You gain immunity to the frightened and charmed condition and you cannot be moved against your will unless your are immobilized.
 
 ---
 
