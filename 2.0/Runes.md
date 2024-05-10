@@ -432,7 +432,7 @@ Whenever it is storming, you gain +1 crit chance.
 ---
 ## Keystones
 
-### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=20% height=20%>
+### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=15% height=15%>
 
 Once per round when you immobilize a creature you gain temporary hit points equal to four times your proficiency bonus. Whenever you take damage while you have temporary hit points, all creatures within 5 feet of you take 1d6 force damage. 
 
@@ -440,13 +440,13 @@ The damage increases by 1d6 at level 5, 9, 13 and 17.
 
 ---
 
-### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=20% height=20%>
+### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Guardian.png" Align=left width=15% height=15%>
 
 Once per combat when you or an ally within 30 feet of you takes damage, before you can choose grant yourself and that ally temporary hit points. The target taking damage gains temporary hit points equal to eight times your proficiency bonus and the other gains half that amount.
 
 ---
 
-### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=20% height=20%>
+### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=15% height=15%>
 
 Once a turn when you damage an enemy or take damage from an enemy, you gain a stack of Grasp. When you are at three stacks, your next attack deals 2d6 additional necrotic damage. You heal equal to the damage dealt from this effect.
 
