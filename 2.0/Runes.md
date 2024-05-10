@@ -638,9 +638,11 @@ You can spend a charge to buy nonmagical common items at half price at any time 
 
 ### Celestial Curing <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png" Align=left width=7% height=7%>
 
+**Charges**: This rune has two charges, you regain all charges at the end of a long rest. 
+
 Whenever you roll dice to heal an ally, you can add your proficiency bonus to the roll. 
 
-When you heal an ally you can choose to remove a status effect affecting them, once this action is done it cannot be used again until 30 seconds have passed.
+When you heal an ally you can spend a charge to remove a status effect affecting them.
 
 ---
 
@@ -649,6 +651,12 @@ When you heal an ally you can choose to remove a status effect affecting them, o
 Whenever allies teleport, blink, dash or come out from hiding, you can spend your reaction to enforce the sudden movement by creating the illusion of a warped version next to them. Whenever a creature tries to attack them, they must roll a d6. On pairs they hit the target, on odds they hit the illusion and destroys the illusion. An ally can only have one illusion at a time.
 
 When you target an ally with a spell or simular effect you can choose to swap places with them. Once this effect is used it cannot be used again until 30 seconds have passed. 
+
+**Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
+
+When an ally teleport, blink, dash or comes out from hiding you can spend a charge to enforce the sudden movement. The ally then gains an illusion of a warped version of themselves, giving them +2 to their armor class until the next time they take damage. 
+
+Whenever you target an ally with a positive spell or effect, you can spend two charges to swap places with them. 
 
 ---
 
@@ -662,13 +670,17 @@ Whenever you take a long rest, you gain a [Buiscuit of Everlasting Will](https:/
 
 ### Cosmic Insight  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CosmicInsight.png" Align=left width=7% height=7%>
 
-You learn the _Detect Thoughts_ and can cast it once a long rest without spending mana. The target has disadvantage on the saving throw if you were to delve deeper into their mind, and they are unaware of you preying their mind if they fail the saving throw.
+**Charges**: This rune has two charges, you regain all charges at the end of a long rest. 
+
+You learn the _Detect Thoughts_ and can spend a charge to cast it. The target has disadvantage on the saving throw if you were to delve deeper into their mind, and they are unaware of you preying their mind if they fail the saving throw.
 
 ---
 
 ### Approach Velocity  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/ApproachVelocity.png" Align=left width=7% height=7%>
 
-Whenever any creature within 90 feet of you has their movement impaired, you can spend your reaction to teleport to that creature. 
+**Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
+
+Whenever any creature within 90 feet of you has their movement impaired, you can spend a charge to use your reaction to teleport to that creature. 
 
 ---
 
@@ -685,7 +697,7 @@ Whenever you drink a potion, you gain additional special effect from each potion
 |Potion of Dealayed Healing| You regain all hit points instantaniously|
 |Biscuit of Everlasting Will| You regain all hit points and mana instantaniously|
 |Potion of Speed| The effects last an additional minute|
-|Potion of Haste| Your cooldowns are reduced with an additional 6 seconds. |
+|Potion of Haste| You can recharge one additional spent charge|
 |Potion of Resistance| you become immune for one hour instead|
 |Potion of Giant Strenght| The effect lasts until your next long rest instead|
 |Potion of Fire Breath| The save DC is increased by an amount equal to your proficiency bonus|
