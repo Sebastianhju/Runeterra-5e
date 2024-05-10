@@ -84,8 +84,6 @@ Whenever you score a takedown, you gain gold equal to ten times the creatures _C
 
 Once a turn, when you deal damage to an enemy you gain a stack of _manastore_. Whenever you have five stacks of manastore you regain a spell slot. The spell slots level is equal to half your proficiency bonus rounded up. 
 
-Whenever you score a takedown you gain three stacks. 
-
 ---
 
 ### Legend: Alacrity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendAlacrity.png" Align=left width=7% height=7%>
