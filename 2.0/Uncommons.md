@@ -1,17 +1,5 @@
 # Uncommon Magical Items
 
-## Aether Wisp 
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Aether Wisp.png" Align=right width=8% height=8%>
-
-- 400 Gold
-- Wondrous Item
-
-**Charges**: This item has 2 charges, that all replenish whenever you finish a long rest. Whenever you end your turn after moving at least 45 feet, you regain one charge. 
-
-**Spectral Might**: Whenever you deal spell damage you can spend any amount of charges to deal 1d6 additional damage for each charge spent.
-
----
 
 ## Amplifying Tome
 
@@ -20,9 +8,7 @@
 - 500 Gold
 - Wondrous 
 
-**Tomes Knowledge**: You can prepare one additional spell each day
-
-_You gain +1 to your spell save dc_
+**Tomes Knowledge**: You can prepare one additional spell from your known spells and can cast it once per long rest without expending a spell slot. 
 
 ---
 
@@ -31,8 +17,10 @@ _You gain +1 to your spell save dc_
 
 - 500 Gold
 - Wondrous
-  
-**Mana Barrier**: As an reaction when you are about to take damage, you can choose to spend mana to first gain temporary hit points equal to four times the mana spent.
+
+**Charges**: This item has 3 charges and regain all charges at the end of a long rest. 
+
+**Mana Barrier**: As an reaction when you are about to take damage, you can choose to spend any amount of charges to first gain temporary hit points equal to five times the charges spent. 
 
 ---
 
@@ -43,22 +31,7 @@ _You gain +1 to your spell save dc_
 - 500 Gold
 - Arcane Focus
 
-**Spell Enhancer**: Whenever you deal damage from a spell you may reroll up to three damage dices.
-
-_You gain +1 bonus to spell attack rolls_
-
----
-
-## Blighting Jewel
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Blighting Jewel.png" Align=right width=8% height=8%>
-
-- 600 Gold
-- Wondrous Item
-
-**Void Pen**: Whenever you deal poison, acid or necrotic damage, if the target has any temporary hit poins they take double damage.  
-
-**Voids Embrace**: Whenever you deal poison, acid or necrotic damage, you can treat any 1 on the dice as a 6
+**Spell Enhancer**: Whenever you deal damage from a spell you can reroll ones and twos on the damage dice and take the new result. 
 
 ---
 
@@ -69,35 +42,18 @@ _You gain +1 bonus to spell attack rolls_
 - 800 Gold
 - Greatsword
 
-**The Bigger the Better**: You deal 1d6 additional damage when using this weapon and it has _reach_. 
-
-**To Big To Handle**: This great sword is large size but counts as a medium size weapon for the creature holding it. However you have disadvantage on Dexterity saving throws.
+**The Bigger the Better**: Whenever you roll for damage with this weapon you may roll one additional damage dice and choose the two higher dice. 
 
 ---
 
 ## Brawlers gloves
 
 - 600 Gold
-- Gloves, Unarmed
+- Gloves
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Brawler's Gloves.png" Align=right width=8% height=8%>
 
-**Spikes**: Whenever you score a critical hit with an unarmed attack you deal one additional dice of damamge, minimum 1d4.
-
-**Grapler** After hitting with an unarmed attack you can as a bonus action try to grapple the creature if you meet the rquierments to make such a test.
-
-_You gain +1 bonus to unarmed attack rolls_
-
----
-
-## Catalyst of Aeons
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Catalyst of Aeons.png" Align=right width=8% height=8%>
-
-- 500 Gold
-- Wondorous Item
-
-**Eternity**: Whenever you take damage, you regain 1 mana for every tenth damage taken. Whenever you cast a spell, you regain health equal to the mana spent.
+**Spikes**: Whenever you score a critical hit with an unarmed attack you add your ability modifier twice. 
 
 ---
 
@@ -108,7 +64,9 @@ _You gain +1 bonus to unarmed attack rolls_
 - 800 Gold
 - Scimitar
 
-**Trial by fire**: When you hit an attack with **Cinder Cutlass** you can choose to deal 1d6 additonal fire damage and apply burn to the target. Once this effect is used, it cannot be used again until 12 seconds have passed. 
+**Charges**: This item has 3 charges and regain all charges at the end of a long rest. 
+
+**Trial by fire**: When you hit an attack with **Cinder Cutlass** you can spend a charge to apply burn to the target.
 
 ---
 
@@ -121,8 +79,6 @@ _You gain +1 bonus to unarmed attack rolls_
 
 **Cleave**: When you hit a target with the _Cleaved Longsword_ you can force the blade to another target within 5 feet of the original target, dealing damage equal to your strength modifier. 
 
-_You have +1 to attack and damage rolls with this magical weapon_
-
 ---
 
 ## Cloak of Agility
@@ -132,9 +88,7 @@ _You have +1 to attack and damage rolls with this magical weapon_
 - 600 Gold
 - Cloak
 
-**Momentery Focus**: As a bonus action you can enter a state of focus that last for a minute, when in this state your critical strike chance is increased by one and you are agile. Once this effect is used it cannot be used again until you finish a short rest rest. 
-
-_You gain +1 to dexterity saving throws_
+**Momentery Focus**: As a bonus action you can enter a state of focus. This state of focus counts as concentration and can be broken from the same conditions. While in this state of focus, you gain a boon on all attack rolls and gain +1 critical strike chance. 
 
 ---
 
@@ -176,21 +130,6 @@ _You have +1 to your armor class while wearing this magical armor_
 
 ---
 
-## Galvanic Dagger
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dagger.png" Align=right width=8% height=8%>
-
-- 400 Gold
-- Dagger
-
-**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
-
-**Shock**: When you have 100 stacks of energized your next attack with _Galvanic Dagger_ deals 1d8 additional lightining damage. 
-
-_You have a +1 to hit and damage rolls using this magical weapon_
-
----
-
 ## Dark Seal
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dark Seal.png" Align=right width=8% height=8%>
@@ -211,9 +150,9 @@ _You have a +1 to hit and damage rolls using this magical weapon_
 - 700 Gold
 - Greatsword
 
-**March**: As a bonus action you can give youself 15 feet movement speed and advantage one your next attack roll with *Decisive Sword*, if the attack hits, the target is mute until the end of their turn. Once this action is used it cannot be used again until 18 seconds pass. 
+**Charges**: This item has 3 charges and regain all charges at the end of a long rest. 
 
-_You get +1 to attack and damage rolls using this weapon_
+**March**: As a bonus action you can spend a charge to give youself 15 feet movement speed and gain a boon on your next attack roll with *Decisive Sword*, if the attack hits, the target is mute until the end of their turn. 
 
 ---
 
@@ -226,8 +165,6 @@ _You get +1 to attack and damage rolls using this weapon_
 
 **Warmonger**: Whenever you score a takedown you heal equal to twice your proficiency bonus.
 
-_You get +1 to attack and damage rolls using this weapon_
-
 ---
 
 ## Dorans Ring
@@ -237,7 +174,7 @@ _You get +1 to attack and damage rolls using this weapon_
 - 600 Gold
 - Wondrous Item, Ring
 
-**Focus**: Whenever you score a takedown, you gain a stack of _Manastore_. Whenever you have 5 stacks of manastore, you regain mana equal to your proficiency bonus. 
+**Focus**: Whenever you score a takedown, you gain a stack of _Manastore_. Whenever you have 5 stacks of manastore, you regain one spent first level spell slot. 
 
 ---
 
@@ -251,16 +188,6 @@ _You get +1 to attack and damage rolls using this weapon_
 **Endure**: Once a round when you take damage, you gain two stacks of _regeneration_. 
 
 _Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to two plus your proficiency bonus._ 
-
----
-
-## Earthquake Leggings
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Earthquake Leggings.png" Align=right width=8% height=8%>
-
-- 800 Gold
-- Wondeous
-
-**Pulverize**: Whenever you hit a melee attack, you can attempt to knock the target 15 feet up in the air until the end of their turn. The target must succeed a strength saving throw, dc equals to 8 + your strength modifier + proficiency bonus. Once you've successfully knocked a creature airborne you cannot do this action again until 18 seconds pass.
 
 ---
 
@@ -282,9 +209,20 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 - 400 Gold
 - Wondrous Item
 
-**Mana well**: Whenever you spend a hit dice you regain 1 mana.
+**Mana well**: You gain one additional first level spell slot. 
 
-**Faerie Dust**: Once per long rest, you can cast _Faerie fire_ without spending mana.
+---
+
+## Galvanic Dagger
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dagger.png" Align=right width=8% height=8%>
+
+- 400 Gold
+- Dagger
+
+**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
+
+**Shock**: When you have 100 stacks of energized your next attack with _Galvanic Dagger_ deals 1d8 additional lightining damage. 
 
 ---
 
@@ -299,47 +237,6 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ---
 
-## High Stake
-
-- 500 Gold
-- Wondrous
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/High Stake.png" Align=right width=8% height=8%>
-
-**Nab**: Whenever you hit a creautre with a weapon or unarmed attack you get a _Silver Serpent_, up to a maximum of five. You can spend one to five _Silver Serpents_ to gamble for one of the actions below. For each _Silver Serpent_ you spend you get a +1 to the d6 roll and you must meet a 7 to gain the effect. If you spend four or more _Silver Serpents_ and roll a six on the dice, you score a **Jackpot** and can use all of the following effects. 
-
-**Risky Venture**: As a free action you roll 1d6 and can move 10 times the number rolled with climbing, walking and swimming speed.  
-
-**Daring Leap**: Your jumping distance is doubled until the end of your turn. If you jump all creatures within 5 feet of your landing you must succeed a dexterity saving throw or are pushed 10 feet away from you. The saving throw dc equals 8 + proficiency bonus + constitution modifier. 
-
-**Tip the Scales**: You can add 1d6 to your next ability check or attack roll. 
-
----
-
-## Hexdrinker
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hexdrinker.png" Align=right width=8% height=8%>
-
-- 600 Gold
-- Longsword
-
-**Lifeline**: If your hitpoints are reduced to zero, you first gain temporary hit points equal to five times your proficiency bonus that lasts until the end of your turn. Your next attack then deals 2d8 additional damage. Once this action is used it cannot be used again until you finish a long rest.
-
-_You get +1 to attack and damage rolls using this weapon_
-
----
-
-## Hextech Alternator 
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Alternator.png" Align=right width=8% height=8%>
-
-- 600 Gold
-- Wondrous Item
-
-**Revved**: Whenever you damage an enemy, you also deal 1d8 lightning damage afterwards. Once this effect is used, it cannot be used again until 30 seconds pass. The cooldown of this item decreases by 12 seconds whenever you deal or take lightning damage. 
-
----
-
 ## Ionic Spark
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/IonicSpark.png" Align=right width=8% height=8%>
@@ -351,22 +248,9 @@ _You get +1 to attack and damage rolls using this weapon_
 
 **Lightning Conduit**: Whenever you have 100 stacks of _energized_ your next attack against an enemy an enemy with _Ionic Spark_ gives them a _Lighting Mark_.
 
-**Shocking Bolt**: Whenever you hit a creature with a lightning mark, you remove the mark and all creautres within 15 feet must succeed a dexterity saving throw (Dc equals to 9 plus your proficiency bonus plus your dexterity modifier) or take 2d8 lightning damage and are restrained until the end of their turn. On a success the target takes half damage and are not restrained. 
+**Shocking Bolt**: Whenever you hit a creature with a lightning mark, you remove the mark and all creautres within 15 feet must succeed a dexterity saving throw (Dc equals to 8 plus your proficiency bonus plus your dexterity modifier) or take 2d8 lightning damage, halved on a save.
 
 _You have +1 to hit and attack rolls using this magical weapon_ 
-
----
-
-## Ironspike Whip
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ironspike Whip.png" Align=right width=8% height=8%>
-
-- 600 Gold
-- Whip
-
-**Spikes**: The _Ironspike Whip_ deals 1d4 additional piercing damage. 
-
-**Crescent**: As an action, you can twirl the whip around you. All creatures within your reach must succeed a dexterity saving throw (DC: 8 + dex/str + proficiency bonus) or take damage equal to this weapons damage. Once this effect is used, it cannot be used again until 18 seconds pass. 
 
 ---
 
@@ -374,12 +258,10 @@ _You have +1 to hit and attack rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Needlessly Large Rod.png" Align=right width=8% height=8%>
 
-- 700 Gold
+- 500 Gold
 - Quarterstaff
 
-**Needlessly Large**: Any spell with a radius, cone, cube or similar effect gains an extra 5ft to the size in all dimentions. 
-
-**Rod**: Whenever you are attacking with Needlessly Large Rod you can use your spellcasting ability when calculating to-hit rolls and damage instead of strength
+**Needlessly Large Spells**: Any spell with a radius, cone, cube or similar effect gains an extra 5ft to the size in all dimentions. 
 
 ---
 
@@ -390,8 +272,6 @@ _You have +1 to hit and attack rolls using this magical weapon_
 - Quarterstaff
 
 **Crushing Blow**: Whenever you critically hit a creature with *Nimbus Staff* or unarmed attacks, their armor class is reduced by 2 for a minute.
-
-_You get +1 to attack and damage rolls using this weapon_
 
 ---
 
@@ -416,8 +296,6 @@ _You get +1 to attack and damage rolls using this weapon_
 
 **Headshot**: When you have 10 stacks, the next attack that hits with peacemaker consumes all stacks of *Ace* and critically hits. If it already would critically hit, it does not consume any *Ace* stacks. 
 
-_You get +1 to hit and attack rolls using this magical weapon_
-
 ---
 
 ## Pow Pow
@@ -426,9 +304,9 @@ _You get +1 to hit and attack rolls using this magical weapon_
 - 800 Gold
 - Minigun
 
-**Charging up**: Whenever you make an attack with Pow Pow you gain a stack of **Zap!**, up to a maximum of 6 stacks. For every other stack of **Zap!**, you get a +1 bonus to attack rolls with Pow Pow. While at 6 stack, you can make another attack as a part of the attack action when using Pow Pow. If you don't make an attack with Pow Pow during your turn, you loose two stacks of **Zap!**.
+**Charging up**: Whenever you make an attack with Pow Pow you gain a stack of **Zap!**, up to a maximum of 6 stacks. For every third stack of **Zap!**, you get a +1 bonus to attack rolls with Pow Pow. While at 6 stack, you can make another attack as a part of the attack action when using Pow Pow. If you don't make an attack with Pow Pow during your turn, you loose two stacks of **Zap!**.
 
-**Windup:**_Whenever you make an attack with a windup weapon, you gain a stack of firepower up to a maximum of six stacks. For every other stack of firepower the weapon gains an additional damage dice to their attacks. If you don´t make an attack with the windup weapon on your turn, you loose two stacks._
+**Windup:**_Whenever you make an attack with a windup weapon, you gain a stack of firepower up to a maximum of 6 stacks. For every other stack of firepower the weapon gains an additional damage dice to their attacks. If you don´t make an attack with the windup weapon on your turn, you loose two stacks._
 
 ---
 
@@ -439,7 +317,9 @@ _You get +1 to hit and attack rolls using this magical weapon_
 - 600 Gold
 - Wondrous Item
 
-**Quicksilver** As a reaction upon begin immobilized you can remove all immobilizing effects and cast lesser restoration on yourself. Once this effect is used it cannot be used again until you finish a long rest.  
+**Charges**: This item has 2 charges and regain all charges at the end of a long rest. 
+
+**Quicksilver** As a reaction upon begin immobilized you can spend two charges to remove all immobilizing effects and cast lesser restoration on yourself.
 
 ---
 
@@ -450,9 +330,11 @@ _You get +1 to hit and attack rolls using this magical weapon_
 - 500 Gold
 - Wonderous Item
 
-**Rejuvinate**: As a bonus action you can expend a hit dice to heal yourself. The amount healed is equal to your hit dice plus you constitution modifier. Once this effect is used it cannot be used again until you finish a short rest. 
+**Charges**: This item has 3 charges and regain all charges at the end of a long rest. 
 
-**Potent Healing**: Whenever you roll hit dice to heal, you can reroll ones and twos. 
+**Rejuvinate**: As a bonus action you can spend a charge to heal yourself for 2d6 hit points. 
+
+**Potent Healing**: Whenever you roll to heal yourself, you can reroll ones and twos and must take the new result. 
 
 ---
 
@@ -463,7 +345,7 @@ _You get +1 to hit and attack rolls using this magical weapon_
 - 500 Gold
 - Wonderous Item
 
-**Health**: You gain maximum hit points equal to half your hit dice.  
+**Health**: You gain maximum hit points equal to your level.
 
 ---
 
@@ -487,7 +369,7 @@ _You get +1 to hit and attack rolls using this magical weapon_
 - 600 Gold
 - Wonderous item
 
-**Mana**: You gain +5 maximum mana 
+**Mana**: You gain one additional spell slot. The spell slots level is equal to half your proficiency bonus rounded up.
 
 ---
 
@@ -500,7 +382,7 @@ _You get +1 to hit and attack rolls using this magical weapon_
 
 **Spellblade**: You can choose to use your spellcasting ability modifier for attack and damage rolls. 
 
-**Lingering Power**: After casting a spell, your next attack with Sheen deals additional damage equal to the mana spent on that spell.
+**Lingering Power**: After casting a spell, your next attack with Sheen deals additional damage equal to two times the spells level. 
 
 ---
 
@@ -512,7 +394,7 @@ _You get +1 to hit and attack rolls using this magical weapon_
 - Dagger
 - Attunement
 
-**Tribute**: The next time you deal damage to a target, you gain gold equal to the damage dealt. Once this action is used, it cannot be used again until 18 seconds have passed. 
+**Tribute**: The first time you deal damage to a target each turn, you gain gold equal to the damage dealt.
 
 **Quest**: Whenever you've gained 300 gold using this item, it transforms into _Shard of True Ice._
 
@@ -551,9 +433,9 @@ _You get +1 to hit and attack rolls using this magical weapon_
 - Wondrous Item
 - Atunement
 
-**Mana**: You gain +2 maximum mana
+**Mana**: You gain one additional first level spell slot. 
 
-**Focus**: Whenever you spend mana you gain a stacks of. For every fift stack of focus, you gain +1 maximum mana up to a maximum of 50 stacks. 
+**Focus**: Whenever you spend spell slots you gain a stacks of *focus*, up to a maximum of 50 stacks. 
 
 _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's Staff, Manamune or Winter's Approach.
 
@@ -567,9 +449,7 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's S
 
 **Whirlwind**: Whenever you hit an attack, you gain a stack of whirlwind. You loose all stacks of whirlwind if you dont deal damage for a minute. 
 
-**Crashing Tornado**: When you have three stacks, you next attack is replaced with a tornado that goes in a 15 foot line. Each target in the line must make a dexterity saving throw, dc equals 9 + str/dex + proficiency bonus or take 2d8 thunder damage and be knocked 15 feet airbone, falling to the ground at the end of its next turn. While suspended in the air its speed is 0. A creature takes half damage on a successful save. 
-
-_You get +1 to attack and damage rolls using this weapon_
+**Crashing Tornado**: When you have three stacks, you next attack is replaced with a tornado that goes in a 15 foot line. Each target in the line must make a dexterity saving throw, dc equals 8 + str/dex + proficiency bonus or take 2d8 thunder damage and be knocked 15 feet airbone, falling to the ground at the end of its next turn. While suspended in the air its speed is 0. A creature takes half damage and are not knocked airborne on a successful save. 
 
 ---
 
@@ -579,9 +459,7 @@ _You get +1 to attack and damage rolls using this weapon_
 - 700 Gold
 - Club
 
-**Resonance**: Whenever you damage an enemy with *Timewinder* you apply a stack of Resonance. Whenever you damage a creature that has two stacks of Resonance, you deal 4d6 additional force damage and gain 30 feet movement speed until the end of your turn. 
-
-_You get +1 to hit and damage rolls using this weapon_
+**Resonance**: Whenever you damage an enemy with *Timewinder* you apply a stack of Resonance. Whenever you a creature gains three stacks of Resonance, they take 3d6 force damage and you gian gain 30 feet movement speed until the end of your turn. 
 
 ---
 
@@ -604,8 +482,8 @@ _You get +1 to hit and damage rolls using this weapon_
 - 800 Gold
 - Longbow
 
-**Volley**: You can replace one attack with a volley of spectral arrows in a 30 foot cone. All creatures in the cone must succeed a dexterity saving throw, dc 9+ proficiency bonus + dexterity modifier or take 2d8 force damage, halfed on a save. Once this action is used it cannot be used again until 18 seconds pass. 
+**Charges**: This item has 4 charges and regain all charges at the end of a long rest. 
 
-_You get +1 to hit and damage rolls using this weapon_
+**Volley**: You can spend two charges to replace one attack with a volley of spectral arrows in a 30 foot cone. All creatures in the cone must succeed a dexterity saving throw, dc 8+ proficiency bonus + dexterity modifier or take 2d8 force damage, halfed on a save.
 
 ---
