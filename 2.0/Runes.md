@@ -328,6 +328,8 @@ Whenever you damage a creature, they gain a stack of *phase* that lasts until yo
 
 While in Phase Rush you can dash as a bonus action, you dont provoke oppourtunity attacks and you are immune to the grappled and restrained conditions.
 
+(For AoE effects you choose a single target that gets the stack)
+
 ---
 
 ## Lesser Runes
