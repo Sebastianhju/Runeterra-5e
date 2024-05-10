@@ -179,7 +179,7 @@ Whenever you take a long rest, you can remove one additional point of exhaustion
 ## Keystones
 
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=15% height=15%>
-Damaging an enemy gives them a mark of electrocute. Once per combat when a creature gains their 3rd stack of electrocute they take 2d8 lightning damage. 
+Damaging an enemy gives them a mark of electrocute. Once per combat when a creature gains their 3rd stack of electrocute they take 2d8 lightning damage and are stunned until the end of their turn. 
 
 Electrocutes damage increases by 2d8 at level 5, 9, 13 and 17. 
 
@@ -208,21 +208,21 @@ The first time you act in combat, you can eighter make an additional attack as a
 ## Lesser Runes
 ### Cheap Shot <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/CheapShot.png" Align=left width=7% height=7%>
 
-This rune has three charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
 
 Whenever you damage a creature that has a negative condition, you can choose to spend a charge to deal 1d8 additional damage for every negative condition that creature has. 
 
 ---
 ### Taste of Blood <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png" Align=left width=7% height=7%>
 
-This rune has three charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
 
 Whenever you damage a creature you can choose to heal equal to four times your proficiency bonus. 
 
 ---
 ### Sudden Impact <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png" Align=left width=7% height=7%>
 
-This rune has three charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
 
 When you damage a creature while invisible or hidden or after a dash, blink or teleport you can spend a charge to deal 2d8 additional damage on the attack. 
 
@@ -335,7 +335,7 @@ While in Phase Rush you can dash as a bonus action, you dont provoke oppourtunit
 ## Lesser Runes
 ### Nullifying Orb  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Nullifying Orb.png" Align=left width=7% height=7%> 
 
-This rune has three charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
 
 Whenever you take elemental damage, you can spend a charge to gain temporary hit points equal to four times your proficiency bonus. 
 
@@ -355,7 +355,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Manaflow_ gi
 
 ### Nimbus Cloak  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/6361.png" Align=left width=7% height=7%>
 
-This rune has four charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
 
 You gain +10 movement speed.
 
@@ -382,7 +382,7 @@ Whenever you cast a spell you dont provoke opportunity attacks and gain movement
 
 ### Absolute Focus  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/AbsoluteFocus.png" Align=left width=7% height=7%>
 
-This rune has three charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
 
 As a bonus action you can enter a state of absolute focus for a minute, or until you drop unconcious. You gain a boon to all saving throws and attack rolls while in this state. 
 
@@ -390,7 +390,7 @@ As a bonus action you can enter a state of absolute focus for a minute, or until
 
 ### Scorch  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Scorch.png" Align=left width=7% height=7%>
 
-This rune has three charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
 
 When you damage an enemy, you can spend a charge to apply scorch to the target.
 
@@ -400,7 +400,7 @@ _Scorch: A creature with Scorch takes 1d6 force damage at the start of their tur
 
 ### Waterwalking  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Waterwalking.png" Align=left width=7% height=7%> 
 
-This rune has four charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
 
 Whenever you target an ally with a heal or buff you can spend a charge to grant them +10 movement speed and the ability to walk on water for an hour.
 
@@ -410,7 +410,7 @@ When you target an ally with a heal or buff you can spend two charges enhance th
 
 ### Gathering Storm  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/GatheringStorm.png" Align=left width=7% height=7%>
 
-This rune has three charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
 
 You can spend two charges to cast the call lightning spell. 
 
@@ -474,7 +474,7 @@ Whenever you end your turn within 15 feet of a construct or object that can be d
 
 ### Font Of Life  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/FontOfLife.png" Align=left width=7% height=7%>
 
-This rune has three charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
 
 When you slow or immobilize a creature, you can spend a charge to give the them a mark of _life_. The next time an ally damages the creature, they heal equal to four times your proficiency bonus. 
 
@@ -482,7 +482,7 @@ When you slow or immobilize a creature, you can spend a charge to give the them 
 
 ### Shield Bash  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/MirrorShell.png" Align=left width=7% height=7%>
 
-This rune has three charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
 
 Whenever you have temporary hit points you can spend a charge to deal 1d6 additional damage plus 1d6 for every tenth temporary hit points you currently have.
 
@@ -512,7 +512,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ### Bone Plating  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/BonePlating.png" Align=left width=7% height=7%>
 
-This rune has four charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
 
 Whenever you take damage you can spend two charges to reduce the damage by an amount equal to five times your proficiency bonus
 
@@ -563,7 +563,7 @@ You gain immunity to the frightened and charmed condition and you cannot be move
 
 
 ## Keystones 
-### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" Align=left width=20% height=20%>
+### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" Align=left width=15% height=15%>
 
 When you immobilize a target, you can choose to cover the terrain beneath them in ice. A 15 foot radius centered around the enemy is turned to difficult terrain for enemies. All enemy targets standing within the area gains a bane to attack rolls and attacks against them gains a boon. This effect lasts until you use this effect again.  
 
@@ -571,7 +571,7 @@ The area of effect increases by 5 feet at levels 5, 9, 13 and 17.
 
 ---
 
-### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=20% height=20%>
+### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=15% height=15%>
 
 At the end of a long rest you gain a [Summoner Spells](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/SummonerSpells.md) for that day, if you dont use them before you take your next long rest it vanishes. First you roll a d6, if you roll a 6 you can select your summoner spells gained. If you roll lower, you must roll a 1d10 to determine you summoner spell according to the table below.  
 
@@ -591,7 +591,7 @@ To determine if you can select your summoner spell gained you must hit a 4 or hi
 
 ---
 
-### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" Align=left width=20% height=20%>
+### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" Align=left width=15% height=15%>
 
 You gain a +2 bonus to initiative rolls. Whenever you deal damage to a creature that hasn't taken a turn in combat yet you ignore their resistances and immunities. For the first attack you gain gold equal to two times the damage dealt times your proficiency bonus. 
   
@@ -600,20 +600,21 @@ You gain a +2 bonus to initiative rolls. Whenever you deal damage to a creature 
 ## Lesser Runes
 ### Hextech Flashtraption  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/HextechFlashtraption.png" Align=left width=7% height=7%>
 
-As a Bonus Action you can target a space within 30ft of you channeling a teleport, you do not have to see the place you are targeting. At the start of your next turn you teleport to the selected location. If the targetet location is a wall, you are instead teleportet to the nearest open area. You can do this a number of times equal to your proficiency bonus before you must finish a short rest.
+**Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
+
+As a bonus action you can spend a charge to channel a teleport towards a space within 30ft of you. You do not have to see the pace you are targeting. At the start of your next turn you teleport to the selected location. If the location is a wall, you are instead teleported to the neaerest open area.
 
 ---
 
 ### Magical Footwear  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/MagicalFootwear.png" Align=left width=7% height=7%>
 
-You gain the ability to summon a fey Cobbler that sells boots. You can trade and shop with him as with any shopkeeper. Whenever you score a _takedown_ on a creature, you gain a stack of _Magical Footwear_ giving you the boots the following benefits:
+You gain the ability to summon a fey cobbler that sells boots. You can trade and shop with him as with any shopkeeper. Whenever you score a _takedown_ on a creature, you gain a stack of _Magical Footwear_ giving you the boots the following benefits:
 
 **Magical Footwear Scaling**
 |Amount|Effect|
 |---|---|
 |0|You are gifted a free pair of boots|
-|25|You gain +10 movement speed while wearing boots|
-|50|Your party can upgrade your boots twice, with two different enchantments each.|
+|30|Your party can upgrade their boots twice, with two different enchantments each.|
 
 ---
 
@@ -627,9 +628,11 @@ Whenever you take a long rest, you can attempt to repair a stopwatch with your t
 
 ### Futures Market  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FuturesMarket.png" Align=left width=7% height=7%>
 
+**Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
+
 You gain the ability teleport to a pocket dimention with a secret shop after a ten minute channel. Whenever you visit a shopkeeper after obtaining this rune, all of their wares become available in the Futures Market.
 
-Additionally you can buy nonmagical common items at half price at any time as an bonus action. 
+You can spend a charge to buy nonmagical common items at half price at any time as an bonus action. 
 
 ---
 
