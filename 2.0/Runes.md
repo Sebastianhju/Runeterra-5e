@@ -55,7 +55,7 @@ The damage dice increases to 1d8 at level 5, 1d10 at level 9, 1d12 at level 13 a
 
 ### Press the Attack  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PressTheAttack.png" Align=left width=20% height=20%>
 
-Whenever you attack a creature with a single target attack, they gain a stack of pressure that lasts until the creature dies or you target another creature with a single target damaging effect. Whenever a creature gains three stacks of pressure, they take 2d6 force damage and all attacks against them gains a boon until a new creature gains a stack of pressure.
+Whenever you attack a creature with a single target attack, they gain a stack of pressure that lasts until the creature dies or you target another creature with a single target damaging effect. Once per combat when a creature gains three stacks of pressure, they take 2d6 force damage and all attacks against them gains a boon until a new creature gains a stack of pressure.
 
 The damage increases by 1d6 at level 5, 9, 13 and 17. 
 
@@ -74,7 +74,7 @@ Whenever you are at maximum hit points and have temporary hit points you gain 10
 
 ### Triumph  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Triumph.png" Align=left width=7% height=7%>
 
-Whenever you score a takedown, you gain gold equal to twenty times the creatures _Challenge Rating_. In addition you heal yourself equal to three times your proficiency bonus. 
+Whenever you score a takedown, you gain gold equal to ten times the creatures _Challenge Rating_. In addition you heal yourself equal to three times your proficiency bonus. 
 
 ---
 
@@ -153,9 +153,10 @@ Whenever you take a long rest, you can remove one additional point of exhaustion
 **Keystones**
 |**Rune**|**Snippet**|**Icon**|
 |---|---|---|
-|**[Electrocute](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#electrocute-)**| Deal additional lightning damage when you hit a target with seperate attacks| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" width=50% height=50%>|
+|**[Electrocute](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#electrocute-)**| Deal additional lightning damage when you hit a target with three seperate attacks| <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" width=50% height=50%>|
 |**[Dark Harvest](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#dark-harvest-)** | Deal additional force damage to bloodied targets|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" width=50% height=50%> |
 |**[Predator](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#predator-)** | Leap into battle dealing more damage the further you run | <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" width=50% height=50%>|
+|**[Hail of Blades](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#hail-of-blades-)** | Leap into battle dealing more damage the further you run | <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/HailOfBlades.png" width=50% height=50%>|
 
 **Lesser Runes**
 |**Rune**|**Snippet**|**Icon**|
@@ -168,55 +169,62 @@ Whenever you take a long rest, you can remove one additional point of exhaustion
 |**[Treasure Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#treasure-hunter-)**|You gain the possibility to find exclusive boss loot|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/TreasureHunter.png">|
 |**[Igenious Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ingenious-hunter-)**|Scoring _takedowns_ gives you stacks that reduces the cooldowns of your runes and items|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png">|
 |**[Relentless Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#relentless-hunter-)**|Scoring _takedowns_ grants you stacks that increase your traveling and hunting skills|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/RelentlessHunter.png">|
-|**[Ultimate Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ultimate-hunter-)**|Scoring _takedowns_ grants you stacks that reduces the cooldown of your ultimate|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/UltimateHunter.png" Height=50% Width=50%>|
+|**[GhostWard](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ghost-ward-)**|Scoring _takedowns_ grants you stacks that reduces the cooldown of your ultimate|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GhostWard.png" Height=50% Width=50%>|
 
 ## Keystones
 
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=20% height=20%>
-Damaging an enemy gives them a mark of electrocute that lasts until the end of your turn. Once a turn when you damage an enemy with a mark, you then deal 3d8 additional lightning damage and they are unable to use their reaction until the start of their next turn. Once used it cannot be used again until 36 seconds has passed. 
+Damaging an enemy gives them a mark of electrocute. Once per combat when a creature gains their 3rd stack of electrocute they take 2d8 lightning damage. 
 
-Electrocutes damage increases by 3d8 at level 5, 9, 13 and 17. 
+Electrocutes damage increases by 2d8 at level 5, 9, 13 and 17. 
 
 ---
 
 ### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=20% height=20%>
-Once a turn whenever you damage a bloody creature you gain a stack of *Harvest* and they take 1d4 force damage plus 1d4 for every twenty stack of *Harvest* you already have. A Once used, it cannot be used again until you score a takedown, or finish a long rest. 
 
-The damage dice increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 and 1d12 at level 17.
+Whenever you damage a bloody creature you gain a stack of *Harvest* and they take 1d6 force damage. Dark harvest deals 1d6 additional damage for every 15th stack of *Harvest* you already have. Once used this effect cannot be used again until you finish a long rest, or score a takedown. 
 
 ---
 
 ### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=20% height=20%>
 
-You can dash as a bonus action, and the next attack that hits this round deals 1d4 additional damage for every 15 feet you've traveled towards your target this turn, up to a maximum of 20d4. Once used, it cannot be used again until 36 seconds has passed.
+Once per combat you can dash as a bonus action. Whenever you do, all attacks this turn gains a boon and the next time you deal damage you deal 1d6 additional damage for every 30 feet traveled that turn, up to 90 feet. 
 
-You gain advantage on your next melee attack if you moved at least 30ft towards the target.
+The damage for each treshhold increases by 1d6 at level 5, 9, 13 and 17.
 
-The damage dice increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 and 1d12 at level 17.
+---
+
+## Hail of Blades <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/HailOfBlades.png" Align=left width=20% height=20%>
+
+The first time you act in combat, you can eighter make an additional attack as a part of your attack action. Or cast spells of first level or higher as both your bonus action and action. 
 
 ---
 
 ## Lesser Runes
 ### Cheap Shot <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/CheapShot.png" Align=left width=7% height=7%>
 
-Once a turn when you damage a creature, you can choose to deal 1d8 extra force damage for every negative status effect they have. Once used, this effect cannot be used again until 18 seconds has passed.
+This rune has three charges, you regain all charges at the end of a long rest. 
+
+Whenever you damage a creature that has a negative condition, you can choose to spend a charge to deal 1d8 additional damage for every negative condition that creature has. 
 
 ---
 ### Taste of Blood <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png" Align=left width=7% height=7%>
 
-Once a turn you damage a creature, you can choose to heal an amount equal to four times your proficiency bonus. Once used, this effect cannot be used again until 24 seconds has passed. 
+This rune has three charges, you regain all charges at the end of a long rest. 
+
+Whenever you damage a creature you can choose to heal equal to four times your proficiency bonus. 
 
 ---
 ### Sudden Impact <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png" Align=left width=7% height=7%>
 
-Once a turn when you are invisible, hidden, dash, blink or teleport your next damaging attack deals 2d6 additional force damage and ignores all resistances. Once used, this effect cannot be used again until 18 seconds has passed.
+This rune has three charges, you regain all charges at the end of a long rest. 
 
-The damage increases by 1d6 at level 5, 9 13 and 17. 
+When you damage a creature while invisible or hidden or after a dash, blink or teleport you can spend a charge to deal 2d8 additional damage on the attack. 
 
 ---
 ### Ghost Poro <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GhostPoro.png" Align=left width=7% height=7%>
 
-You learn the find familliar spell, and can cast it once a day without spending mana or material components to summon a [Ghost Poro](https://www.dndbeyond.com/monsters/3896538-ghost-poro). The Ghost Poro has its own turn in initiative after you and are not restricted by the find familliar spell druing its turn. 
+You learn the find familliar spell, and can cast it at will without spending mana or material components to summon a [Ghost Poro](https://www.dndbeyond.com/monsters/3896538-ghost-poro). The Ghost Poro has its own turn in initiative after you and are not restricted by the find familliar spell druing its turn. 
 
 ---
 ### Eyeball Collection <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/EyeballCollection.png" Align=left width=7% height=7%>
@@ -226,16 +234,14 @@ Whenever you score a takedown, you gain a stack of eyeball collection. You gain 
 **Eyeball Collection Stacks**
 |Amount|Effect|
 |---|---|
-|0| You gain advantage on perception checks revolving sight. |
-|25|You gain blindsight for 30 feet |
-|50|You gain +1 to all saving throws|
+|0| You get +2 to your perception checks|
+|30|You gain blindsight for 30 feet |
 
 ---
+
 ### Treasure Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/TreasureHunter.png" Align=left width=7% height=7%>
 
-Whenever you defeat a *greater foe* you can make an investegation check to find special loot. The check DC equals to 5 + the creatures _Challenge Rating_.
- 
-Additionally you can cast the locate object spell once per short rest without spending mana. 
+Whenever you defeat a creature with a challenge level equal to or higher than your level you gain gold equal to twenty times the creatures challenge rating. 
 
 ---
 
@@ -246,9 +252,8 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Ingenoius_ g
 **Ingenius Stacks**
 |Amount|Effect|
 |---|---|
-|0|Your items and runes cooldown is reduced with 6 seconds |
-|25|Whenever you fail a saving throw you can add 1d10 to the total and use the new result. You can do this a number of times equal to your proficiency bonus before finishing a long rest|
-|50|Your items and runes cooldown is recued with 6 seconds everytime you score a takedown|
+|0|Your items and runes with charges gain one additional charge|
+|30|Whenever you score a takedown, you can recharge one charge from eighter a item or a rune|
 
 ---
 
@@ -259,21 +264,16 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Relentless_ 
 **Relentless Stacks**
 |Amount|Effect|
 |---|---|
-|0|Your party can move stealthly as they travel without loosing travel speed, in addition you can use the hide action as a bonus action|
-|25|You gain proficiency in the survival check, or expertice if you are already proficient. Whenever you roll a survival check to track creatures, you have advantage. |
-|50|You gain +15 feet movement speed|
+|0|You gain +2 to stealth checks and can hide as a bonus action|
+|30|You gain +10 feet movement speed|
 
 ---
-### Ultimate Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/UltimateHunter.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ on a creature, you gain a stack of _Ultimate_ giving you the following benefits
+### Zombie Ward <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/ZombieWard.png" Align=left width=7% height=7%>
 
-**Ultimate Stacks**
-|Amount|Effect|
-|---|---|
-|0|Your Ultimates cooldown is reduced by 1 |
-|25|Your Ultimates cooldown is reduced by 2 |
-|50|Your Ultimates cooldown is reduced by 3|
+This rune has three charges, you regain all charges when you finish a long rest.
+
+You can spend two charges to place a stealth ward near a creature that you know following the rules of the **Scrying** spell. The base save equals 8 + twice your proficiency or your spell casting saving throw. 
 
 ---
 
@@ -301,7 +301,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Ultimate_ gi
 
 ## Keystones
 ### Summon Aery  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/SummonAery.png" Align=left width=20% height=20%>
-As an action you can cast the find familliar spell, summoning [Aery](https://www.dndbeyond.com/monsters/3896400-aery), without using components. Aery is a spirit that can shield your allies or deal damage to enemies. 
+Once per long rest you can cast the find familliar spell, summoning [Aery](https://www.dndbeyond.com/monsters/3896400-aery), without using components. Aery is a spirit that can shield your allies or deal damage to enemies. 
 
 Aerys hit points scales with your level. Their hit point maximum equals 5 times your level. 
 
@@ -311,7 +311,7 @@ Aerys damage and sheilding scales along with your proiciency bonus in level 5, 9
 
 ### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" Align=left width=20% height=20%>
 
-Once a turn when you deal damage to a target you can summon a comet that crashes onto the target. The target and all enemies in a 10 feet radius takes 2d6 magical bludgeoning damage. Once used, it cannot be used again until 36 seconds has passed. All creatures within the area must succeed a strength saving throw, the dc equals 10 + twice your proficiency bonus or be knocked prone.
+Once per combat, as an action you can summon an arcane comet that crashes into a 30 foot radius, all creatures in the effect must make a dexterity saving throw or take 4d6 bludgeoning damage and are knocked prone. The save DC equals 8 + twice your proficiency bonus or your spell save DC. 
 
 The damage increases by 2d6 at levels 5, 9, 13 and 17
 
@@ -319,18 +319,19 @@ The damage increases by 2d6 at levels 5, 9, 13 and 17
 
 ### Phase Rush  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" Align=left width=20% height=20%>
 
-When you damage an enemy, they gain a mark of phase until the end of your next turn. Whenever you deal damage to a target with a mark of phase you deal 1d4 additional force damage, gain 10 feet additional feet of movement speed, agility until the end of your turn and can phase through terrain and creatures until the end of your next turn.
-
-The damage dice increases to 1d6 at level 5, 1d8 at level 9, 1d10 at level 13 and 1d12 at level 17.
+Once per combat you can spend your bonus acition to enter Phase Rush. While in Phase Rush you can dash as a bonus action, you dont provoke oppourtunity attacks and you are immune to begin grappled or restrained.
 
 ---
 
 ## Lesser Runes
-### Nullifying Orb  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Nullifying Orb.png" Align=left width=7% height=7%>
+### Nullifying Orb  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Nullifying Orb.png" Align=left width=7% height=7%> 
 
-Once a round, whenever you take elemental damage, before the damage occurs you gain temporary hitpoints equal to four times your proficiency bonus. Once used, this effect cannot be used again until 24 seconds has passed. 
+This rune has three charges, you regain all charges at the end of a long rest. 
+
+Whenever you take elemental damage, you can spend a charge to gain temporary hit points equal to four times your proficiency bonus. 
 
 ---
+
 ### Manaflow Band  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ManaflowBand.png" Align=left width=7% height=7%>
 
 Whenever you score a _takedown_ on a creature, you gain a stack of _Manaflow_ giving you the following benefits:
@@ -338,15 +339,18 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Manaflow_ gi
 **Manaflow Scaling**
 |Amount|Effect|
 |---|---|
-|0|You gain +6 maximum mana|
-|25|As an action you harness a pool of mana equal to three times your proficiency bonus that you can divide on allies within 60 feet of you. You can also give away mana from your own mana pool to allies. Once this action is used it cannot be used again until you finish a long rest. |
-|50|You gain +15 maximum mana|
+|0|You gain one additional first level spell slot|
+|30|Once per long rest you can spend an action to regian a spell slot of your highest spell level|
 
 ---
 
 ### Nimbus Cloak  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/6361.png" Align=left width=7% height=7%>
 
-As a bonus action you can creatue a small rain cloud in a 15 foot radius that counts as a storm. Allies that start their turn within the cloud gains 10 feet movement speed until the end of their turn. Enemies within the storm must roll a d6 at the start of their turns, if they roll a 6 they are struck by lightning and must succeed a dexterity saving throw against you spell save dc or 8 + twice your proficiency bonus, on a failed save they take 2d10 lightning damage. 
+This rune has four charges, you regain all charges at the end of a long rest. 
+
+You gain +10 movement speed.
+
+Whenever you take the dash action, you can spend two charges to take the form of a cloud gaining flying speed equal to your walking speed. 
 
 ---
 
@@ -356,28 +360,30 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Tanscendence
 
 |Stacks|Effect|
 |---|---|
-|0| Your cooldowns are reduced by 6 seconds|
-|25|Whenever you fail ability check you can add 1d10 to the total and use the new result. You can do this a number of times equal to your proficiency bonus before you must finish a long rest|
-|50|Your cooldowns are reduced by 12 seconds|
+|0| Your items and runes with charges gains one additional charge|
+|30| Your items and runes with charges gains one additional charge|
 
 ---
+
 ### Celerity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/CelerityTemp.png" Align=left width=7% height=7%>
 
-Whenever you cast a spell you gain agility and movement speed equal to ten time the spell level until the end of your turn. 
-
-Whenever you move atleast 45 feet or more during your turn, your next spell costs one less mana to cast. 
+Whenever you cast a spell you dont provoke opportunity attacks and gain movement speed equal to ten times the spell level until the end of your turn. 
 
 ---
 
 ### Absolute Focus  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/AbsoluteFocus.png" Align=left width=7% height=7%>
 
-While above 50% health, you deal 1d6 additional damage. When you reach level 11 the damage increases to 2d6
+This rune has three charges, you regain all charges at the end of a long rest. 
+
+As a bonus action you can enter a state of absolute focus for a minute, or until you drop unconcious. You gain a boon to all saving throws and attack rolls while in this state. 
 
 ---
 
 ### Scorch  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Scorch.png" Align=left width=7% height=7%>
 
-When you damage an enemy, you apply scorch to the target. Once this effect is used it cannot be used again until 24 seconds have passed. 
+This rune has three charges, you regain all charges at the end of a long rest. 
+
+When you damage an enemy, you can spend a charge to apply scorch to the target.
 
 _Scorch: A creature with Scorch takes 1d6 force damage at the start of their turns and counts as burning for the sake of other spells and effect. Scorch can only be removed by a lesser/greater restoration or dispel magic spell_
 
@@ -385,17 +391,21 @@ _Scorch: A creature with Scorch takes 1d6 force damage at the start of their tur
 
 ### Waterwalking  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Waterwalking.png" Align=left width=7% height=7%> 
 
-Whenever you target an ally with a heal or buff, they gain +10 movement speed and can walk on water for an hour. This effect doens't stack with itself.
+This rune has four charges, you regain all charges at the end of a long rest. 
 
-When you target an ally with a heal or buff you can choose to enhance their attacks. For their three next damaging attacks they make within 30 seconds they can add 1d6 cold damage and reduce their targets speed by 10 feet. Once this action is used it cannot be used again until 30 seconds have passed. 
+Whenever you target an ally with a heal or buff you can spend a charge to grant them +10 movement speed and the ability to walk on water for an hour.
+
+When you target an ally with a heal or buff you can spend two charges enhance their attacks. For their three next damaging attacks they make within a minute they can add 1d6 cold damage to the damage.
 
 ---
 
 ### Gathering Storm  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/GatheringStorm.png" Align=left width=7% height=7%>
 
-At the start of every day, you gain the ability to alter the weather for that day. The Game Master may prompt you two weather options for that day, and you can choose which one will impact that day. 
+This rune has three charges, you regain all charges at the end of a long rest. 
 
-Whenever you are in stormy weather you gain 1+ crit chance to your attack rolls and whenever you roll for cold, lightning or thunder damage you can reroll any amount of damage dice once. 
+You can spend two charges to cast the call lightning spell. 
+
+Whenever it is storming, you gain +1 crit chance. 
 
 ---
 
