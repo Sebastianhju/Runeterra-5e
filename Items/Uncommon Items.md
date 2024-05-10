@@ -58,7 +58,7 @@ _You gain +1 bonus to spell attack rolls_
 
 **Void Pen**: Whenever you deal poison, acid or necrotic damage, if the target has any temporary hit poins they take double damage.  
 
-**Voids Embrace**: Whenever you deal poison, acid or necrotic damage, you can treat any 1 on the dice as a 6
+**Voids Embrace**: Whenever you deal poison, acid or necrotic damage, you can reroll ones and twos and must take the new result.
 
 ---
 
