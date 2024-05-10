@@ -55,7 +55,11 @@ The damage dice increases to 1d8 at level 5, 1d10 at level 9, 1d12 at level 13 a
 
 ### Press the Attack  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/PressTheAttack.png" Align=left width=15% height=15%>
 
-Whenever you attack a creature with a single target attack, they gain a stack of pressure that lasts until the creature dies or you target another creature with a single target damaging effect. Once per combat when a creature gains three stacks of pressure, they take 1d6 additional force damage from all damage sources for a minute. 
+Whenever you damage a creature, they gain a stack of pressure that lasts until you damage another creature. When a creature gains three stacks of pressure, they take 1d6 force damage and all attacks against them gains a boon for a minute. 
+
+The damage increases by 1d6 at level 5, 9, 13 and 17. 
+
+(For AoE effects you choose a single target that gets the stack)
 
 ---
 
