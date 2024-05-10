@@ -92,13 +92,14 @@ Whenever you score a takedown you gain three stacks.
 
 Whenever you score a _takedown_, you gain a stack of Alacrity that gives you benefits according to the table below. 
 
+**Charges**: This rune has six charges, you regain all charges when you finish a long rest.
+
 **Alacrity Scaling**
 
 |Stacks|Feature|
 |---|---|
-|0| You gain a boon to your initiative rolls|
-|30| Whenever you take the attack action, you can make an extra attack as a part of that action. You can do this a number of times equal to your proficiency bonus before you finish a long rest|
-
+|0| You gain +3 to your inititative rolls|
+|30| Whenever you take the attack action, you can spend two charges to make an extra attack as a part of that action.|
 
 ---
 
@@ -131,7 +132,9 @@ Whenever you score a _takedown_ you gain a stack of Bloodline that gives you ben
 
 ### Coup De Grace <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CoupDeGrace.png" Align=left width=7% height=7%>
 
-Once per long rest, when you are about to deal damage to a bloodied creautre you can choose to make it vulnerable to the damage you deal. 
+**Charges**: This rune has four charges, you regain all charges when you finish a long rest.
+
+When you are about to deal damage to a bloodied creature you can spend two charges to make it vulnerable to the damage you deal. 
 
 ---
 
@@ -273,7 +276,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Relentless_ 
 
 ### Zombie Ward <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/ZombieWard.png" Align=left width=7% height=7%>
 
-This rune has three charges, you regain all charges when you finish a long rest.
+**Charges**: This rune has three charges, you regain all charges when you finish a long rest.
 
 You can spend two charges to place a stealth ward near a creature that you know following the rules of the **Scrying** spell. The base save equals 8 + twice your proficiency or your spell casting saving throw. 
 
