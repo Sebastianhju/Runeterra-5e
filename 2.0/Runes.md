@@ -324,9 +324,9 @@ The damage increases by 2d6 at levels 5, 9, 13 and 17
 
 ### Phase Rush  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/PhaseRush.png" Align=left width=15% height=15%>
 
-Once per combat you can spend your bonus acition to enter Phase Rush. 
+Once per combat you can spend your bonus action to enter Phase Rush for a minute. 
 
-While in Phase Rush you can dash as a bonus action, you dont provoke oppourtunity attacks and you are immune to begin grappled or restrained.
+While in Phase Rush you can dash as a bonus action, you dont provoke oppourtunity attacks and you are immune to the grappled and restrained conditions.
 
 ---
 
@@ -563,9 +563,7 @@ You gain immunity to the frightened and charmed condition and you cannot be move
 ## Keystones 
 ### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/GlacialAugment.png" Align=left width=20% height=20%>
 
-Once a turn when you immobilize a target, you can choose to cover the terrain beneath them in ice. A 15 foot radius centered around the enemy is turned to difficult terrain for enemies. All enemy targets standing within the area has disadvantage on all attacks and attacks against them has advantage. This effect lasts until you use this effect again. 
-
-Once you have used this action it cannot be used again until 24 seconds have passed. 
+When you immobilize a target, you can choose to cover the terrain beneath them in ice. A 15 foot radius centered around the enemy is turned to difficult terrain for enemies. All enemy targets standing within the area gains a bane to attack rolls and attacks against them gains a boon. This effect lasts until you use this effect again.  
 
 The area of effect increases by 5 feet at levels 5, 9, 13 and 17. 
 
@@ -573,15 +571,13 @@ The area of effect increases by 5 feet at levels 5, 9, 13 and 17.
 
 ### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=20% height=20%>
 
-At the end of a long rest you gain a [Summoner Spells](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/SummonerSpells.md) for that day, if you dont use them before you take your next long rest it vanishes. First you roll a d6, if you roll a 6 you can select your summoner spells gained. If you roll lower, you must roll a 1d10 to determine you summoner spell according to the table below. 
+At the end of a long rest you gain a [Summoner Spells](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/SummonerSpells.md) for that day, if you dont use them before you take your next long rest it vanishes. First you roll a d6, if you roll a 6 you can select your summoner spells gained. If you roll lower, you must roll a 1d10 to determine you summoner spell according to the table below.  
 
-Whenever you take a short rest, you can roll to regain one summoner spell. You cannot get the same summoner spell that you´ve already gained in this way. If you were to gain a summoner spell you´ve already gained this long rest, you instead gain nothing and cant use this feature again until you finish a long rest. 
+To determine if you can select your summoner spell gained you must hit a 4 or higher at level 5, 2 or higher at level 9, you always choose at level 13 and above. 
 
-You gain an additional summoner spell at the end of your long rests at level 5, 9, and 13. 
+You gain an additional summoner spell at the end of your long rests at level 5, 9, and 13. At level 17 you gain all summoner spells whenever you finish a long rest.
 
-To determine if you can select your summoner spell gained you must hit a 4 or higher at level 5, 2 or higher at level 9, you always choose at level 13. 
-
-At level 17 you gain all summoner spells whenever you finish a long rest.
+To determine if you can select your summoner spell gained you must hit a 4 or higher at level 5, 2 or higher at level 9, you always choose at level 13 and above. 
 
 |1d10 Roll|Summoner Spell|-|1d10 Roll|Summoner Spell|
 |---|---|---|---|---|
@@ -595,12 +591,8 @@ At level 17 you gain all summoner spells whenever you finish a long rest.
 
 ### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" Align=left width=20% height=20%>
 
-You gain a +2 bonus to initiative. Whenever you deal damage against a creature that hasn´t taken a turn in combat yet you ignore their resistances and immunities and you gain 25 gold plus gold equal to the damage dealt times your proficiency bonus. You also deal 1d6 additional damage to the target for every 50th gold gained on them, up to a maximum of 20d6.
-
-The bonus to initiative increases to +3 at level 5, +4 at level 9, +5 at level 13 and +10 at level 17
-
--
-
+You gain a +2 bonus to initiative rolls. Whenever you deal damage to a creature that hasn't taken a turn in combat yet you ignore their resistances and immunities. For the first attack you gain gold equal to two times the damage dealt times your proficiency bonus. 
+  
 ---
 
 ## Lesser Runes
