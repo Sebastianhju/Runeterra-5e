@@ -40,3 +40,20 @@ _You have +2 to hit and damage rolls with this magical weapon_
 **Blessing**: You learn the bless spell and can cast it once a day without using a spell slot. Whenever you cast bless, you can spend an additional third level spell slot, or higher, to empower it. An empowered bless spells dice increases to 1d6 and heals the blessed creature equal to the number rolled on the bless dice whenever they make an attack roll or saving throw. 
 
 ---
+
+## Gloves of the Tunneler
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tunneler.png" Align=right width=8% height=8%>
+
+- 4500 Gold
+- Wondrous, gloves
+
+**Drilling Fist**: The gloves have enchanted drills attached to them, unarmed attacks made with the gloves deal 1d6 additional piercing damage. 
+
+**Siege Weapon**: The gloves deal double damage to objects and constructs. 
+
+**Tunneler**: When given time the gloves can make simple tunnels. The gloves can carve through dirt and rock, spending a minute to carve out a 5ft cube. Carving through metal takes ten minutes for a 5ft cube. 
+
+_You get +2 to unarmed attack and damage rolls_ 
+
+---
