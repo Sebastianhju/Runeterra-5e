@@ -233,29 +233,9 @@ _You gain +1 to attack and damage rolls with this weapon_
 - 5000 Gold
 - Attunement
 
-**Shipwrecker**: Whenever you move you gain a speed of momentum for every feet you move, up to a maximum of 80. Whenever you hit a creature with a melee attack you consume all charges of momentum, dealing 1d8 additional damage and reducing their speed by 15 feet for every 40th stack of momentum you have.
+**Shipwrecker**: Whenever you move you gain a speed of momentum for every feet you move, up to a maximum of 80. Whenever you hit a creature with a melee attack you consume all charges of momentum, dealing 2d6 additional damage and reducing their speed by 10 feet for every 60th stack of momentum you have.
 
-**Health**: You gain maximum hit points equal to your hit dice. 
-
-**Speed**: You gain +5 feet walking speed
-
-_You gain +1 to your armor class while wearing this piece of equipment_
-
----
-
-## Death's Dance
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Death's Dance.png" Align=right width=8% height=8%>
-
-- 4500 Gold
-- Longsword
-- Attunement
-
-**Ignore Pain**: Whenever you take damage, you take half damage and the rest is mitigated. The mitigated damage is instead converted to stacks of _doom_. At the end of your turn, you remove all stacks and take that much damage.
-
-**Defy**: When you score a takedown, you remove stacks of _doom_ equal to ten times your proficiency bonus. 
-
-_You gain +2 to attack and damage rolls using this weapon._
+**Health**: You gain maximum hit points equal to your level
 
 ---
 
@@ -266,8 +246,6 @@ _You gain +2 to attack and damage rolls using this weapon._
 - 4000 Gold
 - Wondrous
 - Attunement
-
-**Dark Pact**: When you would take or apply grievous wounds, you instead take or apply burn. 
 
 **Gift of the Fallen**: You gain an eldritch invocation of your choice. You only need to meet the level requirement. When you gain a level you can change this invoation.
 
@@ -283,9 +261,7 @@ _You gain +2 to attack and damage rolls using this weapon._
 
 **Soul Siphon**: Once a turn when you damage an enemy, you grants you a soul charge up to a maximum of three. The next time you heal or give an ally temporary hit points, you expend all soul charges to heal you both 1d8 hit points for each soul charge.
 
-**Health**: You gain maximum hit points equal to half your hit dice
-
-**Healing Power**: Your healing spells heal 2 more hit points
+**Health**: You gain maximum hit points equal to your level
 
 ---
 
@@ -296,13 +272,13 @@ _You gain +2 to attack and damage rolls using this weapon._
 - Double Edged Scimitar
 - 5000 Gold
 
-**Ever Rising Moon**: You can cast the _Moonbeam_ spell once before you must finish a short rest. 
+**Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
 
-**Lunar Mark**: Whenever you hit a creature with an attack with Eclipse, they gain a *Lunar Mark*. Whenever you deal damage to a creature with a *Lunar Mark* you deal 2d6 force damage after the attack, and gain temporary hit points equal to twice your proficiency bonus.
+**Lunar Mark**: Whenever you hit a creature with an attack with Eclipse, you can spend a charge to apply a *Lunar Mark* to the creature. Whenever you deal damage to a creature with a *Lunar Mark* you deal 1d6 force damage after the attack, and gain temporary hit points equal to twice your proficiency bonus.
 
-**Haste**: The cooldown of your runes and items are reduced by 6 seconds.
+**Haste**: Your items and runes with **charges** gains one additional charge.
 
-_You get +2 to attack and damage rolls using this weapon_
+_You get +1 to attack and damage rolls using this weapon_
 
 ---
 
@@ -313,11 +289,11 @@ _You get +2 to attack and damage rolls using this weapon_
 - 4000 Gold
 - Spell Focus
 
-**Fiendish Knowledge**: You may prepare two extra spell from you spellcasting list. 
+**Haste**: Your items and runes with **charges** gains one additional charge. 
 
-**Haste**: The cooldown of your runes and items are reduced by 6 seconds. 
+_You get +1 to your spell attack and spell save dc_
 
-_You get +2 to your spell attack and spell save dc_
+_You get +2 to your arcana and religion checks_
 
 ---
 
@@ -329,9 +305,7 @@ _You get +2 to your spell attack and spell save dc_
 - Spell focus
 - Attunement
 
-**Healing Power**: Whenever you cast a healing spell, you can spend two mana to eighter target another ally with the same spell at the same spell level, or increase the range with 30 feet. 
-
-**Restore Power**: Whenever you cast a healing spell, you regain one mana.
+**Healing Power**: Whenever you cast a healing spell, you can spend a spell slot of first level or higher to eighter target another ally with the same spell at the same spell level, or increase the range with 30 feet. 
 
 **Healing Power**: Your healing spells heal 2 more hit points
 
@@ -346,26 +320,7 @@ _You get +2 to your spell attack and spell save dc_
 
 **Steadfast**: Whenever anyone misses a melee attack roll towards you can spend your reaction to force them to make a dexterity saving throw against your spell save dc or be restrained in ice until the end of their next turn. The ice has an armor class of 10 and hitpoints equal to five times your proficiency bonus, if it is broken they are no longer restrained.
 
-**Mana**: You gain +5 maximum mana.
-
-_While wielding this shield you gain +1 to your armor class._
-
----
-
-## Gloves of the Tunneler
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tunneler.png" Align=right width=8% height=8%>
-
-- 4500 Gold
-- Wondrous, gloves
-
-**Drilling Fist**: The gloves have enchanted drills attached to them, unarmed attacks made with the gloves deal 1d6 additional piercing damage. 
-
-**Siege Weapon**: The gloves deal double damage to objects and constructs. 
-
-**Tunneler**: When given time the gloves can make simple tunnels. The gloves can carve through dirt and rock, spending a minute to carve out a 5ft cube. Carving through metal takes ten minutes for a 5ft cube. 
-
-_You get +2 to unarmed attack and damage rolls_ 
+**Mana**: You gain a spell slot with a level equal to half your proficiency bonus rounded up.
 
 ---
 
@@ -377,9 +332,9 @@ _You get +2 to unarmed attack and damage rolls_
 - Wondrous item
 - Attunement
 
-**Giants Might**: While wielding this item your strength score is set to 22.
+**Giants Might**: While wielding this item your strength score is set to 18.
 
-**Health**: You gain maximum hit points equal to half your hit dice. 
+**Health**: You gain maximum hit points equal two times your level. 
 
 ---
 
@@ -390,9 +345,9 @@ _You get +2 to unarmed attack and damage rolls_
 - 4000 Gold
 - Battleaxe
 
-**Nimble**: Whenever you hit a creature with _Hearthbound Axe_ you gain +10 feet movement speed and agility until the end of your next turn. 
+**Nimble**: Whenever you hit a creature with _Hearthbound Axe_ you gain +10 feet movement speed and don't provoke opportunity attacks until the end of your turn. 
 
-You gain +2 to hit and damage rolls using this magical weapon.
+_You gain +1 to hit and damage rolls using this magical weapon._
 
 _You gain +2 to initiative_
 
@@ -405,9 +360,11 @@ _You gain +2 to initiative_
 - 4500 Gold
 - Pistol
 
-**Shock**: When you hit an attack with _Hextech Revolver_ you can choose to force the target to succeed a constitution saving throw, the DC equal to 10 + proficiency bonus + dexterity modifier, on a failed save they take 2d8 lightning damage and are stunned until the end of their turn. On a success they are not stunned and take half damage. Once this effect is used, it cannot be used again until 24 seconds have passed.
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest. 
 
-_You gain +2 to hit and damage rolls with this magical weapon_ 
+**Shock**: When you hit an attack with _Hextech Revolver_ you can spend two charges to force the target to succeed a constitution saving throw, the DC equal to 10 + proficiency bonus + dexterity modifier, on a failed save they take 2d8 lightning damage and are restrained until the end of their turn. On a success they are not restrained and take half damage.
+
+_You gain +1 to hit and damage rolls with this magical weapon_ 
 
 ---
 
