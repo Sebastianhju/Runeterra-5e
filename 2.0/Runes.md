@@ -471,13 +471,10 @@ Once per turn when you have temporary hit points you can spend a charge to deal 
 
 ### Conditioning  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Conditioning.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ on a creature, you gain a stack of _Conditioning_ giving you the following benefits:
+You take 2 less damage whenever you take physical damage
 
-**Conditioning Scaling**
-|Amount|Effect|
-|---|---|
-|0|You take 2 less damage whenever you take physical damage|
-|30|You gain +1 to your armor class|
+**Headhunter** Whenever you score a _takedown_, you gain a stack of Trancendence. Whenever you have 30 stacks you gain the following benefits:
+- **Conditioned**: You gain +1 to your armor class and saving throws
 
 ---
 
@@ -589,13 +586,10 @@ As a bonus action you can spend a charge to channel a teleport towards a space w
 
 ### Magical Footwear  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/MagicalFootwear.png" Align=left width=7% height=7%>
 
-You gain the ability to summon a fey cobbler that sells boots. You can trade and shop with him as with any shopkeeper. Whenever you score a _takedown_ on a creature, you gain a stack of _Magical Footwear_ giving you the boots the following benefits:
+You gain the ability to summon a fey cobbler that sells boots, and are gifted a free pair of standard boots. You can trade and shop with him as with any shopkeeper. 
 
-**Magical Footwear Scaling**
-|Amount|Effect|
-|---|---|
-|0|You are gifted a free pair of boots|
-|30|Your party can upgrade their boots twice, with two different enchantments each.|
+**Headhunter** Whenever you score a _takedown_, you gain a stack of Trancendence. Whenever you have 30 stacks you gain the following benefits:
+- Your party can upgrade their boots twice, with two different enchantments each.
 
 ---
 
