@@ -213,9 +213,9 @@ Whenever you damage a creature that has a negative condition, you can choose to 
 ---
 ### Taste of Blood <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png" Align=left width=7% height=7%>
 
-**Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
 
-Whenever you damage a creature you can choose to heal equal to four times your proficiency bonus. 
+Whenever you damage a creature you can choose to spend two charges to heal equal to five times your proficiency bonus. 
 
 ---
 ### Sudden Impact <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png" Align=left width=7% height=7%>
@@ -237,7 +237,7 @@ Whenever you score a takedown, you gain a stack of eyeball collection. You gain 
 **Eyeball Collection Stacks**
 |Amount|Effect|
 |---|---|
-|0| You get +2 to your perception checks|
+|0| You get +2 to your perception and investegation checks|
 |30|You gain blindsight for 30 feet |
 
 ---
@@ -267,8 +267,8 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Relentless_ 
 **Relentless Stacks**
 |Amount|Effect|
 |---|---|
-|0|You gain +2 to stealth checks and can hide as a bonus action|
-|30|You gain +10 feet movement speed|
+|0|You gain +2 to stealth checks and +5 feet walking speed|
+|30|Whenever you become hidden, you gain the invisible condition until the end of your next turn, or until you make another action|
 
 ---
 
@@ -357,17 +357,17 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Manaflow_ gi
 
 You gain +10 movement speed.
 
-Whenever you take the dash action, you can spend two charges to take the form of a cloud gaining flying speed equal to your walking speed. 
+Whenever you take the dash action, you can spend two charges to take the form of a cloud gaining flying speed equal to your walking speed. While in this form you can pass through cracks that are as small as one inch. 
 
 ---
 
 ### Transcendence  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Transcendence.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ on a creature, you gain a stack of _Tanscendence_ giving you the following benefits:
+Whenever you score a _takedown_ on a creature, you gain a stack of _Transcendence_ giving you the following benefits:
 
 |Stacks|Effect|
 |---|---|
-|0| Your items and runes with charges gains one additional charge|
+|0| **Charges**: This item has two charges |
 |30| Your items and runes with charges gains one additional charge|
 
 ---
@@ -382,7 +382,7 @@ Whenever you cast a spell you dont provoke opportunity attacks and gain movement
 
 **Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
 
-As a bonus action you can enter a state of absolute focus for a minute, or until you drop unconcious. You gain a boon to all saving throws and attack rolls while in this state. 
+As a bonus action you can spend three charges to enter a state of absolute focus for a minute, or until you drop unconcious. You gain a boon to all saving throws and attack rolls while in this state. 
 
 ---
 
