@@ -48,8 +48,10 @@
 
 ## Brawlers gloves
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Brawler's Gloves.png" Align=right width=8% height=8%>
+
 - 600 Gold
-- Gloves <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Brawler's Gloves.png" Align=right width=8% height=8%>
+- Gloves 
 
 **Spikes**: Whenever you score a critical hit with an unarmed attack you add your ability modifier twice. 
 
