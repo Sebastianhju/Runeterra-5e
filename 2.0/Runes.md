@@ -243,7 +243,7 @@ Whenever you defeat a creature with a challenge level equal to or higher than yo
 
 **Haste**: Whenever you must spend charges of any other item or rune, you can spend charges from this item instead. 
 
-**Headhunter** Whenever you score a _takedown_, you gain a stack of Alacrity. Whenever you have 30 stacks you gain the following benefits:
+**Headhunter** Whenever you score a _takedown_, you gain a stack of Ingenious. Whenever you have 30 stacks you gain the following benefits:
 
 - **Recharge**: Whenever you score a takedown you regain one charge on this rune. 
 
@@ -251,13 +251,10 @@ Whenever you defeat a creature with a challenge level equal to or higher than yo
 
 ### Relentless Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/RelentlessHunter.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ on a creature, you gain a stack of _Relentless_ giving you the following benefits
+You gain +2 to stealth checks and +5 feet walking speed. 
 
-**Relentless Stacks**
-|Amount|Effect|
-|---|---|
-|0|You gain +2 to stealth checks and +5 feet walking speed|
-|30|Whenever you become hidden, you gain the invisible condition until the end of your next turn, or until you make another action|
+**Headhunter** Whenever you score a _takedown_, you gain a stack of Relentless. Whenever you have 30 stacks you gain the following benefits:
+- **Ambush**: Whenever you become hidden, you gain the invisible condition until the end of your next turn, or until you make another action.
 
 ---
 
@@ -330,13 +327,10 @@ Whenever you take elemental damage, you can spend a charge to gain temporary hit
 
 ### Manaflow Band  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ManaflowBand.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ on a creature, you gain a stack of _Manaflow_ giving you the following benefits:
+You gain one additional first level spell slot
 
-**Manaflow Scaling**
-|Amount|Effect|
-|---|---|
-|0|You gain one additional first level spell slot|
-|30|Once per long rest you can spend an action to regian a spell slot of your highest spell level|
+**Headhunter** Whenever you score a _takedown_, you gain a stack of Manaflow. Whenever you have 30 stacks you gain the following benefits:
+- **Restore**: Once per long rest you can spend an action to regian a spell slot of your highest spell level
 
 ---
 
@@ -344,7 +338,7 @@ Whenever you score a _takedown_ on a creature, you gain a stack of _Manaflow_ gi
 
 **Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
 
-You gain +10 movement speed.
+You gain +10 feet walking speed.
 
 Whenever you take the dash action, you can spend two charges to take the form of a cloud gaining flying speed equal to your walking speed. While in this form you can pass through cracks that are as small as one inch. 
 
@@ -352,12 +346,12 @@ Whenever you take the dash action, you can spend two charges to take the form of
 
 ### Transcendence  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Transcendence.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ on a creature, you gain a stack of _Transcendence_ giving you the following benefits:
+**Charges**: This item has an amount of charges equal to your proficiency bonus. You regain all charges whenever you finish a long rest. 
 
-|Stacks|Effect|
-|---|---|
-|0| **Charges**: This item has two charges |
-|30| Your items and runes with charges gains one additional charge|
+**Haste**: Whenever you must spend charges of any other item or rune, you can spend charges from this item instead. 
+
+**Headhunter** Whenever you score a _takedown_, you gain a stack of Trancendence. Whenever you have 30 stacks you gain the following benefits:
+- **Tons of Charges**: This item has an amount of charges equal to twice your proficiency bonus. You regain all charges whenever you finish a long rest. _(This feature replaces the initial **Charges**)_
 
 ---
 
