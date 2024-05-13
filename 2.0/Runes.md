@@ -111,15 +111,10 @@ You gain +10 feet movement speed and ignore difficult terrain.
 
 ### Legend: Bloodline <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ you gain a stack of Bloodline that gives you benefits according to the table below.
+You gain maximum hit points equal to twice your level. 
 
-**Bloodline Scaling**
-
-|Stacks|Feature|
-|---|---|
-|0| You gain hit points equal to twice your level|
-|30| Once a turn when you deal damage to a creature, you heal equal to twice your proficiency bonus|
-
+**Headhunter** Whenever you score a _takedown_, you gain a stack of Bloodline. Whenever you have 30 stacks you gain the following benefits:
+- Once a turn when you deal damage to a creature, you heal equal to twice your proficiency bonus
 
 ---
 
@@ -172,7 +167,7 @@ Whenever you take a long rest, you can remove one additional point of exhaustion
 ## Keystones
 
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=15% height=15%>
-Damaging an enemy gives them a mark of electrocute. Once per combat when a creature gains their 3rd stack of electrocute they take 2d8 lightning damage and are stunned until the end of their turn. 
+Damaging an enemy gives them a mark of electrocute. Once per combat when a creature gains their 3rd stack of electrocute they take 3d8 lightning damage and are stunned until the end of their turn. 
 
 Electrocutes damage increases by 2d8 at level 5, 9, 13 and 17. 
 
@@ -186,7 +181,7 @@ Whenever you damage a bloody creature you gain a stack of *Harvest* and they tak
 
 ### Predator <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Predator.png" Align=left width=15% height=15%>
 
-Once per combat you can dash as a bonus action. Whenever you do, all attacks this turn gains a boon and the next time you deal damage you deal 1d6 additional damage for every 30 feet traveled that turn, up to 90 feet. 
+Once per combat you can dash as a bonus action, gaining boon on all attacks and the next time you deal damage you deal 1d6 additional damage for every 30 feet traveled that turn, up to 90 feet. 
 
 The damage for each treshhold increases by 1d6 at level 5, 9, 13 and 17.
 
@@ -194,7 +189,7 @@ The damage for each treshhold increases by 1d6 at level 5, 9, 13 and 17.
 
 ## Hail of Blades <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/HailOfBlades.png" Align=left width=15% height=15%>
 
-The first time you act in combat, you can eighter make an additional attack as a part of your attack action or cast spells of first level or higher as both your bonus action and action. 
+The first time you act in combat, you can eighter make an additional attack as a part of your attack action or cast spells of first level or higher as both your bonus action and action. The spells must still meet their casting time conditions.
 
 ---
 
@@ -229,13 +224,10 @@ You learn the find familliar spell, and can cast it at will without spending man
 
 ### Eyeball Collection <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/EyeballCollection.png" Align=left width=7% height=7%>
 
-Whenever you score a takedown, you gain a stack of eyeball collection. You gain the following benefits from collection eyeballs:
+You get +2 to your perception and investegation checks. 
 
-**Eyeball Collection Stacks**
-|Amount|Effect|
-|---|---|
-|0| You get +2 to your perception and investegation checks|
-|30|You gain blindsight for 30 feet |
+**Eyeball hunter** Whenever you score a _takedown_, you gain a stack of Eyeball. Whenever you have 30 stacks you gain the following benefits:
+- You gain blindsight for 30 feet
 
 ---
 
@@ -247,13 +239,13 @@ Whenever you defeat a creature with a challenge level equal to or higher than yo
 
 ### Ingenious Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ on a creature, you gain a stack of _Ingenoius_ giving you the following benefits
+**Charges**: This item has an amount of charges equal to your proficiency bonus. You regain all charges whenever you finish a long rest. 
 
-**Ingenius Stacks**
-|Amount|Effect|
-|---|---|
-|0|Your items and runes with charges gain one additional charge|
-|30|Whenever you score a takedown, you can recharge one charge from eighter a item or a rune|
+**Haste**: Whenever you must spend charges of any other item or rune, you can spend charges from this item instead. 
+
+**Headhunter** Whenever you score a _takedown_, you gain a stack of Alacrity. Whenever you have 30 stacks you gain the following benefits:
+
+- **Recharge**: Whenever you score a takedown you regain one charge on this rune. 
 
 ---
 
