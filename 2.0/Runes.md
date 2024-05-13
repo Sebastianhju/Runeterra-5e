@@ -97,7 +97,7 @@ Whenever you score a _takedown_, you gain a stack of Alacrity that gives you ben
 |Stacks|Feature|
 |---|---|
 |0| You gain +3 to your inititative rolls|
-|30| Whenever you take the attack action, you can spend two charges to make an extra attack as a part of that action.|
+|30| Once a turn when you take the attack action, you can spend two charges to make an extra attack as a part of that action.|
 
 ---
 
@@ -208,28 +208,30 @@ The first time you act in combat, you can eighter make an additional attack as a
 
 **Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
 
-Whenever you damage a creature that has a negative condition, you can choose to spend a charge to deal 1d8 additional damage for every negative condition that creature has. 
+Once a turn when you damage a creature that has a negative condition, you can choose to spend a charge to deal 1d8 additional damage for every negative condition that creature has. 
 
 ---
 ### Taste of Blood <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png" Align=left width=7% height=7%>
 
 **Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
 
-Whenever you damage a creature you can choose to spend two charges to heal equal to five times your proficiency bonus. 
+Once a turn when you damage a creature you can choose to spend two charges to heal equal to five times your proficiency bonus. 
 
 ---
 ### Sudden Impact <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png" Align=left width=7% height=7%>
 
 **Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
 
-When you damage a creature while invisible or hidden or after a dash, blink or teleport you can spend a charge to deal 2d8 additional damage on the attack. 
+Once a turn when you damage a creature while invisible or hidden or after a dash, blink or teleport you can spend a charge to deal 2d8 additional damage on the attack. 
 
 ---
+
 ### Ghost Poro <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GhostPoro.png" Align=left width=7% height=7%>
 
 You learn the find familliar spell, and can cast it at will without spending mana or material components to summon a [Ghost Poro](https://www.dndbeyond.com/monsters/3896538-ghost-poro). The Ghost Poro has its own turn in initiative after you and are not restricted by the find familliar spell druing its turn. 
 
 ---
+
 ### Eyeball Collection <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/EyeballCollection.png" Align=left width=7% height=7%>
 
 Whenever you score a takedown, you gain a stack of eyeball collection. You gain the following benefits from collection eyeballs:
@@ -482,7 +484,7 @@ When you slow or immobilize a creature, you can spend a charge to give the them 
 
 **Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
 
-Whenever you have temporary hit points you can spend a charge to deal 1d6 additional damage plus 1d6 for every tenth temporary hit points you currently have.
+Once per turn when you have temporary hit points you can spend a charge to deal 1d6 additional damage plus 1d6 for every tenth temporary hit points you currently have.
 
 ---
 
