@@ -90,8 +90,7 @@ Once a turn, when you deal damage to an enemy you gain a stack of _manastore_. W
 
 You gain +2 to initiative rolls. 
 
-**Headhunter** Whenever you score a _takedown_, you gain a stack of Alacrity. Whenever you have 30 stacks you gain the following benefits:
-
+**Headhunter** Whenever you score a _takedown_, you gain a stack of Alacrity. Whenever you have 30 stacks you gain the following benefits: 
 - **Charges**: This rune has six charges, you regain all charges when you finish a long rest.
 - **Swift Sweep**: Once a turn when you take the attack action, you can spend two charges to make an extra attack as a part of that action. 
 **Alacrity Scaling**
@@ -102,14 +101,11 @@ You gain +2 to initiative rolls.
 
 ### Legend: Tenacity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendTenacity.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_ you gain a stacks of _Tenacity_ that gives you benefits according to the table below.
+You gain +10 feet movement speed and ignore difficult terrain.
 
-**Tenacity Scaling**
-
-|Stacks|Feature|
-|---|---|
-|0| You gain +10 movement speed and ignore difficult terrain|
-|30| You gain a boon on saving throws against immobilizing effects. Once per long rest when you fail a saving throw, you can choose to succeed instead.| 
+**Headhunter** Whenever you score a _takedown_, you gain a stack of Tenacity. Whenever you have 30 stacks you gain the following benefits:
+- You gain a boon on saving throws against immobilizing effects. 
+- Once per long rest when you fail a saving throw, you can choose to succeed instead 
 
 ---
 
