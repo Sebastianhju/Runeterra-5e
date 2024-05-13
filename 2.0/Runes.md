@@ -88,16 +88,15 @@ Once a turn, when you deal damage to an enemy you gain a stack of _manastore_. W
 
 ### Legend: Alacrity <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendAlacrity.png" Align=left width=7% height=7%>
 
-Whenever you score a _takedown_, you gain a stack of Alacrity that gives you benefits according to the table below. 
+You gain +2 to initiative rolls. 
 
-**Charges**: This rune has six charges, you regain all charges when you finish a long rest.
+**Headhunter** Whenever you score a _takedown_, you gain a stack of Alacrity. Whenever you have 30 stacks you gain the following benefits:
 
+- **Charges**: This rune has six charges, you regain all charges when you finish a long rest.
+- **Swift Sweep**: Once a turn when you take the attack action, you can spend two charges to make an extra attack as a part of that action. 
 **Alacrity Scaling**
 
-|Stacks|Feature|
-|---|---|
-|0| You gain +3 to your inititative rolls|
-|30| Once a turn when you take the attack action, you can spend two charges to make an extra attack as a part of that action.|
+
 
 ---
 
