@@ -250,8 +250,6 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 **Shocking Bolt**: Whenever you hit a creature with a lightning mark, you remove the mark and all creautres within 15 feet must succeed a dexterity saving throw (Dc equals to 8 plus your proficiency bonus plus your dexterity modifier) or take 2d8 lightning damage, halved on a save.
 
-_You have +1 to hit and attack rolls using this magical weapon_ 
-
 ---
 
 ## Needlessly Large Rod
@@ -271,7 +269,9 @@ _You have +1 to hit and attack rolls using this magical weapon_
 - 600 Gold
 - Quarterstaff
 
-**Crushing Blow**: Whenever you critically hit a creature with *Nimbus Staff* or unarmed attacks, their armor class is reduced by 2 for a minute.
+**Charges**: This item has 4 charges and regain all charges at the end of a long rest. 
+
+**Crushing Blow**: Whenever you hit a creature with _Nimbus Staff_ you can spend two charges to reduce their armor class by 1 for a minute. 
 
 ---
 
@@ -330,7 +330,7 @@ _You have +1 to hit and attack rolls using this magical weapon_
 - 500 Gold
 - Wonderous Item
 
-**Charges**: This item has 3 charges and regain all charges at the end of a long rest. 
+**Charges**: This item has 2 charges and regain all charges at the end of a long rest. 
 
 **Rejuvinate**: As a bonus action you can spend a charge to heal yourself for 2d6 hit points. 
 
@@ -357,8 +357,6 @@ _You have +1 to hit and attack rolls using this magical weapon_
 - Quarterstaff
 
 **Touch of Cold** When you affect an enemy with a spell, you also reduce their movement speed by 10 feet. You can only target the same creature once with this ability each round. 
-
-**Health**: You maximum hit points increases by half your hit dice. 
 
 ---
 
