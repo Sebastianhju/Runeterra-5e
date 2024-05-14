@@ -385,7 +385,6 @@ _You get +2 to your spell attack and spell save DC_
 
 ---
 
-
 ## Hullbreaker
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hullbreaker.png" Align=right width=8% height=8%>
@@ -486,11 +485,9 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - Wondrous
 - Attunement
 
-**Enlighten**: Whenever you take a short rest, you regain mana equal to your proficiency bonus for each hit dice you spend.
+**Enlighten**: When you take a short rest you regain spell slots with a combined spell level equal to your proficiency bonus. Once this effect is used it cannot be used again until you finish a long rest.
 
-**Strong Bond**: Once this item is attuned to you, you must spend a part of a long rest to sever the connection. 
-
-You gain +2 to spell attack rolls and your saving throw DC. 
+You gain +1 to spell attack rolls and your saving throw DC. 
 
 ---
 
@@ -503,7 +500,7 @@ You gain +2 to spell attack rolls and your saving throw DC.
 
 **Elemental Jaws**: At the end of a short rest, you can choose one type of elemental damage type. You gain resistance from that elemental damage until you finish a long rest. Whenever you take that type of damage, _Maw of Malmortius_ deals 1d8/1d10 additional damage of that damage type until the end of your turn.  
 
-_You have +2 to attack and damage rolls with this magical weapon_
+_You have +1 to attack and damage rolls with this magical weapon_
 
 ---
 
@@ -514,24 +511,11 @@ _You have +2 to attack and damage rolls with this magical weapon_
 - 4000 Gold
 - Scimitar
 
-**Quicksilver** As a reaction upon begin immobilized you can remove all immobilizing effects and cast lesser restoration on yourself, until the end of your next turn you gain +1 crit chance with _Mecurial Scimitar_. Once this effect is used it cannot be used again until 30 seconds pass.  
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest. 
 
-_You have +2 to attack and damage rolls with this magical weapon_
+**Quicksilver** As a reaction upon begin immobilized you can spend two charges to remove all immobilizing effects and cast lesser restoration on yourself, until the end of your next turn you gain +1 crit chance with _Mecurial Scimitar_.
 
----
-
-## Mikael's Blessing
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mikael's Blessing.png" Align=right width=8% height=8%>
-
-- 4000 Gold
-- Wondrous
-
-**Purify**: You know the lesser restoration spell and can cast it once a long rest as an reaction without spending mana. 
-
-**Enhanced Cleansing** Whenever you cast lesser- or greater restoration on a target you can target creatures within 30 feet of you. Additionally, you may spend at least one additional mana to eighter target another creature within range, or remove an additional effect affecting a creature.
-
-**Healing Power**: Your healing spells heal 2 more hit points.
+_You have +1 to attack and damage rolls with this magical weapon_
 
 ---
 
@@ -546,22 +530,7 @@ _You have +2 to attack and damage rolls with this magical weapon_
 
 **Death's Drag**: When you critically hit a target you deal 1d8 additional necrotic damage
 
-_You gain +2 to attack and damage rolls using this magical weapon_
-
----
-
-## Nashor's Tooth
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Nashor's Tooth.png" Align=right width=8% height=8%>
-
-- 4000 Gold
-- Dagger
-
-**Ichatian Bite**: When you cast a spell, _Nashor's Tooth_ deals 1d6 additional necrotic damage and you gain an additional attack when you take your next attack action. 
-
-**Spellblade**: You can use your spellcasting modifier for attack and damage rolls.
-
-_You gian +2 to attack and damage rolls using this magical weapon_
+_You gain +1 to attack and damage rolls using this magical weapon_
 
 ---
 
@@ -573,36 +542,11 @@ _You gian +2 to attack and damage rolls using this magical weapon_
 - Wondrous Item
 - Attunement
 
-**Negate**: Whenever you take Elemental damage you can reduce that by 3. 
+**Negate**: Whenever you take Elemental damage you can reduce that by 2. 
 
-**Health**: You get health equal to your hit dice. 
+**Health**: You get health equal to your level. 
 
 _You get +1 to all saving throws_
-
----
-
-## Noonquiver
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Noonquiver.png" Align=right width=8% height=8%>
-
-- 4000 Gold
-- Wondrous Item
-- Attunement
-
-**Chaos Quiver**: This quiver has magical arrows appear when you reach for a new arrow or bullet, giving you a random arrow that has different effects. Whenever you hit an attack roll, roll 1d10 to detimine which of the following arrows are fired. The arrows that requires a saving throw has a save equal to 8 + twice your proficiency bonus. 
-
-|Result|Arrow Type|Effect|
-|---|---|---|
-|(1)| Regular Arrow|Nothing extra happens|
-|(2)| Smoke Arrow|On impact this arrow releases thick fog that heavily obscures a 15 feet radius around it, the smoke evaporates at the start of your next turn, or if it blown away by a strong wind.|
-|(3) |Lasso Arrow|On impact magical ropes entangle the target. They are grappled and must use their action to attempt a strenght check to escape|
-|(4)| Thorney Arrow| On impact vines springs out from the target and covers a 15 feet radius area. Whenever a creature moves within the area they take 1d4 piercing damage for every five feet moved |
-|(5)| Spectral Arrow|On impact the arrow phases through the target and you can make another attack against target behind the target that you can see within range|
-|(6)| Fire arrow|On impact the target and all creatures within 15 feet of it must succeed a dexterity saving throw or suffer 2d6 damage and get the burn condition, on a save they take half the damage and are not burned|
-|(7) |Silence Arrow|On impact the arrow leaves a smal silence spell that covers a 15 feet radius around the arrow. If the arrow is broken the spell is dispelled|
-|(8) |Lightning Arrow|On impact the target must succeed a constitution saving throw or take 1d10 lighting damage and are stunned until the end of its next turn|
-|(9)|Poison Arrow|On impact the target must succeed a constitution saving thorow or be poisoned. While poisoned in this way they must choose between taking an action or bonus action on their turn. The target can make a new save against the poison at the end of its turn|
-|(10)|Pulling Arrow|On impact the target must succeed a strength saving throw or be pulled 15 feet towards you|
 
 ---
 
@@ -617,7 +561,7 @@ _You get +1 to all saving throws_
 
 **Oblivion**: Your single target spells deals 1d6 additional necrotic damage if the target has grievous wounds.
 
-_You gain +2 to you spell attacks_
+_You gain +1 to you spell attacks_
 
 ---
 
