@@ -53,6 +53,10 @@
 - 600 Gold
 - Gloves 
 
+**Charges**: This item has 3 charges and regain all charges at the end of a long rest. 
+
+**Lock Down**: When you hit an unarmed attack you can spend a charge to attempt to grapple the target as a free action.
+
 **Spikes**: Whenever you score a critical hit with an unarmed attack you add your ability modifier twice. 
 
 ---
