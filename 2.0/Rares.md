@@ -175,7 +175,7 @@ You gain +1 to your armor class while wearing this magical armor.
 - 5000 Gold
 - Warhammer
 
-**Hammering Haste**: Once a round when you hit an attack roll with _Caulfields Warhammer_ you can recharge one rune or item you have. 
+**Hammering Haste**: Once a round when you hit an attack roll with _Caulfields Warhammer_ you can recharge one cahrge on one rune or item you have. 
 
 _You gain +1 to hit and damage rolls using this magical weapon_
 
@@ -188,7 +188,9 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 - 4000 Gold
 - Longsword
 
-**Spinning Blades**: As a bonus action you can start up the chainswords engine. For your next three attacks, the chainsword deals 1d8 additional damage, applies grievous wounds and burn. Once this action is used it cannot be used again until 18 seconds pass. 
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest. 
+
+**Spinning Blades**: As a bonus action you can spend two charges start up the chainswords engine. For your next three attacks, the chainsword deals 1d8 additional damage, applies grievous wounds.
 
 _You get +1 to attack and damage rolls using this magical weapon_
 
@@ -276,7 +278,7 @@ _You gain +1 to attack and damage rolls with this weapon_
 
 **Lunar Mark**: Whenever you hit a creature with an attack with Eclipse, you can spend a charge to apply a *Lunar Mark* to the creature. Whenever you deal damage to a creature with a *Lunar Mark* you deal 1d6 force damage after the attack, and gain temporary hit points equal to twice your proficiency bonus.
 
-**Haste**: Your items and runes with **charges** gains one additional charge.
+**Haste**: Whenever you must spend charges of any other item or rune, you can spend charges from this item instead. 
 
 _You get +1 to attack and damage rolls using this weapon_
 
