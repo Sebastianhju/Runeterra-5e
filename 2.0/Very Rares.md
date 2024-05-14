@@ -207,3 +207,84 @@ _You gian +2 to attack and damage rolls using this magical weapon_
 |(10)|Pulling Arrow|On impact the target must succeed a strength saving throw or be pulled 15 feet towards you|
 
 ---
+
+## Prowler's Claw
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Prowlers Claw.png" Align=right width=8% height=8%>
+
+- 5000 Gold
+- Dagger
+
+**Charges**: This item has six charges and regains all charges when you finish a long rest. 
+
+**Leaping Strike**: If you are hidden from a target, you can spend three charges to teleport 30 feet to a location within 5 feet of the target as an action. You can then make an attak wih _Prowler's Claw_, critting on a successfull hit. 
+
+_You gain +2 to attack and damage rolls using this weapon_
+
+---
+
+## Rectrix
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rectrix.png" Align=right width=8% height=8%>
+
+- 6000 Gold
+- Wondrous
+- Attunement
+
+**Sharpend Edge**: You gain +1 to all attack rolls.
+
+**Swift Winds**: You gain +10 feet walking speed
+
+**Burst of Flight**: Once a short rest you can spend your action to gain flying speed equal to your walking speed for a minute. 
+
+---
+
+## Recurve Bow
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Recurve Bow.png" Align=right width=8% height=8%>
+
+- 4500 Gold
+- Shortbow
+
+**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
+
+**Swift String**: Whenever you take the attack and have 100 stacks of energized, you can make an additional attack as a part of the attack action.
+
+_You gain +2 to initiative checks_
+
+_You gain +2 to hit and damage rolls using this magical weapon_
+
+---
+
+## Redemption
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Redemption.png" Align=right width=8% height=8%>
+
+- 5000 Gold
+- Wondrous
+
+**Charges**: This item has six charges and regains all charges when you finish a long rest. 
+
+**Intervention**: As a bonus action you can spend three charges to target a point you can see and call upon help from the divine. At the start of your next turn a beam of light strikes in a 20 foot radius, centered on your point. All allies within the effect heals 2d8 + proficiency bonus. All enemies takes 2d8 radiant damage.
+
+**Harmony**: Whenever you heal a creature, you can spend a first level spell slot or higher to heal the maximum amount of hit points possible.
+
+**Healing Power**: Your healing spells heal 2 more hit points.
+
+---
+
+## Riftmaker
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Riftmaker.png" Align=right width=8% height=8%>
+
+- 5000 Gold
+- Arcane Focus
+- Attunement
+
+**Riftmaker**: Your teleportation spells gains double range. 
+
+**Hunger of the Void**: When you deal damage with a spell you gain a stack of _hunger_ up to a maximum of five. When you have 5 stacks of _hunger_ your next spells consumes all charges and deals 3d6 additional necrotic damage and you heal for the same amount. If the spell has multiple damage sources, the first source of damage consumes the charges.
+
+_You gain +2 to your spell attack and save dc_
+
+---
