@@ -86,3 +86,18 @@ _You gain +2 to initiative rolls_
 **Ego**: Once a round when you score a takedown on a creature, a magical statue of yourself is summoned in their place. As long as you can see the statue your first attack each turn have advantage and deals 1d6 additional damage for each statue. Once a minute passes by, the statue is pulverized to dust.
 
 ---
+
+## Jak'Sho The Protean
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Jak'Sho, The Protean.png" Align=right width=8% height=8%>
+
+- Plate
+- Attunement
+
+**Second Skin**: This armor is a sentient creature and works thru a symbiosis. You do not need any armor proficiency or strength requierments to wear Jak'Sho
+
+**Rebreather**: While wearing Jak'Sho you can breathe in any enviorment and are immune to conditions and damage caused by gass or similar effects. 
+
+**A price paid** Jak'sho requiers a payment for thier symbiosis. When dealing with a situation, the DM might say, "Jak'Sho wants you to ..." Should you disreagard your companion to many times you might make an enemy of them. 
+
+---
