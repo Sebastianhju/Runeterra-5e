@@ -235,7 +235,7 @@ _You gain +1 to attack and damage rolls with this weapon_
 - 5000 Gold
 - Attunement
 
-**Shipwrecker**: Whenever you move you gain a speed of momentum for every feet you move, up to a maximum of 80. Whenever you hit a creature with a melee attack you consume all charges of momentum, dealing 2d6 additional damage and reducing their speed by 10 feet for every 60th stack of momentum you have.
+**Shipwrecker**: Whenever you move you gain a speed of momentum for every feet you move, up to a maximum of 120. Whenever you hit a creature with a melee attack you consume all charges of momentum, dealing 2d6 additional damage and reducing their speed by 10 feet for every 60th stack of momentum you have.
 
 **Health**: You gain maximum hit points equal to your level
 
@@ -276,11 +276,11 @@ _You gain +1 to attack and damage rolls with this weapon_
 
 **Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
 
-**Lunar Mark**: Whenever you hit a creature with an attack with Eclipse, you can spend a charge to apply a *Lunar Mark* to the creature. Whenever you deal damage to a creature with a *Lunar Mark* you deal 1d6 force damage after the attack, and gain temporary hit points equal to twice your proficiency bonus.
-
 **Haste**: Whenever you must spend charges of any other item or rune, you can spend charges from this item instead. 
 
-_You get +1 to attack and damage rolls using this weapon_
+**Lunar Mark**: Your attacks with eclipse and in wild shape grants the target a _Lunar Mark_. The next time you attack that target, all damage is converted to radiant damage and gives you temporary hit points equal to two times your proficiency bonus. 
+
+_You get +1 to attack and damage rolls using this weapon or while in wildshape_
 
 ---
 
@@ -291,9 +291,9 @@ _You get +1 to attack and damage rolls using this weapon_
 - 4000 Gold
 - Spell Focus
 
-**Haste**: Your items and runes with **charges** gains one additional charge. 
+**Charges**: This item has charges equal to your proficiency bonus and regains all charges when you finish a long rest. 
 
-_You get +1 to your spell attack and spell save dc_
+**Haste**: Whenever you must spend charges of any other item or rune, you can spend charges from this item instead.  
 
 _You get +2 to your arcana and religion checks_
 
@@ -370,21 +370,6 @@ _You gain +1 to hit and damage rolls with this magical weapon_
 
 ---
 
-## Hextech Rocketbelt
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Rocketbelt.png" Align=right width=8% height=8%>
-
-- Wondrous
-- 5000 Gold
-
-**Supersonic**: As a bouns action you can activate the rocketbelt. You gain 60 feet flying speed and agility, but you must land on a surface at the end of your turn, when you end your turn, all creatures within 5 feet of you take 2d4+2 force damage. Once this effect is used, it cannot be used again until 30 seconds pass. 
-
-**Health**: You gain hit points equal to your hit dice. 
-
-_You gain +3 to initiative rolls_
-
----
-
 ## Horizon Focus
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Horizon Focus.png" Align=right width=8% height=8%>
@@ -392,27 +377,14 @@ _You gain +3 to initiative rolls_
 - 4500 Gold
 - Wondrous
 
-**Spell Sniper**: Once a turn when you target an enemy that is 90 feet or more away from you with a spell, the target becomes marked with dim blue light for a minute. While marked it can't go invisible and attack rolls against it has advantage. Once this effect is used it cannot be used again until 18 seconds pass. 
+**Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
 
-**Haste**: The cooldown of your runes and items are reduced by 6 seconds. 
+**Spell Sniper**: When you target an enemy that is 90 feet or more away from you with a spell, you can spend a charge to marke the target with dim blue light for a minute. While marked it can't go invisible and attack rolls against it gains a boon.
 
 _You get +2 to your spell attack and spell save DC_
 
 ---
 
-## Hubris
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hubris.png" Align=right width=8% height=8%>
-
-- 4000 Gold
-- Wondrous
-- Attunement
-
-**Ego**: Once a round when you score a takedown on a creature, a statue of yourself is summoned in their place. The statue has an armor class of 10 and hit points equal to ten times your proficiency bonus, it is immune to fire and psychic damage, and vulnerable to thunder damage. As long as you can see the statue your first attack each turn have advantage and deals 1d6 additional damage for each statue. Once a minute passes by, the statue is pulverized to dust.
-
-**Haste**: The cooldown of your runes and items are reduced by 6 seconds. 
-
----
 
 ## Hullbreaker
 
@@ -421,11 +393,11 @@ _You get +2 to your spell attack and spell save DC_
 - 4000 Gold
 - Warhammer
 
-**Boarding Party**: Whenever there are no allies within 30 feet of you, you gain +2 to your armor class and saving throws (Attune to get this effect) 
+**Boarding Party**: Whenever there are no allies within 15 feet of you, you gain +1 to your armor class and saving throws (Attune to get this effect) 
 
 **Siege Weapon**: The Hullbreaker deals double damage against objects and constructs. 
 
-_You have +2 to attack and damage rolls using this magical weapon._
+_You have +1 to attack and damage rolls using this magical weapon._
 
 ---
 
@@ -436,9 +408,11 @@ _You have +2 to attack and damage rolls using this magical weapon._
 - 4000 Gold
 - Javelin
 
-**Javelin Toss**: Once a turn when you take the attack action, you can replace one of the attacks with a Javelin Toss. You toss the Javelin in a 120 feet line, hitting the first creature that fails a dexterity saving throw, dc 10 + proficienct bonus + Strength modifier. The creature takes 1d6 damage for every tenth feet the Javelin traveled. When the Javelin is used in this way it teleports back to your hand. Once this ability is used it cannot be used again until 18 seconds have passed. 
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest. 
 
-_You have +2 to hit and damage rolls using this magical Weapon_
+**Javelin Toss**: Once a turn when you take the attack action, you can spend two charges to replace one of the attacks with a Javelin Toss. You toss the Javelin in a 120 feet line, hitting the first creature that fails a dexterity saving throw, dc 9 + two times proficiency bonus. The creature takes 1d6 damage for every 15th feet the Javelin traveled. When the Javelin is used in this way it teleports back to your hand.
+
+_You have +1 to hit and damage rolls using this magical Weapon_
 
 ---
 
@@ -449,26 +423,9 @@ _You have +2 to hit and damage rolls using this magical Weapon_
 - 4000 Gold
 - Wondrous
 
-**Coordinated Fire**: Whenever you slow or immobilize a target, they gain a mark that lasts until start of your next turn. The mark is consumed the next time the target takes damage from one of you allies, dealing 2d8 radiant damage.
+**Coordinated Fire**: Whenever you slow or immobilize a target, they gain a mark that lasts until start of your next turn. The mark is consumed the next time the target takes damage from one of you allies, dealing 1d8 radiant damage.
 
-**Harmony**: Whenever a mark is consumed, you gain a stack of _Harmony_. When you have five stacks of harmony, you regain 1 mana. 
-
-**Haste**: The cooldown of your items and runes are reduced by 6 seconds. 
-
----
-
-## Jak'Sho The Protean
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Jak'Sho, The Protean.png" Align=right width=8% height=8%>
-
-- Plate
-- Attunement
-
-**Second Skin**: This armor is a sentient creature and works thru a symbiosis. You do not need any armor proficiency or strength requierments to wear Jak'Sho
-
-**Rebreather**: While wearing Jak'Sho you can breathe in any enviorment and are immune to conditions and damage caused by gass or similar effects. 
-
-**A price paid** Jak'sho requiers a payment for thier symbiosis. When dealing with a situation, the DM might say, "Jak'Sho wants you to ..." Should you disreagard your companion to many times you might make an enemy of them. 
+**Harmony**: Whenever a mark is consumed, you gain a stack of _Harmony_. When you have five stacks of harmony, you regain a first level spell slot. 
 
 ---
 
@@ -479,11 +436,11 @@ _You have +2 to hit and damage rolls using this magical Weapon_
 - 4000 Gold
 - Wondrous
 
-**Haste**: The cooldowns of your runes and items are reduced by 6 seconds. 
+**Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
 
-**Health**: You gain maximum hit points equal to your hit dice. 
+**Haste**: Whenever you must spend charges of any other item or rune, you can spend charges from this item instead.
 
-_You gain +2 to you Constitution saving throws_
+_You gain +2 to your constitution score_
 
 ---
 
@@ -498,7 +455,7 @@ _You gain +2 to you Constitution saving throws_
 
 **Jolt**: When you are at 100 stacks of _energized_, your next attack with _Kircheis Shard_ also deals 2d8 lightning damage after the weapons initial damage. 
 
-You gain +2 to hit and damage rolls using this magical weapon. 
+You gain +1 to hit and damage rolls using this magical weapon. 
 
 ---
 
