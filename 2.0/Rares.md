@@ -422,6 +422,7 @@ _You have +1 to hit and damage rolls using this magical Weapon_
 
 - 4000 Gold
 - Wondrous
+- Attunement
 
 **Coordinated Fire**: Whenever you slow or immobilize a target, they gain a mark that lasts until start of your next turn. The mark is consumed the next time the target takes damage from one of you allies, dealing 1d8 radiant damage.
 
@@ -459,38 +460,6 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
 
-## Last Whisper
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Last Whisper.png" Align=right width=8% height=8%>
-
-- 4000 Gold
-- Longbow
-
-**Breathtaking**: Whenever you damage enemies, you ignore resistances to piercing damage. If a creature would be immune to piercing damage, they take half damage from your attacks.
-
-**Loaded string**: As a bonus action, you load you bow. Your next attack has advantage and deals 1d8 additional damage. You can use this effect a number of times equal to your proficiency bonus before you must take a short rest. 
-
-_You gain +2 to initative rolls_ 
-_You gain +2 to hit and damage rolls using this magical weapon._
-
----
-
-## Liandry's Anguish
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Liandry's Anguish.png" Align=right width=8% height=8%>
-
-- Wonderous Item
-- Attunement
-- 4500 Gold
-
-**Torment**: When you target a creature with a spell, you can choose to apply *Burn* to the target. 
-
-**Health**: You gain health equal to your hit dice
-
-_You gain +2 to spell attacks and your save dc while attuned to this magical item_
-
----
-
 ## Lifewell Pendant
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lifewell Pendant.png" Align=right width=8% height=8%>
@@ -499,26 +468,13 @@ _You gain +2 to spell attacks and your save dc while attuned to this magical ite
 - Wondrous Item
 - Attunement
 
-**Hope**: As a bonus action, you can give yourself temporary hit points equal to twice your proficiency bonus.
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest. 
 
-**Well Timed**: Once a turn when you gain temporary hit points, the cooldowns of your runes and items are reduced by 6 seconds. 
+**Hope**: As a bonus action, you can spend two charges to give yourself temporary hit points equal to twice your proficiency bonus.
+
+**Well Timed**: Whenever you gain temporary hit points, you recharge a charge on this item. 
 
 **Protection**: You gain a +1 to your armor class while wearing the _Lifewell Pendant_.
-
----
-
-## Lightslinger
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lightslinger.png" Align=right width=8% height=8%>
-
-- 5000
-- Pistol
-
-**Piercing Light**: When you take the attack action you can replace one of the attacks with a beam of light that shoots in a 30 foot long line. Each creature in the line must succeed a Dexterity saving throw, dc equals to 10 + proficiency bonus + your dexterity modifier, or take 3d10 radiant damage, halved on a save. Once this effect is used it cannot be used again until 60 seconds have passed. Every attack made with the lightslinger reduces this abilities cooldown by 6 seconds. 
-
-**Relentless Pursuit**: Once a turn when you dash, blink or teleport you can make a free attack with lightslinger against a creature within range.  
-
-_You have +2 to hit and damage rolls using this weapon_
 
 ---
 
