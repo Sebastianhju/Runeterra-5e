@@ -101,3 +101,57 @@ _You gain +2 to initiative rolls_
 **A price paid** Jak'sho requiers a payment for thier symbiosis. When dealing with a situation, the DM might say, "Jak'Sho wants you to ..." Should you disreagard your companion to many times you might make an enemy of them. 
 
 ---
+
+## Last Whisper
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Last Whisper.png" Align=right width=8% height=8%>
+
+- 4000 Gold
+- Longbow
+
+**Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
+
+**Breathtaking**: Whenever you damage enemies, you ignore resistances to piercing damage. If a creature would be immune to piercing damage, they take half damage from your attacks.
+
+**Loaded string**: As a bonus action you can spend a charge to load your string. Your next attack gains a boon and deals 1d8 additional damage.
+
+_You gain +2 to initative rolls_ 
+_You gain +2 to hit and damage rolls using this magical weapon._
+
+---
+
+## Liandry's Anguish
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Liandry's Anguish.png" Align=right width=8% height=8%>
+
+- Wonderous Item
+- Attunement
+- 4500 Gold
+
+**Torment**: When you target a creature with a spell, you can choose to apply *Burn* to the target. 
+
+**Health**: You gain health equal to your level. 
+
+---
+
+## Lightslinger
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lightslinger.png" Align=right width=8% height=8%>
+
+- 5000
+- Pistol
+
+**Piercing Light**: When you take the attack action you spend five charget to replace one of the attacks with a beam of light that shoots in a 30 foot long line. Each creature in the line must succeed a Dexterity saving throw, dc equals to 10 + proficiency bonus + your dexterity modifier, or take 3d10 radiant damage, halved on a save.
+
+**Charges**: This item has five charges and regains all charges when you finish a long rest. 
+
+**Relentless Pursuit**: Once a turn when you dash, blink or teleport you can make a free attack with lightslinger against a creature within range. Whenever you make this free attack, you recharge one charge on this item. 
+
+_You have +2 to hit and damage rolls using this weapon_
+
+---
+
+
+_You gain +2 to spell attacks and your save dc while attuned to this magical item_
+
+---
