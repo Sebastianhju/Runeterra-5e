@@ -572,7 +572,7 @@ _You gain +1 to you spell attacks_
 - 4000 Gold
 - Wondrous
 
-**Shared Vision**: When you cast a spell that obscures vision in any way, you can choose to spend one additional mana to let a creature of your choice see through it. 
+**Shared Vision**: When you cast a spell that obscures vision in any way, you can choose to spend one additional first level spell slot to allow two creatures of your choice to see through the obscuring spell.
 
 **Sweeping Drone**: As an action you can send out the and arcane drone to sweep a 30 foot diameter sphere within 300 feet of you for 18 seconds. You and your allies then know how many creatures are within the diameter and doesn't get disadvantage on attack rolls due to the area being obscured.
 
@@ -587,9 +587,9 @@ _You gain +1 to you spell attacks_
 
 **Sturdy**: Once a turn when you hit a creature with phage, you get two stacks of _regeneration_. 
 
-**Health**: You gain maximum hit points equal to your hit dice. 
+**Health**: You gain maximum hit points equal to your level. 
 
-You gain +2 to hit and damage rolls using this magical weapon. 
+You gain +1 to hit and damage rolls using this magical weapon. 
 
 _Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to two plus your proficiency bonus._
 
@@ -603,22 +603,9 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 - Sickle
 - Attunement
 
-**Spectral Waltz**: When you hit an attack roll while holding _Phantom Dancer_, you gain a stack of _Waltz_, up to a maximum of 4. If you have at least one stack of _Waltz_ you gain 30 feet additional walking speed. When you have 3 stacks you can phace through terrain and creatures. At the end of your turn you loose a stack of _Waltz_
+**Spectral Waltz**: When you hit an attack roll while holding _Phantom Dancer_, you gain a stack of _Waltz_, up to a maximum of 4. If you have at least one stack of _Waltz_ you gain 30 feet additional walking speed. When you have 3 stacks or more you can phace through terrain and creatures. At the end of your turn you loose a stack of _Waltz_.
 
-_You gain +2 to attack and damage rolls using this magical weapon_
-
----
-
-## Prowler's Claw
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Prowlers Claw.png" Align=right width=8% height=8%>
-
-- 5000 Gold
-- Dagger
-
-**Leaping Strike**: If you are hidden from a target, you can spend your attack action to teleport 30 feet to a location within 5 feet of the target. You can then make an attak wih _Prowler's Claw_, critting on a successfull hit. Once this action is used it cannot be used again until 30 seconds pass. 
-
-_You gain +2 to attack and damage rolls using this weapon_
+_You gain +1 to attack and damage rolls using this magical weapon_
 
 ---
 
@@ -633,71 +620,7 @@ _You gain +2 to attack and damage rolls using this weapon_
 
 **Rage**: Once an enemy has two stacks of rage, they consume all stacks and must make a wisdom saving throw, dc equals 10 + proficiency bonus + constitution modifier. On a failure they loose control of their self and must act as if they were under the confusion spell during their next turn.
 
-_You gain +2 to hit and damage rolls using this magical weapon._
-
----
-
-## Rectrix
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rectrix.png" Align=right width=8% height=8%>
-
-- 6000 Gold
-- Wondrous
-- Attunement
-
-**Sharpend Edge**: You gain +1 to all attack rolls.
-
-**Swift Winds**: You gain +10 feet walking speed
-
-**Burst of Flight**: Once a short rest you can spend your action to gain flying speed equal to your walking speed for a minute. 
-
----
-
-## Recurve Bow
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Recurve Bow.png" Align=right width=8% height=8%>
-
-- 4500 Gold
-- Shortbow
-
-**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
-
-**Swift String**: Whenever you take the attack and have 100 stacks of energized, you can make an additional attack as a part of the attack action.
-
-_You gain +2 to initiative checks_
-
-_You gain +2 to hit and damage rolls using this magical weapon_
-
----
-
-## Redemption
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Redemption.png" Align=right width=8% height=8%>
-
-- 5000 Gold
-- Wondrous
-
-**Intervention**: As a bonus action you can target a point you can see and call upon help from the divine. At the start of your next turn a beam of light strikes in a 20 foot radius, centered on your point. All allies within the effect heals 2d8 + proficiency bonus. All enemies takes 2d8 radiant damage. You can use this action a number of times equal to your proficiency bonus before you must finish a long rest. 
-
-**Harmony**: Whenever you heal a creature, you can spend one mana to heal the maximum amount of hit points possible. 
-
-**Healing Power**: Your healing spells heal 2 more hit points
-
----
-
-## Riftmaker
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Riftmaker.png" Align=right width=8% height=8%>
-
-- 5000 Gold
-- Arcane Focus
-- Attunement
-
-**Riftmaker**: When you cast a teleportation spell you can spent 2 additional mana to double the range.
-
-**Hunger of the Void**: When you deal damage with a spell you gain a stack of _hunger_ up to a maximum of five. When you have 5 stacks of _hunger_ your next spells consumes all charges and deals 3d6 additional necrotic damage and you heal for the same amount. If the spell has multiple damage sources, the first source of damage consumes the charges.
-
-_You gain +2 to your spell attack and save dc_
+_You gain +1 to hit and damage rolls using this magical weapon._
 
 ---
 
@@ -709,11 +632,13 @@ _You gain +2 to your spell attack and save dc_
 - Arcane Focus
 - Attunement
 
-**Vitality**: You gain health and mana equal to three times your proficiency bonus
+**Health**: You gain health equal to your level.
 
-**Wisdom of Ages**: When rolling damage for your cantrips you can add your proficiency bonus to the damage. 
+**Mana**: You gain one additional spell slot. The level of the spell slot is equal to half your proficiency bonus rounded up.
 
-_You gain +2 to spell attack rolls and saving throws_
+**Wisdom of Ages**: When rolling damage for your cantrips you can add your spell casting modifier to the damage. 
+
+_You gain +1 to spell attack rolls and saving throws_
 
 ---
 
@@ -725,13 +650,13 @@ _You gain +2 to spell attack rolls and saving throws_
 - Trident
 - Attunement
 
-**Burning Sting**: All attacks with the *Seastone Trident* deals 1d8 lightning damage and apllies burn to the target. 
+**Burning Sting**: All attacks with the *Seastone Trident* applies burn to the target. 
 
-**Chum the Water**: You learn the *Summon Beast* spell and can cast it once a long rest without spending mana, hower it must be in the form of a shark and take the water envoirment. 
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest. 
 
-**Evasion**: This trident has 2 charges, and it regains all expended charges after you finish a long rest. When you fail a Dexterity saving throw while attuned to it, you can use your reaction to expend 1 of its charges to succeed on that saving throw instead.
+**Evasion**: When you fail a Dexterity saving throw, you can spend two charges and you reaction to succeed instead. Whenever you succed a dexterity saving throw against a damaging effect in this way, you take no damage. 
 
-_You gain +2 to hit and attack rolls using this magical weapon_
+_You gain +1 to hit and attack rolls using this magical weapon_
 
 ---
 
@@ -743,7 +668,9 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 - Wondrous Item
 - Attunement
 
-**Ice Spiked Guards**: Once per short rest, can cast the _Armor of Agathys spell as a first level spell without spending mana.
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest. 
+
+**Ice Spiked Guards**: You can spend two charges to cast the _Armor of Agathys_ spell as a first level.
 
 **Witch's Pact**: As an reaction when you see an ally get hit by an attack that deals elemental damage, you can choose to change the type of elemental damage to another elemental damage of your choice.
 
@@ -758,11 +685,13 @@ _You gain +1 to your armor class_
 - 4000 Gold
 - Shortsword
 
+**Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
+
 **Poison Loaded**: The first attack with _Serpent's Fang_ each turn deals 2d6 additional poision damage. 
 
-**Shield Reaver**: Once a turn when you hit an attack with _Serpent's Fang_ you can choose to inject venom to your for, giving them cramps in their arms. The target must succeed a constitution saving throw (Dc= 10 + proficiency bonus + dexterity modifier) or drop anything in their arms. Once this action is used it cannot be used again until 30 seconds have passed. 
+**Shield Reaver**: Once a turn when you hit an attack with _Serpent's Fang_ you can spend a charge to inject venom into the target, giving them cramps in their arms. The target must succeed a constitution saving throw (Dc= 10 + proficiency bonus + dexterity modifier) or drop anything in their arms. 
 
-_You gain +2 to attack and damage rolls using this weapon_
+_You gain +1 to attack and damage rolls using this weapon_
 
 ---
 
@@ -773,13 +702,13 @@ _You gain +2 to attack and damage rolls using this weapon_
 - 4000 Gold
 - Dagger
 
-**Gouge**: Whenever you deal damage to a creature with temporary hit points using _Serrated Dirk_, you first remove the temporary hit points and deal 2d6 additional damage. 
+**Gouge**: Whenever you deal damage to a creature with temporary hit points using _Serrated Dirk_, you first remove all temporary hit points and deal 2d6 additional damage. 
 
-**Out of Sight**: Once per short rest you can cast the invisible spell on yourself
+**Out of Sight**: Once per short rest you can cast the invisible spell on yourself.
 
 _You gain +2 to stealth checks_
 
-_You gain +2 to hit and damage rolls using this magical weapon._
+_You gain +1 to hit and damage rolls using this magical weapon._
 
 ---
 
@@ -793,7 +722,7 @@ _You gain +2 to hit and damage rolls using this magical weapon._
 
 **Cinderbloom**: Spell Attack rolls have +2 crit chance against bloodied targets. 
 
-_You gain +2 to spell attack rolls and save dc_
+_You gain +1 to spell attack rolls and save dc_
 
 ---
 
