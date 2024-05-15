@@ -849,11 +849,13 @@ You gain +1 to hit and damage rolls using this magical weapon.
 - 5000 Gold
 - Maul
 
-**Dredge Line**: Once a turn when you take the attack action you can replace one of you attacks by hurling Titans Wrath at an enemy within 30ft. Make an attack roll and on a hit you can pull yourself to a space within 5ft of the target. The target can be either a creature or a huge or larger object. Once this effect is used it cannot be used again until 24 seconds have passed. 
+**Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
+
+**Dredge Line**: Once a turn when you take the attack action you can spend a charge replace one of you attacks by hurling Titans Wrath at an enemy within 30ft. Make an attack roll and on a hit you can pull yourself to a space within 5ft of the target. The target can be either a creature or a huge or larger object.
 
 **Staggering blow**: Once a turn you hit a creature with a melee attack with Titans Wrath that you have not hit before in this combat you can choose to stagger the target. The targets movement speed is reduced to 0 and it has disadvantage on it's next attack roll.
 
-You gain +2 to hit and damage rolls using this magical weapon. 
+You gain +1 to hit and damage rolls using this magical weapon. 
 
 ---
 
@@ -866,7 +868,7 @@ You gain +2 to hit and damage rolls using this magical weapon.
 
 **Supercharge**: You can dash as a bonus action. At the end of your turn, you reduce the speed of creatures within 5 feet of you an amount equal to half the feet you traveled this turn. Once this action is used, it cannot be used again until 30 seconds pass. 
 
-**Health**: You gain maximum health equal to your hit dice. 
+**Health**: You gain maximum health equal to your level. 
 
 _You gain +1 to your armor class while wearing this piece of armor_
 
@@ -877,14 +879,15 @@ _You gain +1 to your armor class while wearing this piece of armor_
 
 - 4500 Gold
 - Wondrous
+- 
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest. 
 
-**Haunt**: Once a turn when you affect an enemy with a negative, non-damaging spell, you can use your reaction to summon a spectral version of yourself that haunts the target. Choose one ability, whenever the target make an attack roll, saving throw or ability check using that ability, they have disadvantage on the roll. 
+**Haunt**: Once a turn when you affect an enemy with a negative, non-damaging spell, you can spend two charges summon a spectral version of yourself that haunts the target. Choose one ability, whenever the target make an attack roll, saving throw or ability check using that ability, they gain a bane on the roll. 
 At the end of its turn, the target can attempt a wisdom saving throw against your spell save to get rid of the haunt. 
-Once this action is used, it cannot be used again until 30 seconds have passed. 
 
 **Haste**: The cooldown of your runes and items are reduced by 6 seconds.
 
-_You get +2 to you spell attack and spell save dc_
+_You get +1 to you spell attack and spell save dc_
 
 ---
 
