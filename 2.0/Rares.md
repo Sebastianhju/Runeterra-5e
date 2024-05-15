@@ -744,41 +744,6 @@ _You gain +1 to spell attack rolls and save dc_
 
 ---
 
-## Signature of the Visionary
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Signature of the Visionary.png" Align=right width=8% height=8%>
-
-- 6000 gold
-- Wonderus
-- Attunement
-
-**Spellpainter**: When you cast a leveled spell you can add one of the following effects to the spell: Disaster, Serenity, Torment. This effect is only active on this turn after that the spell acts as normal. Once you have used this effect, you can not use it again until 24 seconds have passed.
-
-**Disaster**: Roll one additional damage dice on one of the spells damage rolls.  
-
-**Serenity**: All target of the spell gains 10ft of movement speed, and one of the targets can roll a hit dice and regain a number of hit points or mana equal to the total roll.
-
-**Torment**: All targets of the spell must make a wisdome saving throw agianst your spell save dc, or become frighted of you untill the end of your next turn. When frightened in this way their speed becomes 0.
-
-_You gain +2 to spell attack rolls and save dc_
-
----
-
-## Silvermere Dawn
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Silvermere Dawn.png" Align=right width=8% height=8%>
-
-- 4000 Gold
-- Morningstar
-
-**Quicksilver**: You can cast lesser restoration as a bonus action, when you do this you can remove up to three conditions. You can do this two times before you must finish a long rest. The next time you hit an attack with _Silvermere Dawn_ you can apply one of the removed conditions to the target. 
-
-**Health**: You gain maximum hit points equal to half your hit dice. 
-
-_You gain +2 to attack and damage rolls using this magical weapon_
-
----
-
 ## Spear of Shojin 
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spear of Shojin.png" Align=right width=8% height=8%>
@@ -787,26 +752,11 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 - Spear
 - Attunement
 
-**Dragonforce**: Once a round when you immobilize or slow a creature, the cooldown of your items and runes are reduced by 12 seconds.
+**Dragonforce**: Once a round when you immobilize or slow a creature, you can recharge a charge on a item or rune with charges. 
 
 **Dragging Thrust**: When you take the attack action you can replace one of your attacks with a dragging thrust. Make a melee attack roll targeting an enemy within 15 feet of you, on a hit they take 1d8 additional damage and are pulled 10 feet towards you. 
 
-_You gain +2 to damage and attack rolls using this weapon_
-
----
-
-## Spectres Cowl
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spectre's Cowl.png" Align=right width=8% height=8%>
-
-- 4000 Gold
-- Wondrous Item 
-
-**Incorporeal**: Whenever you take damage, you gain a stacks of regeneration. During your turn, you can spend three stacks of regeneration to gain the ability to phase through walls and creatures until the end of your turn, while phasing you cannot be restrained or grappled. 
-
-**Health**: You gain maximum hit points equal to half your hit dice. 
-
-_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to two plus your proficiency bonus._
+_You gain +1 to damage and attack rolls using this weapon_
 
 ---
 
@@ -833,27 +783,9 @@ _You gain +1 to your armor class while wearing this armor_
 - Quarterstaff
 - Attunemnet
 
-**Rapids**: Whenever you heal a target, the cooldown of their runes and items are reduced by 6 seconds. 
-
-**Mana**: You gain +5 maximum mana. 
+**Rapids**: Whenever you heal a target, they can recharge an item or rune with charges.
 
 **Healing Power**: Your healing spells heal 2 more hit points
-
----
-
-## Steel Sigil
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Steel Sigil.png" Align=right width=8% height=8%>
-
-- 4000 Gold
-- Wondrous
-- Attunement
-
-**Fury**: As a bonus action you can enter a state of fury for a minute. While in fury your weapon attacks deal 1d6 additional damage, additionaly you gain temporary hit points equal to twice your proficiency bonus whenever you score a takedown. You can use this action a number of times equal to your proficiency bonus before finishing a long rest. 
-
-**Calm**: You gain +1 to all saving throws
-
-_While attuned to this item your armor class inceases by 1_ 
 
 ---
 
@@ -866,45 +798,11 @@ _While attuned to this item your armor class inceases by 1_
 
 **Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
 
-**Bolt**: When you are at 100 stacks of energized, your next attack with _Stormrazor_ has +1 crit chance, deals 2d8 lightning damage and 10 feet movement speed until the end of your turn.
+**Bolt**: When you are at 100 stacks of energized, your next attack that hits with _Stormrazor_ has +2 crit chance and gives 15 feet movement speed until the end of your turn.
 
-_You gain +2 to attack and damage rolls using this weapon_
+_You gain +1 to attack and damage rolls using this weapon_
 
 _You gain +2 to inititative rolls_ 
-
----
-
-## Stormsurge
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stormsurge.png" Align=right width=8% height=8%>
-
-- 4500 Gold
-- Quarterstaff
-
-**Stormcaller**: As an action, if you are outside you can spend an action to call upon a stormy cloud that covers your area for one hour. 
-
-**Stormraider**: This weapon has a +1 crit chance and deals 1d6 additional lightning damage while in stormy weather. 
-
-**Squall**: Once a round if damage you deal would make a creature bloodied. The creature gains a mark of **Squall**. At the start of your next turn, they take 3d10 lightning damage. If the creature already died, the lightninge instead explodes in a 15 feet radius. All enemy creatures must succeed a dexterity saving throw or take 3d10 lightning damage, halved on a success. The dc equals to 10 + twice your proficiency bonus, or your spellcasting save. If you or an ally of yours is hit by this lightning surge, you gain temporary hit points instead of taking damage. Once this effect is used, it cannot be used again until 24 seconds have passed. 
-
-_You gain +2 to attack and damage rolls using this weapon_
-
----
-
-## Stridebreaker
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stridebreaker.png" Align=right width=8% height=8%>
-
-- Whip
-- 4000 Gold
-
-**Bladed Whip**: Stridebreaker deals 1d4 additional slashing damage. 
-
-**Halting Slash**: Whenever you hit an attack with stride breaker the target must succed a strength saving throw or be knoicked prone. The dc equals to 10 + proficiency bonus + Dexterity/Strength modifier. 
-
-**Cresent**: Once a turn whenever you knock a creature prone with stridebreaker you can choose to pull them to another available square within your reach.
-
-_You have +2 to attack and damage rolls when using this magical weapon_
 
 ---
 
@@ -915,13 +813,15 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 - 4000 Gold
 - Quarterstaff
 
+**Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
+
+**Haste**: Whenever you must spend charges of any other item or rune, you can spend charges from this item instead. 
+
 **Carve**: Whenever you hit a creature with *The Brutalizer* or *unarmed attacks* the target gains a stack of Carve. 
 
-**Haste**: The cooldown of your items and runes are reduced by 6 seconds. 
+_You gain +1 to hit and damage rolls using this magical weapon_
 
-Carve: Your armor class is reduced by one for every other stack of carve you have, up to a maximum of eight. Whenever you start your turn, you remove one stack of carve
-
-_You gain +2 to hit and damage rolls using this magical weapon_
+_Carve_: Your armor class is reduced by one for every other stack of carve you have, up to a maximum of eight. Whenever you start your turn, you remove one stack of carve
 
 ---
 
@@ -932,11 +832,13 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 - 5000 Gold
 - Greataxe
 
-**Apprehend**: Once a turn when you take the attack action you can replace one of you attacks by lunging out a nasty hook with the _Tiamat_. All creatures of your choice in a 30 feet cone must succeed a dexterity saving throw (dc = 10 + proficiency bonus + strength modifier) or take 2d12 slashing damage and are moved to a location of your choice within the area. Once this effect is used it cannot be used again until 18 seconds have passed. 
+**Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
+
+**Apprehend**: Once a turn when you take the attack action you can spend a charge replace one of you attacks by lunging out a nasty hook with the _Tiamat_. All creatures of your choice in a 30 feet cone must succeed a dexterity saving throw (dc = 9 + proficiency bonus + strength modifier) or are moved to a location of your choice within the area. 
 
 **Cleave**: Whenever you hit a creature with an attack using _Tiamat_, all enemies within 5 feet of the target takes damage equal to your strength modifier. 
 
-You gain +2 to hit and damage rolls using this magical weapon. 
+You gain +1 to hit and damage rolls using this magical weapon. 
 
 ---
 
