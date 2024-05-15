@@ -879,13 +879,11 @@ _You gain +1 to your armor class while wearing this piece of armor_
 
 - 4500 Gold
 - Wondrous
-- 
+  
 **Charges**: This item has 4 charges and regains all charges when you finish a long rest. 
 
 **Haunt**: Once a turn when you affect an enemy with a negative, non-damaging spell, you can spend two charges summon a spectral version of yourself that haunts the target. Choose one ability, whenever the target make an attack roll, saving throw or ability check using that ability, they gain a bane on the roll. 
 At the end of its turn, the target can attempt a wisdom saving throw against your spell save to get rid of the haunt. 
-
-**Haste**: The cooldown of your runes and items are reduced by 6 seconds.
 
 _You get +1 to you spell attack and spell save dc_
 
@@ -903,20 +901,7 @@ _You get +1 to you spell attack and spell save dc_
 
 **Ghost Slayer**: Whenever you deal damage with _Umbral Glaive_ to a invisible creature, you deal 1d10 additional damage. 
 
-_You gain +2 to damage and attack rolls using this weapon_
-
----
-
-## Unending Despair
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Unending Despair.png" Align=right width=8% height=8%>
-
-- 4500 Gold
-- Shield
-
-**Health**: You gain maximum hit points equal to your hit dice
-
-**Anguish**: As a bonus action, you can force all creatures within 10 feet of you to make a constitution saving throw, DC equals to 8 + Constitution modifier + proficiency bonus, or take 2d6 necrotic damage on a failure, halved on a save. You heal equal to hald the necrotic damage dealt in this way. One this effect is used, it cannot be used again until 24 seconds have passed. 
+_You gain +1 to damage and attack rolls using this weapon_
 
 ---
 
@@ -928,15 +913,13 @@ _You gain +2 to damage and attack rolls using this weapon_
 - Quarterstaff
 - Attunement
 
-**Thirsting Strike**: The Vampiric Scepter deals necrotic damage.
-
-**Convert Power**: When you deal necrotic damage, you can choose to suffer nonmigatable necrotic damage, up to a number equal to five times your proficieny bonus. For every fifth damage suffered, you deal 1d6 additional necrotic damage. 
+**Convert Power**: Once a turn when you hit an attack with vampiric scepter you can choose to suffer nonmigatable necrotic damage, up to a number equal to five times your proficieny bonus. For every fifth damage suffered, you deal 1d6 additional necrotic damage. 
 
 **Bloood Transfer**: Once a turn when you deal necrotic damage you heal an amount equal to your twice your proficiency bonus. 
 
 **Curse of the Fangs**: Whenever you take radiant damage you gain grievous wounds. 
 
-_You have +2 to hit and attack rolls using this weapon_
+_You have +1 to hit and attack rolls using this weapon_
 
 ---
 
@@ -947,24 +930,13 @@ _You have +2 to hit and attack rolls using this weapon_
 - 4000 gold
 - Wondrous
 
-**Focus**: Wheneve you roll dice to deal spell damage or heal, you can reroll up to 6 dices. 
+**Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
 
-**Arcane Protection** Whenever you target an ally with a heal or buff you grant them resistance from the next incoming damage source. Once this effect is used it cannot be used again until 12 seconds have passed. 
+**Focus**: Wheneve you roll dice to deal spell damage or heal, you can reroll ones and twos and take the new result.
+
+**Arcane Protection** Whenever you target an ally with a heal or buff you can spend a charge to grant them resistance from the next incoming damage source.
 
 _You gain +1 to all saving throws_
-
----
-
-## Void Staff
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Void Staff.png" Align=right width=8% height=8%>
-
-- 4500 Gold
-- Quarterstaff
-
-**Corruption**: Once a turn when you immobilize a creature, you can give them _Corruption_ removing all resistances and immunities from the target. At the end of its turn, the target can attempt to remove _Corruptin_, making a constitution saving throw against your spell save dc. Once this action is used it cannot be used again until 30 seconds have passed. 
-
-_You gain +2 to spell attacks and spell saving throw dc_
 
 ---
 
@@ -992,7 +964,7 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 - 4500 Gold
 - Half Plate
 
-**Rock Solid**: Whenever you spend mana, you gain stacks of _Mitigate_ equal mana spent, that last until the start of your next turn. 
+**Rock Solid**: Whenever you spend a spell slot, you gain stacks of _Mitigate_ equal to two times the spell slots level, that last until the start of your next turn. 
 
 **Mitigate**: Whenever you take physical damage, you reduce the damage taken by an amount equal to your _Mitigate_ stacks. 
 
@@ -1007,11 +979,13 @@ _While wielding this armor you gain +1 to your armor class_
 - 4000 gold
 - Quarterstaff
 
-**Tailwind**: You and all allies that start their turn within 10 feet of you gain 10 feet additional walking speed until the end of their turn. 
+**Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
 
-**Eye of the Storm**: As a bonus action you can give a creature or object you can see temporay hit points equal to four times your proficiency bonus. Once this action is used it cannot be used again until 24 seconds have passed. 
+**Haste**: Whenever you must spend charges of any other item or rune, you can spend charges from this item instead. 
 
-_You gain +2 to attack and damage rolls using this weapon_
+**Eye of the Storm**: As a bonus action you can spend a charge give a creature or object you can see temporay hit points equal to four times your proficiency bonus.
+
+_You gain +1 to attack and damage rolls using this weapon_
 
 ---
 
