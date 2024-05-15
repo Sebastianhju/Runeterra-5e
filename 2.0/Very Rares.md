@@ -388,3 +388,35 @@ _You gain +2 to attack and damage rolls using this weapon_
 _You have +2 to attack and damage rolls when using this magical weapon_
 
 ---
+
+## Unending Despair
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Unending Despair.png" Align=right width=8% height=8%>
+
+- 4500 Gold
+- Shield
+
+**Health**: You gain maximum hit points equal to your level
+
+**Charges**: This item has three charges and regains all charges when you finish a long rest. 
+
+**Anguish**: As a bonus action, you can spend a charge force all creatures within 10 feet of you to make a constitution saving throw, DC equals to 8 + Constitution modifier + proficiency bonus, or take 2d6 necrotic damage on a failure, halved on a save. You heal equal to half the necrotic damage dealt in this way.
+
+_You gain +1 to your armor class_
+
+---
+
+## Void Staff
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Void Staff.png" Align=right width=8% height=8%>
+
+- 4500 Gold
+- Quarterstaff
+
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest. 
+
+**Corruption**: Once a turn when you immobilize a creature, you cans spend two charges to give them _Corruption_ removing all resistances and immunities from the target. At the end of its turn, the target can attempt to remove _Corruptin_, making a constitution saving throw against your spell save dc.
+
+_You gain +2 to spell attacks and spell saving throw dc_
+
+---
