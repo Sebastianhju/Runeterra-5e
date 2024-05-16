@@ -502,7 +502,7 @@ _You have +1 to hit and damage rolls using this magical Weapon_
 
 **Harmony**: Whenever a mark is consumed, you gain a stack of _Harmony_. When you have five stacks of harmony, you regain a first level spell slot. 
 
---
+---
 
 ## Iron Mantle
 
@@ -516,6 +516,7 @@ _You have +1 to hit and damage rolls using this magical Weapon_
 
 **Health**: You gain health equal to your level
 
+---
 
 ## Kindlegem
 
@@ -528,7 +529,7 @@ _You have +1 to hit and damage rolls using this magical Weapon_
 
 **Haste**: Whenever you must spend charges of any other item or rune, you can spend charges from this item instead.
 
-_You gain +2 to your constitution score_
+_You gain +2 to your constitution score, up to a maximum of 22_
 
 ---
 
@@ -943,7 +944,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Staggering blow**: Once a turn you hit a creature with a melee attack with Titans Wrath that you have not hit before in this combat you can choose to stagger the target. The targets movement speed is reduced to 0 and it has disadvantage on it's next attack roll.
 
-You gain +1 to hit and damage rolls using this magical weapon. 
+_You gain +1 to hit and damage rolls using this magical weapon. _
 
 ---
 
