@@ -502,7 +502,20 @@ _You have +1 to hit and damage rolls using this magical Weapon_
 
 **Harmony**: Whenever a mark is consumed, you gain a stack of _Harmony_. When you have five stacks of harmony, you regain a first level spell slot. 
 
----
+--
+
+## Iron Mantle
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Iron Mantle.png" Align=right width=8% height=8%>
+
+- xx Gold
+- Wondrous
+- Attunement
+
+**First in Line**: When you enter wild shape you gain temporary hit points equal to five times your proficiency bonus. Additionally, once per turn when you hit a melee attack while wildshaped you heal equal to your proficiency bonus. 
+
+**Health**: You gain health equal to your level
+
 
 ## Kindlegem
 
