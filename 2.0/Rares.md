@@ -125,7 +125,7 @@ _You gain +1 to spell attack and spell save DC_
 
 **Recharge**: If you end your turn after moving atleast 45ft, you can replenish one charge on this item.
 
-**Spectral Might**: Whenever you deal spell damage you can spend any amount of charges to deal 1d6 additional damage for each charge spent.
+**Spectral Might**: Whenever you deal damage you can spend any amount of charges to deal 1d6 additional damage for each charge spent.
 
 _You get +1 to your spell attack and spell save dc_
 
