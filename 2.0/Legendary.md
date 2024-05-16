@@ -155,23 +155,6 @@ _You gain +3 to spell attack rolls spell save dc_
 
 ---
 
-## Gargoyle Stoneplate
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Gargoyle Stoneplate.png" Align=right width=8% height=8%>
-
-- Plate
-- Attunement
-
-**Fortify**: You take 3 less damage from pysical and elemental damage. 
-
-**Monolith**: As a bonus action you can give yourself temporary hit points equal to ten times your proficiency modifier. Once this effect is used it cannot be used again until 30 seconds pass.  
-
-**Petricite**: Whenever you gain temporary hit points you can remove one magical effect affecting you, unless you are charmed.
-
-_You gain +2 to your armor class while wearing this piece of armor_
-
----
-
 ## Goredrinker
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Goredrinker.png" Align=right width=8% height=8%>
@@ -216,21 +199,6 @@ _You have +3 to hit and damage rolls with this magical weapon_
 **Seething Strike**: Whenever you take the attack action you can choose to make one or more of the attacks with disadvantage. For each attack you make with disadvantage using this feature, you can make an additional attack with disadvantage. 
 
 _You gain +3 to hit and damage rolls with this magical weapon_
-
----
-
-## Heartsteel
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Heartsteel.png" Align=right width=8% height=8%>
-
-- Shield
-- Attunement
-
-**Colossal Consumption**: Whenever you end your turn, all creatures within 10 feet of you are granted a _mark of the colossus_. Whenever you damage a creature with a mark you consume the mark, and they take one additional damage for every 25th maximum hit points you have, and you get a stack of _Heartsteel_. You gain one additional hit point for every third stack of _Heartsteel_ as long as you are attuned to the item.
-
-**Health**: You gain maximum hit points equal to twice your level. 
-
-_You gain +2 to your armor class while wearing this piece of armor_
 
 ---
 
