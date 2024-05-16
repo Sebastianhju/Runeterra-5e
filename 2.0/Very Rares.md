@@ -1,3 +1,59 @@
+# Very Rare Upgradables
+
+## Fimbulwinter
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Fimbulwinter.png" Align=right width=8% height=8%>
+
+- A fully stacked Winter's Approach
+- Studded Leather
+- Attunement
+
+**Mana**: You gain one additional first level spell slot, a spell slot with spell level equal to half your proficicency bonus rounded up and a spell slot of your highest spell level.
+
+**Awe**: Your maximum hit points increases by to times your level.
+
+**Everlasting**: Whenever you spend a spell slot, you gain temporary hit points equal to five times the spells level.
+
+_While wearing this armor you have a +2 to your armor class_
+
+---
+
+## Muramana
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Muramana.png" Align=right width=8% height=8%>
+
+- A fully stacked Manamune
+- Spear
+- Attunement
+
+**Mana**: You gain one additional first level spell slot, a spell slot with spell level equal to half your proficicency bonus rounded up and a spell slot of your highest spell level.
+
+**Awe**: Once a turn when you deal damage with Manamune you can expend a spell slot to deal 1d6 force damage for every spell level of that slot.
+
+**Recharge:** Whenever you critically hit with this weapon you regain a number of spell slots with a combined level equal to half you proficiency bonus rounded up.
+
+_You have +2 to attack rolls and damage rolls using this magical weapon_ 
+
+---
+
+## Seraph's Embrace
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Seraph's Embrace.png" Align=right width=8% height=8%>
+
+- A fully stacked Archangel's Staff
+- Quarterstaff
+- Attunement
+
+**Mana**: You gain one additional first level spell slot, a spell slot with spell level equal to half your proficicency bonus rounded up and a spell slot of your highest spell level.
+
+**Awe**: Your spells deal additional damage equal to the spells level.
+
+**Lifeline**: Whenever you take damage that would reduce your hit points to zero, you first gain temporary hit points equal to half your maximum mana. Once this effect is used, it cannot be used again until you finish a short rest. 
+
+_You have +2 to spell attack rolls and spell save DC when attuned to this item_
+
+---
+
 # Very Rare
 
 ## Black Spear
@@ -420,3 +476,32 @@ _You gain +1 to your armor class_
 _You gain +2 to spell attacks and spell saving throw dc_
 
 ---
+
+## Wit's End
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Wit's End.png" Align=right width=8% height=8%>
+
+- 5000 gold
+- Scimitar
+- Attunement
+
+**Spellblade**: You can use your spell casting modifier for attacks made with this weapon.
+
+**Fray**: This blade deals 1d6 additional psychic damage and you have recistance to psycic damage.
+
+**Swift Strike**: Whenever you cast a spell that requires an action to cast, you can make one attack with _Wit's End_ as a bonus action. 
+
+_You have +2 to attack and damage rolls with this magical weapon_
+
+---
+
+## Zephyr
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Zephyr.png" Align=right width=8% height=8%>
+
+- 4000 Gold
+- Greatsword
+
+**Like the Wind**: Making attacks with _Zephyr_ grants stacks of **Gale**, up to a maximum of six. For every other stack you gain 10 feet flying speed and +1 to hit. If you don´t make any attacks for a minute you loose all stacks. 
+
+_You gain +2 to hit and damage rolls using this magical weapon_
