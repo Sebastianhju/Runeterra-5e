@@ -402,6 +402,18 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ---
 
+## Stance of the Bear
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stance Of The Bear.png" Align=right width=8% height=8%>
+
+- 250 Gold
+- Totem
+- Attunement
+
+**Rushing Claws**: Whenever you wildshape
+
+---
+
 ## Steel Shoulderguards
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Steel Shoulderguards.png" Align=right width=8% height=8%>
