@@ -404,13 +404,15 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Stance of the Bear
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stance Of The Bear.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stance of the Bear.png" Align=right width=8% height=8%>
 
 - 250 Gold
 - Totem
 - Attunement
 
-**Rushing Claws**: Whenever you wildshape
+**Rushing Claws**: Whenever you wildshape you gain advantage on all attack rolls
+
+**Bear Stance**: You gain the ability to spend your wild shape to transform into a cave bear, ingoring the druid wild shape tables requirements. 
 
 ---
 
