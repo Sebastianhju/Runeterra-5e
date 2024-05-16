@@ -254,9 +254,9 @@ _You have +2 to hit and damage rolls using this weapon_
 - xx Gld
 - Wondrous
 
-**Dragon Shape**: You can spend your wildshape to become a _Red Guard Drake_. While in this wildshape you can cast the burning hands spell using your spell slots. 
+**Dragon Shape**: You can spend your wildshape to become a _Red Dragon Wyrmling_.
 
-**Fire Adaption**: You are immune to fire damage. Whenever you take fire damage you instead heal equal to half the amount of damage taken. 
+**Fire Adaption**: You are immune to fire damage. 
 
 _You gain +2 to your spell attack and spell save DC_
 
