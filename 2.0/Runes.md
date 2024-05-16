@@ -91,11 +91,8 @@ Once a turn, when you deal damage to an enemy you gain a stack of _manastore_. W
 You gain +2 to initiative rolls. 
 
 **Headhunter** Whenever you score a _takedown_, you gain a stack of Alacrity. Whenever you have 30 stacks you gain the following benefits: 
-- **Charges**: This rune has six charges, you regain all charges when you finish a long rest.
-- **Swift Sweep**: Once a turn when you take the attack action, you can spend two charges to make an extra attack as a part of that action. 
-**Alacrity Scaling**
-
-
+- **Charges**: This rune has nine charges, you regain all charges when you finish a long rest.
+- **Swift Sweep**: Once a turn when you take the attack action, you can spend three charges to make an extra attack as a part of that action.
 
 ---
 
@@ -391,9 +388,9 @@ When you target an ally with a heal or buff you can spend two charges enhance th
 
 ### Gathering Storm  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/GatheringStorm.png" Align=left width=7% height=7%>
 
-**Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
 
-You can spend two charges to cast the call lightning spell. 
+You can spend two charges to cast the call lightning spell at a spell level equal to 1 + your proficiency bonus. 
 
 Whenever it is storming, you gain +1 crit chance. 
 
