@@ -465,7 +465,7 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's S
 
 **Whirlwind**: Whenever you hit an attack, you gain a stack of whirlwind. You loose all stacks of whirlwind if you dont deal damage for a minute. 
 
-**Crashing Tornado**: When you have three stacks, you next attack is replaced with a tornado that goes in a 15 foot line. Each target in the line must make a dexterity saving throw, dc equals 8 + str/dex + proficiency bonus or take 2d8 thunder damage and be knocked 15 feet airbone, falling to the ground at the end of its next turn. While suspended in the air its speed is 0. A creature takes half damage and are not knocked airborne on a successful save. 
+**Crashing Tornado**: When you have three stacks, you next attack is replaced with a tornado that goes in a 15 foot line. Each target in the line must make a dexterity saving throw, dc equals 8 + str/dex + proficiency bonus or take 2d6 thunder damage and be knocked 15 feet airbone, falling to the ground at the end of its next turn. While suspended in the air its speed is 0. A creature takes half damage and are not knocked airborne on a successful save. 
 
 ---
 
