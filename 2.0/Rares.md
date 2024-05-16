@@ -1,4 +1,4 @@
-# Upgradables
+# Rare Upgradables
 
 ## Winter's Approach 
 
@@ -28,7 +28,7 @@ _While wearing this armor you gain +1 to your armor class_
 
 **Mana**: You gain one additional first level spell slot and a spell slot with spell level equal to half your proficicency bonus rounded up.
 
-**Awe**: Once a turn when you deal damage with Manamune you can expend a spell slot to deal 1d6 force damage for every spell level of that slot, 
+**Awe**: Once a turn when you deal damage with Manamune you can expend a spell slot to deal 1d6 force damage for every spell level of that slot.
 
 **Focus:** When you reach level 8 this item upgrades to **Muramana**
 
@@ -51,6 +51,36 @@ _You have +1 to attack rolls and damage rolls using this magical weapon_
 **Focus:** When you reach level 8 this item upgrades to **Seraph's Embrace**
 
 _You have +1 to spell attack rolls and +1 to your spell save DC when attuned to this item_
+
+---
+
+## Shard of True Ice
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Shard of True Ice.png" Align=right width=8% height=8%>
+
+- A fully stacked Spellthiev's Edge
+- Dagger
+
+**True Ice**: Your first damaging each combat deals 2d6 additional cold damage and gives you gold equal to two times the damage dealt. 
+
+**Warding**: As an action, you can place down a stealth ward. You can do this a number of times equal to your proficiency bonus before finishing a long rest
+
+_You have +1 to damage and attack rolls using this magical weapon_
+
+---
+
+## Pauldrons of Whiterock
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Pauldrons of Whiterock.png" Align=right width=8% height=8%>
+
+- A fully stsacked Steel Shoulderguards
+- Wondrous Item
+
+**Shoulderguards of Wealth**: The first time you score a takedown during each fight, you gain gold equal to ten times the creatures challenge rating.
+
+**Warding**: As an action, you can place down a stealth ward. You can do this a number of times equal to your proficiency bonus before finishing a long rest
+
+_You armor class increases with +1 while wearing the Pauldrons_
 
 ---
 
@@ -989,24 +1019,6 @@ _You gain +1 to attack and damage rolls using this weapon_
 
 ---
 
-## Wit's End
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Wit's End.png" Align=right width=8% height=8%>
-
-- 5000 gold
-- Scimitar
-- Attunement
-
-**Spellblade**: You can use your spell casting modifier for attacks made with this weapon.
-
-**Fray**: This blade deals 1d6 additional psychic damage and you have recistance to psycic damage.
-
-**Swift Strike**: Whenever you cast a spell that requires an action to cast, you can make one attack with _Wit's End_ as a bonus action. 
-
-_You have +2 to attack and damage rolls with this magical weapon_
-
----
-
 ## Winged Moonplate
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Winged Moonplate.png" Align=right width=8% height=8%>
@@ -1014,7 +1026,7 @@ _You have +2 to attack and damage rolls with this magical weapon_
 - 4500 Gold
 - Plate
 
-**Flight**: You gain the ability to cast fly on yourself without spending mana, once this ability is used it cannot be used again until you finish a long rest. 
+**Flight**: You gain the ability to cast fly on yourself once per long rest wtihout spending a spell slot. 
 
 You don't have disadvantage on stealth checks when wielding this armor. 
 
@@ -1035,7 +1047,7 @@ _While wielding this armor you gain +1 to your armor class_
 
 _You gain a +2 to your initiative rolls_ 
 
-_You gain +2 to hit and damage rolls using this magical weapon_
+_You gain +1 to hit and damage rolls using this magical weapon_
 
 ---
 
@@ -1047,24 +1059,9 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 - Woundrous item
 - Attunement
 
-**Ultimate Haste**: The cooldown of your ultimate is reduced by one. 
+**Health**: You gain health equal to your level.
 
-**Health**: You gain health equal to you hit dice.
+**Mana**: You gain one additional fist level spell slot
 
-**Mana**: You gain +5 maximum mana
-
-**Frostfire Tempest**: When you cast your ultimate a tempest of fire and cold storms around you for 30 seconds. All enemy creatures who start their turn within 10 feet of you must make a constitution saving throw, save dc 12 + proficiency bonus. Taking 2d8 fire damage and 2d8 cold damge, halved on a success
-
----
-
-## Zephyr
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Zephyr.png" Align=right width=8% height=8%>
-
-- 4000 Gold
-- Greatsword
-
-**Like the Wind**: Making attacks with _Zephyr_ grants stacks of **Gale**, up to a maximum of six. For every other stack you gain 10 feet flying speed and +1 to hit. If you don´t make any attacks for a minute you loose all stacks. 
-
-_You gain +2 to hit and damage rolls using this magical weapon_
+**Frostfire Tempest**: When you cast a spell slot of your highest level fire and ice starts to burst around you until the end of your next turn. All enemy creatures who start their turn within 5 feet of you must make a constitution saving throw against your spell save dc. Taking 2d6 fire damage and 2d6 cold damge, halved on a success
 
