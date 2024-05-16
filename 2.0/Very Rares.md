@@ -247,6 +247,21 @@ _You have +2 to hit and damage rolls using this weapon_
 
 ---
 
+## Molten Helm
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Molten Helm.png" Align=right width=8% height=8%>
+
+- xx Gld
+- Wondrous
+
+**Dragon Shape**: You can spend your wildshape to become a _Red Guard Drake_. While in this wildshape you can cast the burning hands spell using your spell slots. 
+
+**Fire Adaptions**: You are immune to fire damage. Whenever you take fire damage you instead heal equal to half the amount of damage taken. 
+
+_You gain +2 to your spell attack and spell save DC_
+
+---
+
 ## Mikael's Blessing
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mikael's Blessing.png" Align=right width=8% height=8%>
