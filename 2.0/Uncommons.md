@@ -195,6 +195,18 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ---
 
+## Earthquake Leggings
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Earthquake Leggings.png" Align=right width=8% height=8%>
+
+- 800 Gold
+- Wondeous
+
+**Charges**: This item has 3 charges and regain all charges at the end of a long rest.
+
+**Pulverize**: Whenever you hit a melee attack, you can spend a chrage to attempt to knock the target 15 feet up in the air until the end of their turn. The target must succeed a strength saving throw, dc equals to 8 + twice your proficiency bonus, or is knocked airborne.
+
+---
+
 ## Executioners Calling
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Executioner's CAlling.png" Align=right width=8% height=8%>
