@@ -102,6 +102,22 @@ _You armor class increases with +1 while wearing the Pauldrons_
 
 ---
 
+## Aether Wisp 
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Aether Wisp.png" Align=right width=8% height=8%>
+
+- 4000 Gold
+- Wondrous Item
+
+**Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
+
+**Recharge**: If you end your turn after moving atleast 45ft, you can replenish one charge on this item.
+
+**Spectral Might**: Whenever you deal spell damage you can spend any amount of charges to deal 1d6 additional damage for each charge spent.
+
+_You get +1 to your spell attack and spell save dc_
+
+---
 
 ## Ardent Censer
 
@@ -114,6 +130,7 @@ _You armor class increases with +1 while wearing the Pauldrons_
 
 **Harmony**: Whenever you take a short rest, you regain a first level spell slot. 
 
+---
 
 ## Aegis of the Legion
 
@@ -194,7 +211,22 @@ _You gain +1 to your insight checks_
 
 **Thorns**: Whenever you are targeted by a melee attack, the attacker takes damage equal to your proficiency bonus and gains grievous wounds. 
 
-You gain +1 to your armor class while wearing this magical armor. 
+_You gain +1 to your armor class_
+
+---
+
+## Blighting Jewel
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Blighting Jewel.png" Align=right width=8% height=8%>
+
+- 600 Gold
+- Wondrous Item
+
+**Void Pen**: Whenever you deal poison, acid or necrotic damage, you turn immunities to that damage type into resistances.
+
+**Voids Embrace**: Whenever you deal poison, acid or necrotic damage, you can reroll ones and twos and must take the new result.
+
+_You get +1 to your spell attack and spell save dc_
 
 ---
 
@@ -208,6 +240,19 @@ You gain +1 to your armor class while wearing this magical armor.
 **Hammering Haste**: Once a round when you hit an attack roll with _Caulfields Warhammer_ you can recharge one cahrge on one rune or item you have. 
 
 _You gain +1 to hit and damage rolls using this magical weapon_
+
+---
+
+## Catalyst of Aeons
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Catalyst of Aeons.png" Align=right width=8% height=8%>
+
+- 500 Gold
+- Wondorous Item
+
+**Eternity**: Whenever you take ten or more damage your regain a spell slot. The spell slots level is one plus another one for every tenth damage taken. Whenever you cast a spell, you regain health equal to two time the spells level.
+
+_You get +1 to your spell attack and spell save dc_
 
 ---
 
