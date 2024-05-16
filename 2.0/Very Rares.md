@@ -56,19 +56,21 @@ _You have +2 to spell attack rolls and spell save DC when attuned to this item_
 
 # Very Rare
 
-## Black Spear
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Black Spear.png" Align=right width=8% height=8%>
+## Black Cleaver
 
-- 4500 Gold
-- Spear
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Black Cleaver.png" Align=right width=8% height=8%>
 
-**Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
+- Greataxe
+- xx Gold
+- Attunemnt
 
-**Spectral Spears**: Whenever you throw the *Black Spear* it teleports back to your hand when it hits a target or the attack misses. When the attack hits a sprectral spear lingers in the black spears place. 
+**Carve**: Whenever you hit a creature with Black Cleaver, they gain two stacks of _Carve_
 
-**Rend**: As a bonus action, you can spend a charge to pull out all spectral spears from all creatures within 60 feet of you. A target then takes 1d6 force damage for each spear in them.
+**Health**: You gain hit points equal to your level. 
 
-_You have +2 to hit and damage rolls with this magical weapon_ 
+_Carve: Your armor class is reduced by one for every other stack of carve you have, up to a maximum of eight. Whenever you start your turn, you remove one stack of carve_
+
+_You gain +2 to hit and attack rolls using this magical weapon_
 
 ---
 
@@ -97,6 +99,24 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 ---
 
+## Gargoyle Stoneplate
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Gargoyle Stoneplate.png" Align=right width=8% height=8%>
+
+- Plate
+- xx Gold
+- Attunement
+
+**Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
+
+**Monolith**: As a bonus action you can spend a charge to give yourself temporary hit points equal to ten times your proficiency modifier. 
+
+**Fortify**: Attacks against you cannot critically hit.
+
+_You gain +1 to your armor class while wearing this piece of armor_
+
+---
+
 ## Gloves of the Tunneler
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tunneler.png" Align=right width=8% height=8%>
@@ -114,6 +134,24 @@ _You get +2 to unarmed attack and damage rolls_
 
 ---
 
+## Heartsteel
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Heartsteel.png" Align=right width=8% height=8%>
+
+- Shield
+- xx Gold
+- Attunement
+
+**Colossal Consumption**: Whenever you end your turn, all creatures within 10 feet of you are granted a _mark of the colossus_. Whenever you damage a creature with a mark you consume the mark, and they take one additional damage for every 25th maximum hit points you have, and you get a stack of _Heartsteel_. 
+
+**Colossal Might**: For every fifth stack of _Heartsteel_ you have you gain health equal to your level. 
+
+**Health**: You gain maximum hit points equal to your level. 
+
+_You gain +1 to your armor class_
+
+---
+
 ## Hextech Rocketbelt
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Rocketbelt.png" Align=right width=8% height=8%>
@@ -125,7 +163,7 @@ _You get +2 to unarmed attack and damage rolls_
 
 **Supersonic**: As a bouns action you can spend a charge activate the rocketbelt. You gain 60 feet flying speed and but you must land on a surface at the end of your turn, when you end your turn, all creatures within 5 feet of you take 2d6+2 force damage.
 
-**Health**: You gain hit points equal to your level. 
+**Health**: You gain maximum hit points equal to your level. 
 
 _You gain +2 to initiative rolls_
 
