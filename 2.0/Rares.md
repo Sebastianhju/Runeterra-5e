@@ -86,6 +86,12 @@ _You armor class increases with +1 while wearing the Pauldrons_
 
 # Rare items
 
+## Abominal Gel
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Abominal Gel.png" Align=right width=8% height=8%>
+
+
+
 ## Abyssal Mask
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Abyssal Mask.png" Align=right width=8% height=8%>
