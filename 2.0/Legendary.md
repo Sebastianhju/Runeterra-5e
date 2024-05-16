@@ -10,7 +10,7 @@
 
 **Spectral Spears**: Whenever you throw the *Black Spear* it teleports back to your hand when it hits a target or the attack misses. When the attack hits a sprectral spear lingers in the black spears place. 
 
-**Rend**: As a bonus action, you can spend two charges to pull out all spectral spears from all creatures within 60 feet of you. A target then takes 2d6 force damage for each spear in them.
+**Rend**: As a bonus action, you can spend two charges to pull out all spectral spears from all creatures within 60 feet of you. A target then takes 2d6 force damage for each spear in them. If you kill a creature with rend you recharge all charges on this item.
 
 _You have +3 to hit and damage rolls with this magical weapon_ 
 
@@ -25,7 +25,7 @@ _You have +3 to hit and damage rolls with this magical weapon_
 
 **Mists Edge**: Whenever you damage a creauture with _Blade of the Ruined King_, they take 1d8 additional necrotic damage and you heal for that amount.  
 
-**Siphon**: Damaging creatures gives them a stack of _Siphon_. Whenever a creature gains three stacks they take 3d8 necrotic damage and are blinded for a minute. Once this effect is used, it cannot be used again until 30 seconds pass.
+**Siphon**: Damaging creatures gives them a stack of _Siphon_. Whenever a creature gains three stacks they take 2d8 necrotic damage and are blinded for a minute. A creature can only suffer from _Siphon_ once per combat.
 
 **Extra Attack**: You can make an extra attack as a part of the attack action.
 
