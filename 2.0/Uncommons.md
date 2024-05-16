@@ -424,7 +424,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 **Rushing Claws**: Whenever you wildshape you gain advantage on all attack rolls
 
-**Bear Stance**: You gain the ability to spend your wild shape to transform into a cave bear, ingoring the druid wild shape tables requirements. 
+**Bear Stance**: You gain the ability to spend your wild shape to transform into a black bear, ingoring the druid wild shape tables requirements. 
 
 ---
 
