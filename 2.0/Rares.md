@@ -884,7 +884,7 @@ _You gain +1 to your armor class while wearing this armor_
 - Quarterstaff
 - Attunemnet
 
-**Rapids**: Whenever you heal a target, they can recharge an item or rune with charges.
+**Rapids**: Whenever you heal a target other than yourself, they can recharge an item or rune with charges.
 
 **Healing Power**: Your healing spells heal 2 more hit points
 
