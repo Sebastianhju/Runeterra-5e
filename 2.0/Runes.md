@@ -172,7 +172,7 @@ Electrocutes damage increases by 2d8 at level 5, 9, 13 and 17.
 
 ### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=15% height=15%>
 
-Whenever you damage a bloody creature you gain a stack of *Harvest* and they take 1d6 force damage. Dark harvest deals 1d6 additional damage for every 15th stack of *Harvest* you already have. Once used this effect cannot be used again until you finish a long rest, or score a takedown. 
+Whenever you damage a bloody creature you gain a stack of *Harvest* and they take 1d6 force damage. Dark harvest deals 1d6 additional damage for every 20th stack of *Harvest* you already have. Once used this effect cannot be used again until you finish a long rest, or score a takedown. 
 
 ---
 
