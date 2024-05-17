@@ -667,13 +667,12 @@ Whenever you drink a potion, you gain additional special effect from each potion
 |---|---|
 |Potion of Healing| You gain resistance to bludgeoning, piercing and slashing damage until the start of your next turn|
 |Potion of Dealayed Healing| You regain all hit points instantaniously|
-|Biscuit of Everlasting Will| You regain all hit points and mana instantaniously|
+|Biscuit of Everlasting Will| You regain all hit points and spell slots instantaniously|
 |Potion of Speed| The effects last an additional minute|
-|Potion of Haste| You can recharge one additional spent charge|
+|Potion of Haste| You can recharge the amount of charges again on another item|
 |Potion of Resistance| you become immune for one hour instead|
 |Potion of Giant Strenght| The effect lasts until your next long rest instead|
 |Potion of Fire Breath| The save DC is increased by an amount equal to your proficiency bonus|
-|Potion of Manaregeneration| You gain the maximum amount rolled|
 
 ---
 
