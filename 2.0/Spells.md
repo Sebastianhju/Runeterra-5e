@@ -90,7 +90,7 @@ _Wizard, Sorcerer, Artificer_
 |---|---|---|---|---|---|---|
 |1st|1 Bonus Action|30 feet|S|Instantanious|Abjuration|None|
 
-You target a creature you can see within reach and time rewinds around them. They recharge two charges on any item or rune they have.  
+You target a creature you can see within reach and time rewinds around them. They recharge a charge on any item or rune they have.  
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can replenish another charge for each level above 1st level.  
 
