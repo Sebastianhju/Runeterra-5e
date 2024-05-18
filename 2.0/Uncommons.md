@@ -285,7 +285,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 - 600 Gold
 - Quarterstaff
 
-**Charges**: This item has 4 charges and regain all charges at the end of a long rest. 
+**Charges**: This item has two charges and regain all charges at the end of a long rest. 
 
 **Crushing Blow**: Whenever you hit a creature with _Nimbus Staff_ you can spend two charges to reduce their armor class by 1 for a minute. 
 
@@ -346,9 +346,9 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 - 500 Gold
 - Wonderous Item
 
-**Charges**: This item has 2 charges and regain all charges at the end of a long rest. 
+**Charges**: This item has 4 charges and regain all charges at the end of a long rest. 
 
-**Rejuvinate**: As a bonus action you can spend a charge to heal yourself for 2d6 hit points. 
+**Rejuvinate**: As a bonus action you can spend two charges to heal yourself for 2d6 hit points. 
 
 **Potent Healing**: Whenever you roll to heal yourself, you can reroll ones and twos and must take the new result. 
 
@@ -392,7 +392,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sheen.png" Align=right width=8% height=8%>
 
 - 700 Gold
-- Shortsword
+- Scimitar
 
 **Spellblade**: You can choose to use your spellcasting ability modifier for attack and damage rolls. 
 
