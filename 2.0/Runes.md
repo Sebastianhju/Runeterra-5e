@@ -159,7 +159,7 @@ Whenever you take a long rest, you can remove one additional point of exhaustion
 |**[Treasure Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#treasure-hunter-)**|You gain the possibility to find exclusive boss loot|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/TreasureHunter.png">|
 |**[Igenious Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ingenious-hunter-)**|Scoring _takedowns_ gives you stacks that reduces the cooldowns of your runes and items|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png">|
 |**[Relentless Hunter](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#relentless-hunter-)**|Scoring _takedowns_ grants you stacks that increase your traveling and hunting skills|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/RelentlessHunter.png">|
-|**[GhostWard](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#ghost-ward-)**|Scoring _takedowns_ grants you stacks that reduces the cooldown of your ultimate|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GhostWard.png" Height=50% Width=50%>|
+|**[Zombie Ward](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Runes.md#zombie-ward-)**|Scoring _takedowns_ grants you stacks that reduces the cooldown of your ultimate|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/ZombieWard.png" Height=50% Width=50%>|
 
 ## Keystones
 
