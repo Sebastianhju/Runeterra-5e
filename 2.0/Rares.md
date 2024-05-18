@@ -322,7 +322,7 @@ _You gain +1 to attack and damage rolls with this weapon_
 - 5000 Gold
 - Attunement
 
-**Shipwrecker**: Whenever you move you gain a speed of momentum for every feet you move, up to a maximum of 120. Whenever you hit a creature with a melee attack you consume all charges of momentum, dealing 2d6 additional damage and reducing their speed by 10 feet for every 60th stack of momentum you have.
+**Shipwrecker**: Whenever you move you gain a stack of momentum for every feet you move, up to a maximum of 120. Whenever you hit a creature with a melee attack you consume all charges of momentum, dealing 1d6 additional damage and reducing their speed by 10 feet for every 40th stack of momentum you have.
 
 **Health**: You gain maximum hit points equal to your level
 
@@ -660,7 +660,7 @@ _You get +1 to all saving throws_
 
 **Cursed**: Whenever you deal spell damage, you give yourself and the target grievous wounds. 
 
-**Oblivion**: Your single target spells deals 1d6 additional necrotic damage if the target has grievous wounds.
+**Oblivion**: Your single target damaging spells deals 1d6 additional necrotic damage if the target has grievous wounds.
 
 _You gain +1 to you spell attacks_
 
@@ -884,7 +884,7 @@ _You gain +1 to your armor class while wearing this armor_
 - Quarterstaff
 - Attunemnet
 
-**Rapids**: Whenever you heal a target other than yourself, they can recharge an item or rune with charges.
+**Rapids**: Whenever you heal a target other than yourself with a spell, they can recharge an item or rune with charges.
 
 **Healing Power**: Your healing spells heal 2 more hit points
 
@@ -956,7 +956,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Staggering blow**: Once a turn you hit a creature with a melee attack with Titans Wrath that you have not hit before in this combat you can choose to stagger the target. The targets movement speed is reduced to 0 and it has disadvantage on it's next attack roll.
 
-_You gain +1 to hit and damage rolls using this magical weapon. _
+_You gain +1 to hit and damage rolls using this magical weapon._
 
 ---
 
