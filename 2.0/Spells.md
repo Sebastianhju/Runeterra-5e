@@ -58,7 +58,7 @@ _Wizard, Sorcerer, Druid_
 |---|---|---|---|---|---|---|
 |1st|1 Action|30 feet|V,S,M*|Instantanious|Evocation|Attack|
 
-You launch a bolt of fire towards a target you can see within range. If the attack hits, they take 3d6 fire damage and starts _burning_. If the target already is burning they must succeed a Constitution saving throw or are restrained until the end of their turn. 
+You launch a bolt of fire towards a target you can see within range. If the attack hits, they take 3d6 fire damage and starts _burning_. If the target already is burning they are restrained until the end of their turn. 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6. 
 
