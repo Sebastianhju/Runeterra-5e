@@ -193,11 +193,12 @@ The first time you act in combat, you can eighter make an additional attack as a
 ## Lesser Runes
 ### Cheap Shot <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/CheapShot.png" Align=left width=7% height=7%>
 
-**Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
 
-Once a turn when you damage a creature that has a negative condition, you can choose to spend a charge to deal 1d8 additional damage for every negative condition that creature has. 
+Once a turn when you damage a creature that has a negative condition, you can choose to spend two charges to deal 1d6 additional damage for every negative condition that creature has. 
 
 ---
+
 ### Taste of Blood <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GreenTerror_TasteOfBlood.png" Align=left width=7% height=7%>
 
 **Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
@@ -207,15 +208,15 @@ Once a turn when you damage a creature you can choose to spend two charges to he
 ---
 ### Sudden Impact <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png" Align=left width=7% height=7%>
 
-**Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
 
-Once a turn when you damage a creature while invisible or hidden or after a dash, blink or teleport you can spend a charge to deal 2d8 additional damage on the attack. 
+Once a turn when you damage a creature while invisible or hidden or after a dash, blink or teleport you can spend two charges to deal 2d8 additional damage on the attack. 
 
 ---
 
 ### Ghost Poro <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/GhostPoro.png" Align=left width=7% height=7%>
 
-You learn the find familliar spell, and can cast it at will without spending mana or material components to summon a [Ghost Poro](https://www.dndbeyond.com/monsters/3896538-ghost-poro). The Ghost Poro has its own turn in initiative after you and are not restricted by the find familliar spell druing its turn. 
+You learn the find familliar spell, and can cast it at will without spending spell slotsa or material components to summon a [Ghost Poro](https://www.dndbeyond.com/monsters/3896538-ghost-poro). The Ghost Poro has its own turn in initiative after you and are not restricted by the find familliar spell druing its turn. 
 
 ---
 
@@ -236,7 +237,7 @@ Whenever you defeat a creature with a challenge level equal to or higher than yo
 
 ### Ingenious Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png" Align=left width=7% height=7%>
 
-**Charges**: This item has an amount of charges equal to your proficiency bonus. You regain all charges whenever you finish a long rest. 
+**Charges**: This rune has two charges, you regain all charges at the end of a long rest. 
 
 **Haste**: Whenever you must spend charges of any other item or rune, you can spend charges from this item instead. 
 
@@ -368,9 +369,9 @@ As a bonus action you can spend three charges to enter a state of absolute focus
 
 ### Scorch  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/Scorch.png" Align=left width=7% height=7%>
 
-**Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
 
-When you damage an enemy, you can spend a charge to apply scorch to the target.
+When you damage an enemy, you can spend two charges to apply scorch to the target.
 
 _Scorch: A creature with Scorch takes 1d6 force damage at the start of their turns and counts as burning for the sake of other spells and effect. Scorch can only be removed by a lesser/greater restoration or dispel magic spell_
 
@@ -380,7 +381,7 @@ _Scorch: A creature with Scorch takes 1d6 force damage at the start of their tur
 
 **Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
 
-Whenever you target an ally with a heal or buff you can spend a charge to grant them +10 movement speed and the ability to walk on water for an hour.
+Whenever you target an ally with a heal or buff you grant them +5ft movement speed and the ability to walk on water for an hour.
 
 When you target an ally with a heal or buff you can spend two charges enhance their attacks. For their three next damaging attacks they make within a minute they can add 1d6 cold damage to the damage.
 
@@ -585,7 +586,7 @@ As a bonus action you can spend a charge to channel a teleport towards a space w
 
 You gain the ability to summon a fey cobbler that sells boots, and are gifted a free pair of standard boots. You can trade and shop with him as with any shopkeeper. 
 
-**Headhunter** Whenever you score a _takedown_, you gain a stack of Trancendence. Whenever you have 30 stacks you gain the following benefits:
+**Headhunter** Whenever you score a _takedown_, you gain a stack of Footwear. Whenever you have 30 stacks you gain the following benefits:
 - Your party can upgrade their boots twice, with two different enchantments each.
 
 ---
@@ -610,11 +611,11 @@ You can spend a charge to buy nonmagical common items at half price at any time 
 
 ### Celestial Curing <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CelestialBody.png" Align=left width=7% height=7%>
 
-**Charges**: This rune has two charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
 
 Whenever you roll dice to heal an ally, you can add your proficiency bonus to the roll. 
 
-When you heal an ally you can spend a charge to remove a status effect affecting them.
+When you heal an ally you can spend two charges to remove a status effect affecting them.
 
 ---
 
@@ -638,9 +639,9 @@ Whenever you take a long rest, you gain a [Buiscuit of Everlasting Will](https:/
 
 ### Cosmic Insight  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/CosmicInsight.png" Align=left width=7% height=7%>
 
-**Charges**: This rune has two charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
 
-You learn the _Detect Thoughts_ and can spend a charge to cast it. The target has disadvantage on the saving throw if you were to delve deeper into their mind, and they are unaware of you preying their mind if they fail the saving throw.
+You learn the _Detect Thoughts_ and can spend two charges to cast it. The target has disadvantage on the saving throw if you were to delve deeper into their mind, and they are unaware of you preying their mind if they fail the saving throw.
 
 ---
 
