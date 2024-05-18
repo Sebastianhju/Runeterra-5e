@@ -620,10 +620,6 @@ When you heal an ally you can spend a charge to remove a status effect affecting
 
 ### Warping Transit <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/MinionDematerializer.png" Align=left width=7% height=7%>
 
-Whenever allies teleport, blink, dash or come out from hiding, you can spend your reaction to enforce the sudden movement by creating the illusion of a warped version next to them. Whenever a creature tries to attack them, they must roll a d6. On pairs they hit the target, on odds they hit the illusion and destroys the illusion. An ally can only have one illusion at a time.
-
-When you target an ally with a spell or simular effect you can choose to swap places with them. Once this effect is used it cannot be used again until 30 seconds have passed. 
-
 **Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
 
 When an ally teleport, blink, dash or comes out from hiding you can spend a charge to enforce the sudden movement. The ally then gains an illusion of a warped version of themselves, giving them +2 to their armor class until the next time they take damage. 
