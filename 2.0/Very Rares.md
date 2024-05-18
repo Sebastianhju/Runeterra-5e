@@ -83,6 +83,8 @@ _You gain +2 to hit and attack rolls using this magical weapon_
   
 **Cosmic Radiance**: Bravado shines with the light of the stars and sheds bright light in a radius of 40ft and an additional 40ft of dim light. Whenever you deal radiant damage you can change the damage dice to one higher, making a d8 a d10 for example.  
 
+**Healing Light**: Once a turn when you deal radiant damage, you heal equal to twice your proficiency bonus.
+
 _You have +2 to hit and damage rolls with this magical weapon_ 
 
 ---
@@ -97,6 +99,8 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 **Blessing**: You learn the bless spell and can cast it once a day without using a spell slot. Whenever you cast bless, you can spend an additional third level spell slot, or higher, to empower it. An empowered bless spells dice increases to 1d6 and heals the blessed creature equal to the number rolled on the bless dice whenever they make an attack roll or saving throw. 
 
+**Chosen**: You are always under the blessed condition. 
+
 ---
 
 ## Gargoyle Stoneplate
@@ -107,9 +111,9 @@ _You have +2 to hit and damage rolls with this magical weapon_
 - xx Gold
 - Attunement
 
-**Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
+**Charges**: This item has 6 charges and regains all charges when you finish a long rest. 
 
-**Monolith**: As a bonus action you can spend a charge to give yourself temporary hit points equal to ten times your proficiency modifier. 
+**Monolith**: As a bonus action you can spend three charges to give yourself temporary hit points equal to ten times your proficiency modifier. 
 
 **Fortify**: Attacks against you cannot critically hit.
 
@@ -178,6 +182,8 @@ _You gain +2 to initiative rolls_
 - Attunement
 
 **Ego**: Once a round when you score a takedown on a creature, a magical statue of yourself is summoned in their place. As long as you can see the statue your first attack each turn have advantage and deals 1d6 additional damage for each statue. Once a minute passes by, the statue is pulverized to dust.
+
+**Mirrors Friend**: You gain +3 to persuation checks and charisma saving throws
 
 ---
 
