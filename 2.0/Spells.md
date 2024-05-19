@@ -317,10 +317,11 @@ _Wizard, Sorcerer, Warlock, Druid, Ranger, Tempest Domain_
 |---|---|---|---|---|---|---|
 |5th|1 Action|20 feet radius|V,S,M|1 Round|Evocation|Constitution|
 
-Gain 3d6 temporary hit points and charge up a powerful attack. The area within 20 feet of you becomes difficult terrain .
+Gain 3d6 temporary hit points and charge up a powerful attack. The area within 20 feet of you becomes difficult terrain.
 At the start of your next turn all creatures within 20 feet of you must succeed a constitution saving throw or take 12d8 cold damage. If you loose concentration before the start of your turn all creatures within 20 feet of you must succeed a constitution saving throw or take 6d8 cold damage.
 
 **At Higher Levels.** When cast with a spell slot of 6th level or higher, the damage increases by 1d8 for each level above 5th.
+
 
 # Format
 
