@@ -205,7 +205,7 @@ Once a turn when you damage a creature that has a negative condition, you can ch
 
 **Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
 
-Once a turn when you damage a creature you can choose to spend two charges to heal equal to five times your proficiency bonus. 
+Once a turn when you damage a creature you can choose to spend two charges to heal equal to four times your proficiency bonus. 
 
 ---
 ### Sudden Impact <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/SuddenImpact.png" Align=left width=7% height=7%>
