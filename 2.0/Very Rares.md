@@ -313,6 +313,27 @@ _You gain +2 to attack and damage rolls using this weapon_
 
 ---
 
+## Rapid Firecanon
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rapid Firecanon.png" Align=right width=8% height=8%>
+
+- Pepperbox
+- Attunement
+
+**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
+
+**Sharpshooter**: Whenver you are at 100 stacks of energized, your next attack with _Rapid Firecannon_ gains 30 feet additional range and deals 1d10 lightning damage consuming all charges. 
+
+**Critical**: Your Critical strike chance increases by one. 
+
+**Speed**: You gain +5ft movement speed. 
+
+_You gain +2 to initiative rolls_
+
+_You have +2 to hit and damage rolls with this magical weapon_
+
+---
+
 ## Rectrix
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rectrix.png" Align=right width=8% height=8%>
