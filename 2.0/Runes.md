@@ -108,7 +108,7 @@ You gain +10 feet movement speed and ignore difficult terrain.
 
 ### Legend: Bloodline <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LegendBloodline.png" Align=left width=7% height=7%>
 
-You gain maximum hit points equal to twice your level. 
+You gain maximum hit points equal to your level. 
 
 **Headhunter** Whenever you score a _takedown_, you gain a stack of Bloodline. Whenever you have 30 stacks you gain the following benefits:
 - Once a turn when you deal damage to a creature, you heal equal to twice your proficiency bonus
