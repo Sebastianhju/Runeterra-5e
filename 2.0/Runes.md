@@ -163,9 +163,7 @@ Whenever you take a long rest, you can remove one additional point of exhaustion
 ## Keystones
 
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=15% height=15%>
-Damaging an enemy gives them a mark of electrocute. Once per combat when a creature gains their 3rd stack of electrocute they take 3d8 lightning damage and are stunned until the end of their turn. 
-
-Electrocutes damage increases by 2d8 at level 5, 9, 13 and 17. 
+When you damage an enemy you can choose to give them a mark of electrocute. When you damage a creature with a mark of electrocute you consume the charge and deal damage equal to two times you proficiency bonus to the closest enemy within 30 feet of the original target. If there is no targets within range, the original target takes the damage instead. 
 
 ---
 
