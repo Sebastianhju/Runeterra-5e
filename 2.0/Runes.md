@@ -227,7 +227,8 @@ You learn the find familliar spell, and can cast it at will without spending spe
 You get +2 to your perception and investegation checks. 
 
 **Eyeball hunter** Whenever you score a _takedown_, you gain a stack of Eyeball. Whenever you have 30 stacks you gain the following benefits:
-- You gain blindsight for 30 feet
+- You can channel your vision to get truesight for 60 feet for a minute, you can do this a number of times equal to your proficiency bonus before you must finish a long rest.
+- Once you reach level 9, you can channel this truesight at will. 
 
 ---
 
