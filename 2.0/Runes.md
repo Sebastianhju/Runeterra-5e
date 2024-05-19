@@ -244,7 +244,7 @@ You can smell gold and gain +3 to investigation checks.
 
 **Charges**: This rune has two charges, you regain all charges at the end of a long rest. 
 
-**Haste**: Whenever you must spend charges of any other item or rune, you can spend charges from this item instead. 
+**Haste**: Whenever you must spend charges of any other item or rune, you can spend charges from this rune instead. 
 
 **Headhunter** Whenever you score a _takedown_, you gain a stack of Ingenious. Whenever you have 30 stacks you gain the following benefits:
 
