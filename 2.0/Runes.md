@@ -130,7 +130,7 @@ Whenever you deal damage to a creature that is large size or higher, you deal 1d
 
 ### Last Stand <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LastStand.png" Align=left width=7% height=7%>
 
-When you are exhausted you gain a boon on all your attack rolls for each level of exhaustion you have.
+When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
 
 Whenever you take a long rest, you can remove one additional point of exhaustion.
 
