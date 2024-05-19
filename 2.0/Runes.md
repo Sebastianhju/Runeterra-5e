@@ -118,7 +118,7 @@ You gain maximum hit points equal to your level.
 
 **Charges**: This rune has three charges, you regain all charges when you finish a long rest.
 
-When you are about to deal damage to a bloodied creature you can spend three charges to make it vulnerable to the damage you deal. 
+When you are about to deal damage to a bloodied creature you can spend three charges to make it vulnerable to all the damage of that attack. 
 
 ---
 
