@@ -370,7 +370,7 @@ Whenever you cast a spell you dont provoke opportunity attacks and gain movement
 
 **Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
 
-As a bonus action you can spend three charges to enter a state of absolute focus for a minute, or until you drop unconcious. You gain a boon to all saving throws and attack rolls while in this state. 
+As a bonus action you can spend three charges to enter a state of absolute focus for a minute, or until you drop unconcious. You gain a boon to all d20 rolls while in this state. 
 
 ---
 
