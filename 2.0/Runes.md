@@ -130,7 +130,7 @@ Whenever you deal damage to a creature that is large size or higher, you deal 1d
 
 ### Last Stand <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/LastStand.png" Align=left width=7% height=7%>
 
-When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
+When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead and then choose to take a turn immidiatly, you then gain a point of exhaustion after the turn if you chose to do so. You can’t use this feature again until you finish a long rest.
 
 Whenever you take a long rest, you can remove one additional point of exhaustion.
 
@@ -163,13 +163,16 @@ Whenever you take a long rest, you can remove one additional point of exhaustion
 ## Keystones
 
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/Electrocute.png" Align=left width=15% height=15%>
+
 When you damage an enemy you can choose to give them a mark of electrocute. When you damage a creature with a mark of electrocute you consume the charge and deal damage equal to two times you proficiency bonus to the closest enemy within 30 feet of the original target. If there is no targets within range, the original target takes the damage instead. 
 
 ---
 
 ### Dark Harvest <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/DarkHarvest.png" Align=left width=15% height=15%>
 
-Whenever you damage a bloody creature you gain a stack of *Harvest* and they take 1d6 force damage. Dark harvest deals 1d6 additional damage for every 20th stack of *Harvest* you already have. Once used this effect cannot be used again until you finish a long rest, or score a takedown. 
+Whenever you score a takedown you gain a stack of Harvest. 
+
+Once a turn when you damage a target you can choose to deal 1d6 force damage to that target. Once used this effect cannot be used again until you score a takdown or finish a long rest. This damage can only be dealt once to each individual target. The damage increases to 1d6 when you gain 10 stacks, and then again with 1d6 for every 25th stack beyond that.  
 
 ---
 
