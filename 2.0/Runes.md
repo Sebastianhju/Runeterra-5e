@@ -305,9 +305,9 @@ Aerys damage and sheilding scales along with your proiciency bonus in level 5, 9
 
 ### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/ArcaneComet.png" Align=left width=15% height=15%>
 
-Once per combat, as an action you can summon an arcane comet that crashes into a 30 foot radius, all creatures in the effect must make a dexterity saving throw or take 4d6 bludgeoning damage and are knocked prone. The save DC equals 8 + twice your proficiency bonus or your spell save DC. 
+Once per combat, as an action you can summon an arcane comet that crashes into a 30 foot radius, all creatures in the effect must make a dexterity saving throw or take 2d6 bludgeoning damage and are knocked prone. The save DC equals 8 + twice your proficiency bonus or your spell save DC. 
 
-The damage increases by 2d6 at levels 5, 9, 13 and 17
+The damage increases by 3d6 at levels 5, 9, 13 and 17
 
 ---
 
