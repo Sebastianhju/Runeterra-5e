@@ -400,23 +400,6 @@ _You gain +3 to your spell attacks and spell save DC_
 
 ---
 
-## Radiant Virtue
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Radiant Virtue.png" Align=right width=8% height=8%>
-
-- Wonderous Item
-- Attunement
-
-**Guiding Light**: Whenever you cast your ultimate, you gain additional maximum hit ponts equal to twice your level until your next long rest. Additionally you heal yourself and all allies within 15 feet an amount equal to two times your level. 
-
-**Health**: You gain maximum hit points equal to twice your level. 
-
-**Celestial Boon**: You get +1 to all saving throws
-
-_You gain +2 to your armor class_
-
----
-
 ## Randuin's Omen
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Randuin's Omen.png" Align=right width=8% height=8%>
