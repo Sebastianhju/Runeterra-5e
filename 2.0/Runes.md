@@ -102,7 +102,6 @@ You gain +10 feet movement speed and ignore difficult terrain.
 
 **Headhunter** Whenever you score a _takedown_, you gain a stack of Tenacity. Whenever you have 30 stacks you gain the following benefits:
 - You gain a boon on saving throws against immobilizing effects. 
-- Once per long rest when you fail a saving throw, you can choose to succeed instead 
 
 ---
 
@@ -117,7 +116,7 @@ You gain maximum hit points equal to your level.
 
 ### Coup De Grace <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CoupDeGrace.png" Align=left width=7% height=7%>
 
-**Charges**: This rune has six charges, you regain all charges when you finish a long rest.
+**Charges**: This rune has three charges, you regain all charges when you finish a long rest.
 
 When you are about to deal damage to a bloodied creature you can spend three charges to make it vulnerable to the damage you deal. 
 
