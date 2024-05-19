@@ -263,7 +263,7 @@ You gain +2 to stealth checks and +5 feet walking speed.
 
 ### Zombie Ward <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/ZombieWard.png" Align=left width=7% height=7%>
 
-**Charges**: This rune has three charges, you regain all charges when you finish a long rest.
+**Charges**: This rune has four charges, you regain all charges when you finish a long rest.
 
 You can spend two charges to place a stealth ward near a creature that you know following the rules of the **Scrying** spell. The base save equals 8 + twice your proficiency or your spell casting saving throw. 
 
