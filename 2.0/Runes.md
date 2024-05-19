@@ -396,11 +396,11 @@ When you target an ally with a heal or buff you can spend two charges enhance th
 
 ### Gathering Storm  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery/GatheringStorm.png" Align=left width=7% height=7%>
 
-**Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
+**Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
 
-You can spend two charges to cast the call lightning spell at a spell level equal to 1 + your proficiency bonus. 
+As an action you can spend three charges to summon a storm taking your concentration for a minute. While this storm is active, you can spend your bonus action on your turn to make a ranged spell attack against a creature you can see within 90 feet of you dealing 2d8 lightning damage. This damage increases by 1d8 at level 5, 11 and 17. 
 
-Whenever it is storming, you gain +1 crit chance. 
+You gain +1 crit chance while it is storming
 
 ---
 
