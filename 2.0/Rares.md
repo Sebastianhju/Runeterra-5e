@@ -466,7 +466,7 @@ _You gain +1 to hit and damage rolls with this magical weapon_
 
 **Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
 
-**Spell Sniper**: When you target an enemy that is 90 feet or more away from you with a spell, you can spend a charge to marke the target with dim blue light for a minute. While marked it can't go invisible and attack rolls against it gains a boon.
+**Spell Sniper**: When you target an enemy that is 60 feet or more away from you with a spell, you can spend a charge to marke the target with dim blue light for a minute. While marked it can't go invisible and attack rolls against it gains a boon.
 
 _You get +2 to your spell attack and spell save DC_
 
@@ -494,9 +494,9 @@ _You have +1 to attack and damage rolls using this magical weapon._
 - 4000 Gold
 - Javelin
 
-**Charges**: This item has 4 charges and regains all charges when you finish a long rest. 
+**Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
 
-**Javelin Toss**: Once a turn when you take the attack action, you can spend two charges to replace one of the attacks with a Javelin Toss. You toss the Javelin in a 120 feet line, hitting the first creature that fails a dexterity saving throw, dc 9 + two times proficiency bonus. The creature takes 1d6 damage for every 15th feet the Javelin traveled. When the Javelin is used in this way it teleports back to your hand.
+**Javelin Toss**: Once a turn when you take the attack action, you can spend three charges to replace one of the attacks with a Javelin Toss. You toss the Javelin in a 120 feet line, hitting the first creature that fails a dexterity saving throw, dc 9 + two times proficiency bonus. The creature takes 2d6 damage for every 15th feet the Javelin traveled, up to 12d6. When the Javelin is used in this way it teleports back to your hand.
 
 _You have +1 to hit and damage rolls using this magical Weapon_
 
