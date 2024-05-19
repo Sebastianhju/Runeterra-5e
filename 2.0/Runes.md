@@ -117,9 +117,9 @@ You gain maximum hit points equal to twice your level.
 
 ### Coup De Grace <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/CoupDeGrace.png" Align=left width=7% height=7%>
 
-**Charges**: This rune has four charges, you regain all charges when you finish a long rest.
+**Charges**: This rune has six charges, you regain all charges when you finish a long rest.
 
-When you are about to deal damage to a bloodied creature you can spend two charges to make it vulnerable to the damage you deal. 
+When you are about to deal damage to a bloodied creature you can spend three charges to make it vulnerable to the damage you deal. 
 
 ---
 
