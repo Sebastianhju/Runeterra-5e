@@ -236,6 +236,8 @@ You get +2 to your perception and investegation checks.
 
 Whenever you defeat a creature with a challenge level equal to or higher than your level you gain gold equal to twenty times the creatures challenge rating. 
 
+You can smell gold and gain +3 to investigation checks. 
+
 ---
 
 ### Ingenious Hunter <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/IngeniousHunter.png" Align=left width=7% height=7%>
