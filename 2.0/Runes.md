@@ -315,7 +315,7 @@ The damage increases by 3d6 at levels 5, 9, 13 and 17
 
 Whenever you damage a creature, they gain a stack of *phase* that lasts until you damage another creature. When a creature gains three stacks of *phase* you enter *Phase Rush* for a minute. 
 
-While in Phase Rush you can dash as a bonus action, you dont provoke oppourtunity attacks and you are immune to the grappled and restrained conditions.
+While in Phase Rush you can dash as a bonus action, you dont provoke oppourtunity attacks and you are immune to the grappled and restrained conditions. Whenever you take damage while phasing you reduce that by an amount equal to your proficiency bonus. 
 
 (For AoE effects you choose a single target that gets the stack)
 
