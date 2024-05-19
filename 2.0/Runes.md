@@ -180,7 +180,7 @@ Once a turn when you damage a target you can choose to deal 1d6 force damage to 
 
 You can always dash as a bonus action.
 
-Once per combat when you dash you can choose to activate *Predator*, gaining boon on all attacks and the next time you deal damage you deal 1d6 additional damage for every 30 feet traveled that turn, up to 90 feet. 
+Once per combat when you dash you can choose to activate *Predator*, gaining boon on all attacks until the end of your turn and the next time you deal damage you deal 1d6 additional damage for every 30 feet traveled that turn, up to 90 feet. 
 
 The damage for each treshhold increases by 1d6 at level 5, 9, 13 and 17.
 
