@@ -47,7 +47,7 @@ The damage increases by 1d6 at level 5, 9, 13 and 17.
 
 ### Conqueror  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Precision/Conqueror.png" Align=left width=15% height=15%>
 
-Once per attack, whenever you damage enemies, you gain stacks of Conqueror. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 12 stacks, you deal 1d6 additional damage from your damage sources as shown on the table below, and you heal for the additional damage dealt. If you don't deal damage within the next minute, you loose all stacks of Conqueror.
+Once per attack, whenever you damage enemies, you gain stacks of Conqueror. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 12 stacks, you deal 1d6 additional damage whenever you deal damage, and you heal for the additional damage dealt. If you don't deal damage within the next minute, you loose all stacks of Conqueror.
 
 The damage dice increases to 1d8 at level 5, 1d10 at level 9, 1d12 at level 13 and 2d12 at level 17.
 
