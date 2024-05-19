@@ -267,6 +267,8 @@ You gain +2 to stealth checks and +5 feet walking speed.
 
 You can spend two charges to place a stealth ward near a creature that you know following the rules of the **Scrying** spell. The base save equals 8 + twice your proficiency or your spell casting saving throw. 
 
+As an action you can spend one charge to kill a ward that you know the location of, and then make it a zombie ward under your control for an hour. The zombie wards counts as a regular ward.
+
 ---
 
 # Sorcery ![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Sorcery.png)
