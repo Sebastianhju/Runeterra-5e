@@ -305,12 +305,21 @@ As you touch a willing creature and say the incantation a bond is made between y
 
 The target needs to be on the same plane of existence as yourself.
 
-**At Higher Levels.** If the spell is cast at 5th lvl or higher the targets gets an additional +1 to ac for each spell level above 4 as long as the temporary hit points are active.
-
 ---
 
 ## Fift Level Spells
 
+**Absolute Zero**
+
+_Wizard, Sorcerer, Warlock, Druid, Ranger, Tempest Domain_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|5th|1 Action|20 feet radius|V,S,M|1 Round|Evocation|Constitution|
+Gain 3d6 temporary hit points and charge up a powerful attack. The area within 20 feet of you becomes difficult terrain .
+At the start of your next turn all creatures within 20 feet of you must succeed a constitution saving throw or take 12d8 cold damage. If you loose concentration before the start of your turn all creatures within 20 feet of you must succeed a constitution saving throw or take 6d8 cold damage.
+
+**At Higher Levels.** When cast with a spell slot of 6th level or higher, the damage increases by 1d8 for each level above 5th.
 
 # Format
 
