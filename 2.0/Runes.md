@@ -188,7 +188,7 @@ The damage for each treshhold increases by 1d6 at level 5, 9, 13 and 17.
 
 ## Hail of Blades <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Domination/HailOfBlades.png" Align=left width=15% height=15%>
 
-The first time you act in combat, you gain a boon on every action you make and you can eighter make additional attacks equal to half your proficiency bonus rounded up as a part of your first attack action or cast spells of first level or higher as both your bonus action and action. The spells must still meet their casting time conditions.
+The first time you act in combat, you gain a boon on every action you make and you can eighter make additional attacks equal to half your proficiency bonus rounded down as a part of your first attack action or cast spells of first level or higher as both your bonus action and action. The spells must still meet their casting time conditions.
 
 ---
 
