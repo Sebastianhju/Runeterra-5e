@@ -429,7 +429,7 @@ You gain +1 crit chance while it is storming
 
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/VeteranAftershock.png" Align=left width=15% height=15%>
 
-Once per combat when you immobilize a creature you gain temporary hit points equal to six times your proficiency bonus. At the end of your next turn a shockwave pulses from you, all creatures within 10 feet of you must make a constitution saving throw or take 2d6 force damage, halved on a save. 
+Once per combat when you immobilize a creature you gain temporary hit points equal to six times your proficiency bonus. At the end of your next turn a shockwave pulses from you, all creatures you choose within 10 feet of you must make a constitution saving throw or take 2d6 force damage, halved on a save. 
 
 The damage increases by 1d6 at level 5, 9, 13 and 17.
 
