@@ -443,9 +443,9 @@ Once per combat when you or an ally within 30 feet of you takes damage, before y
 
 ### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=15% height=15%>
 
-Once a turn when you damage an enemy or take damage from an enemy, you gain a stack of Grasp. When you are at three stacks, your next attack deals 2d6 additional necrotic damage. You heal equal to the damage dealt from this effect.
+Once a turn when you damage an enemy or take damage from an enemy, you gain a stack of Grasp. When you are at three stacks, your next attack deals additional 1d6 + proficiency necrotic damage. You heal equal to the damage dealt from this effect.
 
-In addition you gain a stack of Undying whenever you drain an opponent using this ability. For every 15th stack, you gain maximum hit points equal to your level. 
+In addition you gain a stack of Undying whenever you drain an opponent using this ability. When you gain 10 stacks you gain maximum hit points equal to your level, and then again for every 25th stack.
 
 The damage increases by 1d6 at level 5, 9, 13 and 17.
 
