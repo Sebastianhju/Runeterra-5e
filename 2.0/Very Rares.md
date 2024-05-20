@@ -477,7 +477,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 **Calm**: You gain +1 to all saving throws
 
-_While attuned to this item your armor class inceases by 1_ 
+_While attuned to this item your armor class inceases by 1_
 
 ---
 
@@ -488,11 +488,13 @@ _While attuned to this item your armor class inceases by 1_
 - 4500 Gold
 - Quarterstaff
 
-**Stormcaller**: As an action, if you are outside you can spend an action to call upon a stormy cloud that covers your area for one hour. 
+**Charges**: This item has six charges and regains all charges when you finish a long rest. 
 
-**Stormraider**: This weapon has a +1 crit chance and deals 1d6 additional lightning damage while in stormy weather. 
+**Stormcaller**: As an action you can spend two charges to call upon a stormy cloud that covers your area for one hour. 
 
-**Squall**: Once a round if damage you deal would make a creature bloodied. The creature gains a mark of **Squall**. At the start of your next turn, they take 3d10 lightning damage. If the creature already died, the lightninge instead explodes in a 15 feet radius. All enemy creatures must succeed a dexterity saving throw or take 3d10 lightning damage, halved on a success. The dc equals to 10 + twice your proficiency bonus, or your spellcasting save. If you or an ally of yours is hit by this lightning surge, you gain temporary hit points instead of taking damage. Once this effect is used, it cannot be used again until 24 seconds have passed. 
+**Stormraider**: This weapon has a +1 crit chance and deals 1d6 additional lightning damage once a turn while in stormy weather. 
+
+**Squall**: Once a round when you damage a target you can spend two charges to give the target a mark of **Squall**. At the start of your next turn, they take 2d10 lightning damage. If the creature already died, the lightning instead explodes in a 15 feet radius. All enemy creatures must succeed a dexterity saving throw or take 2d10 lightning damage, halved on a success. The dc equals to 10 + twice your proficiency bonus, or your spellcasting save. If you or an ally of yours is hit by this lightning surge, you gain temporary hit points instead of taking damage.
 
 _You gain +2 to attack and damage rolls using this weapon_
 
@@ -557,9 +559,9 @@ _You gain +2 to spell attacks and spell saving throw dc_
 
 **Spellblade**: You can use your spell casting modifier for attacks made with this weapon.
 
-**Fray**: This blade deals 1d6 additional psychic damage and you have recistance to psycic damage.
+**Fray**: You are resistant to psychic damage. Once a turn when you hit an attack with this blade deals it deals 1d6 additional psychic damage.
 
-**Swift Strike**: Whenever you cast a spell that requires an action to cast, you can make one attack with _Wit's End_ as a bonus action. 
+**Swift Strike**: Whenever you cast a spell or cantrip that requires an action to cast, you can make one attack with _Wit's End_ as a bonus action. 
 
 _You have +2 to attack and damage rolls with this magical weapon_
 
