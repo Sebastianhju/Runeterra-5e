@@ -478,7 +478,7 @@ Once per turn when you have temporary hit points you can spend a charge to deal 
 
 ### Conditioning  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Resolve/Conditioning.png" Align=left width=7% height=7%>
 
-You take 2 less damage whenever you take physical damage
+You take 2 less damage whenever you take physical and elemental damage
 
 **Headhunter** Whenever you score a _takedown_, you gain a stack of Trancendence. Whenever you have 30 stacks you gain the following benefits:
 - **Conditioned**: You gain +1 to your armor class and saving throws
