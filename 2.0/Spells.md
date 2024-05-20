@@ -12,7 +12,7 @@ _Wizard, Sorcerer, Warlock, Death & Grave Domain_
 |---|---|---|---|---|---|---|
 |0|1 Action|60 feet|V,S|Instantanious|Necrotic|Attack|
 
-You cleave yourself with a conjured bonesaw, dealing 1d4 nonmigatiable damage to yourself. Then you throw the bonesaw towards a target you can see within range, dealing 1d8 necrotic damage on a hit. If you hit the target you regain twice the damage you suffered from this spell. 
+Throw the bonesaw towards a target you can see within range, dealing 1d8 necrotic damage on a hit. If you hit you heal 1d4 hit points. If you miss you suffer 1d4 nonmigatable damage. 
 
 **Cantrip Scaling.** The damage increases by 1d8 at level 5, 11 and 17. 
 
@@ -121,7 +121,7 @@ _Wizard, Sorcerer, Warlock, Death & Grave Domain_
 |---|---|---|---|---|---|---|
 |1st|1 Action|30 Feet|V,S|Instantanious|Necrotic|Constitution|
 
-You attempt to drain an enemy of their life essence. You deal 1d8 nonmigatiable damage to yourself. A creature that you can see within range must succeed a Constitution saving throw taking 3d8 necrotic damage on a failure, halved on a success. If they fail the saving throw, you heal equal to twice the damage taken by this spell. 
+You drain out the life essence of a creature you can see within range. The target must succeed a constitiution saving thorw or suffer 3d8 necrotic damage, halved on a success. If they fail the saving throw you heal 1d8 hit points, if they succeed you suffer 1d8 nonmigatable damage. 
 
 **At Higher Levels.** When cast with a spell slot of 2nd level or higher the damage increases by 1d8. 
 
