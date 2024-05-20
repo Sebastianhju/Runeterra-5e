@@ -578,7 +578,7 @@ To determine if you can select your summoner spell gained you must hit a 4 or hi
 
 ### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-runes/Inspiration/FirstStrike.png" Align=left width=15% height=15%>
 
-You gain a +2 bonus to initiative rolls. Whenever you deal damage to a creature that hasn't taken a turn in combat yet you ignore their resistances and immunities. For the first attack you gain gold equal to two times the damage dealt times your proficiency bonus. 
+You gain a +5 bonus to initiative rolls. Whenever you deal damage to a creature that hasn't taken a turn in combat yet you ignore their resistances and immunities. For the first attack you gain gold equal to two times the damage dealt times your proficiency bonus. 
   
 ---
 
