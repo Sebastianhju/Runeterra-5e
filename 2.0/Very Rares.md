@@ -355,11 +355,9 @@ _You have +2 to hit and damage rolls with this magical weapon_
 - Wondrous
 - Attunement
 
-**Sharpend Edge**: You gain +1 to all attack rolls.
+**Sharpend Edge**: You gain +2 to all attack rolls.
 
-**Swift Winds**: You gain +10 feet walking speed
-
-**Burst of Flight**: Once a short rest you can spend your action to gain flying speed equal to your walking speed for a minute. 
+**Swift Winds**: You gain 30 feet flying speed.
 
 ---
 
