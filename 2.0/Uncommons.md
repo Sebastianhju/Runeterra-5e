@@ -242,6 +242,17 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ---
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ghostcrawlers.png" Align=right width=8% height=8%>
+
+- 400 Gold
+- Wondrous
+
+**Charges**: This item has two charges and regain all charges at the end of a long rest. 
+
+**Free Soul**: During your turn you can spend a charge to leave your body behind. At the end of your turn you teleport back to where you activated this effect. 
+
+---
+
 ## Haunting Guise
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Haunting Guise.png" Align=right width=8% height=8%>
