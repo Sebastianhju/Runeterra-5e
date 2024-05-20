@@ -36,7 +36,7 @@ As an action you can drink this elixir. Fort the next hour, you gain gold whenev
 
 Cost: 200 Gold
 
-As an action you can drink this elixir. For the next hour, you don't provoke oppertunity attacks and gain an extra attack whenever you take the attack action.
+As an action you can drink this elixir. For the next hour, you don't provoke oppertunity attacks and once per turn when you take the attack action you can make one additional attack. 
 
 ---
 
