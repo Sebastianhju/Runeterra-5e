@@ -507,7 +507,7 @@ Whenever you take damage you can spend two charges to reduce the damage by an am
 
 You gain maximum hit points equal to your level. 
 
-Whenever you score a _takedown_ on a creature, you gain a stack of _Overgrowth_. For every 15th stack, you gain maximum hit points equal to your level. 
+Whenever you score a _takedown_ on a creature, you gain a stack of _Overgrowth_. For every 25th stack, you gain maximum hit points equal to your level. 
 
 ---
 
