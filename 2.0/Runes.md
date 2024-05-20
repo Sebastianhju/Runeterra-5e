@@ -464,7 +464,7 @@ You can target creatures held item with this attack
 
 **Charges**: This rune has three charges, you regain all charges at the end of a long rest. 
 
-When you slow or immobilize a creature, you can spend a charge to give the them a mark of _life_. The next time an ally damages the creature, they heal equal to four times your proficiency bonus. 
+When you slow or immobilize a creature, you can spend a charge to give the them a mark of _life_. The next time an ally damages the creature, they remove the charge to heal equal to three times your proficiency bonus. 
 
 ---
 
