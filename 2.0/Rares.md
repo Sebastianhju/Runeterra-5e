@@ -980,7 +980,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 **Dredge Line**: Once a turn when you take the attack action you can spend a charge replace one of you attacks by hurling Titans Wrath at an enemy within 30ft. Make an attack roll and on a hit you can pull yourself to a space within 5ft of the target. The target can be either a creature or a huge or larger object.
 
-**Staggering blow**: Once a turn you hit a creature with a melee attack with Titans Wrath that you have not hit before in this combat you can choose to stagger the target. The targets movement speed is reduced to 0 and it has disadvantage on it's next attack roll.
+**Staggering blow**: Once a turn you hit a creature with a melee attack with Titans Wrath that you have not hit before in this combat you can spend a charge to stagger the target. The targets movement speed is reduced to 0 and it has disadvantage on it's next attack roll.
 
 _You gain +1 to hit and damage rolls using this magical weapon._
 
