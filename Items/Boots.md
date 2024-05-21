@@ -85,7 +85,7 @@ _Your armor class increases with 1_
 
 Your movement speed increases by 10 feet.
 
-Your spells deal 1 more damage. 
+Your spells deal 2 more damage. 
 
 ---
 
