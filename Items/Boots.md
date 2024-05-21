@@ -98,6 +98,6 @@ Your spells deal 2 more damage.
 
 Your movement speed increases by 10 feet.
 
-**Mobile**: As a bonus action you double your movementspeed until the end of the round. Once this effect is used, it cannot be used again until you fininsh a short rest. 
+**Mobile**: As a bonus action you double your movementspeed until the end of the round. Once this effect is used, it cannot be used again unless you ended your turn without moving. 
 
 ---
