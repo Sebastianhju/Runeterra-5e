@@ -1080,7 +1080,7 @@ _You gain +1 to all saving throws_
 
 **Firmament**: When you are at 100 stacks of energized, your next attack deals 1d10 additional lightning damage and marks then with **Buzz**. A **Buzzed** targets movement speed is halved. A creature can remove **Buzz** if they end their turn without moving. 
 
-_You gain +2 to attack and damage rolls using this magical weapon_ 
+_You gain +1 to attack and damage rolls using this magical weapon_ 
 
 ---
 
