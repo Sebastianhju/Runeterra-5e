@@ -765,7 +765,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 **Wisdom of Ages**: When rolling damage for your cantrips you can add your spell casting modifier to the damage. 
 
-_You gain +1 to spell attack rolls and saving throws_
+_You gain +1 to you spell attack rolls and spell save DC_
 
 ---
 
