@@ -480,7 +480,7 @@ Once per turn when you have temporary hit points you can spend a charge to deal 
 
 You take 2 less damage whenever you take physical and elemental damage
 
-**Headhunter** Whenever you score a _takedown_, you gain a stack of Trancendence. Whenever you have 30 stacks you gain the following benefits:
+**Headhunter** Whenever you score a _takedown_, you gain a stack of Conditioning. Whenever you have 30 stacks you gain the following benefits:
 - **Conditioned**: You gain +1 to your armor class and saving throws
 
 ---
