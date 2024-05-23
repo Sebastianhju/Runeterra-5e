@@ -468,7 +468,7 @@ _You gain +1 to hit and damage rolls with this magical weapon_
 
 **Spell Sniper**: When you target an enemy that is 60 feet or more away from you with a spell, you can spend a charge to marke the target with dim blue light for a minute. While marked it can't go invisible and attack rolls against it gains a boon.
 
-_You get +2 to your spell attack and spell save DC_
+_You get +1 to your spell attack and spell save DC_
 
 ---
 
