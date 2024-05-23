@@ -194,9 +194,9 @@ _You gain +1 to your insight checks_
 - 4500 Gold
 - Wondrous Item
 
-**Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
+**Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
 
-**Promote**: As a bonus action you can spend two charges to activate the _Banner of Command_. All allies within 30 feet of the banner heals for 3d8 hit points and gains a boon on all attack rolls until the end of their next turn.
+**Promote**: As a bonus action you can spend three charges to activate the _Banner of Command_. All allies within 30 feet of the banner heals for 3d8 hit points and gains a boon on all attack rolls until the end of their next turn.
 
 ---
 
