@@ -389,7 +389,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ---
 
-## Saphire Crystal
+## Sapphire Crystal
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sapphire Crystal.png" Align=right width=8% height=8%>
 
