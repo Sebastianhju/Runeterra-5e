@@ -251,7 +251,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 **Charges**: This item has two charges and regain all charges at the end of a long rest. 
 
-**Free Soul**: During your turn you can spend a charge to leave your body behind. At the end of your turn you teleport back to where you activated this effect. 
+**Free Soul**: During your turn you can spend a charge to mark your current location. At the end of your turn you teleport back to your mark. If you want to extend the duration you can concentrate on the effect for up to a minute. When you break your concentration you immediatly teleport back to your marked location. 
 
 ---
 
@@ -288,7 +288,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 - 500 Gold
 - Quarterstaff
 
-**Needlessly Large Spells**: Any spell with a radius, cone, cube or similar effect gains an extra 5ft to the size in all dimentions. 
+**Needlessly Large Spells**: You can choose to have any spell with a radius, cone, cube or similar effect gains an extra 5ft to the size in all dimentions. 
 
 ---
 
