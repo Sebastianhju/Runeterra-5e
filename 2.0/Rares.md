@@ -183,7 +183,7 @@ _You get +1 to your spell attack and spell save dc_
 
 **Spell Reflection**: As a reaction whenever you see a creature fail a saving throw against a spell, you can spend a charge to add 1d6 to their saving throw. 
 
-_You gain +1 to your insight checks_
+_You gain +2 to your insight checks_
 
 ---
 
