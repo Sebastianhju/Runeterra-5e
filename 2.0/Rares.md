@@ -378,7 +378,7 @@ _You get +1 to attack and damage rolls using this weapon or while in wildshape_
 - 4000 Gold
 - Spell Focus
 
-**Charges**: This item has charges equal to your proficiency bonus and regains all charges when you finish a long rest. 
+**Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
 
 **Haste**: Whenever you must spend charges of any other item or rune, you can spend charges from this item instead.  
 
