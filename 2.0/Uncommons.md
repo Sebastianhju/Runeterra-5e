@@ -227,6 +227,8 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 **Mana well**: You gain one additional first level spell slot. 
 
+**Healing Power**: Your healing spells heal for 1 more hit point
+
 ---
 
 ## Galvanic Dagger
