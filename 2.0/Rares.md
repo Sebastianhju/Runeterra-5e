@@ -688,7 +688,7 @@ _You get +1 to all saving throws_
 
 **Oblivion**: Your single target damaging spells deals 1d6 additional necrotic damage if the target has grievous wounds.
 
-_You gain +1 to you spell attacks_
+_You gain +1 to you spell attacks and spell save DCs_
 
 ---
 
