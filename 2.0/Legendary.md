@@ -562,6 +562,7 @@ _You gain +2 to your armor class while wielding this piece of armor_
 
 **Titans Might**: You are resistant to Lightning damage. 
 
+---
 
 ## The Collector
 
