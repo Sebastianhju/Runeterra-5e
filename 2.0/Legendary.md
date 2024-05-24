@@ -548,8 +548,19 @@ _You gain +2 to your armor class while wielding this piece of armor_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Storm Sigil.png" Align=right width=8% height=8%>
 
 - Wondrous
-- Attunemetr
+- Attunement
 
+**Charges**: This item has 12 charges, you regain 2d6 charges whenever you take a long rest. 
+
+**Storm of Titans**: You can spend charges to cast the following spells at their lowest level. If the amount of charges spent is higher than your current level, you take 1d6 lightning damage for every charge spent.
+
+- **Shatter**(2)
+- **Call Lightning**(4)
+- **Storm Sphere** (6)
+- **Destructive Wave** (8)
+- **Chain Lightning** (10)
+
+**Titans Might**: You are resistant to Lightning damage. 
 
 
 ## The Collector
