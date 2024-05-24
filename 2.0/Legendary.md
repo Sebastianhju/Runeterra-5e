@@ -543,6 +543,15 @@ _You gain +2 to your armor class while wielding this piece of armor_
 
 ---
 
+## Storm Sigil
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Storm Sigil.png" Align=right width=8% height=8%>
+
+- Wondrous
+- Attunemetr
+
+
+
 ## The Collector
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/The Collector.png" Align=right width=8% height=8%>
