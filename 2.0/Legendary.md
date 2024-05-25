@@ -67,6 +67,18 @@ _You get +3 to your spell attack and spell save dc_
 
 ---
 
+## Dark Matter Sphere
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dark Matter Sphere.png" Align=right width=8% height=8%>
+
+- Wondrous Item
+
+**Charges**: This item has 10 charges. It regains all charges at the end of a long rest if you are the Dark Lord of Unlimited Phenominal Evil Power Veigar. 
+
+**Phenomenal Evil Power**: Whenver you deal force or necrotic damage you can spend 5 charges to make the target vulnerable to that attack.
+
+---
+
 ## Duskblade of Draktharr
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Duskblade of Draktharr.png" Align=right width=8% height=8%>
