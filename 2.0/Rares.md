@@ -268,6 +268,19 @@ _You get +1 to your spell attack and spell save dc_
 
 ---
 
+## Celestial Opposition
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Catalyst of Aeons.png" Align=right width=8% height=8%>
+
+- 4000 Gold
+- Shield
+
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest. 
+
+**Blessing of the Mountain**: Upon taking damage, you can spend two charges to reduce the damage by an amount equal to twice your proficiency bonus.
+
+---
+
 ## Chempunk Chainsword
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chempunk Chainsword.png" Align=right width=8% height=8%>
