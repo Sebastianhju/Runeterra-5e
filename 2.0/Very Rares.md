@@ -199,7 +199,7 @@ _You get +2 to unarmed attack and damage rolls_
 
 **Haste:** Whenever you must spend charges of any other item or rune, you can spend charges from this item instead.
 
-**Thirsting Slash**: Once a turn when you take the attack action, you can replace one of your attacks with a thirsting slash, swinging the Goredrinker around you. All creatures within reach of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or takes 2d6 bludgeonig damage.
+**Thirsting Slash**: Once a turn when you take the attack action, you can replace one of your attacks with a thirsting slash, swinging the Goredrinker around you. All creatures within reach of you must succeed a dexterity saving throw, DC equals to 10 + twice your proficiency bonus or takes 2d6 bludgeonig damage.
 
 **Lifesteal**: Whenever you deal damage to a target with _Goredrinker_ you heal equal to your proficiency bonus
 
@@ -368,7 +368,7 @@ _You gain +2 to spell attacks and your save dc while attuned to this magical ite
 - 5000
 - Pistol
 
-**Piercing Light**: When you take the attack action you spend five charget to replace one of the attacks with a beam of light that shoots in a 30 foot long line. Each creature in the line must succeed a Dexterity saving throw, dc equals to 10 + proficiency bonus + your dexterity modifier, or take 3d10 radiant damage, halved on a save.
+**Piercing Light**: When you take the attack action you spend five charget to replace one of the attacks with a beam of light that shoots in a 30 foot long line. Each creature in the line must succeed a Dexterity saving throw, DC equals to 10 + twice your proficiency bonus, or take 3d10 radiant damage, halved on a save.
 
 **Charges**: This item has five charges and regains all charges when you finish a long rest. 
 
@@ -606,6 +606,25 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ---
 
+## Statikk Shiv
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Statikk Shiv.png" Align=right width=8% height=8%>
+
+- Dagger
+- Attunement
+
+**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
+
+**Statikk**: Whenver you are at 100 stacks of energized, your next attack with _Statikk Shiv_ deals 1d10 lightning damage. If the attack hits, the lightning spreads to a new target within 30 feet of the original target and you must make a new attack roll to deal 1d10 lightning damage, this lightning continues to spreads to new targets until you miss an attack or there are no new targets.  
+
+**Speed**: You gain +5 movement speed. 
+
+_You gain +2 hit and damage rolls with this magical weapon_
+
+_You gain +2 to initiative rolls_
+
+---
+
 ## Steel Sigil
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Steel Sigil.png" Align=right width=8% height=8%>
@@ -621,6 +640,23 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 _While attuned to this item your armor class inceases by 1_
 
 ---
+
+## Sterak's Gage
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sterak's Gage.png" Align=right width=8% height=8%>
+
+- Wonderous Item
+- Attunement
+
+**Catching Claws**: Your unarmed attacks and grapple checks deals 1 additional damage for every 50th maximum hit points you have.
+
+**Lifeline**: If you would take damage that would reduce your hit points to zero, you first gain temporary hit points equal to 10 times your proficiency bonus. As long as you have these temporary hit points, your size increases by one, as if affected by the enlarge spell, and you are immune to all immobilizing effects. Once this effect is used, it cannot be used again until you finish a long rest.
+
+**Health**: You gain maximum hit points equal to your level. 
+
+_You gain +2 to your unarmed attack and damage rolls_
+
+---  
 
 ## Stormsurge
 
@@ -650,11 +686,74 @@ _You gain +2 to attack and damage rolls using this weapon_
 
 **Bladed Whip**: Stridebreaker deals 1d4 additional slashing damage. 
 
-**Halting Slash**: Whenever you hit an attack with stride breaker the target must succed a strength saving throw or be knoicked prone. The dc equals to 10 + proficiency bonus + Dexterity/Strength modifier. 
+**Halting Slash**: Whenever you hit an attack with stride breaker the target must succed a strength saving throw or be knoicked prone. DC equals to 10 + twice your proficiency bonus.
 
 **Cresent**: Once a turn whenever you knock a creature prone with stridebreaker you can choose to pull them to another available square within your reach.
 
 _You have +2 to attack and damage rolls when using this magical weapon_
+
+---
+
+## Sundered Sky
+
+- Lance
+- Attunement
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sundered Sky.png" Align=right width=8% height=8%>
+
+**High Horse**: When mounted you have advantage on attack rolls against all targets.
+
+**Health**: Your maximum hit points increases by an amount equal your level.
+
+**Lightshield Strike**: The first attack you make against a new target each combat deals 1d12 additional damage and heals you equal to twice your proficiency bonus.
+
+_You have +2 to attack and damage rolls when using this magical weapon_
+
+---
+
+## Sunfire Aegis
+
+- Shield
+- Attunement
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sunfire Aegis.png" Align=right width=8% height=8%>
+
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest.
+
+**Immolate**: As a bonus action you can spend two charges to activate this shield, causing it to burn for a minute. Whenever you end your turn, all enemies within 5 feet of you must succeed a constitution saving throw or take 1d6 fire damage, DC equals to 10 + twice your proficiency bonus, halved on a save, and applies burn. Creatures who are burning takes 3d6 fire damage instead. Creatures within 5 feet that attack you while _Immolate_ is enabled suffers the damage without making a saving throw.
+
+**Health**: You gain maximum hit points equal to your level. 
+
+_You gain +1 to your armor class while wielding this piece of armor_
+
+---
+
+## Thornmail
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Thornmail.png" Align=right width=8% height=8%>
+
+- Chainmail
+
+**Thorns**: Whenever you are damaged by a weapon attack, the attacker takes damage equal to twice your proficiency bonus and gains grievous wounds. 
+
+**Health**: You gain maximum hit points equal to your level. 
+
+_You gain +2 to your armor class while wearing this piece of armor_
+
+---
+
+## Titanic Hydra
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Titanic Hydra.png" Align=right width=8% height=8%>
+
+- Greataxe
+- Attunemnet
+
+**Cleave**: Your attacks deal 1d6 additional foce damage for every 100th maximum hit points you have in a 15 feet cone, including the target. 
+
+**Health**: You gain maximum hit points equal to your level.
+
+_You gain +2 to attack and damage rolls using this weapon_
 
 ---
 
@@ -669,7 +768,7 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 
 **Charges**: This item has three charges and regains all charges when you finish a long rest. 
 
-**Anguish**: As a bonus action, you can spend a charge force all creatures within 10 feet of you to make a constitution saving throw, DC equals to 8 + Constitution modifier + proficiency bonus, or take 2d6 necrotic damage on a failure, halved on a save. You heal equal to half the necrotic damage dealt in this way.
+**Anguish**: As a bonus action, you can spend a charge force all creatures within 10 feet of you to make a constitution saving throw, DC equals to 10 + twice your proficiency bonus, or take 2d6 necrotic damage on a failure, halved on a save. You heal equal to half the necrotic damage dealt in this way.
 
 _You gain +1 to your armor class_
 
@@ -684,7 +783,7 @@ _You gain +1 to your armor class_
 
 **Charges**: This item has 4 charges and regains all charges when you finish a long rest. 
 
-**Corruption**: Once a turn when you immobilize a creature, you cans spend two charges to give them _Corruption_ removing all resistances and immunities from the target. At the end of its turn, the target can attempt to remove _Corruptin_, making a constitution saving throw against your spell save dc.
+**Corruption**: Once a turn when you immobilize a creature, you cans spend two charges to give them _Corruption_ removing all resistances and immunities from the target. At the end of its turn, the target can attempt to remove _Corruptin_, making a constitution saving, DC equals to 10 + twice your proficiency bonus.
 
 _You gain +2 to spell attacks and spell saving throw dc_
 
