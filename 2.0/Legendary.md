@@ -567,7 +567,7 @@ _You gain +2 to your armor class while wielding this piece of armor_
 |3|The Storm Sigil casts Gaseous Form on you, you can attempt to break out of the effect at the start of your turns by succeding a spellcasting check||7|Thunder booms from your position. All creatures within 60 feet of you are deafend for a minute|
 |4|The Storm Sigil zaps you with a gentle shock. You must make a constitution saving throw or become stunned until the end of your next turn||8|The Storm Sigil regains two charges after the casting of the spell|
 
-_The saving thow and skill check DC equals 12 + your proficiency bonus_
+_The saving thow and skill check DC 15_
 
 ---
 
