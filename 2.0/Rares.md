@@ -816,7 +816,7 @@ _You gain +1 to your armor class_
 
 **Poison Loaded**: The first attack with _Serpent's Fang_ each turn deals 2d6 additional poision damage. 
 
-**Shield Reaver**: Once a turn when you hit an attack with _Serpent's Fang_ you can spend a charge to inject venom into the target, giving them cramps in their arms. The target must succeed a constitution saving throw (Dc= 10 + proficiency bonus + dexterity modifier) or drop anything in their arms. 
+**Shield Reaver**: Once a turn when you hit an attack with _Serpent's Fang_ you can spend a charge to inject venom into the target, giving them cramps in their arms. The target must succeed a constitution saving throw (Dc= 10 + proficiency bonus + dex/str modifier) or drop anything in their arms. 
 
 _You gain +1 to attack and damage rolls using this weapon_
 
