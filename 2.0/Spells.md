@@ -168,7 +168,7 @@ _Wizard, Sorcerer, Druid_
 |---|---|---|---|---|---|---|
 |2nd|1 Bonus Action|Self|V,S,M*|1 minute(C)|Evocation|Dexterity|
 
-As a bonus action you burst out in flames. Whenever you deal fire damage to a creature during the duration the target starts _burning_. The first time in a round you deal damage to a burning target, they take 2d6 additional fire damage and all creatures within 5 feet of them starts burning. 
+As a bonus action you burst out in flames. Whenever you deal fire or lightning damage to a creature during the duration the target starts _burning_. The first time in a round you deal damage to a burning target, they take 2d6 additional fire damage and all creatures within 5 feet of them starts burning. 
 
 **At Higher Levels.** When cast with a spell slot of 3rd level or higher the damage increases by 1d6. 
 
