@@ -6,11 +6,13 @@
 - 4500 Gold
 - Spear
 
-**Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
+**Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
+
+**Martial Poise**: Whenever you make an attack with _Black Spear_ you can teleport to a location within 10 feet. 
 
 **Spectral Spears**: Whenever you throw the *Black Spear* it teleports back to your hand when it hits a target or the attack misses. When the attack hits a sprectral spear lingers in the black spears place. 
 
-**Rend**: As a bonus action, you can spend two charges to pull out all spectral spears from all creatures within 60 feet of you. A target then takes 2d6 force damage for each spear in them. If you kill a creature with rend you recharge all charges on this item.
+**Rend**: As a bonus action, you can spend three charges to pull out all spectral spears from all creatures within 60 feet of you. A target then takes 2d6 force damage for each spear in them. If you kill a creature with rend you recharge all charges on this item.
 
 _You have +3 to hit and damage rolls with this magical weapon_ 
 
