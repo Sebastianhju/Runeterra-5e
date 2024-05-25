@@ -552,15 +552,22 @@ _You gain +2 to your armor class while wielding this piece of armor_
 
 **Charges**: This item has 12 charges, you regain 2d6 charges whenever you take a long rest. 
 
-**Storm of Titans**: You can spend charges to cast the following spells at their lowest level. If the amount of charges spent is higher than your current level, you take 1d6 lightning damage for every charge spent.
-
+**Storm of Titans**: You can spend charges to cast the following spells at their lowest level. If the amount of charges spent is higher than your current level, you must roll on the Thunderstorm Table. 
 - **Shatter**(2)
 - **Call Lightning**(4)
 - **Storm Sphere** (6)
 - **Destructive Wave** (8)
 - **Chain Lightning** (10)
 
-**Titans Might**: You are resistant to Lightning damage. 
+**Thunderstorm Table**
+
+|Roll|Effect||Roll|Effect|
+|---|---|---|---|---|
+|1|Lightning strikes down on you. You and all creatures within 10 feet of you must make a dexterity saving throw or take 4d10 lightning damage, halved on a save.||5|You gain resistance to thunder and lightning damage for a minute|
+|2|The Sigil resist against you, roll 1d10, on a roll of 3 or lower, the spell is counterspelled by the sigil||6|You become charged with lightining. Whenever a creature hits you with a melee attack you deal 1d10 lightning damage back at them. |
+|3|The Storm Sigil casts Gaseous Form on you, you can attempt to break out of the effect at the start of your turns by succeding a spellcasting check||7|Thunder booms from your position. All creatures within 60 feet of you are deafend for a minute|
+|4|The Storm Sigil zaps you with a gentle shock. You must make a constitution saving throw or become stunned until the end of your next turn||8|The Storm Sigil regains two charges after the casting of the spell|
+
 
 ---
 
