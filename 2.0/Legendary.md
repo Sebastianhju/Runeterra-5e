@@ -552,7 +552,7 @@ _You gain +2 to your armor class while wielding this piece of armor_
 
 **Charges**: This item has 12 charges, you regain 2d6 charges whenever you take a long rest. 
 
-**Storm of Titans**: You can spend charges to cast the following spells at their lowest level. If the amount of charges spent is higher than your current level, you must roll on the Thunderstorm Table. 
+**Storm of Titans**: You can spend charges to cast the following spells at their lowest level. If the amount of charges spent is higher than your current level, you must roll on the Thunderstorm Table. If you roll on the Thunderstorm Table again before you take a long rest, you do so at disadvantage. 
 - **Shatter**(2)
 - **Call Lightning**(4)
 - **Storm Sphere** (6)
