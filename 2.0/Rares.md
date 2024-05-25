@@ -969,6 +969,21 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 ---
 
+## The Collector
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/The Collector.png" Align=right width=8% height=8%>
+
+- Pepperbox
+- Attunement
+
+**Death**: If a hit from _The Collector_ would leave a creature below 5% of their maximum hit points, you execute them.
+
+**Taxes**: Whenever you kill a creature you gain gold equal to 50 times your proficiency bonus. 
+
+_You gain +1 to hit and damage rolls using this magical weapon_
+
+---
+
 ## Titans Wrath
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Titans Wrath.png" Align=right width=8% height=8%>
