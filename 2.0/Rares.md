@@ -110,7 +110,7 @@ _You gain +1 to spell attack and spell save DC_
 
 **Health**: You gain additional maximum hit points equal to your level
 
-**Unmake**: As an action you can spend a charge to unmake the foes surrounding you. All enemies within 15 feet of you must succeed a wisdom saving throw against your intimidation check. On a failure they are frightened of you for a minute, while frightened in this way they have disadvantage on all saving throws as long as they can see you. 
+**Unmake**: As an action you can spend a charge to unmake the foes surrounding you. All enemies within 15 feet of you must succeed a wisdom saving throw dc equals 9 plus twice your proficiency bonus. On a failure they are frightened of you for a minute, while frightened in this way they have disadvantage on all saving throws as long as they can see you. 
 
 ---
 
@@ -168,7 +168,7 @@ _You get +1 to your spell attack and spell save dc_
 
 **Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
 
-**Bursting Cinder**: When you end your turn you spend a charge to cause cinders to burst from the _Bami Cincer_. All creatures within 5 feet of you must make a dexterity saving throw or takes 2d6 fire damage and are burning, halved on a save. 
+**Bursting Cinder**: When you end your turn you spend a charge to cause cinders to burst from the _Bami Cincer_. All creatures within 5 feet of you must make a dexterity saving throw, dc equals 9 + twice your proficiency bonus, or takes 2d6 fire damage and are burning, halved on a save. 
 
 ---
 
@@ -207,9 +207,9 @@ _You gain +2 to your insight checks_
 - 6000 Gold
 - Wondrous Item
 
-**Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
+**Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
 
-**Annull**: A spectral orb of energy lingers on you when you have atleast 2 charges. When Banshee's Veil has 2 or more charges and you are required to make a saving throw Banshees Veil consumes two charges and you automaticly succed the saving throw instead. 
+**Annull**: Whenever you are required to make a saving throw, you can choose to spend three charges and you automaticly succed the saving throw instead. 
 
 ---
 
@@ -407,7 +407,7 @@ _You get +2 to your arcana and religion checks_
 - 4500 Gold
 - Shield
 
-**Steadfast**: Whenever anyone misses a melee attack roll towards you can spend your reaction to force them to make a dexterity saving throw, dc equals 8 + two times your proficiency, or be restrained in ice until the end of their next turn. The ice has an armor class of 10 and hitpoints equal to five times your proficiency bonus, if it is broken they are no longer restrained.
+**Steadfast**: Whenever anyone misses a melee attack roll towards you can spend your reaction to force them to make a dexterity saving throw, dc equals 9 + two times your proficiency, or be restrained in ice until the end of their next turn. The ice has an armor class of 10 and hitpoints equal to five times your proficiency bonus, if it is broken they are no longer restrained.
 
 **Mana**: You gain a spell slot with a level equal to half your proficiency bonus rounded up.
 
@@ -451,7 +451,7 @@ _You gain +2 to initiative_
 
 **Charges**: This item has 4 charges and regains all charges when you finish a long rest. 
 
-**Shock**: When you hit an attack with _Hextech Revolver_ you can spend two charges to force the target to succeed a constitution saving throw, the DC equal to 10 + proficiency bonus + dexterity modifier, on a failed save they take 2d8 lightning damage and are restrained until the end of their turn. On a success they are not restrained and take half damage.
+**Shock**: When you hit an attack with _Hextech Revolver_ you can spend two charges to force the target to succeed a constitution saving throw, the DC equal to 9 + two times your proficiency bonus, on a failed save they take 2d8 lightning damage and are restrained until the end of their turn. On a success they are not restrained and take half damage.
 
 _You gain +1 to hit and damage rolls with this magical weapon_ 
 
@@ -660,7 +660,7 @@ _You get +1 to all saving throws_
 - Wondrous Item
 - Attunement
 
-**Chaos Quiver**: This quiver has magical arrows appear when you reach for a new arrow or bullet, giving you a random arrow that has different effects. Whenever you hit an attack roll, roll 1d10 to detimine which of the following arrows are fired. The arrows that requires a saving throw has a save equal to 8 + twice your proficiency bonus. 
+**Chaos Quiver**: This quiver has magical arrows appear when you reach for a new arrow or bullet, giving you a random arrow that has different effects. Whenever you hit an attack roll, roll 1d10 to detimine which of the following arrows are fired. The arrows that requires a saving throw has a save equal to 9 + twice your proficiency bonus. 
 
 |Result|Arrow Type|Effect|
 |---|---|---|
@@ -745,7 +745,7 @@ _You gain +1 to attack and damage rolls using this magical weapon_
 
 **Wrath**: Once a turn when you hit an attack against a target with _rageknife_ they gain a stack of _Rage_. 
 
-**Rage**: Once an enemy has two stacks of rage, they consume all stacks and must make a wisdom saving throw, dc equals 10 + proficiency bonus + constitution modifier. On a failure they loose control of their self and must act as if they were under the confusion spell during their next turn.
+**Rage**: Once an enemy has two stacks of rage, they consume all stacks and must make a wisdom saving throw, dc equals 9 + two times your proficiency bonus. On a failure they loose control of their self and must act as if they were under the confusion spell during their next turn.
 
 _You gain +1 to hit and damage rolls using this magical weapon._
 
@@ -816,7 +816,7 @@ _You gain +1 to your armor class_
 
 **Poison Loaded**: The first attack with _Serpent's Fang_ each turn deals 2d6 additional poision damage. 
 
-**Shield Reaver**: Once a turn when you hit an attack with _Serpent's Fang_ you can spend a charge to inject venom into the target, giving them cramps in their arms. The target must succeed a constitution saving throw (Dc= 10 + proficiency bonus + dex/str modifier) or drop anything in their arms. 
+**Shield Reaver**: Once a turn when you hit an attack with _Serpent's Fang_ you can spend a charge to inject venom into the target, giving them cramps in their arms. The target must succeed a constitution saving throw, dc equals 9 + two times your proficiency bonus, or drop anything in their arms. 
 
 _You gain +1 to attack and damage rolls using this weapon_
 
@@ -961,7 +961,7 @@ _Carve_: Your armor class is reduced by one for every other stack of carve you h
 
 **Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
 
-**Apprehend**: Once a turn when you take the attack action you can spend a charge replace one of you attacks by lunging out a nasty hook with the _Tiamat_. All creatures of your choice in a 30 feet cone must succeed a dexterity saving throw (dc = 9 + proficiency bonus + strength modifier) or are moved to a location of your choice within the area. 
+**Apprehend**: Once a turn when you take the attack action you can spend a charge replace one of you attacks by lunging out a nasty hook with the _Tiamat_. All creatures of your choice in a 30 feet cone must succeed a dexterity saving throw, dc equals 9 + two times your proficiency bonus, or are moved to a location of your choice within the area. 
 
 **Cleave**: Whenever you hit a creature with an attack using _Tiamat_, all enemies within 5 feet of the target takes damage equal to your strength modifier. 
 
@@ -993,7 +993,9 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 - 4500 Gold
 - Breastplate
 
-**Supercharge**: You can dash as a bonus action. At the end of your turn, you reduce the speed of creatures within 5 feet of you an amount equal to half the feet you traveled this turn. Once this action is used, it cannot be used again until 30 seconds pass. 
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest. 
+
+**Supercharge**: You can spend two charges to dash as a bonus action. At the end of your turn, you reduce the speed of creatures within 5 feet of you an amount equal to half the feet you traveled this turn. Once this action is used.
 
 **Health**: You gain maximum health equal to your level. 
 
