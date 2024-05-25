@@ -237,7 +237,7 @@ _You gain +3 to initiative rolls_
 
 **Recharge**: Once a turn when you deal thunder or lightning damage, you recharge one charge on this item.
 
-**Echo**: Whenever you deal lightning or thunder damage to a creature, you can choose to force up to three creatures within 20 feet of the target to roll a dexterity saving throw, DC equals to 11 + twice your proficiency bonus, or take 2d8 thunder damage, halved on a save. 
+**Echo**: Whenever you deal lightning or thunder damage to a creature, you can spend two charges to force up to three creatures within 20 feet of the target to roll a dexterity saving throw, DC equals to 11 + twice your proficiency bonus, or take 2d8 thunder damage, halved on a save. 
 
 **Tempests Servant**: Once a turn whenever you deal lightnig or thunder damage, you can choose to blind them if you deal lightning damage, or deafend them if you deal thuder damage. 
 
