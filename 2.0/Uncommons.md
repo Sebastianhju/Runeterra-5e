@@ -1,6 +1,5 @@
 # Uncommon Magical Items
 
-
 ## Amplifying Tome
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Amplifying Tome.png" Align=right width=8% height=8%>
@@ -279,7 +278,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 **Lightning Conduit**: Whenever you have 100 stacks of _energized_ your next attack against an enemy an enemy with _Ionic Spark_ gives them a _Lighting Mark_.
 
-**Shocking Bolt**: Whenever you hit a creature with a lightning mark, you remove the mark and all creautres within 15 feet must succeed a dexterity saving throw (Dc equals to 8 plus your proficiency bonus plus your dexterity modifier) or take 2d8 lightning damage, halved on a save.
+**Shocking Bolt**: Whenever you hit a creature with a lightning mark, you remove the mark and all creautres within 15 feet must succeed a dexterity saving throw (Dc equals to 8 plus twice your proficiency bonus) or take 2d8 lightning damage, halved on a save.
 
 ---
 
@@ -492,7 +491,7 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's S
 
 **Whirlwind**: Whenever you hit an attack, you gain a stack of whirlwind. You loose all stacks of whirlwind if you dont deal damage for a minute. 
 
-**Crashing Tornado**: When you have three stacks, you next attack is replaced with a tornado that goes in a 15 foot line. Each target in the line must make a dexterity saving throw, dc equals 8 + str/dex + proficiency bonus or take 2d6 thunder damage and be knocked 15 feet airbone, falling to the ground at the end of its next turn. While suspended in the air its speed is 0. A creature takes half damage and are not knocked airborne on a successful save. 
+**Crashing Tornado**: When you have three stacks, you next attack is replaced with a tornado that goes in a 15 foot line. Each target in the line must make a dexterity saving throw, dc equals 8 + twice your proficiency bonus, or take 2d6 thunder damage and be knocked 15 feet airbone, falling to the ground at the end of its next turn. While suspended in the air its speed is 0. A creature takes half damage and are not knocked airborne on a successful save. 
 
 ---
 
@@ -527,6 +526,6 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's S
 
 **Charges**: This item has 4 charges and regain all charges at the end of a long rest. 
 
-**Volley**: You can spend two charges to replace one attack with a volley of spectral arrows in a 30 foot cone. All creatures in the cone must succeed a dexterity saving throw, dc 8+ proficiency bonus + dexterity modifier or take 2d8 force damage, halfed on a save.
+**Volley**: You can spend two charges to replace one attack with a volley of spectral arrows in a 30 foot cone. All creatures in the cone must succeed a dexterity saving throw, dc 8 + twice your proficiency bonus, or take 2d8 force damage, halfed on a save.
 
 ---
