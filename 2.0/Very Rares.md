@@ -118,6 +118,41 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 ---
 
+## Edge of Night
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Edge og Night.png" Align=right width=8% height=8%>
+
+- Wonderous Item
+- Attunement
+
+**Annul**: As an reaction upon begin targeted by a spell that targets you, you can cancel it and gain charges equal to the spells level. You can stack up to a maximum of 30 charges. If you don't have enough charges to contain the spell targeting you, the spell is not canceled. 
+
+**Nightfall**: You can spend charges to cast the following spells on yourself by spendng charges: 
+- (5) Invisibility 
+- (10) Pass without a Trace
+- (20) Greater invisibility
+
+_You gain +2 to all saving throws_ 
+
+---
+
+## Essence Reaver
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Essence Reaver.png" Align=right width=8% height=8%>
+
+- Scimitar (Scythe)
+- Attunement
+
+**Stored Potential**: After casting a spell, your next attack with _Essence Reaver_ has a +2 critically strike chance and deals 2d6 radiant damage on a hit.
+
+**Manacharge**: Whenever you critically hit a creature, you regain a spell slot of a level equal to your proficiency bonus. 
+
+**Critical**: Your crit chance increases by one
+
+_You have +2 to hit and attack rolls using this magical weapon_ 
+
+---
+
 ## Gargoyle Stoneplate
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Gargoyle Stoneplate.png" Align=right width=8% height=8%>
@@ -153,6 +188,25 @@ _You get +2 to unarmed attack and damage rolls_
 
 ---
 
+## Goredrinker
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Goredrinker.png" Align=right width=8% height=8%>
+
+- Morningstar
+- Attunement
+
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest.
+
+**Haste:** Whenever you must spend charges of any other item or rune, you can spend charges from this item instead.
+
+**Thirsting Slash**: Once a turn when you take the attack action, you can replace one of your attacks with a thirsting slash, swinging the Goredrinker around you. All creatures within reach of you must succeed a dexterity saving throw (DC: 10 + dex/str + proficiency bonus) or takes 2d6 bludgeonig damage.
+
+**Lifesteal**: Whenever you deal damage to a target with _Goredrinker_ you heal equal to your proficiency bonus
+
+_You gain +2 to hit and damage rolls with this magical weapon_
+
+---  
+
 ## Heartsteel
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Heartsteel.png" Align=right width=8% height=8%>
@@ -168,6 +222,27 @@ _You get +2 to unarmed attack and damage rolls_
 **Health**: You gain maximum hit points equal to your level. 
 
 _You gain +1 to your armor class_
+
+---
+
+## Hextech Gunblade
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Gunblade.png" Align=right width=8% height=8%>
+
+- Pistol / Scimitar
+- Attunement
+
+**Gunblade**: This weapon can eighter be used as a +2 Pistol or a +2 Scimitar, you gain different benefit from eighter option.
+
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest.
+
+**Recharge**: You regain a charge when you make your first attack with eighter the gun or the blade part after using the other part.
+
+**Hextech Gun**: When you hit an attack with the gun part of this weapon, you can spend two charges to heal yourself and an ally within 15 feet of the target for 2d8 hit points.
+
+**Hextech Blade**: When you hit an attack with the sword part of this weapon you can spend two charges to unleash a burst of energy dealing 2d8 lightning damage to the target. 
+
+_You gain +2 to hit and attack rolls using this magical weapon_
 
 ---
 
@@ -188,6 +263,7 @@ _You gain +2 to initiative rolls_
 
 ---
 
+
 ## Hubris
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hubris.png" Align=right width=8% height=8%>
@@ -199,6 +275,23 @@ _You gain +2 to initiative rolls_
 **Ego**: Once a round when you score a takedown on a creature, a magical statue of yourself is summoned in their place. As long as you can see the statue your first attack each turn have advantage and deals 1d6 additional damage for each statue. Once a minute passes by, the statue is pulverized to dust.
 
 **Mirrors Friend**: You gain +3 to persuation checks and charisma saving throws
+
+---
+
+## Immortal Shieldbow
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Immortal Shieldbow.png" Align=right width=8% height=8%>
+
+- Shortbow
+- Attunement
+
+**Lifeline**: If you would take damage that would make you bloodied, you first gain temporary hit points equal to 10 times your proficiency bonus. As long as you have these temporary hit points, you can make an additional attack as a part of your attack action. Once this effect is used, it cannot be used again until you finish a long rest.
+
+**Lifesteal**: Whenever you hit a target with the _Immortal shieldbow_ you heal equal to your proficieny bonus. 
+
+_While wielding this bow, you gain +2 to hit and attack rolls_
+_While wieldign this bow you gain +1 to your armor class_
+_You gain +2 to inititative checks_
 
 ---
 
@@ -214,6 +307,23 @@ _You gain +2 to initiative rolls_
 **Rebreather**: While wearing Jak'Sho you can breathe in any enviorment and are immune to conditions and damage caused by gass or similar effects. 
 
 **A price paid** Jak'sho requiers a payment for thier symbiosis. When dealing with a situation, the DM might say, "Jak'Sho wants you to ..." Should you disreagard your companion to many times you might make an enemy of them. 
+
+---
+
+## Knight's Vow
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Knight's Vow.png" Align=right width=8% height=8%>
+
+- Wonderous
+- Attunement
+
+**Pledge**: As a ritual during your long rest, you can select an ally to be named _Worthy_. The worthy creature can add 1d6 to all ability checks and saving throws until you select a new _Worthy_ target. 
+
+**Sacrifice**: Whenever the _Worthy_ ally is within 120 feet of you and takes damage, you take half of that damage as nonmigatiable damage and they take half damage instead. Whenever the _Worthy_ ally deals damage to a creature, you heal equal twice to your proficiency bonus, up to a maximum of two times each round. 
+
+**Health**: You gain maximum hit points equal to your level. 
+
+_You get +1 to your armor class_
 
 ---
 
@@ -265,6 +375,24 @@ _You gain +2 to spell attacks and your save dc while attuned to this magical ite
 **Relentless Pursuit**: Once a turn when you dash, blink or teleport you can make a free attack with lightslinger against a creature within range. Whenever you make this free attack, you recharge one charge on this item. 
 
 _You have +2 to hit and damage rolls using this weapon_
+
+---
+
+## Locket of the Iron Solari
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Locket of the Iron Solari.png" Align=right width=8% height=8%>
+
+- Wonderous
+- Attunement
+
+**Charges**: This item has 3 charges and regains all charges when you finish a long rest.
+
+**Haste:** Whenever you must spend charges of any other item or rune, you can spend charges from this item instea
+
+**Devotion**: As an action you can spend one charge to pray for aid and protection over your allies. Up to 6 targets within 60 feet of you gain temporary hit points equal to three times your proficiency bonus. As long as they have the temporary hit points, they can add 1d6 to all d20 roll they make.
+
+_You get +1 to your armor class_
+_You get +1 to your saving throws_
 
 ---
 
