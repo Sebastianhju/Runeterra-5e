@@ -401,6 +401,19 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ---
 
+## Scouts Slingshot
+
+- 400 Gold
+- Crossbow, Hand
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Scouts Slingshot.png" Align=right width=8% height=8%>
+
+**Charges**: This item has 4 charges and regain all charges at the end of a long rest. 
+
+**Bullseye**: Roll one additional damage dice and keep the highest result. You can spend two charges to keep both dice instead.
+
+---
+
 ## Sheen
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sheen.png" Align=right width=8% height=8%>
