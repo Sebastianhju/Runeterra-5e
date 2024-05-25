@@ -560,7 +560,6 @@ _You gain +2 to your armor class while wielding this piece of armor_
 - **Chain Lightning** (10)
 
 **Thunderstorm Table**
-
 |Roll|Effect||Roll|Effect|
 |---|---|---|---|---|
 |1|Lightning strikes down on you. You and all creatures within 10 feet of you must make a dexterity saving throw or take 4d10 lightning damage, halved on a save.||5|You gain resistance to thunder and lightning damage for a minute|
@@ -568,6 +567,7 @@ _You gain +2 to your armor class while wielding this piece of armor_
 |3|The Storm Sigil casts Gaseous Form on you, you can attempt to break out of the effect at the start of your turns by succeding a spellcasting check||7|Thunder booms from your position. All creatures within 60 feet of you are deafend for a minute|
 |4|The Storm Sigil zaps you with a gentle shock. You must make a constitution saving throw or become stunned until the end of your next turn||8|The Storm Sigil regains two charges after the casting of the spell|
 
+_The saving thow and skill check DC equals 12 + your proficiency bonus_
 
 ---
 
