@@ -237,7 +237,7 @@ _You gain +3 to initiative rolls_
 
 **Recharge**: Once a turn when you deal thunder or lightning damage, you recharge one charge on this item.
 
-**Echo**: Whenever you deal lightning or thunder damage to a creature, you can choose to force up to three creatures within 20 feet of the target to roll a dexterity saving throw or take 2d8 thunder damage, halved on a save. 
+**Echo**: Whenever you deal lightning or thunder damage to a creature, you can choose to force up to three creatures within 20 feet of the target to roll a dexterity saving throw, DC equals to 11 + twice your proficiency bonus, or take 2d8 thunder damage, halved on a save. 
 
 **Tempests Servant**: Once a turn whenever you deal lightnig or thunder damage, you can choose to blind them if you deal lightning damage, or deafend them if you deal thuder damage. 
 
@@ -303,7 +303,7 @@ _You gain +3 to your spell attacks and spell save DC_
   
 **Charges**: This item has 4 charges and regains all charges when you finish a long rest.
 
-**Humility**: As a bonus action, you can spend two charges to force all creatures within 5 feet of you to succeed a strength saving throw (dc: 10 + proficiency bonus + constitution modifier). On a failed save they take 3d8 thunder damage and are pushed 60 feet away from you, they take half damage on a save and are not pushed.
+**Humility**: As a bonus action, you can spend two charges to force all creatures within 5 feet of you to succeed a strength saving throw, DC equals to 11 + twice your proficiency bonus. On a failed save they take 3d8 thunder damage and are pushed 60 feet away from you, they take half damage on a save and are not pushed.
 
 **Critical Resilence**: Attacks against you can't critically hit.
 
@@ -361,7 +361,7 @@ _You gian +3 to initiative rolls_
 
 **Charges**: This item has 4 charges and regains all charges when you finish a long rest.
 
-**Pole Swing**: Once a turn when you take the attack action, you can spend two charges to replace one attacks with a heavy swing around you. All creatures within your reach must succeed a dexterity saving throw (DC: 11 + twice your proficiency bonus) or take 3d10 slashing damage.
+**Pole Swing**: Once a turn when you take the attack action, you can spend two charges to replace one attacks with a heavy swing around you. All creatures within your reach must succeed a dexterity saving throw, DC equals to 11 + twice your proficiency bonus, or take 3d10 slashing damage, halved on a save.
 
 **Bitter Cold**: Whenever you deal physical damage, the target takes full damage if they are resistant or immune and they are frostbitten until the end of their turn. 
 
