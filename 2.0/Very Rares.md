@@ -74,6 +74,21 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 ---
 
+## Bloodthirster
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bloodthirster.png" Align=right width=8% height=8%>
+
+- Greatsword
+- Attunement
+
+**Engorge**: While above 50% hit points, your attacks with _Bloodthirster_ deals 2d6 additional damage. 
+
+**Lifesteal**: Once a turn when you hit an attack with _Bloodthirster_ you heal equal to twice your proficiency bonus
+
+_You gain +2 to hit and damage rolls using this magical weapon_
+
+---
+
 ## Bravado
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bravado.png" Align=right width=8% height=8%>
