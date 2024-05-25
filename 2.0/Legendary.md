@@ -166,9 +166,9 @@ _You gain +3 to hit and damage rolls with this magical weapon_
 
 **Charges**: This item has 4 charges and regains all charges when you finish a long rest.
 
-**Frostborn**: You gain immunity to cold damage, and your unarmed attacks deals 2d8 cold damage. 
+**Frostborn**: You gain immunity to cold damage, and your unarmed attacks deals 1d8 additional cold damage. 
 
-**Local Blizzard**: Whenever you hit with a unarmed or weapon attack, you can spend two charges to send out a local blizzard. Until the end of your next turn, a 10ft radius of ice and cold swirls the target. Any enemy creature that starts their turn within the sphere has their movement speed halved and are blinded until the end of their turn.
+**Local Blizzard**: Whenever you hit with a unarmed or weapon attack, you can spend two charges to send out a local blizzard. Until the end of your next turn, a 10ft radius of ice and cold swirls the target. Any enemy creature that starts their turn within the sphere are frostbitten until the end of their turn.
 
 **Health**: You gain maximum hit points equal to two times your level. 
 
@@ -269,9 +269,11 @@ _You gain +3 to spell attacks and your save dc while attuned to this magical ite
 - Arcane Focus
 - Attunement
 
-**Affliction**: Whenever you deal Spell damage to a target, you apply grievous wounds to the target. Whenever you damage a creature that has grievous wounds, you deal 2d6 additional necrotic damage.
+**Charges**: This item has 4 charges and regains all charges when you finish a long res
 
-**Hidden Knowledge**: When you are attuned to this book you can increase two different ability scores by two up to a maximum of 22. 
+**Affliction**: When you deal damage to a creature with grievious wounds, you can spend two charges to curse them with affliction. While cursed with affliction a target can no longer gain hit points or temporary hit points until the curse is liftet trough a remove curse spell.
+
+**Hidden Knowledge**: You can always choose the damage type of any spell you cast.
 
 _You gain +3 to your spell attack rolls and spell save DC_
 
@@ -359,81 +361,11 @@ _You gian +3 to initiative rolls_
 
 **Charges**: This item has 4 charges and regains all charges when you finish a long rest.
 
-**Pole Swing**: Once a turn when you take the attack action, you can replace one attacks to swing _Serylda's Grudge_ around you. All creatures within your reach must succeed a dexterity saving throw (DC: 11 + dex/str + proficiency bonus) or take damage equal to this weapons damage.
+**Pole Swing**: Once a turn when you take the attack action, you can spend two charges to replace one attacks with a heavy swing around you. All creatures within your reach must succeed a dexterity saving throw (DC: 11 + twice your proficiency bonus) or take 3d10 slashing damage.
 
-**Bitter Cold**: Whenever you deal physical damage, the target takes full damage if they are resistant or immune and their movement speed is reduced by 15 feet until the end of their turn. 
+**Bitter Cold**: Whenever you deal physical damage, the target takes full damage if they are resistant or immune and they are frostbitten until the end of their turn. 
 
 _You have +3 to damage and attack rolls using this magical weapon_
-
----
-
-## Statikk Shiv
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Statikk Shiv.png" Align=right width=8% height=8%>
-
-- Dagger
-- Attunement
-
-**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
-
-**Statikk**: Whenver you are at 100 stacks of energized, your next attack with _Statikk Shiv_ deals 3d10 lightning damage. If the attack hits, the lightning spreads to a new target within 30 feet of the original target and you must make a new attack roll to deal 3d10 lightning damage, this lightning continues to spreads to new targets until you miss an attack or there are no new targets.  
-
-**Critical**: Your Critical strike chance increases by two. 
-
-**Speed**: You gain +5 movement speed. 
-
-_You gain +3 hit and damage rolls with this magical weapon_
-
-_You gian +3 to initiative rolls_
-
----
-
-## Sterak's Gage
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sterak's Gage.png" Align=right width=8% height=8%>
-
-- Wonderous Item
-- Attunement
-
-**Catching Claws**: You gain +3 to hit and damage on your unarmed attacks. Whenever you hit an unarmed attack, you can attempt to grapple the target as a free action.
-
-**Lifeline**: If you would take damage that would reduce your hit points to zero, you first gain temporary hit points equal to 10 times your proficiency bonus. As long as you have these temporary hit points, your size increases by one, as if affected by the enlarge spell, and you are immune to all immobilizing effects. Once this effect is used, it cannot be used again until you finish a long rest.
-
-**Health**: You gain maximum hit points equal to twice your level. 
-
----  
-
-## Sundered Sky
-
-- Lance
-- Attunement
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sundered Sky.png" Align=right width=8% height=8%>
-
-**Piercing**: When mounted this lance deals an additional 1d12 damage.
-
-**Health**: Your maximum hit points increases by an amount equal your hit dice
-
-**Charge** When mounted, in the first round of combat, you have advantage on all your attacks.
-
-**Lightshield Strike**: The first time you hit a new creature that day, sundering sky critically hits. 
-
-_You have +3 to attack and damage rolls when using this magical weapon_
-
----
-
-## Sunfire Aegis
-
-- Shield
-- Attunement
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sunfire Aegis.png" Align=right width=8% height=8%>
-
-**Immolate**: As a bonus action you can activate this shield, causing it to burn for a minute. Whenever you end your turn, all enemies within 5 feet of you must succeed a constitution saving throw or take 2d6 + proficiency bonus fire damage, halved on a save, and applies burn. Creatures who are burning takes 4d6 + proficiency bonus fire damage instead. Creatures within 5 feet that attack you while _Immolate_ is enabled suffers the damage without making a saving throw. You can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
-
-**Health**: Your maximum hit points increases by an anount equal to twice your level
-
-_You gain +2 to your armor class while wielding this piece of armor_
 
 ---
 
@@ -465,54 +397,6 @@ _The saving thow and skill check DC 15_
 
 ---
 
-## The Collector
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/The Collector.png" Align=right width=8% height=8%>
-
-- Pepperbox
-- Attunement
-
-**Critical**: Your Critical strike chance increases by two. 
-
-**Death**: If a hit from _The Collector_ would leave a creature below 5% of their maximum hit points, you execute them.
-
-**Taxes**: Whenever you kill a creature you gain gold equal to 50 times your proficiency bonus. 
-
-**Trigger Safety**: When _The Collector_ jams, you can instantly repair _The Collector_ you can do this a number of times equal to your proficiency bonus before you must finish a long rest. 
-
-_You gain +3 to hit and damage rolls using this magical weapon_
-
----
-
-## Thornmail
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Thornmail.png" Align=right width=8% height=8%>
-
-- Chainmail
-
-**Thorns**: Whenever you are damaged by a weapon attack, the attacker takes damage equal to twice your proficiency bonus and gains grievous wounds. 
-
-**Health**: You gain maximum hit points equal to twice your level. 
-
-_You gain +3 to your armor class while wearing this piece of armor_
-
----
-
-## Titanic Hydra
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Titanic Hydra.png" Align=right width=8% height=8%>
-
-- Greataxe
-- Attunemnet
-
-**Cleave**: Your attacks deal 1d6 additional foce damage for every 50th maximum hit points you have in a 15 feet cone, including the target. 
-
-**Health**: You gain maximum hit points equal to twice your level.
-
-_You gain +3 to attack and damage rolls using this weapon_
-
----
-
 ## Trinity Force
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Triforce.png" Align=right width=8% height=8%>
@@ -535,11 +419,13 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 - Breastplate
 - Attunement
 
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest.
+
 **Substain**: The maximum amount of regeneration stacks is increased by your proficiency bonus. 
 
-**Warmogs Heart**: As a bonus action, you can give yourself stacks of regeneration equal to two times your proficiency bonus. You can do this a number of times equal to your proficiency bonus before you must finish a long rest.
+**Warmogs Heart**: As a bonus action, you can spend two charges to give yourself stacks of regeneration equal to two times your proficiency bonus.
 
-**Health**: You gain maximum hit points equal to three times your level. 
+**Health**: You gain maximum hit points equal to two times your level. 
 
 _You get +2 to your armorclass while wearing this magical armor_
 
