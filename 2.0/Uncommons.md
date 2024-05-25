@@ -217,6 +217,18 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ---
 
+## Fated Ashes
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Fated Ashes.png" Align=right width=8% height=8%>
+
+**Charges**: This item has 3 charges and regain all charges at the end of a long rest.
+
+**Inflame**: Once a round when you damage an enemy with a spell, you can spend a charge to apply the burning condition.
+
+**Healing Heat**: Once a round when a creature within 30 feet of you takes damage from the burning condition, you can spend a charge heal equal to your proficiency bonus. 
+
+---
+
 ## Faerie Charm
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Faerie Charm.png" Align=right width=8% height=8%>
@@ -403,10 +415,11 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Scouts Slingshot
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Scouts Slingshot.png" Align=right width=8% height=8%>
+
 - 400 Gold
 - Crossbow, Hand
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Scouts Slingshot.png" Align=right width=8% height=8%>
 
 **Charges**: This item has 4 charges and regain all charges at the end of a long rest. 
 
