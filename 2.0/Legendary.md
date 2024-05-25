@@ -33,23 +33,6 @@ _You gain +3 to hit and attack rolls using this magical weapon_
 
 ---
 
-## Bloodthirster
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bloodthirster.png" Align=right width=8% height=8%>
-
-- Greatsword
-- Attunement
-
-**Engorge**: While above 50% hit points, your attacks with _Bloodthirster_ deals 2d6 additional damage. 
-
-**Lifesteal**: Whenever you hit an attack with _Bloodthirster_ you heal equal to twice your proficiency bonus
-
-**Critical**: Your Critical strike chance increases by two. 
-
-_You gain +3 to hit and damage rolls using this magical weapon_
-
----
-
 ## Crown of the Shattered Queen
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Crown of the Shattered Queen.png" Align=right width=8% height=8%>
