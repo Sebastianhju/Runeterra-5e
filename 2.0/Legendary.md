@@ -40,11 +40,15 @@ _You gain +3 to hit and attack rolls using this magical weapon_
 - Wonderous Item
 - Attunement 
 
-**Safeguard**: Once a round whenever you are about to take damage, safeguard activates and negates all damage taken. Once used it cannot be used again until 30 seconds pass. As long as safeguard is off cooldown, your spells deal 2d6 additional cold damage. 
+**Charges**: This item has 6 charges and regains all charges when you finish a long rest.
 
-**Mana**: You gain +10 maximum mana
+**Recharge**: Whenever you expend a spell slot, this item regains charges equal to half the spells level rounded up. 
 
-**Haste**: The cooldown of your items and runes are reduced with 6 seconds.
+**Haste:** Whenever you must spend charges of any other item or rune, you can spend charges from this item instead.
+
+**Safeguard**: Whenever you are about to take damage while safeguard is not activated, *safeguard* activates and consumes 3 charges, if possible, to half all the damage you take until the start of your turn. 
+
+**Mana**: You gain a spell slot of a level equal to half your proficiency bonus and a spell slots of a spell level equal to your proficiency bonus. 
 
 _You get +3 to your spell attack and spell save dc_
 
