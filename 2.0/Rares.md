@@ -407,7 +407,7 @@ _You get +2 to your arcana and religion checks_
 - 4500 Gold
 - Shield
 
-**Steadfast**: Whenever anyone misses a melee attack roll towards you can spend your reaction to force them to make a dexterity saving throw against your spell save dc or be restrained in ice until the end of their next turn. The ice has an armor class of 10 and hitpoints equal to five times your proficiency bonus, if it is broken they are no longer restrained.
+**Steadfast**: Whenever anyone misses a melee attack roll towards you can spend your reaction to force them to make a dexterity saving throw, dc equals 8 + two times your proficiency, or be restrained in ice until the end of their next turn. The ice has an armor class of 10 and hitpoints equal to five times your proficiency bonus, if it is broken they are no longer restrained.
 
 **Mana**: You gain a spell slot with a level equal to half your proficiency bonus rounded up.
 
