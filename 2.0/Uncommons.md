@@ -38,7 +38,7 @@
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/B.F. Sword.png" Align=right width=8% height=8%>
 
-- 800 Gold
+- 500 Gold
 - Greatsword
 
 **The Bigger the Better**: Whenever you roll for damage with this weapon you may roll one additional damage dice and choose the two higher dice. 
@@ -49,7 +49,7 @@
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Brawler's Gloves.png" Align=right width=8% height=8%>
 
-- 600 Gold
+- 500 Gold
 - Gloves 
 
 **Charges**: This item has 3 charges and regain all charges at the end of a long rest. 
@@ -64,7 +64,7 @@
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cinder Cutlass.png" Align=right width=8% height=8%>
 
-- 800 Gold
+- 500 Gold
 - Scimitar
 
 **Charges**: This item has 3 charges and regain all charges at the end of a long rest. 
@@ -88,7 +88,7 @@
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cloak of Agility.png" Align=right width=8% height=8%>
 
-- 600 Gold
+- 500 Gold
 - Cloak
 
 **Momentery Focus**: As a bonus action you can enter a state of focus. This state of focus counts as concentration and can be broken from the same conditions. While in this state of focus, you gain a boon on all attack rolls and gain +1 critical strike chance. 
@@ -99,7 +99,7 @@
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cloth Armor.png" Align=right width=8% height=8%>
 
-- 600 Gold
+- 500 Gold
 - Studded Leather
 
 **Very Light Fabric**: You don't need to be proficient to wear this armor. 
@@ -150,7 +150,7 @@ _You have +1 to your armor class while wearing this magical armor_
 ## Decisive Sword
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Decisive Sword.png" Align=right width=8% height=8%>
 
-- 700 Gold
+- 600 Gold
 - Greatsword
 
 **Charges**: This item has 3 charges and regain all charges at the end of a long rest. 
@@ -174,7 +174,7 @@ _You have +1 to your armor class while wearing this magical armor_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Ring.png" Align=right width=8% height=8%>
 
-- 600 Gold
+- 500 Gold
 - Wondrous Item, Ring
 
 **Focus**: Whenever you score a takedown, you gain a stack of _Manastore_. Whenever you have 5 stacks of manastore, you regain one spent first level spell slot. 
@@ -185,7 +185,7 @@ _You have +1 to your armor class while wearing this magical armor_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Shield.png" Align=right width=8% height=8%>
 
-- 600 Gold
+- 500 Gold
 - Shield
 
 **Endure**: Once a round when you take damage, you gain two stacks of _regeneration_. 
@@ -197,7 +197,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 ## Earthquake Leggings
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Earthquake Leggings.png" Align=right width=8% height=8%>
 
-- 800 Gold
+- 600 Gold
 - Wondeous
 
 **Charges**: This item has 3 charges and regain all charges at the end of a long rest.
@@ -220,6 +220,9 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 ## Fated Ashes
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Fated Ashes.png" Align=right width=8% height=8%>
+
+- 500 Gold
+- Wondrous
 
 **Charges**: This item has 3 charges and regain all charges at the end of a long rest.
 
@@ -246,7 +249,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dagger.png" Align=right width=8% height=8%>
 
-- 400 Gold
+- 500 Gold
 - Dagger
 
 **Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
@@ -259,7 +262,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ghostcrawlers.png" Align=right width=8% height=8%>
 
-- 400 Gold
+- 500 Gold
 - Wondrous
 
 **Charges**: This item has two charges and regain all charges at the end of a long rest. 
@@ -272,7 +275,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Haunting Guise.png" Align=right width=8% height=8%>
 
-- 600
+- 500
 - Wondrous
 
 **Madness**: Once a turn when you deal or take damage you gain a stack of _Madness_. When you have 3 stacks of madness your gain +1 crit chance for a minute.
@@ -298,7 +301,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Needlessly Large Rod.png" Align=right width=8% height=8%>
 
-- 500 Gold
+- 600 Gold
 - Quarterstaff
 
 **Needlessly Large Spells**: You can choose to have any spell with a radius, cone, cube or similar effect gains an extra 5ft to the size in all dimentions. 
@@ -308,12 +311,14 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 ## Nimbus Staff
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Nimbus Staff.png" Align=right width=8% height=8%>
 
-- 600 Gold
+- 500 Gold
 - Quarterstaff
 
 **Charges**: This item has two charges and regain all charges at the end of a long rest. 
 
 **Crushing Blow**: Whenever you hit a creature with _Nimbus Staff_ you can spend two charges to reduce their armor class by 1 for a minute. 
+
+**Overhead Smash**: Whenever you critically hit with *Nimbus Staff* you deal 1d6 additional bludgeoning damage and recharge two charges. 
 
 ---
 
@@ -331,7 +336,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 ## Peacemaker
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Peacemaker.png" Align=right width=8% height=8%>
 
-- 700 Gold
+- 600 Gold
 - Musket
 
 **Ace**: Whenver you hit an attack, you gain a stack of *Ace*. You gain two stacks if your attack is made against a creature that you are hidden from. 
@@ -343,7 +348,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 ## Pow Pow
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Pow Pow.png" Align=right width=8% height=8%>
 
-- 800 Gold
+- 600 Gold
 - Minigun
 
 **Charging up**: Whenever you make an attack with Pow Pow you gain a stack of **Zap!**, up to a maximum of 6 stacks. For every third stack of **Zap!**, you get a +1 bonus to attack rolls with Pow Pow. While at 6 stack, you can make another attack as a part of the attack action when using Pow Pow. If you don't make an attack with Pow Pow during your turn, you loose two stacks of **Zap!**.
@@ -395,7 +400,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rylai's Crystal Scepter.png" Align=right width=8% height=8%>
 
-- 600 Gold
+- 500 Gold
 - Quarterstaff
 
 **Touch of Cold** When you affect an enemy with a spell, you also reduce their movement speed by 10 feet. You can only target the same creature once with this ability each round. 
@@ -417,7 +422,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Scouts Slingshot.png" Align=right width=8% height=8%>
 
-- 400 Gold
+- 500 Gold
 - Crossbow, Hand
 
 
@@ -431,7 +436,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sheen.png" Align=right width=8% height=8%>
 
-- 700 Gold
+- 500 Gold
 - Scimitar
 
 **Spellblade**: You can choose to use your spellcasting ability modifier for attack and damage rolls. 
@@ -458,7 +463,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stance of the Bear.png" Align=right width=8% height=8%>
 
-- 250 Gold
+- 500 Gold
 - Totem
 - Attunement
 
@@ -512,7 +517,7 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's S
 ## Tempest
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tempest.png" Align=right width=8% height=8%>
 
-- 800 Gold 
+- 600 Gold 
 - Scimitar
 
 **Whirlwind**: Whenever you hit an attack, you gain a stack of whirlwind. You loose all stacks of whirlwind if you dont deal damage for a minute. 
@@ -524,7 +529,7 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's S
 ## Timewinder
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Timewinder.png" Align=right width=8% height=8%>
 
-- 700 Gold
+- 600 Gold
 - Club
 
 **Resonance**: Whenever you damage an enemy with *Timewinder* you apply a stack of Resonance. Whenever you a creature gains three stacks of Resonance, they take 3d6 force damage and you gian gain 30 feet movement speed until the end of your turn. 
@@ -535,7 +540,7 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's S
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Trailblazer.png" Align=right width=8% height=8%>
 
-- 500 Gold
+- 400 Gold
 - Wondrous  
 
 **Speed**: You gain +5 walking speed
@@ -547,7 +552,7 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's S
 ## Wideshot
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Wideshot.png" Align=right width=8% height=8%>
 
-- 800 Gold
+- 600 Gold
 - Longbow
 
 **Charges**: This item has 4 charges and regain all charges at the end of a long rest. 
