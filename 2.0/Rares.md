@@ -906,7 +906,7 @@ _You gain +1 to damage and attack rolls using this weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spirit Visage.png" Align=right width=8% height=8%>
   
-- 4000 Gold
+- 4500 Gold
 - Chainmail
 
 **Boundless Vitality**: Once a turn when heal or gain temporary hit points, you can increase that by an amount equal to your proficiency bonus. 
@@ -935,7 +935,7 @@ _You gain +1 to your armor class while wearing this armor_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stormrazor.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 4500 Gold
 - Rapier
 
 **Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
@@ -952,7 +952,7 @@ _You gain +2 to inititative rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/The Brutalizer.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 4500 Gold
 - Quarterstaff
 
 **Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
@@ -989,7 +989,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/The Collector.png" Align=right width=8% height=8%>
 
 - Pepperbox
-- Attunement
+- 4500 Gold
 
 **Death**: If a hit from _The Collector_ would leave a creature below 5% of their maximum hit points, you execute them.
 
@@ -1052,7 +1052,7 @@ _You get +1 to you spell attack and spell save dc_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Umbral Glaice.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 4500 Gold
 - Glaive
 - Attunement
 
@@ -1086,7 +1086,7 @@ _You have +1 to hit and attack rolls using this weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Verdant Barrier.png" Align=right width=8% height=8%>
 
-- 4000 gold
+- 4500 gold
 - Wondrous
 
 **Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
@@ -1103,7 +1103,7 @@ _You gain +1 to all saving throws_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Voltaic Cyclosword.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 4500 Gold
 - Longsword
 
 **Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
@@ -1142,7 +1142,7 @@ _While wielding this armor you gain +1 to your armor class_
 
 **Haste**: Whenever you must spend charges of any other item or rune, you can spend charges from this item instead. 
 
-**Eye of the Storm**: As a bonus action you can spend a charge give a creature or object you can see temporay hit points equal to four times your proficiency bonus.
+**Eye of the Storm**: As a bonus action you can spend a charge give a creature or object you can see temporay hit points equal to three times your proficiency bonus.
 
 _You gain +1 to attack and damage rolls using this weapon_
 
@@ -1167,7 +1167,7 @@ _While wielding this armor you gain +1 to your armor class_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Zeal.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 4500 Gold
 - Shortsword
 
 **Critical**: Your critical strike chance increases by one.
@@ -1184,7 +1184,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Zeke's Convergence.png" Align=right width=8% height=8%>
 
-- 4500 Gold
+- 4000 Gold
 - Woundrous item
 - Attunement
 
