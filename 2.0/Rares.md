@@ -90,7 +90,7 @@ _You armor class increases with +1 while wearing the Pauldrons_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Abominal Gel.png" Align=right width=8% height=8%>
 
-- xx Gold
+- 4500 Gold
 - Wondrous
 - Attunement
 
@@ -118,7 +118,7 @@ _You gain +1 to spell attack and spell save DC_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Aether Wisp.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 4500 Gold
 - Wondrous Item
 
 **Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
@@ -204,7 +204,7 @@ _You gain +2 to your insight checks_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Banshee's Veil.png" Align=right width=8% height=8%>
 
-- 6000 Gold
+- 5000 Gold
 - Wondrous Item
 
 **Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
@@ -217,7 +217,7 @@ _You gain +2 to your insight checks_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bramblevest.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 4500 Gold
 - Chain Shirt
 - Attunement
 
@@ -231,7 +231,7 @@ _You gain +1 to your armor class_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Blighting Jewel.png" Align=right width=8% height=8%>
 
-- 600 Gold
+- 4500 Gold
 - Wondrous Item
 
 **Void Pen**: Whenever you deal poison, acid or necrotic damage, you turn immunities to that damage type into resistances.
@@ -246,10 +246,10 @@ _You get +1 to your spell attack and spell save dc_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Caulfield's Warhammer.png" Align=right width=8% height=8%>
 
-- 5000 Gold
+- 4500 Gold
 - Warhammer
 
-**Hammering Haste**: Once a round when you hit an attack roll with _Caulfields Warhammer_ you can recharge one cahrge on one rune or item you have. 
+**Hammering Haste**: Once a round when you hit an attack roll with _Caulfields Warhammer_ you can recharge one charge on one rune or item you have. 
 
 _You gain +1 to hit and damage rolls using this magical weapon_
 
@@ -259,7 +259,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Catalyst of Aeons.png" Align=right width=8% height=8%>
 
-- 500 Gold
+- 4500 Gold
 - Wondorous Item
 
 **Eternity**: Whenever you take ten or more damage your regain a spell slot. The spell slots level is one plus another one for every tenth damage taken. Whenever you cast a spell, you regain health equal to two time the spells level.
@@ -325,7 +325,7 @@ _You gain +1 to attack and damage rolls with this weapon_
 
 **Piercing Crystals**: While wearing these Bracers your unarmed attacks have +1 to hit and damage rolls. 
 
-**Healing Crystals**: When you hit an attack with _Crystaslline Bracer_ you can spend a charge to heal equal to two times your proficiency bonus. 
+**Healing Crystals**: When you hit an attack with _Crystaslline Bracer_ you can spend a charge to heal equal to your proficiency bonus. 
 
 ---
 
@@ -347,7 +347,7 @@ _You gain +1 to attack and damage rolls with this weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Demonic Embrace.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 4500 Gold
 - Wondrous
 - Attunement
 
@@ -373,7 +373,7 @@ _You gain +1 to attack and damage rolls with this weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Eclipse.png" Align=right width=8% height=8%>
 
-- Double Edged Scimitar
+- Scimitar
 - 5000 Gold
 
 **Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
@@ -432,7 +432,7 @@ _You get +2 to your arcana and religion checks_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Giants Belt.png" Align=right width=8% height=8%>
 
-- 6000 Gold
+- 4500 Gold
 - Wondrous item
 - Attunement
 
@@ -446,7 +446,7 @@ _You get +2 to your arcana and religion checks_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hearthbound Axe.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 4500 Gold
 - Battleaxe
 
 **Nimble**: Whenever you hit a creature with _Hearthbound Axe_ you gain +10 feet movement speed and don't provoke opportunity attacks until the end of your turn. 
@@ -506,7 +506,7 @@ _You have +1 to attack and damage rolls using this magical weapon._
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Huntress's Javelin.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 5000 Gold
 - Javelin
 
 **Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
@@ -521,7 +521,7 @@ _You have +1 to hit and damage rolls using this magical Weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Imperial Mandate.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 4500 Gold
 - Wondrous
 - Attunement
 
@@ -535,7 +535,7 @@ _You have +1 to hit and damage rolls using this magical Weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Iron Mantle.png" Align=right width=8% height=8%>
 
-- xx Gold
+- 4500 Gold
 - Wondrous
 - Attunement
 
@@ -549,7 +549,7 @@ _You have +1 to hit and damage rolls using this magical Weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Kindlegem.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 4500 Gold
 - Wondrous
 
 **Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
@@ -564,7 +564,7 @@ _You gain +2 to your constitution score, up to a maximum of 22_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Kircheis Shard.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 4500 Gold
 - Spear
 
 **Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
@@ -579,7 +579,7 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lifewell Pendant.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 4500 Gold
 - Wondrous Item
 - Attunement
 
@@ -611,7 +611,7 @@ You gain +1 to spell attack rolls and your saving throw DC.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Maw of Malmortius.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 4500 Gold
 - Longsword
 
 **Elemental Jaws**: At the end of a short rest, you can choose one type of elemental damage type. You gain resistance from that elemental damage until you finish a long rest. Whenever you take that type of damage, _Maw of Malmortius_ deals 1d8/1d10 additional damage of that damage type until the end of your turn.  
@@ -624,7 +624,7 @@ _You have +1 to attack and damage rolls with this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mercurial Scimitar.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 4500 Gold
 - Scimitar
 
 **Charges**: This item has 4 charges and regains all charges when you finish a long rest. 
@@ -724,7 +724,7 @@ _You gain +1 to you spell attacks and spell save DCs_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Phage.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 4500 Gold
 - Maul
 
 **Sturdy**: Once a turn when you hit a creature with phage, you get two stacks of _regeneration_. 
@@ -770,7 +770,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rod of Ages.png" Align=right width=8% height=8%>
 
-- 4500 Gold
+- 5000 Gold
 - Arcane Focus
 - Attunement
 
@@ -788,7 +788,7 @@ _You gain +1 to you spell attack rolls and spell save DC_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Seastone Trident.png" Align=right width=8% height=8%>
 
-- 3500 Gold
+- 4000 Gold
 - Trident
 - Attunement
 
@@ -806,7 +806,7 @@ _You gain +1 to hit and attack rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Seeker's Armguard.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 4500 Gold
 - Wondrous Item
 - Attunement
 
@@ -824,7 +824,7 @@ _You gain +1 to your armor class_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Serpent's Fang.png" Align=right width=8% height=8%>
 
-- 4000 Gold
+- 4500 Gold
 - Shortsword
 
 **Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
@@ -846,7 +846,7 @@ _You gain +1 to attack and damage rolls using this weapon_
 
 **Gouge**: Whenever you deal damage to a creature with temporary hit points using _Serrated Dirk_, you first remove all temporary hit points and deal 2d6 additional damage. 
 
-**Out of Sight**: Once per short rest you can cast the invisible spell on yourself.
+**Out of Sight**: Once a long rest you can cast the invisible spell on yourself.
 
 _You gain +2 to stealth checks_
 
@@ -890,13 +890,13 @@ _You gain +1 to spell attack rolls and save dc_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spear of Shojin.png" Align=right width=8% height=8%>
 
-- 5000 Gold
+- 4500 Gold
 - Spear
 - Attunement
 
 **Dragonforce**: Once a round when you immobilize or slow a creature, you can recharge a charge on a item or rune with charges. 
 
-**Dragging Thrust**: When you take the attack action you can replace one of your attacks with a dragging thrust. Make a melee attack roll targeting an enemy within 15 feet of you, on a hit they take 1d8 additional damage and are pulled 10 feet towards you. 
+**Dragging Thrust**: When you take the attack action you can replace one of your attacks with a dragging thrust. Make a melee attack roll targeting an enemy within 20 feet of you, on a hit they are pulled 15 feet towards you. 
 
 _You gain +1 to damage and attack rolls using this weapon_
 
