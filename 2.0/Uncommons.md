@@ -7,7 +7,7 @@
 - 500 Gold
 - Wondrous 
 
-**Tomes Knowledge**: You can prepare one additional spell from your known spells and can cast it once per long rest without expending a spell slot. 
+**Tomes Knowledge**: You can prepare one additional spell that is at maximum a 4th level spell from your known spells and can cast it once per long rest without expending a spell slot. 
 
 ---
 
