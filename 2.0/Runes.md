@@ -680,8 +680,8 @@ Whenever you drink a potion, you gain additional special effect from each potion
 |Biscuit of Everlasting Will| You regain all hit points and spell slots instantaniously|
 |Potion of Speed| The effects last an additional minute|
 |Potion of Haste| You can recharge the amount of charges again on another item|
-|Potion of Resistance| you become immune for one hour instead|
-|Potion of Giant Strenght| The effect lasts until your next long rest instead|
+|Potion of Resistance| you become resistant to another damage type of your choice|
+|Potion of Giant Strenght| The effect lasts for two hours instead|
 |Potion of Fire Breath| The save DC is increased by an amount equal to your proficiency bonus|
 
 ---
