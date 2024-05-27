@@ -270,7 +270,9 @@ _Wizard, Sorcerer, Warlock, Death Domain_
 |---|---|---|---|---|---|---|
 |3rd|1 Reaction|Self, 10 feet|S|Intantanious|Necrotic|Constitution|
 
-When you are about to take damage, you can use your reaction to turn into a pool of blood, making you untargetable and invulnerable until the end of your turn. You take necrotic damage equal to three times your proficiency bonus. During your turn, you can move around as a blood of pool at half speed. Every creature you move under this turn must make a constitution saving throw or take 1d8 necrotic damage. You heal equal to half the damage dealt this way.
+When you are about to take damage, you can use your reaction to turn into a pool of blood, making you incapacitated, untargetable and invulnerable until the end of your turn. You take necrotic damage equal to three times your proficiency bonus. During your turn, you can move around as a blood of pool at half speed. Every creature you move under this turn must make a constitution saving throw or take 1d8 necrotic damage. You heal equal to half the damage dealt this way.
+
+**At Higher Levels.** When cast at a spell level of 4th or higher, this spell deals 1d8 additional damage for each level above 3rd. 
 
 ---
 
@@ -336,4 +338,16 @@ Text
 **At Higher Levels.**
 
 ---
+
+# Spells to come
+
+Xerath R - lvl 5/6
+Syndra Q - Lvl 1
+Syndra W - Lvl 2
+Syndra E - Lvl 3
+Syndra R - Lvl 5
+Janna Q
+Janna R
+Swain R
+Tahm Kench R
 
