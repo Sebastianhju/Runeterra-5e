@@ -323,6 +323,23 @@ At the start of your next turn all creatures within 20 feet of you must succeed 
 
 **At Higher Levels.** When cast with a spell slot of 6th level or higher, the damage increases by 1d8 for each level above 5th.
 
+---
+
+**Pyroclasm**
+
+_Wizard, Sorcerer, Druid_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|4th| 1 action| 120 feet| V,S,M| Instantanious| Evocation |Dexterity|
+
+You unleash a devastationg torrent of fire towards an enemy you can see within range. The target must succeed a dexterity saving throw or take 6d6 fire damage, halfed on a save. If the target is burning they take 6d6 additional fire damage.
+
+The torrent of fire then bounces to another creature within 30 feet of the target and can target a total of five target. 
+
+**At Higher Levels.** When cast with a spell slot of 5th or higher the damage increases by 1d6 for each level above 5th. 
+
+---
 
 # Format
 
