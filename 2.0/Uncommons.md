@@ -364,9 +364,9 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 - 600 Gold
 - Wondrous Item
 
-**Charges**: This item has 2 charges and regain all charges at the end of a long rest. 
+**Charges**: This item has 3 charges and regain all charges at the end of a long rest. 
 
-**Quicksilver** As a reaction upon begin immobilized you can spend two charges to remove all immobilizing effects and cast lesser restoration on yourself.
+**Quicksilver** As a reaction upon begin immobilized you can spend three charges to remove all immobilizing effects and cast lesser restoration on yourself.
 
 ---
 
