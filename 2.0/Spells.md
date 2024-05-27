@@ -165,7 +165,7 @@ _Ranger, Echo Knight Fighter_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|1st|1 Action|30ft|V,S|Instantanious|Transmutation|
+|1st|1 Action|30ft|V,S|Instantanious|Transmutation|Dexterity|
 
 You dash to a target within range, kicking then using them as leverage to then landi within 15 feet of them. The target must make a dexterity saving throw or are knocked off balance, giving you advantage on your next attack against them this turn, knocking them prone on a hit. You can then make weapon attack against the creature. If the attack hits you deal 1d6 additional damage.
 
