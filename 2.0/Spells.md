@@ -50,6 +50,24 @@ You enhance the bandage in your hands and toss them towards a target that is wit
 
 ---
 
+**Dark Sphere**
+
+_Sorcerer, Wizard, Warlock_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|1st|1 Action|60ft|V,S,M*|Instantanious|Conjuration|Dexterity|
+
+Summon a _Dark Sphere_ at a location you can see within 60 feet of you that lasts for 1 minute. All creatures within 5ft of the Sphere must make a Dexterity saving throw or take 2d8 force damage, halved on a save. A target can take damage from multiple _Dark Spheres_ at the same turn.
+
+This spell synergizes with the 3rd level spell *Force of Will*, the 4th level spell *Scatter the Weak* and the 6th level spell *Unleashed Power*
+
+**At Higher Levels.** When cast with a spell salot of 2nd level or higher, you summon one additional _Dark Sphere_ on another location within range. 
+
+*_Compressed Dark Matter_
+
+---
+
 **Essence Theft**
 
 _Wizard, Sorcerer, Warlock, Bard_
@@ -275,13 +293,29 @@ You summon a dark purple shimmer in a 25 foot square that is 20 foot tall. Allie
 
 ---
 
+**Force of Will**
+
+_Wizard, Sorcerer, Warlock, Druid of the Spores_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|3rd|1 Action|120 feet|V,S|Instantanious|Transmutation|Strength|
+
+Pick up three objects that is small or larger or _Dark Spheres_ within 60ft of you. 
+
+You can then throw the held objects to a location within 120ft of you. All creatures within 10 feet of where the objects landed must make a strenght saving throw or falls prone and takes 2d8 force damage for each object thrown, halved on a save. If any of the thrown item was a _Dark Sphere_ they take 1d8 additional force damage for each _Dark Sphere_. 
+
+**At Higher Levels.** When cast with a spell slot of 4th level or higher, you can pick up one additional object within range. 
+
+---
+
 **Miasma**
 
 _Wizard, Sorcerer, Warlock, Druid of the Spores_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|3rd|1 Action|120 feet|V,S|Instantanious|Evocation|None|
+|3rd|1 Action|120 feet|V,S|Instantanious|Evocation|Constitution|
 
 You throw out three 5ft radius spheres of miasma that stay for one minute, creatures that start their turn in the miasma cannot use any dash, teleport or blink action until the end of their turn. All creatures within the sphere on impact must succeed on a Constitution saving throw or take 4d6 poision damage and are poisioned for a minute, on a sucess they are not poisioned and take half damage. 
 
