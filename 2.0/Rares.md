@@ -207,9 +207,9 @@ _You gain +2 to your insight checks_
 - 5000 Gold
 - Wondrous Item
 
-**Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
+**Charges**: This item has 6 charges and regains all charges when you finish a long rest. 
 
-**Annull**: Whenever you are required to make a saving throw, you can choose to spend three charges and you automaticly succed the saving throw instead. 
+**Annull**: Whenever you are required to make a saving throw, you can choose to spend three charges and you automaticly succed the saving throw instead. If you would take half damage by succeeding the saving throw, you take no damage instead. 
 
 ---
 
