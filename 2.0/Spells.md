@@ -50,6 +50,20 @@ You enhance the bandage in your hands and toss them towards a target that is wit
 
 ---
 
+**Essence Theft**
+
+_Wizard, Sorcerer, Warlock, Bard_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|1st|1 Action|30 feet|V,S|Instantanious|Evocation|Attack/Dexterity|
+
+You send out an arcane orb towards a creature that you can see within range. On a hit the taget takes 2d6 thunder damage. After the attack, the arcane orb lingers behind the target. On your next turn, you can pull the orb towards you as a bonus action. All creatures in a line must succeed a dexterity saving throw or take 2d6 force damage, halved on a save. 
+
+**At Higher Levels.** When cast with a spell slot of 2nd level or higher the damage increases by 1d6 on both parts. 
+
+---
+
 **Sear**
 
 _Wizard, Sorcerer, Druid_
@@ -127,18 +141,17 @@ You drain out the life essence of a creature you can see within range. The targe
 
 ---
 
-**Essence Theft**
+**Vault**
 
-_Wizard, Sorcerer, Warlock, Bard_
+_Ranger, Echo Knight Fighter_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|1st|1 Action|30 feet|V,S|Instantanious|Evocation|Attack/Dexterity|
+|1st|1 Action|30ft|V,S|Instantanious|Transmutation|
 
-You send out an arcane orb towards a creature that you can see within range. On a hit the taget takes 2d6 thunder damage. After the attack, the arcane orb lingers behind the target. On your next turn, you can pull the orb towards you as a bonus action. All creatures in a line must succeed a dexterity saving throw or take 2d6 force damage, halved on a save. 
+You dash to a target within range, kicking then using them as leverage to then landi within 15 feet of them. The target must make a dexterity saving throw or are knocked off balance, giving you advantage on your next attack against them this turn, knocking them prone on a hit. You can then make weapon attack against the creature. If the attack hits you deal 1d6 additional damage.
 
-**At Higher Levels.** When cast with a spell slot of 2nd level or higher the damage increases by 1d6 on both parts. 
-
+**At Higher Levels.** When cast with a spell slot of 2nd or higher, the damage increases by 1d6 for each level above 1st. 
 
 ---
 
@@ -150,7 +163,7 @@ _Wizard, Sorcerer, Bard, Artificer_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|2nd|1 Bonus action|30 feet|V,S,|1 Round|Transmutation|Dexterity|
+|2nd|1 Bonus action|30 feet|V,S|1 Round|Transmutation|Dexterity|
 
 Two nodes appear in the air 15 feet apart and electric energy crackles between them accelerating anything that passes thru. The first time a creature would pass through the gate each round, they gain 30 feet movement speed until the end of its turn. The first allied projectiles that passes through gets advantage on the attack roll.
 
