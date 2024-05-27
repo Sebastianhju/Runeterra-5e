@@ -228,7 +228,7 @@ _Wizard, Sorcerer, Druid_
 |---|---|---|---|---|---|---|
 |3rd|1 Action|90 feet| V,S|Instantanious|Evocation|Dexterity|
 
-You target a creature you can see and fiery cinders conver their skin. The target must succeed a dexterity saving throw or take 9d6 fire damage, halved on a save. If the target is burning, all creautres within 10 feet of it must also succeed a dexterity saving throw or take 9d6 fire damage, halved on a save. 
+You target a creature you can see and fiery cinders conver their skin. The target must succeed a dexterity saving throw or take 10d6 fire damage, halved on a save. If the target is burning, all creautres within 10 feet of it must also succeed a dexterity saving throw or take 10d6 fire damage, halved on a save. 
 
 **At Higher Levels.** When cast with a spell slot of 4th level or higher the damage increases by 1d6 for each level above 3rd. 
 
