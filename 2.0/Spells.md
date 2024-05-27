@@ -339,22 +339,20 @@ When you are about to take damage, you can use your reaction to turn into a pool
 
 ## Fourth Level Spells
 
-**Pyroclasm**
+**Scatter the Weak**
 
-_Wizard, Sorcerer, Druid_
+_Wizard, Sorcerer_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|4th| 1 action| 120 feet| V,S,M| Instantanious| Evocation |Dexterity|
+|4th|1 Action|Self, 15ft|V,S|Instantanious|Evocation|Constitution|
 
-You unleash a devastationg torrent of fire towards an enemy you can see within range. The target must succeed a dexterity saving throw or take 6d6 fire damage, halfed on a save. If the target ais burning they take 6d6 additional fire damage.
+You burst out a loud howl forcing all creatures within 15ft of you to make a constitution saving throw, takind 4d8 force damage on a failure and are pushed 30 feet away from you, halved on a failure. 
 
-The torrent of fire then bounces to another creature within 30 feet of the target and can target a total of five target. 
+If any _Dark Spheres_ are within range, they are pushed 60ft away from you in a straight line. If it is pushed through any creatures, they must succeed a constitution saving throw or takes 8d8 force damage and are stunned until the end of their turn, halved on a save. 
 
-**At Higher Levels.** When cast with a spell slot of 5th or higher the damage increases by 1d6 for each level above 4th. 
+**At Higher Levels.** When cast at a spell level of 5th level the damage increases by 1d8 for each level above 4th. 
 
----
-  
 **Stand United**
 
 _Wizard, Sorcerer, Warlock, Bard, Druid, Cleric, Paladin, Ranger, Artificer_
@@ -399,6 +397,22 @@ You unleash a devastationg torrent of fire towards an enemy you can see within r
 The torrent of fire then bounces to another creature within 30 feet of the target and can target a total of five target. 
 
 **At Higher Levels.** When cast with a spell slot of 5th or higher the damage increases by 1d6 for each level above 5th. 
+
+---
+
+## Sixth Level Spells
+
+**Unleashed Power**
+
+_Wizard, Sorcerer_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|6th|1 Action|120ft|V,S|Instantanious|Evocation|Constitution|
+
+You force your will towards a target you can see and unleash your power towards them. You summon three _Dark Spheres_ and collect all _Dark Spheres_ within 120ft of you. You then unleash them towards your target, forcing them to make a constitution saving throw or take 6d8 + 5 for each _Dark Sphere_ force damage, halved on a save. 
+
+**At Higher Levels.** When cast with a spell slot of 6th level or higher you summon two additional _Dark Spheres_ for each level above 6th
 
 ---
 
