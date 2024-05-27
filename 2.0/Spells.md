@@ -218,6 +218,20 @@ The earth cracks and erupts as void spikes shoot out of the ground in a 10ft dia
 
 ---
 
+**Shield of Durand**
+
+_Cleric, Paladin_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|2nd|1 Action|15ft Sphere|V,S,M|1 Minute (C)|Enchantment|Wisdom|
+
+Holy energy emerges from you in a 15ft sphere. All enemies in range must make a wisdom saving throw. On a failed save they gain disadvantage if they attack any creature other than you for the duration. A creature can make a wisdom saving throw at the end of their turn to get rid of the condition. At the start of your turns, you gain 10 temporary hit points.
+ 
+**At Higher Levels.** When this spell is cast with a spell slot of 3rd level or higher. You gain 5 additional temporary hit points for each level above 2nd.
+
+---
+
 ## Third Level Spells
 
 **Conflagration**
