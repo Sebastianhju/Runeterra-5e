@@ -6,7 +6,7 @@
 
 **Infected Bonesaw**
 
-_Wizard, Sorcerer, Warlock, Death & Grave Domain_
+_Wizard, Sorcerer, Warlock, Cleric (Grave & Death Domain)_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
@@ -115,7 +115,7 @@ You can then give an ally, within 30ft of the blast, stacks of regeneration equa
 
 **Transfusion**
 
-_Wizard, Sorcerer, Warlock, Death & Grave Domain_
+_Wizard, Sorcerer, Warlock, Cleric (Death & Grave Domain)_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
@@ -270,7 +270,7 @@ _Wizard, Sorcerer, Warlock, Death Domain_
 |---|---|---|---|---|---|---|
 |3rd|1 Reaction|Self, 10 feet|S|Intantanious|Necrotic|Constitution|
 
-When you are about to take damage, you can use your reaction to turn into a pool of blood, making you untargetable and invulnerable until the end of your turn. You take necrotic damage equal to three times your proficiency bonus. All enemies within 5 feet of you must then make a Constitution saving throw taking 1d8 necrotic damage, halved on a success. You heal equal to the damage dealt. 
+When you are about to take damage, you can use your reaction to turn into a pool of blood, making you untargetable and invulnerable until the end of your turn. You take necrotic damage equal to three times your proficiency bonus. During your turn, you can move around as a blood of pool at half speed. Every creature you move under this turn must make a constitution saving throw or take 1d8 necrotic damage. You heal equal to half the damage dealt this way.
 
 ---
 
@@ -291,8 +291,7 @@ The torrent of fire then bounces to another creature within 30 feet of the targe
 **At Higher Levels.** When cast with a spell slot of 5th or higher the damage increases by 1d6 for each level above 4th. 
 
 ---
-
-
+  
 **Stand United**
 
 _Wizard, Sorcerer, Warlock, Bard, Druid, Cleric, Paladin, Ranger, Artificer_
@@ -311,7 +310,7 @@ The target needs to be on the same plane of existence as yourself.
 
 **Absolute Zero**
 
-_Wizard, Sorcerer, Warlock, Druid, Ranger, Tempest Domain_
+_Wizard, Sorcerer, Warlock, Druid, Ranger, Cleric (Tempest Domain)_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
