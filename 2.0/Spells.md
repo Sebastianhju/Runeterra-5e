@@ -74,7 +74,7 @@ _Wizard, Sorcerer, Artificer_
 |---|---|---|---|---|---|---|
 |1st|1 Action|30 feet|V,S,M*|Instantanious|Evocation|Attack|
 
-You hurl a ball of condensed force towards a target. If the attack hits the ball sticks too the target and explodes after 12 secounds Dealing 2d6 force damage to all targets within 10ft of the target. If you hit a target that already has a timebomb on them, they both explode and all targets within 10 feet of the target must make a Constitution saving throw or be stunned until the end of their next turn. 
+You hurl a ball of condensed force towards a target. If the attack hits the ball sticks too the target and explodes at the end of your next turn, dealing 2d6 force damage to all targets within 10ft of the target. If you hit a target that already has a timebomb on them, they both explode and all targets within 10 feet of the target must make a Constitution saving throw or be stunned until the end of their next turn. 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6. 
 
