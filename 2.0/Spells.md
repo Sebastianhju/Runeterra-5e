@@ -353,6 +353,8 @@ If any _Dark Spheres_ are within range, they are pushed 60ft away from you in a 
 
 **At Higher Levels.** When cast at a spell level of 5th level the damage increases by 1d8 for each level above 4th. 
 
+---
+
 **Stand United**
 
 _Wizard, Sorcerer, Warlock, Bard, Druid, Cleric, Paladin, Ranger, Artificer_
