@@ -8,8 +8,6 @@
 - [Trolls](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Species.md#trolls)
 - [Yordles](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Species.md#yordles)
 - [Vastaya](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Species.md#vastaya)
-- [Humans](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Species.md#humans)
-- [Minotaurs](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Species.md#minotaurs)
   
 # Trolls
 
@@ -166,21 +164,8 @@
 |Humans are the dominant sapient life forms of Runeterra. While their point of origin on the planet is currently unknown, the majority of human diaspora arrived from either the eastern lands beyond Ionia, Ionia itself, or the Freljord. They have a great variety of appearances, strengths and magical powers. Humans have the chance to be empowered by a variety of magical sources, turning into Ascended, Undead, or Vastayashai’rei. Humans are able to reproduce with Ascended, Vastayashai’rei, and Vastaya, birthing individuals that have some or all of the physical and/or magical abilities of their magically attuned parents. Cyborgs are humans who have augmented themselves by technology, with some individuals going so far as to be completely replace their human body parts with technology, effectively turning into technological Golem.|
 |---|
 
-# Racial Traits
-**Creature Type**: You are a humanoid
-
-**Size:** You are Medium
-
-**Speed**: Your walking speed is 30 feet. 
-
-**Ability Score Improvement**: When determining your character’s ability scores, increase two scores by 1. 
-
-**Languages**: Your character can read, speak and write Va-Nox, and one other Language of your choice
-
-**Skilled**: You are proficient in a skill of your choosing
-
-**Runeterran Born**: You gain a feat of your choice.
-
+**We use the Variant Human from core Dungeons and Dragons
+**
 ---
 
 **You can also select the following races from Dungeons and Dragons:**
