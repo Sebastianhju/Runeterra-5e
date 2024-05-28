@@ -387,6 +387,21 @@ The target needs to be on the same plane of existence as yourself.
 
 ---
 
+**Monsoon**
+
+_Bard, Cleric, Ranger, Druid_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|4th|1 Action|Self, 30ft|V,S|1 Minute (C)|Conjuration|Strenght|
+
+You call upona Monsoon in a 30ft sphere that moves with you. Any tagets of your choice within 30ft of you must make a strength saving throw or are pushed 45 feet away from you. 
+For the next minute, you can spend your bonus action to heal up to two targets (including yourself) witin the Monsoon for 2d8 hit points plus your spellcasting modifier.
+
+**At Higher Levels.** When cast with a spell level of 5th or higher the healing is increased by 1d8 for each level above 4th. 
+
+---
+
 ## Fift Level Spells
 
 **Absolute Zero**
