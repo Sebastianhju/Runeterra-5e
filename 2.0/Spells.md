@@ -221,6 +221,24 @@ As an action you can send out a flow of water, targeting a creature within 30 fe
 
 ---
 
+**Howling Gale**
+
+_Bard, Cleric, Druid, Ranger_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|2nd|1 Action|30/90ft|V,S,M*|1 Round (C)|Conjuration|Strength|
+
+You summon a small tornado that slowly starts to grow in size. When you summon it, do so with the intent of it moving in a straight line in any direction. Whenever you stop concentrating on this spell, the tornado moves in that direction in rapid speed and all creatures in a 30ft line must make a strength saving throw or are knocked 10ft airborne until the end of their turn and takes 3d8 thunder damage, halved on a save. 
+
+If you stop concentrating during the enemies turn, the tornado instead travels for 60ft and knocks then 15ft airborne. If you stop concenctrating during your next turn, the tornado travels for 90ft and knocks then 20ft airborne and deals 1d8 additional thunder damage.
+
+**At Higher Levels.** When cast with a spell slot of 3rd level or higher, the spell deals 1d8 additional damage for each level above 2nd. 
+
+*_Bottled Elf-Sneeze_
+
+---
+
 **Pillar of Flame**
 
 _Wizard, Sorcerer, Druid_
@@ -449,7 +467,6 @@ Text
 
 # Spells to come
 
-Xerath R - lvl 5/6
 Janna Q
 Janna R
 Swain R
