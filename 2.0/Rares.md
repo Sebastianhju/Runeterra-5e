@@ -424,7 +424,9 @@ _You get +2 to your arcana and religion checks_
 - 4500 Gold
 - Shield
 
-**Steadfast**: Whenever anyone misses a melee attack roll towards you can spend your reaction to force them to make a dexterity saving throw, dc equals 9 + two times your proficiency, or be restrained in ice until the end of their next turn. The ice has an armor class of 10 and hitpoints equal to five times your proficiency bonus, if it is broken they are no longer restrained.
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest.
+
+**Steadfast**: Whenever anyone misses a melee attack roll towards you can spend two charges and your reaction to force them to make a dexterity saving throw, dc equals 9 + two times your proficiency, or be restrained in ice until the end of their next turn. The ice has an armor class of 10 and hitpoints equal to five times your proficiency bonus, if it is broken they are no longer restrained.
 
 **Mana**: You gain a spell slot with a level equal to half your proficiency bonus rounded up.
 
