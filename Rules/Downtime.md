@@ -24,7 +24,7 @@ During the weekend you can travel to one of the close settlements to visit the m
 
 ## Gambling
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Gambling.png" Align=Right width=35% height=35%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-FP/DT-Gambling.png" Align=Right width=35% height=35%>
 
 During your downtime you can gamble with the other soliders in the millitary camp. 
 
@@ -44,7 +44,7 @@ The character makes three checks: **Wisdom (Insight)**, **Charisma (Deception)**
 
 ## Crafting
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Crafting.png" Align=Right width=35% height=35%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-FP/DT-Crafting.png" Align=Right width=35% height=35%>
 
 During your downtime you can brew potions or craft mundane weapons and armor for half of their original cost, if you have the proficiency and recepies nessesary. 
 
@@ -91,7 +91,7 @@ The rules around research and skill checks also applies for brewing.
 
 ## Pit Fighting 
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Fighting.png" Align=Right width=35% height=35%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-FP/DT-Fighting.png" Align=Right width=35% height=35%>
 
 Every weekend the millitary meets up for pit fighting. This also includes gambling and money flowing around. 
 
@@ -149,7 +149,7 @@ You can eighter start up your own buisiness or join another buisniess close by.
 
 ## Research
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Research.png" Align=Right width=35% height=35%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-FP/DT-Research.png" Align=Right width=35% height=35%>
 
 Forewarned is forearmed. The research downtime activity allows a character to delve into lore concerning a monster, a location, a magic item, or some other particular topic.
 
@@ -179,7 +179,7 @@ During your downtime you can find yourself a teacher that can learn a new profic
 
 ## Pest Work 
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/DT-Pest.png" Align=Right width=35% height=35%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-FP/DT-Pest.png" Align=Right width=35% height=35%>
 
 During your downtime you can take a part of the pest control in the camp. This downtime is used to gain a small amount of gold, and gaining takedowns during your downtime to stack up a item or rune. You can only stack up a singular item or rune during this downtime activity. 
 
