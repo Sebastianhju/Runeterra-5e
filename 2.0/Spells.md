@@ -414,7 +414,21 @@ _Wizard, Sorcerer_
 
 You force your will towards a target you can see and unleash your power towards them. You summon three _Dark Spheres_ and collect all _Dark Spheres_ within 120ft of you. You then unleash them towards your target, forcing them to make a constitution saving throw or take 6d8 + 5 for each _Dark Sphere_ force damage, halved on a save. 
 
-**At Higher Levels.** When cast with a spell slot of 6th level or higher you summon two additional _Dark Spheres_ for each level above 6th
+**At Higher Levels.** When cast with a spell slot of 7th level or higher you summon two additional _Dark Spheres_ for each level above 6th
+
+---
+
+**Rite of the Arcane**
+
+_Wizard, Sorcerer_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|6th|1 action|300ft|V,S,M|1 round (C)|Evocation|Dexterity|
+
+As an action you channel arcane energy, reducing your speeed to zero for as long as you are concentrating on this spell. You immidiatly shoot out two bolts of arcane energy to two locations within range. All creatures in a 10ft radius sphere must succeed a dexterity saving throow or takes 6d10 lightning damage. During your next turn you can shoot out two more bolts and then the spell ends. 
+
+**At Higher Levels.** When cast with a spell slot of 7th level or higher, all bolts deal 1d10 additional damage. 
 
 ---
 
@@ -436,10 +450,6 @@ Text
 # Spells to come
 
 Xerath R - lvl 5/6
-Syndra Q - Lvl 1
-Syndra W - Lvl 2
-Syndra E - Lvl 3
-Syndra R - Lvl 5
 Janna Q
 Janna R
 Swain R
