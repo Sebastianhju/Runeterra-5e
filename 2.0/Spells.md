@@ -445,11 +445,25 @@ You unleash a devastationg torrent of fire towards an enemy you can see within r
 
 The torrent of fire then bounces to another creature within 30 feet of the target and can target a total of five target. 
 
-**At Higher Levels.** When cast with a spell slot of 5th or higher the damage increases by 1d6 for each level above 5th. 
+**At Higher Levels.** When cast with a spell slot of 6th level or higher the damage increases by 1d6 for each level above 5th. 
 
 ---
 
 ## Sixth Level Spells
+
+**Feast**
+
+_Wizard, Warlock, Cleric (Death and Grave Domain), Druid (Spores)_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|6th|1 Action|Melee|S|Instantanious|Necromancy|Attack|
+
+Your jaw drops and grow into the size of a behemoths. You bite into a creature that is huge or smaller, making an attack roll dealing 6d12 + 20 necrotic damage on a hit. If this attack kills the creature, you gain maximum hit points equal to your level permamently. 
+
+**At Higher Levels.** When cast with a spell slot of 7th level or higher, the damage increases by 1d12 for each level above 6th. 
+
+---
 
 **Unleashed Power**
 
