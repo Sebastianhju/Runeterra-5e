@@ -880,13 +880,13 @@ _You gain +1 to spell attack rolls and save dc_
 - Wondrous
 - Attunement
 
-**Inspirational**: You gain expertise a charisma based skill of your choice. 
+**Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
 
-**Song of Victory** As a bonus action you can hasten your party. Singing a song of victory you grant 6 targets within 30ft of you 60 feet movement speed until the end of their next turn. Once this action is used, it cannot be used again until 36 seconds pass. The cooldown is reduced by 6 whenever you spend a bardic inspiration or cast a spell that targets an ally. 
+**Inspirational**: You gain +2 to persuation, intimidation and deception checks
 
-**Song of Inspiration**: Whenever you target an ally with a spell or grant them bardic inspiration, they also gain 10 feet movement speed until the end of their turn. 
+**Song of Victory** As a bonus action you can spend a charge to hasten your party. Singing a song of victory you grant 6 targets within 30ft of you temporary hit points equal to 3 times your proficiency bonus and 30 feet movement speed until the end of their next turn. 
 
-**Mana regeneration**: Whenever you take a short rest and spend at least 1 hit dice, you regain mana equal to twice your proficiency bonus.
+**Song of Inspiration**: Whenever you target an ally with a spell or grant them bardic inspiration, they also gain 10 feet movement speed until the end of their turn. And you regain one charge on this item.
 
 ---
 
