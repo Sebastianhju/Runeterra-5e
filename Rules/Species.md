@@ -164,8 +164,8 @@
 |Humans are the dominant sapient life forms of Runeterra. While their point of origin on the planet is currently unknown, the majority of human diaspora arrived from either the eastern lands beyond Ionia, Ionia itself, or the Freljord. They have a great variety of appearances, strengths and magical powers. Humans have the chance to be empowered by a variety of magical sources, turning into Ascended, Undead, or Vastayashai’rei. Humans are able to reproduce with Ascended, Vastayashai’rei, and Vastaya, birthing individuals that have some or all of the physical and/or magical abilities of their magically attuned parents. Cyborgs are humans who have augmented themselves by technology, with some individuals going so far as to be completely replace their human body parts with technology, effectively turning into technological Golem.|
 |---|
 
-**We use the Variant Human from core Dungeons and Dragons
-**
+**We use the Variant Human from core Dungeons and Dragons**
+
 ---
 
 **You can also select the following races from Dungeons and Dragons:**
