@@ -2,7 +2,7 @@
 
 ## Amplifying Tome
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Amplifying Tome.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Amplifying Tome.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Wondrous 
@@ -12,7 +12,7 @@
 ---
 
 ## Amulet of Manashield
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Amulet of Manashield.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Amulet of Manashield.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Wondrous
@@ -25,7 +25,7 @@
 
 ## Blasting Wand
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Blasting Wand.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Blasting Wand.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Arcane Focus
@@ -36,7 +36,7 @@
 
 ## B.F. Sword
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/B.F. Sword.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/B.F. Sword.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Greatsword
@@ -47,7 +47,7 @@
 
 ## Brawlers gloves
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Brawler's Gloves.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Brawler's Gloves.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Gloves 
@@ -62,7 +62,7 @@
 
 ## Cinder Cutlass
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cinder Cutlass.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Cinder Cutlass.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Scimitar
@@ -75,7 +75,7 @@
 
 ## Cleaving Longsword
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Long Sword.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Long Sword.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Longsword
@@ -86,7 +86,7 @@
 
 ## Cloak of Agility
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cloak of Agility.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Cloak of Agility.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Cloak
@@ -97,7 +97,7 @@
 
 ## Cloth Armor
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cloth Armor.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Cloth Armor.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Studded Leather
@@ -110,7 +110,7 @@ _You have +1 to your armor class while wearing this magical armor_
 
 ## Cosmic Drive
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cosmic Drive.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Cosmic Drive.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Wondrous Item, Helmet
@@ -121,7 +121,7 @@ _You have +1 to your armor class while wearing this magical armor_
 
 ## Cull 
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Cull.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Cull.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Scythe (Scimitar)
@@ -135,7 +135,7 @@ _You have +1 to your armor class while wearing this magical armor_
 
 ## Dark Seal
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dark Seal.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Dark Seal.png" Align=right width=8% height=8%>
 
 - 1000 Gold
 - Wondrous Item, Ring
@@ -148,7 +148,7 @@ _You have +1 to your armor class while wearing this magical armor_
 ---
 
 ## Decisive Sword
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Decisive Sword.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Decisive Sword.png" Align=right width=8% height=8%>
 
 - 600 Gold
 - Greatsword
@@ -161,7 +161,7 @@ _You have +1 to your armor class while wearing this magical armor_
 
 ## Dorans Blade
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Blade.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Dorans Blade.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Shortsword
@@ -172,7 +172,7 @@ _You have +1 to your armor class while wearing this magical armor_
 
 ## Dorans Ring
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Ring.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Dorans Ring.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Wondrous Item, Ring
@@ -183,7 +183,7 @@ _You have +1 to your armor class while wearing this magical armor_
 
 ## Dorans Shield
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dorans Shield.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Dorans Shield.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Shield
@@ -195,7 +195,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 ---
 
 ## Earthquake Leggings
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Earthquake Leggings.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Earthquake Leggings.png" Align=right width=8% height=8%>
 
 - 600 Gold
 - Wondeous
@@ -208,7 +208,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Executioners Calling
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Executioner's CAlling.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Executioner's CAlling.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Long Sword
@@ -219,7 +219,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Fated Ashes
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Fated Ashes.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Fated Ashes.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Wondrous
@@ -234,7 +234,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Faerie Charm
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Faerie Charm.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Faerie Charm.png" Align=right width=8% height=8%>
 
 - 400 Gold
 - Wondrous Item
@@ -247,7 +247,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Galvanic Dagger
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dagger.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Dagger.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Dagger
@@ -260,7 +260,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Ghostcrawlers
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ghostcrawlers.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Ghostcrawlers.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Wondrous
@@ -273,7 +273,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Haunting Guise
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Haunting Guise.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Haunting Guise.png" Align=right width=8% height=8%>
 
 - 500
 - Wondrous
@@ -284,7 +284,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Ionic Spark
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/IonicSpark.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/IonicSpark.png" Align=right width=8% height=8%>
 
 - 600 Gold
 - Shortbow
@@ -299,7 +299,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Needlessly Large Rod
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Needlessly Large Rod.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Needlessly Large Rod.png" Align=right width=8% height=8%>
 
 - 600 Gold
 - Quarterstaff
@@ -309,7 +309,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 ---
 
 ## Nimbus Staff
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Nimbus Staff.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Nimbus Staff.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Quarterstaff
@@ -324,7 +324,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Null-Magic Mantle
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Null-Magic Mantle.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Null-Magic Mantle.png" Align=right width=8% height=8%>
 
 - 600 Gold
 - Cloak
@@ -334,7 +334,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 ---
 
 ## Peacemaker
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Peacemaker.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Peacemaker.png" Align=right width=8% height=8%>
 
 - 600 Gold
 - Musket
@@ -346,7 +346,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 ---
 
 ## Pow Pow
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Pow Pow.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Pow Pow.png" Align=right width=8% height=8%>
 
 - 600 Gold
 - Minigun
@@ -359,7 +359,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Quicksilver Sash
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Quicksilver Sash.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Quicksilver Sash.png" Align=right width=8% height=8%>
 
 - 600 Gold
 - Wondrous Item
@@ -372,7 +372,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Rejuvenation Bead
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rejuvenation Bead.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Rejuvenation Bead.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Wonderous Item
@@ -387,7 +387,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Ruby Crystal
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ruby Crystal.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Ruby Crystal.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Wonderous Item
@@ -398,7 +398,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Rylai's Crystal Scepter
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rylai's Crystal Scepter.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Rylai's Crystal Scepter.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Quarterstaff
@@ -409,7 +409,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Sapphire Crystal
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sapphire Crystal.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Sapphire Crystal.png" Align=right width=8% height=8%>
 
 - 600 Gold
 - Wonderous item
@@ -420,7 +420,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Scouts Slingshot
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Scouts Slingshot.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Scouts Slingshot.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Crossbow, Hand
@@ -434,7 +434,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Sheen
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sheen.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Sheen.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Scimitar
@@ -447,7 +447,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Spellthive's Edge
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spellthiefs%20Edge.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Spellthiefs%20Edge.png" Align=right width=8% height=8%>
 
 - 500 gold
 - Dagger
@@ -461,7 +461,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Stance of the Bear
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stance of the Bear.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Stance of the Bear.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Totem
@@ -475,7 +475,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Steel Shoulderguards
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Steel Shoulderguards.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Steel Shoulderguards.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Wonderous Item
@@ -489,7 +489,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Stopwatch
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stopwatch.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Stopwatch.png" Align=right width=8% height=8%>
 
 - 400 Gold
 - Wonderous Item
@@ -500,7 +500,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Tear of the Goddess
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tear of the Goddess.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Tear of the Goddess.png" Align=right width=8% height=8%>
 
 - 700 Gold
 - Wondrous Item
@@ -515,7 +515,7 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's S
 ---
 
 ## Tempest
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tempest.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Tempest.png" Align=right width=8% height=8%>
 
 - 600 Gold 
 - Scimitar
@@ -527,7 +527,7 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's S
 ---
 
 ## Timewinder
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Timewinder.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Timewinder.png" Align=right width=8% height=8%>
 
 - 600 Gold
 - Club
@@ -538,7 +538,7 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's S
 
 ## Trailblazer
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Trailblazer.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Trailblazer.png" Align=right width=8% height=8%>
 
 - 400 Gold
 - Wondrous  
@@ -550,7 +550,7 @@ _Upgrade_: When the tear is fully stacked, it can be upgraded into Archangel's S
 ---
 
 ## Wideshot
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Wideshot.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Wideshot.png" Align=right width=8% height=8%>
 
 - 600 Gold
 - Longbow
