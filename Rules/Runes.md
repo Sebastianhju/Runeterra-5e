@@ -689,10 +689,8 @@ Whenever you drink a potion, you gain additional special effect from each potion
 ### Jack of All Trades  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Jack of All Trades.png" Align=left width=7% height=7%>
 
 Whenever you deal damage with a new damage type, you gain a stack of *Jack*. Giving you the following effects:
-- 4 Stacks: You get +1 to all ability checks
-- 8 Stacks: You get +1 to all saving throws
-- 12 Stacks: You get an additional +1 to all ability checks and saving throws.
-
-
+- **4 Stacks**: You get +1 to all ability checks
+- **8 Stacks**: You get +1 to all saving throws
+- **12 Stacks**: You get an additional +1 to all ability checks and saving throws.
 
 ---
