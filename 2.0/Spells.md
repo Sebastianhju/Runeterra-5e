@@ -459,7 +459,7 @@ _Wizard, Warlock, Cleric (Death and Grave Domain), Druid (Spores)_
 |---|---|---|---|---|---|---|
 |6th|1 Action|Melee|S|Instantanious|Necromancy|Attack|
 
-Your jaw drops and grow into the size of a behemoths. You bite into a creature that is huge or smaller, making an attack roll dealing 6d12 + 20 necrotic damage on a hit. If this attack kills the creature, you gain maximum hit points equal to your level permamently. 
+Your jaw drops and grow into the size of a behemoths. You bite into a creature that is huge or smaller, making an attack roll dealing 5d12 + 20 necrotic damage on a hit. If this attack kills the creature, you gain maximum hit points equal to your level permamently. 
 
 **At Higher Levels.** When cast with a spell slot of 7th level or higher, the damage increases by 1d12 for each level above 6th. 
 
