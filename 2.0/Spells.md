@@ -429,7 +429,7 @@ _Sorcerer, Warlock_
 
 You turn into a demonic version of yourself and winds of dread surround you and all creatures within 20ft of you, you can choose up to five creatures that are unaffected by the spell. Any creature that starts their turn within you range must make a constitution saving throw or takes 5d8 necrotic damage, halved on a save. Whenever a creature fails their saving throw, you heal equal to half the damage dealt.
 
-**At Higher Levels.**
+**At Higher Levels.** When cast with a spell slot of 6th level or higher the damage increases by 1d8 for each level above 5th.
 
 ---
 
