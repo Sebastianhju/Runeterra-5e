@@ -98,6 +98,8 @@ _You armor class increases with +1 while wearing the Pauldrons_
 
 _You gain +1 to spell attack and spell save DC_
 
+---
+
 ## Abyssal Mask
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Abyssal Mask.png" Align=right width=8% height=8%>
@@ -121,11 +123,11 @@ _You gain +1 to spell attack and spell save DC_
 - 4500 Gold
 - Wondrous Item
 
-**Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest. 
 
 **Recharge**: If you end your turn after moving atleast 45ft, you can replenish one charge on this item.
 
-**Spectral Might**: Whenever you deal damage you can spend any amount of charges to deal 1d6 additional damage for each charge spent.
+**Spectral Might**: Whenever you deal damage you can spend a minimum of two charges to deal 1d6 additional damage for every other charge spent.
 
 _You get +1 to your spell attack and spell save dc_
 
