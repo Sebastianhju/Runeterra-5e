@@ -463,7 +463,7 @@ _You gain +2 to attack and damage rolls using this weapon_
 - Wonderous Item
 - Attunement
 
-**Guiding Light**: When you cast a spell of your highest spell level, you gain additional maximum hit points equal to three times the spells level. Additionally you heal yourself and all allies within 30 feet of you an amount equal to three times the spells level. 
+**Guiding Light**: When you cast a spell of your highest spell level, you gain additional maximum hit points equal to three times the spells level for a minute. Additionally you heal yourself and all allies within 30 feet of you an amount equal to three times the spells level. 
 
 **Health**: You gain maximum hit points equal to two times your level. 
 
