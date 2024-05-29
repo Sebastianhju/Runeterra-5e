@@ -5,7 +5,7 @@
 - 300 Gold
 - Wonderous Item
 
-Your movement speed increases by 10 feet.
+Your movement speed increases by 5 feet.
 
 _Can be upgradet to greater boots for 600 gold._
 
@@ -18,7 +18,7 @@ _Can be upgradet to greater boots for 600 gold._
 - 900 Gold
 - Wonderous Item
 
-Your movement speed increases by 20 feet
+Your movement speed increases by 15 feet
 
 ---
 
