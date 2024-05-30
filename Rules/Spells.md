@@ -510,8 +510,7 @@ Text
 
 # Spells to come
 
-Janna Q
-Janna R
-Swain R
-Tahm Kench R
+- Renata R
+- Illaoi R
+- Vel'Koz R
 
