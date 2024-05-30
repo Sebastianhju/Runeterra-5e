@@ -205,7 +205,7 @@ Once a turn when you damage a creature that has a negative condition, you can ch
 
 **Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
 
-Once a turn when you damage a creature you can choose to spend two charges to heal equal to four times your proficiency bonus. 
+Once a turn when you damage a creature you can choose to spend two charges to heal equal to three times your proficiency bonus. 
 
 ---
 ### Sudden Impact <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Domination/SuddenImpact.png" Align=left width=7% height=7%>
@@ -351,12 +351,12 @@ Whenever you take the dash action, you can spend two charges to take the form of
 
 ### Transcendence  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Sorcery/Transcendence.png" Align=left width=7% height=7%>
 
-**Charges**: This item has an amount of charges equal to your proficiency bonus. You regain all charges whenever you finish a long rest. 
+**Charges**: This item has two charges. You regain all charges whenever you finish a long rest. 
 
 **Haste**: Whenever you must spend charges of any other item or rune, you can spend charges from this item instead. 
 
 **Headhunter** Whenever you score a _takedown_, you gain a stack of Trancendence. Whenever you have 30 stacks you gain the following benefits:
-- **Tons of Charges**: This item has an amount of charges equal to twice your proficiency bonus. You regain all charges whenever you finish a long rest. _(This feature replaces the initial **Charges**)_
+- **Tons of Charges**: This item has five. You regain all charges whenever you finish a long rest. _(This feature replaces the initial **Charges**)_
 
 ---
 
@@ -445,7 +445,7 @@ Once per combat when you or an ally within 30 feet of you takes damage, before y
 
 ### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=15% height=15%>
 
-Once a turn when you damage an enemy or take damage from an enemy, you gain a stack of Grasp. When you are at three stacks, your next attack deals additional 1d6 + proficiency necrotic damage. You heal equal to the damage dealt from this effect.
+Once a round when you damage an enemy and once a round when you take damage from an enemy, you gain a stack of Grasp. When you are at three stacks, your next damaging effect deals additional 1d6 + proficiency necrotic damage. You heal equal to the damage dealt from this effect.
 
 In addition you gain a stack of Undying whenever you drain an opponent using this ability. When you gain 10 stacks you gain maximum hit points equal to your level, and then again for every 25th stack.
 
@@ -501,7 +501,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 **Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
 
-Whenever you take damage you can spend two charges to reduce the damage by an amount equal to five times your proficiency bonus. You can only do this once per instance of damage. 
+Whenever you take damage you can spend two charges to reduce the damage by an amount equal to four times your proficiency bonus. You can only do this once per instance of damage. 
 
 ---
 
