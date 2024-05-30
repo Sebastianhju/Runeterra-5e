@@ -313,7 +313,7 @@ You summon a dark purple shimmer in a 25 foot square that is 20 foot tall. Allie
 
 **Force of Will**
 
-_Wizard, Sorcerer, Warlock, Druid of the Spores_
+_Wizard, Sorcerer, Warlock_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
@@ -425,7 +425,7 @@ _Sorcerer, Warlock_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|5th|1 Action|Self, 20ft|V,S|1 Minute|Necromancy|Constitution|
+|5th|1 Action|Self, 20ft|V,S|1 Minute(C)|Necromancy|Constitution|
 
 You turn into a demonic version of yourself and winds of dread surround you and all creatures within 20ft of you, you can choose up to five creatures that are unaffected by the spell. Any creature that starts their turn within you range must make a constitution saving throw or takes 5d8 necrotic damage, halved on a save. Whenever a creature fails their saving throw, you heal equal to half the damage dealt.
 
@@ -453,7 +453,7 @@ The torrent of fire then bounces to another creature within 30 feet of the targe
 
 **Feast**
 
-_Wizard, Warlock, Cleric (Death and Grave Domain), Druid (Spores)_
+_Wizard, Warlock, Cleric (Death and Grave Domain), Druid_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
@@ -467,7 +467,7 @@ Your jaw drops and grow into the size of a behemoths. You bite into a creature t
 
 **Unleashed Power**
 
-_Wizard, Sorcerer_
+_Wizard, Sorcerer, Warlock_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
