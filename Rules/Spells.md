@@ -487,7 +487,7 @@ _Wizard, Sorcerer_
 |---|---|---|---|---|---|---|
 |6th|1 action|300ft|V,S,M|1 round (C)|Evocation|Dexterity|
 
-As an action you channel arcane energy, reducing your speeed to zero for as long as you are concentrating on this spell. You immidiatly shoot out two bolts of arcane energy to two locations within range. All creatures in a 10ft radius sphere must succeed a dexterity saving throow or takes 6d10 lightning damage and are buzzed, halfed on a save. During your next turn you can shoot out two more bolts and then the spell ends. 
+As an action you channel arcane energy, reducing your speeed to zero for as long as you are concentrating on this spell. You immidiatly shoot out three bolts of arcane energy towards targets within range. Make an attackroll dealing 4d10 lightning damage on a hit, *Buzzing* the target. During your next turn you can shoot out three more bolts and then the spell ends. 
 
 **At Higher Levels.** When cast with a spell slot of 7th level or higher, all bolts deal 1d10 additional damage. 
 
