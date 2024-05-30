@@ -485,7 +485,7 @@ _Wizard, Sorcerer_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|6th|1 action|300ft|V,S,M|1 round (C)|Evocation|Dexterity|
+|6th|1 action|300ft|V,S,M|1 round (C)|Evocation|Attack|
 
 As an action you channel arcane energy, reducing your speeed to zero for as long as you are concentrating on this spell. You immidiatly shoot out three bolts of arcane energy towards targets within range. Make an attackroll dealing 4d10 lightning damage on a hit, *Buzzing* the target. During your next turn you can shoot out three more bolts and then the spell ends. 
 
