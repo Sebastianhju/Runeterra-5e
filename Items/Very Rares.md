@@ -296,6 +296,8 @@ _You gain +2 to initiative rolls_
 
 _You gain +2 to attack and damagerolls using this weapon_
 
+---
+
 ## Immortal Shieldbow
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Immortal Shieldbow.png" Align=right width=8% height=8%>
