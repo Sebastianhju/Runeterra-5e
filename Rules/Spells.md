@@ -401,6 +401,20 @@ The target needs to be on the same plane of existence as yourself.
 
 ---
 
+**Test of Spirit**
+
+_Warlock, Cleric_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|4th|1 Bonus Action|30 feet|V,S|1 Minute|Conjuratoin|Constitution|
+
+You launch a tendril towards a target you can see within 30 feet of you, the target must save a constitution saving throw, on a failure their spirit is pulled in front of you and you summon a Elder God Tentacle within 15ft of you, on a save you only summon the tentacle. The spirit has an armor class of 10, fails all saving throws automaticly and hit points equal to ten times the spell slot spent to cast this spell. Whenever the _Spirit_ takes damage, the original target suffers half the damage dealt to the vessel. When the vessel dies, all tentacles you've summoned gains 60ft reach and can spend their reaction to make an attack against the original target.
+
+**At Higher Levels.** When cast wiht a spell slot of 5th level or higher, you summon one additional tentacle for each level above 4th.
+
+---
+
 **Monsoon**
 
 _Bard, Cleric, Ranger, Druid_
