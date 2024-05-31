@@ -122,6 +122,8 @@ _Warlock, Cleric_
 
 Call upon the Elder Gods and summon a tentacle at a point you can see within range. The tentacle has hit points equal to 5 plus 5 times your level and AC equal to 12 plus your proficiency bonus. During your turn you can spend your bonus action to command all Tentacles to strike an enemy within their reach.
 
+You can have a maximum of tentacels equal to your proficiency bonus.
+
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you summon another Tentacle at a point within range for every other level above 1st. (3,5,7,9)
 
 ---
@@ -407,7 +409,7 @@ _Warlock, Cleric_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|4th|1 Bonus Action|30 feet|V,S|1 Minute|Conjuratoin|Constitution|
+|4th|1 Bonus Action|30 feet|V,S|1 Minute(c)|Conjuratoin|Constitution|
 
 You launch a tendril towards a target you can see within 30 feet of you, the target must save a constitution saving throw, on a failure their spirit is pulled in front of you and you summon a Elder God Tentacle within 15ft of you, on a save you only summon the tentacle. The spirit has an armor class of 10, fails all saving throws automaticly and hit points equal to ten times the spell slot spent to cast this spell. Whenever the _Spirit_ takes damage, the original target suffers half the damage dealt to the vessel. When the vessel dies, all tentacles you've summoned gains 60ft reach and can spend their reaction to make an attack against the original target.
 
@@ -529,7 +531,7 @@ _Warlock, Cleric_
 |---|---|---|---|---|---|---|
 |6th|1 action|30ft|V,S|1 minute|Transmutation|---|
 
-You leap into the air and slam down to the ground. For each enemy within 30ft of you, you can summon an Elder God Tentacle anywhere within range. For the next minute, all of your tentacles deals 1d8 additional damage, and have 60ft reach. Additionally thei heal themselves and you for two times proficiency bonus. 
+You leap into the air and slam down to the ground. For each enemy within 30ft of you, you can summon an Elder God Tentacle anywhere within range. The cap is hightened to two times your proficiency bonus. For the next minute, all of your tentacles deals 1d8 additional damage, and have 60ft reach. Additionally thei heal themselves and you for two times proficiency bonus. 
 
 ---
 
