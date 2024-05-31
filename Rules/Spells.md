@@ -98,6 +98,20 @@ You launch a bolt of fire towards a target you can see within range. If the atta
 
 ---
 
+**Summon Elder God Tentacle**
+
+_Warlock, Cleric_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|1st|1 Action|60 feet|V,S|Instantanious|Conjuration|---|
+
+Call upon the Elder Gods and summon a tentacle at a point you can see within range. The tentacle has hit points equal to 5 plus 5 times your level and AC equal to 12 plus your proficiency bonus. It acts during your turns.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you summon another Tentacle at a point within range for each level above 1st.
+
+---
+
 **Time Bomb**
 
 _Wizard, Sorcerer, Artificer_
