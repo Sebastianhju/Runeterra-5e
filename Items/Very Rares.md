@@ -278,6 +278,20 @@ _You gain +2 to initiative rolls_
 
 ---
 
+## Idol of Nagakabouros
+
+- 10,000 Gold
+- Morningstar
+- Attunement
+
+**Charges**: This item has 4 charges and regain all charges when you finish a long rest. 
+
+**Harsh Lesson**: Once a turn when you make an attack against a creature that is within reach of one or more of your tentacles. All tentacles within reach can make an attack against that target.
+
+**Tentacle Smash**: As a bonus action, you can spend two charges to slam down a large tentacle from the Idol in a 15ft long line. All creatures in the line must make a constitution saving throw, DC equal to 10 plus twice your proficiency, or takes 1d8 force damage. You heal equal to your proficiency bonus for each target hit.
+
+_You gain +2 to attack and damagerolls using this weapon_
+
 ## Immortal Shieldbow
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Immortal Shieldbow.png" Align=right width=8% height=8%>
