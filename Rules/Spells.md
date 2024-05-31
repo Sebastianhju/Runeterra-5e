@@ -82,6 +82,20 @@ You send out an arcane orb towards a creature that you can see within range. On 
 
 ---
 
+**Rewind**
+
+_Wizard, Sorcerer, Artificer_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|1st|1 Bonus Action|30 feet|S|Instantanious|Abjuration|None|
+
+You target a creature you can see within reach and time rewinds around them. They recharge a charge on any item or rune they have.  
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can replenish another charge for each level above 1st level.  
+
+---
+
 **Sear**
 
 _Wizard, Sorcerer, Druid_
@@ -104,41 +118,11 @@ _Warlock, Cleric_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|1st|1 Action|60 feet|V,S|Instantanious|Conjuration|---|
+|1st|1 Action|60 feet|V,S|1 minute|Conjuration|---|
 
-Call upon the Elder Gods and summon a tentacle at a point you can see within range. The tentacle has hit points equal to 5 plus 5 times your level and AC equal to 12 plus your proficiency bonus. It acts during your turns.
+Call upon the Elder Gods and summon a tentacle at a point you can see within range. The tentacle has hit points equal to 5 plus 5 times your level and AC equal to 12 plus your proficiency bonus. During your turn you can spend your bonus action to command all Tentacles to strike an enemy within their reach.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you summon another Tentacle at a point within range for each level above 1st.
-
----
-
-**Time Bomb**
-
-_Wizard, Sorcerer, Artificer_
-
-|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
-|---|---|---|---|---|---|---|
-|1st|1 Action|30 feet|V,S,M*|Instantanious|Evocation|Attack|
-
-You hurl a ball of condensed force towards a target. If the attack hits the ball sticks too the target and explodes at the end of your next turn, dealing 2d6 force damage to all targets within 10ft of the target. If you hit a target that already has a timebomb on them, they both explode and all targets within 10 feet of the target must make a Constitution saving throw or be stunned until the end of their next turn. 
-
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6. 
-
-*_A watch_
-
----
-
-**Rewind**
-
-_Wizard, Sorcerer, Artificer_
-
-|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
-|---|---|---|---|---|---|---|
-|1st|1 Bonus Action|30 feet|S|Instantanious|Abjuration|None|
-
-You target a creature you can see within reach and time rewinds around them. They recharge a charge on any item or rune they have.  
-
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can replenish another charge for each level above 1st level.  
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you summon another Tentacle at a point within range for every other level above 1st. (3,5,7,9)
 
 ---
 
@@ -156,6 +140,22 @@ You can then give an ally, within 30ft of the blast, stacks of regeneration equa
 
 
 **At Higher Levels.** When cast with a spell slot of 2nd level or higher, the damage increases by 1d6. 
+
+---
+
+**Time Bomb**
+
+_Wizard, Sorcerer, Artificer_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|1st|1 Action|30 feet|V,S,M*|Instantanious|Evocation|Attack|
+
+You hurl a ball of condensed force towards a target. If the attack hits the ball sticks too the target and explodes at the end of your next turn, dealing 2d6 force damage to all targets within 10ft of the target. If you hit a target that already has a timebomb on them, they both explode and all targets within 10 feet of the target must make a Constitution saving throw or be stunned until the end of their next turn. 
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6. 
+
+*_A watch_
 
 ---
 
