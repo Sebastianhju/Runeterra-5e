@@ -515,9 +515,21 @@ _Wizard, Sorcerer_
 |---|---|---|---|---|---|---|
 |6th|1 action|300ft|V,S,M|1 round (C)|Evocation|Attack|
 
-As an action you channel arcane energy, reducing your speeed to zero for as long as you are concentrating on this spell. You immidiatly shoot out three bolts of arcane energy towards targets within range. Make an attackroll dealing 4d10 lightning damage on a hit, *Buzzing* the target. During your next turn you can shoot out three more bolts and then the spell ends. 
+As an action you channel arcane energy, reducing your speeed to zero for as long as you are concentrating on this spell. You immidiatly shoot out two bolts of arcane energy towards targets within range. Make an attackroll dealing 5d10 lightning damage on a hit, *Buzzing* the target. During your next turn you can spend your bonus action shoot out two more bolts and then the spell ends. 
 
 **At Higher Levels.** When cast with a spell slot of 7th level or higher, all bolts deal 1d10 additional damage. 
+
+---
+
+**Leap of Faith**
+
+_Warlock, Cleric_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|6th|1 action|30ft|V,S|1 minute|Transmutation|---|
+
+You leap into the air and slam down to the ground. For each enemy within 30ft of you, you can summon an Elder God Tentacle anywhere within range. For the next minute, all of your tentacles deals 1d8 additional damage, and have 60ft reach. Additionally thei heal themselves and you for two times proficiency bonus. 
 
 ---
 
