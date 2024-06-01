@@ -148,8 +148,6 @@ _You gain +2 to attack adnd damage rolls using this weapon_
 - (10) Pass without a Trace
 - (20) Greater invisibility
 
-_You gain +2 to all saving throws_ 
-
 ---
 
 ## Essence Reaver
@@ -159,7 +157,7 @@ _You gain +2 to all saving throws_
 - Scimitar (Scythe)
 - Attunement
 
-**Stored Potential**: After casting a spell, your next attack with _Essence Reaver_ has a +2 critically strike chance and deals 2d6 radiant damage on a hit.
+**Stored Potential**: After casting a spell, your next attack with _Essence Reaver_ has a +2 critically strike chance and deals 2d6 force damage on a hit.
 
 **Manacharge**: Whenever you critically hit a creature, you regain a spell slot of a level equal to your proficiency bonus. 
 
@@ -179,11 +177,11 @@ _You have +2 to hit and attack rolls using this magical weapon_
 
 **Charges**: This item has 6 charges and regains all charges when you finish a long rest. 
 
-**Monolith**: As a bonus action you can spend three charges to give yourself temporary hit points equal to ten times your proficiency modifier. 
+**Monolith**: As a bonus action you can spend three charges to give yourself temporary hit points equal to five times your proficiency modifier. 
 
 **Fortify**: Attacks against you cannot critically hit.
 
-_You gain +1 to your armor class while wearing this piece of armor_
+_You gain +2 to your armor class while wearing this piece of armor_
 
 ---
 
@@ -210,10 +208,6 @@ _You get +2 to unarmed attack and damage rolls_
 
 - Morningstar
 - Attunement
-
-**Charges**: This item has 4 charges and regains all charges when you finish a long rest.
-
-**Haste:** Whenever you must spend charges of any other item or rune, you can spend charges from this item instead.
 
 **Thirsting Slash**: Once a turn when you take the attack action, you can replace one of your attacks with a thirsting slash, swinging the Goredrinker around you. All creatures within reach of you must succeed a dexterity saving throw, DC equals to 10 + twice your proficiency bonus or takes 2d6 bludgeonig damage.
 
@@ -262,38 +256,6 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 ---
 
-## Hextech Rocketbelt
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Hextech Rocketbelt.png" Align=right width=8% height=8%>
-
-- Wondrous
-- 5000 Gold
-
-**Charges**: This item has 2 charges and regains all charges when you finish a long rest. 
-
-**Supersonic**: As a bouns action you can spend a charge activate the rocketbelt. You gain 60 feet flying speed and but you must land on a surface at the end of your turn, when you end your turn, all creatures within 5 feet of you take 2d6+2 force damage.
-
-**Health**: You gain maximum hit points equal to your level. 
-
-_You gain +2 to initiative rolls_
-
----
-
-
-## Hubris
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Hubris.png" Align=right width=8% height=8%>
-
-- 4000 Gold
-- Wondrous
-- Attunement
-
-**Ego**: Once a round when you score a takedown on a creature, a magical statue of yourself is summoned in their place. As long as you can see the statue your first attack each turn have advantage and deals 1d6 additional damage for each statue. Once a minute passes by, the statue is pulverized to dust.
-
-**Mirrors Friend**: You gain +3 to persuation checks and charisma saving throws
-
----
-
 ## Idol of Nagakabouros
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Idol of Nagakabouros.png" Align=right width=8% height=8%>
@@ -318,7 +280,7 @@ _You gain +2 to attack and damagerolls using this weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Immortal Shieldbow.png" Align=right width=8% height=8%>
 
-- Shortbow
+- Heavy Crossbow
 - Attunement
 
 **Lifeline**: If you would take damage that would make you bloodied, you first gain temporary hit points equal to 10 times your proficiency bonus. As long as you have these temporary hit points, you can make an additional attack as a part of your attack action. Once this effect is used, it cannot be used again until you finish a long rest.
@@ -327,7 +289,6 @@ _You gain +2 to attack and damagerolls using this weapon_
 
 _While wielding this bow, you gain +2 to hit and attack rolls_
 _While wieldign this bow you gain +1 to your armor class_
-_You gain +2 to inititative checks_
 
 ---
 
@@ -374,7 +335,7 @@ _You get +1 to your armor class_
 
 **Breathtaking**: Whenever you damage enemies, you ignore resistances to piercing damage. If a creature would be immune to piercing damage, they take half damage from your attacks.
 
-**Loaded string**: As a bonus action you can spend a charge to load your string. Your next attack gains a boon and deals 1d8 additional damage.
+**Loaded string**: As a bonus action you can spend a charge to load your string. Your next attack gains a boon and deal 2d8 additional damage.
 
 _You gain +2 to initative rolls_ 
 _You gain +2 to hit and damage rolls using this magical weapon._
@@ -389,7 +350,7 @@ _You gain +2 to hit and damage rolls using this magical weapon._
 - Attunement
 - 4500 Gold
 
-**Torment**: When you target a creature with a spell, you can choose to apply *Burn* to the target. 
+**Torment**: When an enemy within 120ft of you have the burn condition, they also have 10ft less movement on their turns and their armor class is reduced by 1. 
 
 **Health**: You gain health equal to your level. 
 
@@ -408,7 +369,7 @@ _You gain +2 to spell attacks and your save dc while attuned to this magical ite
 
 **Charges**: This item has five charges and regains all charges when you finish a long rest. 
 
-**Relentless Pursuit**: Once a turn when you dash, blink or teleport you can make a free attack with lightslinger against a creature within range. Whenever you make this free attack, you recharge one charge on this item. 
+**Relentless Pursuit**: Once a round when you dash, blink or teleport you can make a free attack with lightslinger against a creature within range. Whenever you make this free attack, you recharge one charge on this item. 
 
 _You have +2 to hit and damage rolls using this weapon_
 
@@ -443,8 +404,6 @@ _You get +1 to your saving throws_
 
 **Fire Adaption**: You are immune to fire damage. 
 
-_You gain +2 to your spell attack and spell save DC_
-
 ---
 
 ## Mikael's Blessing
@@ -458,7 +417,7 @@ _You gain +2 to your spell attack and spell save DC_
 
 **Enhanced Cleansing**: Your lesser and greater restoration spells gains 30 feet range. Additionally you gain the ability to upcast the spells, giving them one additional target for each spell level. 
 
-**Healing Power**: Your healing spells heal 2 more hit points.
+**Healing Power**: Your healing spells heal 3 more hit points.
 
 ---
 
@@ -469,7 +428,7 @@ _You gain +2 to your spell attack and spell save DC_
 - 4000 Gold
 - Dagger
 
-**Ichatian Bite**: When you cast a spell, _Nashor's Tooth_ deals 1d6 additional necrotic damage and you gain an additional attack when you take your next attack action. 
+**Ichatian Bite**: When you cast a leveled spell, _Nashor's Tooth_ deals 1d6 additional necrotic damage and you gain an additional attack when you take your next attack action. 
 
 **Spellblade**: You can use your spellcasting modifier for attack and damage rolls.
 
@@ -497,11 +456,10 @@ _You gain +2 to attack and damage rolls using this weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Radiant Virtue.png" Align=right width=8% height=8%>
 
 - Wonderous Item
-- Attunement
 
 **Guiding Light**: When you cast a spell of your highest spell level, you gain additional maximum hit points equal to three times the spells level for a minute. Additionally you heal yourself and all allies within 30 feet of you an amount equal to three times the spells level. 
 
-**Health**: You gain maximum hit points equal to two times your level. 
+**Health**: You gain maximum hit points equal to your level. 
 
 ---
 
@@ -598,9 +556,9 @@ _You gain +2 to your spell attack and save dc_
 - Wonderus
 - Attunement
 
-**Charges**: This item has six charges and regains all charges when you finish a long rest. 
+**Charges**: This item has four charges and regains all charges when you finish a long rest. 
 
-**Spellpainter**: When you cast a leveled spell you can spend two charges add one of the following effects to the spell: Disaster, Serenity, Torment. This effect is only active on this turn after that the spell acts as normal.
+**Spellpainter**: When you cast a leveled spell you can spend a charge to add one of the following effects to the spell: Disaster, Serenity, Torment. This effect is only active on this turn after that the spell acts as normal.
 
 **Disaster**: Roll one additional damage dice on one of the spells damage rolls.  
 
@@ -619,9 +577,11 @@ _You gain +2 to spell attack rolls and save dc_
 - 4000 Gold
 - Morningstar
 
-**Quicksilver**: You can cast lesser restoration as a bonus action, when you do this you can remove up to three conditions. You can do this two times before you must finish a long rest. The next time you hit an attack with _Silvermere Dawn_ you can apply one of the removed conditions to the target. 
+**Charges**: This item has four charges and regains all charges when you finish a long rest. 
 
-**Health**: You gain maximum hit points equal to half your hit dice. 
+**Quicksilver**: You can spend two charges to cast lesser restoration as a bonus action, when you do this you can remove up to three conditions. You can do this two times before you must finish a long rest. The next time you hit an attack with _Silvermere Dawn_ you can apply one of the removed conditions to the target. 
+
+**Health**: You gain maximum hit points equal to your level
 
 _You gain +2 to attack and damage rolls using this magical weapon_
 
@@ -669,11 +629,13 @@ _You gain +2 to initiative rolls_
 - Wondrous
 - Attunement
 
-**Fury**: As a bonus action you can enter a state of fury for a minute. While in fury your weapon attacks deal 1d6 additional damage, additionaly you gain temporary hit points equal to twice your proficiency bonus whenever you score a takedown. You can use this action a number of times equal to your proficiency bonus before finishing a long rest. 
+**Charges**: This item has four charges and regains all charges when you finish a long rest. 
 
-**Calm**: You gain +1 to all saving throws
+**Fury**: As a bonus action you can spend two charges enter a state of fury for a minute. While in fury your weapon attacks deal 1d6 additional damage, additionaly you gain temporary hit points equal to twice your proficiency bonus whenever you score a takedown.
 
-_While attuned to this item your armor class inceases by 1_
+_You gain +1 to saving throws_
+
+_You gain +1 to your armor class_
 
 ---
 
@@ -756,7 +718,7 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 
 **Charges**: This item has 4 charges and regains all charges when you finish a long rest.
 
-**Immolate**: As a bonus action you can spend two charges to activate this shield, causing it to burn for a minute. Whenever you end your turn, all enemies within 5 feet of you must succeed a constitution saving throw or take 1d6 fire damage, DC equals to 10 + twice your proficiency bonus, halved on a save, and applies burn. Creatures who are burning takes 3d6 fire damage instead. Creatures within 5 feet that attack you while _Immolate_ is enabled suffers the damage without making a saving throw.
+**Immolate**: As a bonus action you can spend two charges to activate this shield, causing it to burn for a minute. Whenever you end your turn and whenever a creature hit you with a melee attack, all enemies within 5 feet of you gain the burning condition. If they already have the burning condition they take damage equal to your proficiency bonus.
 
 **Health**: You gain maximum hit points equal to your level. 
 
