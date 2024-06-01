@@ -1,5 +1,10 @@
 # Consumables
 
+## Lotus Trap
+
+You take an action to plant a lotus trap on the floor that is nearly invisible. A creature that is attemptin to percive the area must succeed a investigation check to locate the trap, dc equal to 8 plus two times your proficiency. A creature that steps on the trap must make a wisdom saving throw, dc equal to 8 plus two times your proficiency bonus, or becomes charmed for a minute, or until they take damage. While charmed in this they way they must admire the flower, their speed is zero and they are incapacitated. 
+
+
 ## Elixir of Iron
 
 Cost: 200 Gold
