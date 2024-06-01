@@ -82,6 +82,20 @@ You send out an arcane orb towards a creature that you can see within range. On 
 
 ---
 
+**Rewind**
+
+_Wizard, Sorcerer, Artificer_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|1st|1 Bonus Action|30 feet|S|Instantanious|Abjuration|None|
+
+You target a creature you can see within reach and time rewinds around them. They recharge a charge on any item or rune they have.  
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can replenish another charge for each level above 1st level.  
+
+---
+
 **Sear**
 
 _Wizard, Sorcerer, Druid_
@@ -98,33 +112,19 @@ You launch a bolt of fire towards a target you can see within range. If the atta
 
 ---
 
-**Time Bomb**
+**Summon Elder God Tentacle**
 
-_Wizard, Sorcerer, Artificer_
-
-|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
-|---|---|---|---|---|---|---|
-|1st|1 Action|30 feet|V,S,M*|Instantanious|Evocation|Attack|
-
-You hurl a ball of condensed force towards a target. If the attack hits the ball sticks too the target and explodes at the end of your next turn, dealing 2d6 force damage to all targets within 10ft of the target. If you hit a target that already has a timebomb on them, they both explode and all targets within 10 feet of the target must make a Constitution saving throw or be stunned until the end of their next turn. 
-
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6. 
-
-*_A watch_
-
----
-
-**Rewind**
-
-_Wizard, Sorcerer, Artificer_
+_Warlock, Cleric_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|1st|1 Bonus Action|30 feet|S|Instantanious|Abjuration|None|
+|1st|1 Action|60 feet|V,S|1 minute|Conjuration|---|
 
-You target a creature you can see within reach and time rewinds around them. They recharge a charge on any item or rune they have.  
+Call upon the Elder Gods and summon a tentacle at a point you can see within range. The tentacle has hit points equal to 5 plus 5 times your level and AC equal to 12 plus your proficiency bonus. During your turn you can spend your bonus action to command all Tentacles to strike an enemy within their reach.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can replenish another charge for each level above 1st level.  
+You can have a maximum of tentacels equal to your proficiency bonus.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you summon another Tentacle at a point within range for every other level above 1st. (3,5,7,9)
 
 ---
 
@@ -142,6 +142,22 @@ You can then give an ally, within 30ft of the blast, stacks of regeneration equa
 
 
 **At Higher Levels.** When cast with a spell slot of 2nd level or higher, the damage increases by 1d6. 
+
+---
+
+**Time Bomb**
+
+_Wizard, Sorcerer, Artificer_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|1st|1 Action|30 feet|V,S,M*|Instantanious|Evocation|Attack|
+
+You hurl a ball of condensed force towards a target. If the attack hits the ball sticks too the target and explodes at the end of your next turn, dealing 2d6 force damage to all targets within 10ft of the target. If you hit a target that already has a timebomb on them, they both explode and all targets within 10 feet of the target must make a Constitution saving throw or be stunned until the end of their next turn. 
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6. 
+
+*_A watch_
 
 ---
 
@@ -313,7 +329,7 @@ You summon a dark purple shimmer in a 25 foot square that is 20 foot tall. Allie
 
 **Force of Will**
 
-_Wizard, Sorcerer, Warlock, Druid of the Spores_
+_Wizard, Sorcerer, Warlock_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
@@ -387,6 +403,20 @@ The target needs to be on the same plane of existence as yourself.
 
 ---
 
+**Test of Spirit**
+
+_Warlock, Cleric_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|4th|1 Bonus Action|30 feet|V,S|1 Minute(c)|Conjuratoin|Constitution|
+
+You launch a tendril towards a target you can see within 30 feet of you, the target must save a constitution saving throw, on a failure their spirit is pulled in front of you and you summon a Elder God Tentacle within 15ft of you, on a save you only summon the tentacle. The spirit has an armor class of 10, fails all saving throws automaticly and hit points equal to ten times the spell slot spent to cast this spell. Whenever the _Spirit_ takes damage, the original target suffers half the damage dealt to the vessel. When the vessel dies, all tentacles you've summoned gains 60ft reach and can spend their reaction to make an attack against the original target.
+
+**At Higher Levels.** When cast wiht a spell slot of 5th level or higher, you summon one additional tentacle for each level above 4th.
+
+---
+
 **Monsoon**
 
 _Bard, Cleric, Ranger, Druid_
@@ -425,9 +455,9 @@ _Sorcerer, Warlock_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|5th|1 Action|Self, 20ft|V,S|1 Minute|Necromancy|Constitution|
+|5th|1 Action|Self, 20ft|V,S|1 Minute(C)|Necromancy|Constitution|
 
-You turn into a demonic version of yourself and winds of dread surround you and all creatures within 20ft of you, you can choose up to five creatures that are unaffected by the spell. Any creature that starts their turn within you range must make a constitution saving throw or takes 5d8 necrotic damage, halved on a save. Whenever a creature fails their saving throw, you heal equal to half the damage dealt.
+You turn into a demonic version of yourself and winds of dread surround you and all creatures within 20ft of you, you can choose up to five creatures that are unaffected by the spell. Any creature that starts their turn within you range must make a constitution saving throw or takes 5d8 necrotic damage, halved on a save. Whenever a creature fails their saving throw, you heal equal to you proficiency bonus.
 
 **At Higher Levels.** When cast with a spell slot of 6th level or higher the damage increases by 1d8 for each level above 5th.
 
@@ -453,7 +483,7 @@ The torrent of fire then bounces to another creature within 30 feet of the targe
 
 **Feast**
 
-_Wizard, Warlock, Cleric (Death and Grave Domain), Druid (Spores)_
+_Wizard, Warlock, Cleric (Death and Grave Domain), Druid_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
@@ -467,7 +497,7 @@ Your jaw drops and grow into the size of a behemoths. You bite into a creature t
 
 **Unleashed Power**
 
-_Wizard, Sorcerer_
+_Wizard, Sorcerer, Warlock_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
@@ -485,11 +515,23 @@ _Wizard, Sorcerer_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|6th|1 action|300ft|V,S,M|1 round (C)|Evocation|Dexterity|
+|6th|1 action|300ft|V,S,M|1 round (C)|Evocation|Attack|
 
-As an action you channel arcane energy, reducing your speeed to zero for as long as you are concentrating on this spell. You immidiatly shoot out two bolts of arcane energy to two locations within range. All creatures in a 10ft radius sphere must succeed a dexterity saving throow or takes 6d10 lightning damage and are buzzed, halfed on a save. During your next turn you can shoot out two more bolts and then the spell ends. 
+As an action you channel arcane energy, reducing your speeed to zero for as long as you are concentrating on this spell. You immidiatly shoot out two bolts of arcane energy towards targets within range. Make an attackroll dealing 5d10 lightning damage on a hit, *Buzzing* the target. During your next turn you can spend your bonus action shoot out two more bolts and then the spell ends. 
 
 **At Higher Levels.** When cast with a spell slot of 7th level or higher, all bolts deal 1d10 additional damage. 
+
+---
+
+**Leap of Faith**
+
+_Warlock, Cleric_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|6th|1 action|30ft|V,S|1 minute|Transmutation|---|
+
+You leap into the air and slam down to the ground. For each enemy within 30ft of you, you can summon an Elder God Tentacle anywhere within range. The cap is hightened to two times your proficiency bonus. For the next minute, all of your tentacles deals 1d8 additional damage, and have 60ft reach. Additionally thei heal themselves and you for two times proficiency bonus. 
 
 ---
 
@@ -510,8 +552,7 @@ Text
 
 # Spells to come
 
-Janna Q
-Janna R
-Swain R
-Tahm Kench R
+- Renata R
+- Illaoi R
+- Vel'Koz R
 

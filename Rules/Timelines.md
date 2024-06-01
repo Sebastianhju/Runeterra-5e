@@ -1,4 +1,4 @@
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-FP/FP-Lore.png">
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-FP/FP-Lore.png">
 
 |The timeline shown below is a sligtly altered timeline that the players charactetr should know. This timeline is based around what a regular commoner would know. 
 |---|

@@ -1,7 +1,7 @@
 # Legendary 
 
 ## Black Spear
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Black Spear.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Black Spear.png" Align=right width=8% height=8%>
 
 - 4500 Gold
 - Spear
@@ -20,7 +20,7 @@ _You have +3 to hit and damage rolls with this magical weapon_
 
 ## Blade of the Ruined King
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Blade of the Ruined King.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Blade of the Ruined King.png" Align=right width=8% height=8%>
 
 - Longsword
 - Attunement
@@ -37,7 +37,7 @@ _You gain +3 to hit and attack rolls using this magical weapon_
 
 ## Crown of the Shattered Queen
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Crown of the Shattered Queen.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Crown of the Shattered Queen.png" Align=right width=8% height=8%>
 
 - Wonderous Item
 - Attunement 
@@ -58,7 +58,7 @@ _You get +3 to your spell attack and spell save dc_
 
 ## Dark Matter Sphere
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dark Matter Sphere.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Dark Matter Sphere.png" Align=right width=8% height=8%>
 
 - Wondrous Item
 
@@ -70,7 +70,7 @@ _You get +3 to your spell attack and spell save dc_
 
 ## Duskblade of Draktharr
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Duskblade of Draktharr.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Duskblade of Draktharr.png" Align=right width=8% height=8%>
 
 - Dagger
 - Attunement
@@ -91,7 +91,7 @@ _You gain +3 to hit and damage rolls using this magical weapon_
 
 ## Everfrost
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Everfrost.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Everfrost.png" Align=right width=8% height=8%>
 
 - Wonderous Item
 - Attunement 
@@ -110,7 +110,7 @@ _You gain +3 to spell attack rolls spell save dc_
 
 ## Frozen Heart
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Frozen Heart.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Frozen Heart.png" Align=right width=8% height=8%>
 
 - Wonderous Item
 - Attunement
@@ -129,7 +129,7 @@ _You gain +3 to spell attack rolls spell save dc_
 
 ## Guardian's Angel
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Guardian's Angel.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Guardian's Angel.png" Align=right width=8% height=8%>
 
 - Greatsword
 - Attunement
@@ -144,7 +144,7 @@ _You have +3 to hit and damage rolls with this magical weapon_
 
 ## Guinsoo's Rageblade
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Guinsoo's Rageblade.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Guinsoo's Rageblade.png" Align=right width=8% height=8%>
 
 - Scimitar
 - Attunement
@@ -159,7 +159,7 @@ _You gain +3 to hit and damage rolls with this magical weapon_
 
 ## Iceborn Gauntlet
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Iceborn Gauntlet.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Iceborn Gauntlet.png" Align=right width=8% height=8%>
 
 - Wonderous
 - Attunement
@@ -178,7 +178,7 @@ _You have +3 to unarmed attacks and damage rolls_
 
 ## Infinity Edge
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Infinity Edge.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Infinity Edge.png" Align=right width=8% height=8%>
 
 - Greatsword
 - Attunement
@@ -193,7 +193,7 @@ _You gain +3 to hit and damage rolls using this magical weapon_
 
 ## Lich Bane
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Litch Bane.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Litch Bane.png" Align=right width=8% height=8%>
 
 - Shortsword
 - Attunement
@@ -210,7 +210,7 @@ _You have +3 to attack and damage rolls when using this magical weapon_
 
 ## Lord Dominik's Regards
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lord Dominik's Regards.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Lord Dominik's Regards.png" Align=right width=8% height=8%>
 
 - Crossbow, heavy
 - Attunement
@@ -228,7 +228,7 @@ _You gain +3 to initiative rolls_
 
 ## Luden's Tempest
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Luden's Tempest.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Luden's Tempest.png" Align=right width=8% height=8%>
 
 - Quarterstaff
 - Attunement
@@ -247,7 +247,7 @@ _You gain +3 to spell attacks and your save dc while attuned to this magical ite
 
 ## Mejai's Soulstealer
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mejai's Soulstealer.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Mejai's Soulstealer.png" Align=right width=8% height=8%>
 
 - Wonderous Item
 - Attunement
@@ -264,7 +264,7 @@ _You gain +3 to spell attacks and your save dc while attuned to this magical ite
 
 ## Morellonomicon
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Morellonomicon.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Morellonomicon.png" Align=right width=8% height=8%>
 
 - Arcane Focus
 - Attunement
@@ -281,7 +281,7 @@ _You gain +3 to your spell attack rolls and spell save DC_
 
 ## Rabadon's Deathcap
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rabadon's Deathcap.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Rabadon's Deathcap.png" Align=right width=8% height=8%>
 
 - Wonderous Item
 - Attunement
@@ -296,7 +296,7 @@ _You gain +3 to your spell attacks and spell save DC_
 
 ## Randuin's Omen
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Randuin's Omen.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Randuin's Omen.png" Align=right width=8% height=8%>
 
 - Shield
 - Attunement
@@ -315,7 +315,7 @@ _You have +2 to your armor class while wearing this shield_
 
 ## Ravenous Hydra
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Ravenous Hydra.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Ravenous Hydra.png" Align=right width=8% height=8%>
 
 - Greataxe
 - Attunement
@@ -335,7 +335,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 ## Runaan's Hurricane
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Runaan's Hurricane.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Runaan's Hurricane.png" Align=right width=8% height=8%>
 
 - Longbow
 - Attunement
@@ -354,7 +354,7 @@ _You gian +3 to initiative rolls_
 
 ## Serylda's Grudge
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Serylda's Grudge.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Serylda's Grudge.png" Align=right width=8% height=8%>
 
 - Pike
 - Attunement
@@ -371,7 +371,7 @@ _You have +3 to damage and attack rolls using this magical weapon_
 
 ## Storm Sigil
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Storm Sigil.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Storm Sigil.png" Align=right width=8% height=8%>
 
 - Wondrous
 - Attunement
@@ -399,7 +399,7 @@ _The saving thow and skill check DC 15_
 
 ## Trinity Force
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Triforce.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Triforce.png" Align=right width=8% height=8%>
 
 - Wonderous Item
 - Attunement
@@ -414,7 +414,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Warmog's Armor
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Warmogs Armor.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Warmogs Armor.png" Align=right width=8% height=8%>
 
 - Breastplate
 - Attunement
@@ -435,7 +435,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Zhonya's Hourglass
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Zhonya's Hourglass.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Zhonya's Hourglass.png" Align=right width=8% height=8%>
 
 - Wonderous Item
 

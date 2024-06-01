@@ -2,7 +2,7 @@
 
 ## Fimbulwinter
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Fimbulwinter.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Fimbulwinter.png" Align=right width=8% height=8%>
 
 - A fully stacked Winter's Approach
 - Studded Leather
@@ -20,7 +20,7 @@ _While wearing this armor you have a +2 to your armor class_
 
 ## Muramana
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Muramana.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Muramana.png" Align=right width=8% height=8%>
 
 - A fully stacked Manamune
 - Spear
@@ -38,7 +38,7 @@ _You have +2 to attack rolls and damage rolls using this magical weapon_
 
 ## Seraph's Embrace
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Seraph's Embrace.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Seraph's Embrace.png" Align=right width=8% height=8%>
 
 - A fully stacked Archangel's Staff
 - Quarterstaff
@@ -58,7 +58,7 @@ _You have +2 to spell attack rolls and spell save DC when attuned to this item_
 
 ## Black Cleaver
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Black Cleaver.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Black Cleaver.png" Align=right width=8% height=8%>
 
 - Greataxe
 - xx Gold
@@ -76,7 +76,7 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 ## Bloodthirster
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bloodthirster.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Bloodthirster.png" Align=right width=8% height=8%>
 
 - Greatsword
 - Attunement
@@ -91,7 +91,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 ## Bravado
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bravado.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Bravado.png" Align=right width=8% height=8%>
 
 - 5000 Gold
 - Warhammer
@@ -106,7 +106,7 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 ## Chalice of Blessing
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Chalice of Blessing.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Chalice of Blessing.png" Align=right width=8% height=8%>
 
 - 5000 Gold
 - Wondrous Item
@@ -118,9 +118,25 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 ---
 
+## Decimate Axe
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Decimate Axe.png" Align=right width=8% height=8%>
+
+- 10,000 Gold
+- Greataxe
+- Attunement
+
+**Hemorage**: Whenever you hit a creature with this weapon, they gain a stack of Hemorage up to a maximum of three. When a creature has 3 stacks of Hemorage, they take 1d6 force damage at the start of their turns. All stacks of hemorage is removed after a minute of not reciving any.
+
+**Decimating Gulliotine**: Once per long rest you can spend your action to do a cleaving strike. You roll to hit against a target, and if the attack hits it deals 2d12 plus 10 force damage for each stack of hemorage it has.
+
+_You gain +2 to attack adnd damage rolls using this weapon_
+
+---
+
 ## Edge of Night
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Edge og Night.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Edge og Night.png" Align=right width=8% height=8%>
 
 - Wonderous Item
 - Attunement
@@ -138,7 +154,7 @@ _You gain +2 to all saving throws_
 
 ## Essence Reaver
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Essence Reaver.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Essence Reaver.png" Align=right width=8% height=8%>
 
 - Scimitar (Scythe)
 - Attunement
@@ -155,7 +171,7 @@ _You have +2 to hit and attack rolls using this magical weapon_
 
 ## Gargoyle Stoneplate
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Gargoyle Stoneplate.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Gargoyle Stoneplate.png" Align=right width=8% height=8%>
 
 - Plate
 - xx Gold
@@ -173,7 +189,7 @@ _You gain +1 to your armor class while wearing this piece of armor_
 
 ## Gloves of the Tunneler
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Tunneler.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Tunneler.png" Align=right width=8% height=8%>
 
 - 4500 Gold
 - Wondrous, gloves
@@ -190,7 +206,7 @@ _You get +2 to unarmed attack and damage rolls_
 
 ## Goredrinker
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Goredrinker.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Goredrinker.png" Align=right width=8% height=8%>
 
 - Morningstar
 - Attunement
@@ -209,7 +225,7 @@ _You gain +2 to hit and damage rolls with this magical weapon_
 
 ## Heartsteel
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Heartsteel.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Heartsteel.png" Align=right width=8% height=8%>
 
 - Shield
 - xx Gold
@@ -227,7 +243,7 @@ _You gain +1 to your armor class_
 
 ## Hextech Gunblade
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Gunblade.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Hextech Gunblade.png" Align=right width=8% height=8%>
 
 - Pistol / Scimitar
 - Attunement
@@ -248,7 +264,7 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 ## Hextech Rocketbelt
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Rocketbelt.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Hextech Rocketbelt.png" Align=right width=8% height=8%>
 
 - Wondrous
 - 5000 Gold
@@ -266,7 +282,7 @@ _You gain +2 to initiative rolls_
 
 ## Hubris
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hubris.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Hubris.png" Align=right width=8% height=8%>
 
 - 4000 Gold
 - Wondrous
@@ -278,9 +294,29 @@ _You gain +2 to initiative rolls_
 
 ---
 
+## Idol of Nagakabouros
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Idol of Nagakabouros.png" Align=right width=8% height=8%>
+
+- 10,000 Gold
+- Morningstar
+- Attunement
+
+**Charges**: This item has 4 charges and regain all charges when you finish a long rest. 
+
+**Harsh Lesson**: Once a turn when you make an attack against a creature that is within reach of one or more of your tentacles. All tentacles within reach can make an attack against that target.
+
+**Tentacle Smash**: As a bonus action, you can spend two charges to slam down a large tentacle from the Idol in a 15ft long line. All creatures in the line must make a constitution saving throw, DC equal to 10 plus twice your proficiency, or takes 1d8 force damage. You heal equal to your proficiency bonus for each target hit.
+
+**Summon Elder Tentacle**: You can spend two charges to cast _Summon Elder God Tentacle_ as a bonus action at first level. 
+
+_You gain +2 to attack and damagerolls using this weapon_
+
+---
+
 ## Immortal Shieldbow
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Immortal Shieldbow.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Immortal Shieldbow.png" Align=right width=8% height=8%>
 
 - Shortbow
 - Attunement
@@ -297,7 +333,7 @@ _You gain +2 to inititative checks_
 
 ## Jak'Sho The Protean
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Jak'Sho, The Protean.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Jak'Sho, The Protean.png" Align=right width=8% height=8%>
 
 - Plate
 - Attunement
@@ -312,7 +348,7 @@ _You gain +2 to inititative checks_
 
 ## Knight's Vow
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Knight's Vow.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Knight's Vow.png" Align=right width=8% height=8%>
 
 - Wonderous
 - Attunement
@@ -329,7 +365,7 @@ _You get +1 to your armor class_
 
 ## Last Whisper
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Last Whisper.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Last Whisper.png" Align=right width=8% height=8%>
 
 - 4000 Gold
 - Longbow
@@ -347,7 +383,7 @@ _You gain +2 to hit and damage rolls using this magical weapon._
 
 ## Liandry's Anguish
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Liandry's Anguish.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Liandry's Anguish.png" Align=right width=8% height=8%>
 
 - Wonderous Item
 - Attunement
@@ -363,7 +399,7 @@ _You gain +2 to spell attacks and your save dc while attuned to this magical ite
 
 ## Lightslinger
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Lightslinger.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Lightslinger.png" Align=right width=8% height=8%>
 
 - 5000
 - Pistol
@@ -380,7 +416,7 @@ _You have +2 to hit and damage rolls using this weapon_
 
 ## Locket of the Iron Solari
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Locket of the Iron Solari.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Locket of the Iron Solari.png" Align=right width=8% height=8%>
 
 - Wonderous
 - Attunement
@@ -398,7 +434,7 @@ _You get +1 to your saving throws_
 
 ## Molten Helm
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Molten Helm.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Molten Helm.png" Align=right width=8% height=8%>
 
 - xx Gld
 - Wondrous
@@ -413,7 +449,7 @@ _You gain +2 to your spell attack and spell save DC_
 
 ## Mikael's Blessing
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mikael's Blessing.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Mikael's Blessing.png" Align=right width=8% height=8%>
 
 - 4000 Gold
 - Wondrous
@@ -428,7 +464,7 @@ _You gain +2 to your spell attack and spell save DC_
 
 ## Nashor's Tooth
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Nashor's Tooth.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Nashor's Tooth.png" Align=right width=8% height=8%>
 
 - 4000 Gold
 - Dagger
@@ -443,7 +479,7 @@ _You gian +2 to attack and damage rolls using this magical weapon_
 
 ## Prowler's Claw
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Prowlers Claw.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Prowlers Claw.png" Align=right width=8% height=8%>
 
 - 5000 Gold
 - Dagger
@@ -458,12 +494,12 @@ _You gain +2 to attack and damage rolls using this weapon_
 
 ## Radiant Virtue
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Radiant Virtue.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Radiant Virtue.png" Align=right width=8% height=8%>
 
 - Wonderous Item
 - Attunement
 
-**Guiding Light**: When you cast a spell of your highest spell level, you gain additional maximum hit points equal to three times the spells level. Additionally you heal yourself and all allies within 30 feet of you an amount equal to three times the spells level. 
+**Guiding Light**: When you cast a spell of your highest spell level, you gain additional maximum hit points equal to three times the spells level for a minute. Additionally you heal yourself and all allies within 30 feet of you an amount equal to three times the spells level. 
 
 **Health**: You gain maximum hit points equal to two times your level. 
 
@@ -471,7 +507,7 @@ _You gain +2 to attack and damage rolls using this weapon_
 
 ## Rapid Firecanon
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rapid Firecanon.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Rapid Firecanon.png" Align=right width=8% height=8%>
 
 - Pepperbox
 - Attunement
@@ -492,7 +528,7 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 ## Rectrix
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Rectrix.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Rectrix.png" Align=right width=8% height=8%>
 
 - 6000 Gold
 - Wondrous
@@ -506,7 +542,7 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 ## Recurve Bow
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Recurve Bow.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Recurve Bow.png" Align=right width=8% height=8%>
 
 - 4500 Gold
 - Shortbow
@@ -523,7 +559,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 ## Redemption
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Redemption.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Redemption.png" Align=right width=8% height=8%>
 
 - 5000 Gold
 - Wondrous
@@ -540,7 +576,7 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 ## Riftmaker
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Riftmaker.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Riftmaker.png" Align=right width=8% height=8%>
 
 - 5000 Gold
 - Arcane Focus
@@ -556,7 +592,7 @@ _You gain +2 to your spell attack and save dc_
 
 ## Signature of the Visionary
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Signature of the Visionary.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Signature of the Visionary.png" Align=right width=8% height=8%>
 
 - 6000 gold
 - Wonderus
@@ -578,7 +614,7 @@ _You gain +2 to spell attack rolls and save dc_
 
 ## Silvermere Dawn
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Silvermere Dawn.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Silvermere Dawn.png" Align=right width=8% height=8%>
 
 - 4000 Gold
 - Morningstar
@@ -593,7 +629,7 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 
 ## Spectres Cowl
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Spectre's Cowl.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Spectre's Cowl.png" Align=right width=8% height=8%>
 
 - 4000 Gold
 - Wondrous Item 
@@ -608,7 +644,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ## Statikk Shiv
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Statikk Shiv.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Statikk Shiv.png" Align=right width=8% height=8%>
 
 - Dagger
 - Attunement
@@ -627,7 +663,7 @@ _You gain +2 to initiative rolls_
 
 ## Steel Sigil
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Steel Sigil.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Steel Sigil.png" Align=right width=8% height=8%>
 
 - 4000 Gold
 - Wondrous
@@ -643,7 +679,7 @@ _While attuned to this item your armor class inceases by 1_
 
 ## Sterak's Gage
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sterak's Gage.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Sterak's Gage.png" Align=right width=8% height=8%>
 
 - Wonderous Item
 - Attunement
@@ -660,7 +696,7 @@ _You gain +2 to your unarmed attack and damage rolls_
 
 ## Stormsurge
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stormsurge.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Stormsurge.png" Align=right width=8% height=8%>
 
 - 4500 Gold
 - Quarterstaff
@@ -679,7 +715,7 @@ _You gain +2 to attack and damage rolls using this weapon_
 
 ## Stridebreaker
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Stridebreaker.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Stridebreaker.png" Align=right width=8% height=8%>
 
 - Whip
 - 4000 Gold
@@ -699,7 +735,7 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 - Lance
 - Attunement
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sundered Sky.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Sundered Sky.png" Align=right width=8% height=8%>
 
 **High Horse**: When mounted you have advantage on attack rolls against all targets.
 
@@ -716,7 +752,7 @@ _You have +2 to attack and damage rolls when using this magical weapon_
 - Shield
 - Attunement
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Sunfire Aegis.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Sunfire Aegis.png" Align=right width=8% height=8%>
 
 **Charges**: This item has 4 charges and regains all charges when you finish a long rest.
 
@@ -730,7 +766,7 @@ _You gain +1 to your armor class while wielding this piece of armor_
 
 ## Thornmail
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Thornmail.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Thornmail.png" Align=right width=8% height=8%>
 
 - Chainmail
 
@@ -744,7 +780,7 @@ _You gain +2 to your armor class while wearing this piece of armor_
 
 ## Titanic Hydra
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Titanic Hydra.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Titanic Hydra.png" Align=right width=8% height=8%>
 
 - Greataxe
 - Attunemnet
@@ -759,7 +795,7 @@ _You gain +2 to attack and damage rolls using this weapon_
 
 ## Unending Despair
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Unending Despair.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Unending Despair.png" Align=right width=8% height=8%>
 
 - 4500 Gold
 - Shield
@@ -776,7 +812,7 @@ _You gain +1 to your armor class_
 
 ## Void Staff
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Void Staff.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Void Staff.png" Align=right width=8% height=8%>
 
 - 4500 Gold
 - Quarterstaff
@@ -791,7 +827,7 @@ _You gain +2 to spell attacks and spell saving throw dc_
 
 ## Wit's End
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Wit's End.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Wit's End.png" Align=right width=8% height=8%>
 
 - 5000 gold
 - Scimitar
@@ -807,9 +843,26 @@ _You have +2 to attack and damage rolls with this magical weapon_
 
 ---
 
+## Wuju Blade
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Wuju Blade.png" Align=right width=8% height=8%>
+
+- 10,000 Gold
+- Scimitar
+
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest
+
+**Alpha Strike**: When you take the attack action you can make an attack for every 25th base movement speed you have instead of your regular attacks, up to a maximum of attacks equal to your proficiency bonus. 
+
+**Meditate**: As a bonus action you can spend two charges to meditate. Until the start of your next turn you reduce all damage taken by an amount equal to your proficiency bonus and you regain hit points equal to your level at the start of your next turn.
+
+_You have +2 to attack and damage rolls with this magical weapon_
+
+---
+
 ## Zephyr
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Zephyr.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Zephyr.png" Align=right width=8% height=8%>
 
 - 4000 Gold
 - Greatsword
