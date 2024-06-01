@@ -167,7 +167,7 @@ _Wizard, Sorcerer, Warlock, Cleric (Death & Grave Domain)_
 |---|---|---|---|---|---|---|
 |1st|1 Action|30 Feet|V,S|Instantanious|Necrotic|Constitution|
 
-You drain out the life essence of a creature you can see within range. The target must succeed a constitiution saving thorw or suffer 3d8 necrotic damage, halved on a success. If they fail the saving throw you heal 1d8 hit points, if they succeed you suffer 1d8 nonmigatable damage. 
+You drain out the life essence of a creature you can see within range. The target must succeed a constitiution saving thorw or suffer 3d8 necrotic damage, halved on a success. If they fail the saving throw you heal equal to half the damage you rolled, if they succeed you suffer half the damage you rolled. 
 
 **At Higher Levels.** When cast with a spell slot of 2nd level or higher the damage increases by 1d8. 
 
@@ -181,7 +181,7 @@ _Ranger, Echo Knight Fighter_
 |---|---|---|---|---|---|---|
 |1st|1 Action|30ft|V,S|Instantanious|Transmutation|Dexterity|
 
-You dash to a target within range, kicking then using them as leverage to then landi within 15 feet of them. The target must make a dexterity saving throw or are knocked off balance, giving you advantage on your next attack against them this turn, knocking them prone on a hit. You can then make weapon attack against the creature. If the attack hits you deal 1d6 additional damage.
+You dash to a target within range, kicking then using them as leverage to then land within 15 feet of them. The target must make a dexterity saving throw or are knocked off balance, giving you advantage on your next attack against them this turn, knocking them prone on a hit. You can then make weapon attack against the creature. If the attack hits you deal 1d6 additional damage.
 
 **At Higher Levels.** When cast with a spell slot of 2nd or higher, the damage increases by 1d6 for each level above 1st. 
 
@@ -191,7 +191,7 @@ You dash to a target within range, kicking then using them as leverage to then l
 
 **Acceleration gate**
 
-_Wizard, Sorcerer, Bard, Artificer_
+_Wizard, Sorcerer, Bard, Artificer, Cleic (Order, Forge)_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
@@ -269,13 +269,13 @@ A cinder blows up to a pillar of flames in a 15 foot cube. All creatures within 
 
 **Rapture**
 
-_Wizard, Sorcerer, Warlock_
+_Wizard, Sorcerer, Warlock, Druid_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
 |2nd|1 Action|60 feet|V,S|Instantanious|Evocation|Dexterity|
 
-The earth cracks and erupts as void spikes shoot out of the ground in a 10ft diameter. All creatures in the area must make a dex save. On a failed save the creature takes 2d8 piercing damage and is knocked 15ft in to the air, falling to the ground at the end of it’s next turn. While suspended in the air it’s speed is 0.
+The earth cracks and erupts as void spikes shoot out of the ground in a 10ft diameter. All creatures in the area must make a dex save. On a failed save the creature takes 3d8 piercing damage and is knocked 15ft in to the air, falling to the ground at the end of it’s next turn. While suspended in the air it’s speed is 0.
 
 **At Higher Levels.** When cast with a spell slot of lvl 3 or higher the damage and hight of the knock up by 1d8 and 5ft respectively for each level above 2nd.
 
@@ -289,7 +289,7 @@ _Cleric, Paladin_
 |---|---|---|---|---|---|---|
 |2nd|1 Action|15ft Sphere|V,S,M|1 Minute (C)|Enchantment|Wisdom|
 
-Holy energy emerges from you in a 15ft sphere. All enemies in range must make a wisdom saving throw. On a failed save they gain disadvantage if they attack any creature other than you for the duration. A creature can make a wisdom saving throw at the end of their turn to get rid of the condition. At the start of your turns, you gain 10 temporary hit points.
+Holy energy emerges from you in a 15ft sphere. All enemies in range must make a wisdom saving throw. On a failed save they gain disadvantage if they attack any creature other than you for the duration. At the start of your turns, you gain 10 temporary hit points.
  
 **At Higher Levels.** When this spell is cast with a spell slot of 3rd level or higher. You gain 5 additional temporary hit points for each level above 2nd.
 
@@ -305,7 +305,7 @@ _Wizard, Sorcerer, Druid_
 |---|---|---|---|---|---|---|
 |3rd|1 Action|90 feet| V,S|Instantanious|Evocation|Dexterity|
 
-You target a creature you can see and fiery cinders conver their skin. The target must succeed a dexterity saving throw or take 10d6 fire damage, halved on a save. If the target is burning, all creautres within 10 feet of it must also succeed a dexterity saving throw or take 10d6 fire damage, halved on a save. 
+You target a creature you can see and fiery cinders conver their skin. The target must succeed a dexterity saving throw or take 8d6 fire damage, halved on a save. If the target is burning, all creautres within 10 feet of it must also succeed a dexterity saving throw or take 8d6 fire damage, halved on a save. All targets of this spell starts burning if they are not burning already.
 
 **At Higher Levels.** When cast with a spell slot of 4th level or higher the damage increases by 1d6 for each level above 3rd. 
 
@@ -333,9 +333,9 @@ _Wizard, Sorcerer, Warlock_
 |---|---|---|---|---|---|---|
 |3rd|1 Action|120 feet|V,S|Instantanious|Transmutation|Strength|
 
-Pick up three objects that is small or larger or _Dark Spheres_ within 60ft of you. 
+Pick up three objects that is small, medium or large or _Dark Spheres_ within 60ft of you. 
 
-You can then throw the held objects to a location within 120ft of you. All creatures within 10 feet of where the objects landed must make a strenght saving throw or falls prone and takes 2d8 force damage for each object thrown, halved on a save. If any of the thrown item was a _Dark Sphere_ they take 1d8 additional force damage for each _Dark Sphere_. 
+You can then throw the held objects to a location within 120ft of you. All creatures within 5 feet of where the objects landed must make a strenght saving throw or falls prone and takes 2d8 force damage for each object thrown, halved on a save. If any of the thrown item was a _Dark Sphere_ they take 1d8 additional force damage for each _Dark Sphere_. 
 
 **At Higher Levels.** When cast with a spell slot of 4th level or higher, you can pick up one additional object within range. 
 
