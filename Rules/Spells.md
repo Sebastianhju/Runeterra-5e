@@ -145,7 +145,7 @@ You can then give an ally, within 30ft of the blast, stacks of regeneration equa
 
 **Time Bomb**
 
-_Wizard, Sorcerer, Artificer_
+_Wizard, Sorcerer, Artificer, Cleric (Order, Forge)_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
