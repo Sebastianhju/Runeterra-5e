@@ -843,6 +843,23 @@ _You have +2 to attack and damage rolls with this magical weapon_
 
 ---
 
+## Wuju Blade
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Wuju Blade.png" Align=right width=8% height=8%>
+
+- 10,000 Gold
+- Scimitar
+
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest
+
+**Alpha Strike**: When you take the attack action you can make an attack for every 25th base movement speed you have instead of your regular attacks, up to a maximum of attacks equal to your proficiency bonus. 
+
+**Meditate**: As a bonus action you can spend two charges to meditate. Until the start of your next turn you reduce all damage taken by an amount equal to your proficiency bonus and you regain hit points equal to your level at the start of your next turn.
+
+_You have +2 to attack and damage rolls with this magical weapon_
+
+---
+
 ## Zephyr
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Zephyr.png" Align=right width=8% height=8%>
