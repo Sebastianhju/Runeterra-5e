@@ -118,6 +118,22 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 ---
 
+## Decimate Axe
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Decimate Axe.png" Align=right width=8% height=8%>
+
+- 10,000 Gold
+- Greataxe
+- Attunement
+
+**Hemorage**: Whenever you hit a creature with this weapon, they gain a stack of Hemorage up to a maximum of three. When a creature has 3 stacks of Hemorage, they take 1d6 force damage at the start of their turns. All stacks of hemorage is removed after a minute of not reciving any.
+
+**Decimating Gulliotine**: Once per long rest you can spend your action to do a cleaving strike. You roll to hit against a target, and if the attack hits it deals 2d12 plus 10 force damage for each stack of hemorage it has.
+
+_You gain +2 to attack adnd damage rolls using this weapon_
+
+---
+
 ## Edge of Night
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Edge og Night.png" Align=right width=8% height=8%>
