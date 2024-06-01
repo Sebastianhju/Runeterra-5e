@@ -343,7 +343,7 @@ You can then throw the held objects to a location within 120ft of you. All creat
 
 **Miasma**
 
-_Wizard, Sorcerer, Warlock, Druid of the Spores_
+_Wizard, Sorcerer, Warlock, Druid, Ranger_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
@@ -357,7 +357,7 @@ You throw out three 5ft radius spheres of miasma that stay for one minute, creat
 
 **Sanguine Pool**
 
-_Wizard, Sorcerer, Warlock, Death Domain_
+_Wizard, Sorcerer, Warlock, Cleric (Death and Grave Domain)_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
@@ -393,9 +393,9 @@ _Wizard, Sorcerer, Warlock, Bard, Druid, Cleric, Paladin, Ranger, Artificer_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|4th|1 Minute|Touch|V,S,M|1 week|Abjuration|None|
+|4th|1 Minute|Touch|V,S,M|1 Day|Abjuration|None|
 
-As you touch a willing creature and say the incantation a bond is made between you. At any point during the next week you can channel a teleport that takes you to the bonded creature. It takes an action to activate and the channeling lasts for 6 seconds. In addition you are aware whenever the bonded creature is in significant danger. Should you use the teleport while the target is in combat. then your initiative is right after the target. In addition as you channel the teleport the target gets temporary hit points equal to 5 times your proficiency bonus.
+As you touch a willing creature and say the incantation a bond is made between you. At any point until you take a long rest you can channel a teleport that takes you to the bonded creature. It takes an action to activate and the channeling lasts for 6 seconds. In addition you are aware whenever the bonded creature is in significant danger. Should you use the teleport while the target is in combat. then your initiative is right after the target. In addition as you channel the teleport the target gets temporary hit points equal to 5 times your proficiency bonus.
 
 The target needs to be on the same plane of existence as yourself.
 
@@ -424,7 +424,7 @@ _Bard, Cleric, Ranger, Druid_
 |4th|1 Action|Self, 30ft|V,S|1 Minute (C)|Conjuration|Strenght|
 
 You call upona Monsoon in a 30ft sphere that moves with you. Any tagets of your choice within 30ft of you must make a strength saving throw or are pushed 45 feet away from you. 
-For the next minute, you can spend your bonus action to heal up to two targets (including yourself) witin the Monsoon for 2d8 hit points plus your spellcasting modifier.
+For the next minute, you can spend your bonus action to heal up to two targets (including yourself) witin the Monsoon for 2d8 hit points plus your spellcasting modifier. All ranged attack that goes through the monsoon are made with a bane. 
 
 **At Higher Levels.** When cast with a spell level of 5th or higher the healing is increased by 1d8 for each level above 4th. 
 
