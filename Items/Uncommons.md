@@ -23,6 +23,19 @@
 
 ---
 
+## Beartrap on a Rope
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Beartrap on a Rope.png" Align=right width=8% height=8%>
+
+- 10,000
+- Flail
+
+**Charges**: This item has 3 charges and regain all charges when you finish a long rest.
+
+**Beartrap on a Rope**: You can spend a charges to replace one of your attacks with an attack that has 30ft reach. On a hit the target is restrained and pulled into melee range with you. The target it restrained until you make an attack with the beartrap or if they break free. DC equls 8 plus two times your proficiency.
+
+---
+
 ## Blasting Wand
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Blasting Wand.png" Align=right width=8% height=8%>
