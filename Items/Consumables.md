@@ -8,6 +8,40 @@ You take an action to plant a lotus trap on the floor that is nearly invisible. 
 
 ---
 
+## Flame Chompers
+
+Cost: 50 Gold
+
+As an action you thow out flamechompers in a 15ft wide line. Any creature that walks into the chompers are restrained until the end of their turn.
+
+---
+
+## Stealth Ward
+
+Cost: 50 Gold
+
+As an action you can place this ward down in the envoirment, after 6 seconds the ward turns invisible. The ward last for one hour and grants you and allies within 30 feet of the ward light wherever the ward stands. If the ward is in a bush or another hiding envoirment, enemies have disadvantage when hiding there. 
+
+As an action you can scry into the ward as long as you are on the same plane as the ward. You can see everything that happens within 30 feet of the ward. 
+
+The ward has an armor class of 10 and hit points equal to twice your level. 
+
+---
+
+## Control Ward
+
+Cost: 100 Gold
+
+As an action you can place this ward down in the envoirment. The ward stays until destoryed and grants you and allies within 30 feet of the ward truesight whenever the ward can see from where it stands. It does not see trough envoirment, exept the envoirment it is placed in. 
+
+As an action you can scry into the ward as long as you are on the same plane as the ward. You can see everything that happens within 60 feet of the ward. 
+
+The ward has an armor class of 10 and hit points equal to four times your level. 
+
+---
+
+# Elixirs 
+
 ## Elixir of Iron
 
 Cost: 250 Gold
@@ -48,6 +82,7 @@ As an action you can drink this elixir. For the next hour, you don't provoke opp
 
 ---
 
+# Potions
 ## Potion of Healing
 
 Cost: 50 gold
@@ -86,26 +121,4 @@ Cost: 300 Gold
 
 As an action you can replenish up to five charges from any item and rune. 
 
----
 
-## Stealth Ward
-
-Cost: 50 Gold
-
-As an action you can place this ward down in the envoirment, after 6 seconds the ward turns invisible. The ward last for one hour and grants you and allies within 30 feet of the ward light wherever the ward stands. If the ward is in a bush or another hiding envoirment, enemies have disadvantage when hiding there. 
-
-As an action you can scry into the ward as long as you are on the same plane as the ward. You can see everything that happens within 30 feet of the ward. 
-
-The ward has an armor class of 10 and hit points equal to twice your level. 
-
----
-
-## Control Ward
-
-Cost: 100 Gold
-
-As an action you can place this ward down in the envoirment. The ward stays until destoryed and grants you and allies within 30 feet of the ward truesight whenever the ward can see from where it stands. It does not see trough envoirment, exept the envoirment it is placed in. 
-
-As an action you can scry into the ward as long as you are on the same plane as the ward. You can see everything that happens within 60 feet of the ward. 
-
-The ward has an armor class of 10 and hit points equal to four times your level. 
