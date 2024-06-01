@@ -68,7 +68,7 @@ This spell synergizes with the 3rd level spell *Force of Will*, the 4th level sp
 
 **Essence Theft**
 
-_Wizard, Sorcerer, Warlock, Bard_
+_Wizard, Sorcerer, Warlock, Bard, Druid_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
