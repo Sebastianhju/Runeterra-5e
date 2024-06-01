@@ -479,6 +479,19 @@ _You gain +2 to initiative_
 
 ---
 
+## Hextech Rocketbelt
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Hextech Rocketbelt.png" Align=right width=8% height=8%>
+
+- Wondrous
+- 5000 Gold
+
+**Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
+
+**Supersonic**: As a bouns action you can spend a charge activate the rocketbelt. You gain 60 feet flying speed and dont provoke opportunity attacks, but you must land on a surface at the end of your turn, if you don't you fall to the ground.
+
+---
+
 ## Hextech Revolver
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Hextech Revolver.png" Align=right width=8% height=8%>
@@ -506,6 +519,17 @@ _You gain +1 to hit and damage rolls with this magical weapon_
 **Spell Sniper**: Once a turn when you target an enemy that is 60 feet or more away from you with a spell, you can spend two charge to marke the target with dim blue light for a minute. While marked it can't go invisible and attack rolls against it gains a boon.
 
 _You get +1 to your spell attack and spell save DC_
+
+---
+
+## Hubris
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Hubris.png" Align=right width=8% height=8%>
+
+- 4000 Gold
+- Wondrous
+
+**Ego**: Once a round when you score a takedown on a creature, a magical statue of yourself is summoned in their place. As long as you can see the statue your first attack each turn have advantage and deals 1d6 additional damage for each statue. Once a minute passes by, the statue is pulverized to dust.
 
 ---
 
