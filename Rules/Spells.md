@@ -82,7 +82,7 @@ You send out an arcane orb towards a creature that you can see within range. On 
 
 **Rewind**
 
-_Wizard, Sorcerer, Artificer_
+_Wizard, Sorcerer, Artificer, Cleric (Order, Forge)_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
