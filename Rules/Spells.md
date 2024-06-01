@@ -42,9 +42,7 @@ _All spellcasters_
 |---|---|---|---|---|---|---|
 |1st|1 Action|60 ft line|V,S,M*|Instantainous|Transmutation|Attack|
 
-You enhance the bandage in your hands and toss them towards a target that is within 60 feet of you, the bandages hit the first target struck. You are pulled to an empty space within 5 feet of the target and they take 2d6 necrotic damage and are restrained until the end of their turn
-
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6.
+You enhance the bandage in your hands and toss them towards a target that is within 60 feet of you, the bandages hit the first target struck. You are pulled to an empty space within 5 feet of the target and they are restrained until the end of their turn
 
 *_A small piece of bandage_
 
