@@ -310,6 +310,16 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ---
 
+## Navori Shuriken
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Navori Shuriken.png" Align=right width=8% height=8%>
+
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest.
+
+**Shuriken Flip**: When you hit an attack against a creature, you mark then until the start of your next turn. At any time you can spend your reaction and two charges to teleport towards a marked creature. 
+
+---
+
 ## Needlessly Large Rod
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Needlessly Large Rod.png" Align=right width=8% height=8%>
@@ -327,9 +337,9 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 - 500 Gold
 - Quarterstaff
 
-**Charges**: This item has two charges and regain all charges at the end of a long rest. 
+**Charges**: This item has two charges and regains all charges at the end of a long rest. 
 
-**Crushing Blow**: Whenever you hit a creature with _Nimbus Staff_ you can spend two charges to reduce their armor class by 1 for a minute. 
+**Crushing Blow**: Whenever you hit a creature with _Nimbus Staff_ you can spend two charges to give them 3 stacks of carve. 
 
 **Overhead Smash**: Whenever you critically hit with *Nimbus Staff* you deal 1d6 additional bludgeoning damage and recharge two charges. 
 
