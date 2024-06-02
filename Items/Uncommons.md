@@ -314,6 +314,9 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Navori Shuriken.png" Align=right width=8% height=8%>
 
+- 500 gold
+- Dart
+
 **Charges**: This item has 4 charges and regains all charges when you finish a long rest.
 
 **Shuriken Flip**: When you hit an attack against a creature, you mark then until the start of your next turn. At any time you can spend your reaction and two charges to teleport towards a marked creature. 
@@ -447,7 +450,6 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 - 500 Gold
 - Crossbow, Hand
-
 
 **Charges**: This item has 4 charges and regain all charges at the end of a long rest. 
 
