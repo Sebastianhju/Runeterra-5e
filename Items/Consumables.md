@@ -24,6 +24,18 @@ As an action you thow out flamechompers in a 15ft wide line. Any creature that w
 
 ---
 
+## Twilight Smoke Grenade
+
+Cost: 200 Gold
+
+As an action, a character can throw a grenade at a point up to 60 feet away. With a grenade launcher, the character can propel the grenade up to 120 feet away.
+
+One round after a smoke grenade lands, it emits a cloud of smoke that covers a 20-foot radius. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.
+
+Creatures of your choice are untargetable and hidden while in this smoke until the make an attack of force another creature to make a saving throw. Other creatures do not gain any effects from this grenade. 
+
+---
+
 ## Stealth Ward
 
 Cost: 50 Gold
