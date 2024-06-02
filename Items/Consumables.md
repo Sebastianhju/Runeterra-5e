@@ -1,5 +1,13 @@
 # Consumables
 
+## Dark Passage Lantern
+
+Cost: 75 Gold
+
+As an action you throw out this spectral lantern to a space within 60ft of you. You do no need to see the space. As a reaction on e ally can grab the lantern and are dragged towards a space wihtin 5ft of you. When an ally takes this reaction the lantern is consumed by the mist.
+
+---
+
 ## Lotus Trap
 
 Cost: 100 Gold
