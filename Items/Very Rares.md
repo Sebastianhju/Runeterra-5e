@@ -225,7 +225,7 @@ _You gain +2 to hit and damage rolls with this magical weapon_
 - xx Gold
 - Attunement
 
-**Colossal Consumption**: Whenever you end your turn, all creatures within 10 feet of you are granted a _mark of the colossus_. Whenever you damage a creature with a mark you consume the mark, and they take one additional damage for every 25th maximum hit points you have, and you get a stack of _Heartsteel_. 
+**Colossal Consumption**: Whenever you end your turn, all creatures within 10 feet of you are granted a _mark of the colossus_. Whenever you hit an attack roll against a creature with a mark you consume the mark, and they take one additional damage for every 25th maximum hit points you have, and you get a stack of _Heartsteel_. 
 
 **Colossal Might**: For every 20th stack of _Heartsteel_ you have you gain health equal to your level. 
 
