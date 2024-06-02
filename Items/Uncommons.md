@@ -27,7 +27,7 @@
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Beartrap on a Rope.png" Align=right width=8% height=8%>
 
-- 10,000
+- 500
 - Flail
 
 **Charges**: This item has 3 charges and regain all charges when you finish a long rest.
