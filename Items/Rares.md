@@ -217,7 +217,7 @@ _You gain +2 to your insight checks_
 
 ## Blighted Quiver
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Blighted Quiver" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Blighted Quiver.png" Align=right width=8% height=8%>
 
 - 4000 Gold
 - Wondrous
