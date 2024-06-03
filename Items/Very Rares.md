@@ -268,7 +268,7 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 **Harsh Lesson**: Once a turn when you make an attack against a creature that is within reach of one or more of your tentacles. All tentacles within reach can make an attack against that target.
 
-**Tentacle Smash**: As a bonus action, you can spend two charges to slam down a large tentacle from the Idol in a 15ft long line. All creatures in the line must make a constitution saving throw, DC equal to 10 plus twice your proficiency, or takes 1d8 force damage. You heal equal to your proficiency bonus for each target hit.
+**Tentacle Smash**: As an action, you can spend two charges to slam down a large tentacle from the Idol in a 20ft long line. All creatures in the line must make a constitution saving throw, DC equal to 10 plus twice your proficiency, or takes 2d8 force damage. You heal equal to your proficiency bonus for each target hit.
 
 **Summon Elder Tentacle**: You can spend two charges to cast _Summon Elder God Tentacle_ as a bonus action at first level. 
 
