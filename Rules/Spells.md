@@ -175,7 +175,7 @@ You drain out the life essence of a creature you can see within range. The targe
 
 **Vault**
 
-_Ranger, Echo Knight Fighter_
+_Ranger, Eldritch Knight Fighter_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
