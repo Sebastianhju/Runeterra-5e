@@ -4,19 +4,6 @@
 
 ---
 
-## Dagger of Swiftness
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dagger.png" Align=right width=8% height=8%>
-
-- 40 Gold
-- Dagger
-
-**Swift strike**: You off-hand attacks with this dagger are made with advantage.
-
-_You gain +1 to your initiative rolls_
-
----
-
 ## Amplifying Tome
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Amplifying Tome.png" Align=right width=8% height=8%>
@@ -75,6 +62,21 @@ _Regeneration_: At the start of your turn, your regain hit points equal to your 
 **Mana well**: Whenever you spend a hit dice you regain 1 mana.
 
 **Faerie Dust**: Once per long rest, you can cast _Faerie fire_ without spending mana.
+
+---
+
+## Galvanic Dagger
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Dagger.png" Align=right width=8% height=8%>
+
+- 40 Gold
+- Dagger
+
+**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
+
+**Shock**: When you have 100 stacks of energized your next attack with _Galvanic Dagger_ deals 1d8 additional lightining damage. 
+
+_You have a +1 to hit and damage rolls using this magical weapon_
 
 ---
 
@@ -211,7 +213,7 @@ _You gain +1 bonus to spell attack rolls_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Banner of Command.png" Align=right width=8% height=8%>
 
-- 250 Gold
+- 450 Gold
 - Wondrous Item
 - Attunement
 
@@ -227,10 +229,12 @@ _You gain +1 to your armor class while attuned to this item_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Caulfield's Warhammer.png" Align=right width=8% height=8%>
 
-- 250 Gold
+- 500 Gold
 - Warhammer
 
-**Hammering Haste**: Whenever you hit an attaack using Caulfiends Hammer, the cooldown of your runes and items are reduced by 6 seconds. 
+**Hammering Haste**: Once a round when you hit an attack roll with _Caulfields Warhammer_ you reduce the cooldown of your runes and items by 12. 
+
+**Crushing Blow**: When you hit an attack roll with _Caulfields Warhammer_ you can choose to knock the target prone. Once this action is used it cannot be used again until 30 seconds have passed.
 
 _You gain +1 to hit and damage rolls using this magical weapon_
 
@@ -240,12 +244,14 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Fiendish Codex.png" Align=right width=8% height=8%>
 
-- 250 Gold
+- 400 Gold
 - Spell Focus
 
 **Fiendish Knowledge**: You may prepare two extra spell from you spellcasting list. 
 
 **Haste**: The cooldown of your runes and items are reduced by 6 seconds. 
+
+_You get +2 to your spell attack and spell save dc_
 
 ---
 
@@ -253,12 +259,26 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hextech Revolver.png" Align=right width=8% height=8%>
 
-- 250 Gold
+- 450 Gold
 - Pistol
 
 **Shock**: When you hit an attack with _Hextech Revolver_ you can choose to force the target to succeed a constitution saving throw, the DC equal to 8 + proficiency bonus + dexterity modifier, on a failed save they take 2d8 lightning damage and are stunned until the end of their turn. On a success they are not stunned and take half damage. Once this effect is used, it cannot be used again until 36 seconds have passed.
 
-_You gain +1 to hit and damage rolls with this magical weapon_ 
+_You gain +2 to hit and damage rolls with this magical weapon_ 
+
+---
+
+## Hubris
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Hubris.png" Align=right width=8% height=8%>
+
+- 400 Gold
+- Wondrous
+- Attunement
+
+**Ego**: Once a round when you score a takedown on a creature, a statue of yourself is summoned in their place. The statue has an armor class of 10 and hit points equal to ten times your proficiency bonus, it is immune to fire and psychic damage, and vulnerable to thunder damage. As long as you can see the statue your first attack each turn have advantage and deals 1d6 additional damage for each statue. Once a minute passes by, the statue is pulverized to dust.
+
+**Haste**: The cooldown of your runes and items are reduced by 6 seconds. 
 
 ---
 
@@ -266,15 +286,15 @@ _You gain +1 to hit and damage rolls with this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Last Whisper.png" Align=right width=8% height=8%>
 
-- 290 Gold
+- 400 Gold
 - Longbow
 
 **Breathtaking**: Whenever you damage enemies, you ignore resistances to piercing damage. If a creature would be immune to piercing damage, they take half damage from your attacks.
 
-**Loaded string**: As a bonus action, you load you bow. Your next attack that hits deals 1d6 additional damage. You can use this effect a number of times equal to your proficiency bonus before you must take a long rest. 
+**Loaded string**: As a bonus action, you load you bow. Your next attack has advantage and deals 1d8 additional damage. You can use this effect a number of times equal to your proficiency bonus before you must take a short rest. 
 
 _You gain +2 to initative rolls_ 
-_You gain +1 to hit and damage rolls using this magical weapon._
+_You gain +2 to hit and damage rolls using this magical weapon._
 
 ---
 
@@ -282,14 +302,16 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Serrated Dirk.png" Align=right width=8% height=8%>
 
-- 290 Gold
+- 400 Gold
 - Dagger
 
 **Gouge**: Whenever you deal damage to a creature with temporary hit points using _Serrated Dirk_, you first remove the temporary hit points and deal 2d6 additional damage. 
 
+**Out of Sight**: Once per short rest you can cast the invisible spell on yourself
+
 _You gain +2 to stealth checks_
 
-_You gain +1 to hit and damage rolls using this magical weapon._
+_You gain +2 to hit and damage rolls using this magical weapon._
 
 ---
 
@@ -297,7 +319,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Bramblevest.png" Align=right width=8% height=8%>
 
-- 300 Gold
+- 400 Gold
 - Chain Vest
 - Attunement
 
@@ -311,14 +333,14 @@ You gain +1 to your armor class while wearing this magical armor.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Kircheis Shard.png" Align=right width=8% height=8%>
 
-- 300 Gold
+- 400 Gold
 - Spear
 
-**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain five stacks of _energized_, up to a maximum of 80.
+**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
 
-**Jolt**: When you are at 80 stacks of _energized_, your next attack with _Kircheis Shard_ also deals 2d8 lightning damage after the  weapons initial damage. 
+**Jolt**: When you are at 100 stacks of _energized_, your next attack with _Kircheis Shard_ also deals 2d8 lightning damage after the weapons initial damage. 
 
-You gain +1 to hit and damage rolls using this magical weapon. 
+You gain +2 to hit and damage rolls using this magical weapon. 
 
 ---
 
@@ -326,12 +348,14 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Mikael's Blessing.png" Align=right width=8% height=8%>
 
-- 300 Gold
+- 400 Gold
 - Wondrous
 
-**Purify**: You know the lesser restoration spell and can cast it once a day without spending mana. Whenever you cast lesser- or greater restoration on a target, you also heal then for 2d8 hit points. 
+**Purify**: You know the lesser restoration spell and can cast it once a long rest as an reaction without spending mana. 
 
-**Healing Power**: Your healing spells heal 2 more hit points.  
+**Enhanced Cleansing** Whenever you cast lesser- or greater restoration on a target you can target creatures within 30 feet of you. Additionally, you may spend at least one additional mana to eighter target another creature within range, or remove an additional effect affecting a creature.
+
+**Healing Power**: Your healing spells heal 2 more hit points.
 
 ---
 
@@ -339,15 +363,45 @@ You gain +1 to hit and damage rolls using this magical weapon.
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Phage.png" Align=right width=8% height=8%>
 
-- 3250 Gold
+- 400 Gold
 - Maul
 
-**Sturdy**: Whenever you hit a crature with phage, you get a stacks of _regeneration_. 
+**Sturdy**: Once a turn when you hit a creature with phage, you get two stacks of _regeneration_. 
 
 **Health**: You gain maximum hit points equal to your hit dice. 
 
-You gain +1 to hit and damage rolls using this magical weapon. 
+You gain +2 to hit and damage rolls using this magical weapon. 
 
-_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus._
+_Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to two plus your proficiency bonus._
+
+---
+
+## Shadowflame
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Shadowflame.png" Align=right width=8% height=8%>
+
+- 400 gold
+- Wonderus
+- Attunement
+
+**Cinderbloom**: Spell Attack rolls have +2 crit chance against bloodied targets. 
+
+_You gain +2 to spell attack rolls and save dc_
+
+---
+
+## Steel Sigil
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-items/Steel Sigil.png" Align=right width=8% height=8%>
+
+- 400 Gold
+- Wondrous
+- Attunement
+
+**Fury**: As a bonus action you can enter a state of fury for a minute. While in fury your weapon attacks deal 1d6 additional damage, additionaly you gain temporary hit points equal to twice your proficiency bonus whenever you score a takedown. You can use this action a number of times equal to your proficiency bonus before finishing a long rest. 
+
+**Calm**: You gain +1 to all saving throws
+
+_While attuned to this item your armor class inceases by 1_ 
 
 ---

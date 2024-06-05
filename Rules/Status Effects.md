@@ -10,21 +10,39 @@ At the start of their turn, a creature with burn stacks takes 1d4 force damage. 
 
 ---
 
+# Buzzed
+
+A Buzzed targets movement speed is halved. A creature can remove Buzz if they end their turn without moving.
+
+---
+
 # Carve 
 
 Your armor class is reduced by one for every other stack of carve you have, up to a maximum of eight. Whenever you start your turn, you remove one stack of carve. You can remove all stacks of carve by using lesser restoration or similar effects. 
 
 ---
 
-# Regeneration
+# Frostbite
 
-At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus.
+A frostbitten target deals half damage from every source of their weapon attacks. Forstbite can be removed by spending an action heating yourself up near a fireplace or by spells as lesser restoration.
 
 ---
 
 # Immoblized
 
 A creature can be immobilized in different ways. If their speed is reduced to zero, if they are frightened, blinded, incapacitated, paralyzed, petrified, restrained, stunned, pushed, pulled, knocked up or knocked prone.
+
+---
+
+# Petricited 
+
+tba
+
+---
+
+# Regeneration
+
+At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to three times your proficiency bonus.
 
 ---
 

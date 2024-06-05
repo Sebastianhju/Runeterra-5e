@@ -1,19 +1,17 @@
 # Species
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Species.png">
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-race/Species.png">
 
 |The species of the worlds of the Multiverse are numerous and diverse. From the bipedal vastaya to the winged tiger-like protectors, from the magical to the unremarkable.|
 |---|
 ---
 # Table of Content
-- [Trolls](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Species.md#trolls)
-- [Yordles](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Species.md#yordles)
-- [Vastaya](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Species.md#vastaya)
-- [Humans](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Species.md#humans)
-- [Minotaurs](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Species.md#minotaurs)
+- [Trolls](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Species.md#trolls)
+- [Yordles](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Species.md#yordles)
+- [Vastaya](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Species.md#vastaya)
   
 # Trolls
 
-![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Troll.png)
+![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-race/Troll.png)
 |*Trolls are, for the most part, hulking brutish creatures, found in many of Runeterra’s least hospitable environments. Though not invulnerable, they are blessed with a hardy constitution and the ability to heal more quickly than other mortal races—especially the feeble humans. This means they can endure extremes of climate and scarce resources merely by out-surviving their rivals, and this is the most likely reason some of the largest known tribes still call the mountains of the Freljord home.*|
 |---|
 
@@ -65,7 +63,7 @@
 
 # Yordles
 
-![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Yordles.Png)
+![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-race/Yordles.Png)
 |*The **Yordle** are a race of spirits who generally take the appearance of mammalian bipeds. They mostly reside in a mystical place known as Bandle City though some of them have ventured out to live in numerous locations around Runeterra. Yordle culture is gregarious and varied; they require far more social interaction than humans do. They generally are a peaceful and amicable race, often marked with streaks of joviality and light prankishness, with their personality most often pointed toward benevolence. Their desire for social interaction also drives them toward this ethos, as the mental health of a yordle is very much dependent on the positive company he or she keeps.*|
 |---|
 # Racial Traits
@@ -93,7 +91,7 @@
 
 # Vastaya
 
-![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Vastayan.png)
+![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-race/Vastayan.png)
 |The Vastaya are a chimeric race of Runeterra that are the weaker magical descendants from enlightened mortals that took the power of the spirit realm into themselves known as the Vastayashai'rei. From the ferocious, bestial feline power of Kiilash to the foxlike allure of Vesani, vastaya can look considerably different from one another, but they all share animal and human characteristics.|
 |---|
 
@@ -162,24 +160,11 @@
 ---
 
 # Humans
-![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/img-race/Human.png)
+![](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-race/Human.png)
 |Humans are the dominant sapient life forms of Runeterra. While their point of origin on the planet is currently unknown, the majority of human diaspora arrived from either the eastern lands beyond Ionia, Ionia itself, or the Freljord. They have a great variety of appearances, strengths and magical powers. Humans have the chance to be empowered by a variety of magical sources, turning into Ascended, Undead, or Vastayashai’rei. Humans are able to reproduce with Ascended, Vastayashai’rei, and Vastaya, birthing individuals that have some or all of the physical and/or magical abilities of their magically attuned parents. Cyborgs are humans who have augmented themselves by technology, with some individuals going so far as to be completely replace their human body parts with technology, effectively turning into technological Golem.|
 |---|
 
-# Racial Traits
-**Creature Type**: You are a humanoid
-
-**Size:** You are Medium
-
-**Speed**: Your walking speed is 30 feet. 
-
-**Ability Score Improvement**: When determining your character’s ability scores, increase two scores by 1. 
-
-**Languages**: Your character can read, speak and write Va-Nox, and one other Language of your choice
-
-**Skilled**: You are proficient in a skill of your choosing
-
-**Runeterran Born**: You gain a feat of your choice.
+**We use the Variant Human from core Dungeons and Dragons**
 
 ---
 
