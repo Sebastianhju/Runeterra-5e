@@ -1,6 +1,6 @@
 # Barbarian, Path of the Brawler
 ## Brawling Fury
-- **3rd-level Path of the Brawler feature. **
+- **3rd-level Path of the Brawler feature.**
 
 You are martially adept in unarmed fighting, your unarmed attacks deal 1d6 bludgeoning damage. Increasing to 1d8 when you reach level 14. 
 Whenever you are raging and have a hand free, as a reaction upon begin targeted by an attack, you can attempt to grapple a different creature within 5 feet and push them in front of the attack, making them the target of the attack instead of you. 
