@@ -60,7 +60,7 @@ Whenever you gain a sorcerer level, you can replace one spell you gained from th
 
 ---
 
-### Adaptive Transformation
+### Adaptive Transformation I
 - **6th-level Voidtouched feature**
 
 Whenever you gain an ability score of 16 in any class you gain benefits depending on that ability. 
@@ -108,7 +108,7 @@ You gain +1 to your charisma up to a maximum of 21.
 
 ---
 
-### Adaptive Transformation
+### Adaptive Transformation II
 - **14th-level Voidtouched feature**
 
 Whenever you gain an ability score of 18 in any class you gain benefits depending on that ability. 
@@ -153,3 +153,12 @@ You gain +1 to your charisma up to a maximum of 21.
 #### **Charisma**
 
 **Voids Embrace**: Once a turn when you deal acid, force or necrotic damage you can attempt to charm or frighten a target. The target must succeed a wisdom saving throw or becomes charmed or frightened. 
+
+---
+
+### True Voidling
+
+You completly embrace the embrace of the void, making you a True Voidling. As a bonus action you can spend a sorcery point to transform into a voidling creature for a minute. While you are in this transformation you gain the following effects. 
+- You gain resistance to all incoming damage.
+- You can use _Riftwalk_ without expending sorcery points. 
+- As a bonus action during your turns, you can attempt to corrupt a creature within 60ft of you. If the target is an ally, they gain the ability to _Riftwalk_ as a bonus action, and they gain all benefits from your active _Adaptive Transformations_ for a minute. If the target is an enemy they must succeed a wisdom saving throw against your spell save DC. If they fail you dominate them and choose how they use their next turn, then the effect falls of. Once a creature has ben corrupted, they cannot become corrupted in this way until they finish a long rest. You can only have one corrupted target at the same time. 
