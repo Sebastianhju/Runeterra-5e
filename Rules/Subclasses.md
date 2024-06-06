@@ -61,30 +61,42 @@ Whenever you gain a sorcerer level, you can replace one spell you gained from th
 
 Whenever you gain an ability score of 16 in any class you gain benefits depending on that ability. 
 
+---
+
 #### **Strength**
 You gain +1 to your charisma up to a maximum of 21. 
 
 **Voidskin** You become resistant to acid and necrotic damage, whenever you take acid og necrotic damage your next attack roll is made with advantage. 
+
+---
 
 #### **Dexterity**
 You gain +1 to your charisma up to a maximum of 21. 
 
 **Killer Instinct**: Whenever you roll initiative, you gain temporary hit points equal to your sorcerer level. As long as you have these temporary hit points you gain 10ft additional walking speed. 
 
+---
+
 #### **Constitution**
 You gain +1 to your charisma up to a maximum of 21.  
 
 **Growing Vitality**: Whenever you kill a creature, you gain maximum hit points equal to your charisma modifier until the end of your next long rest.
+
+---
 
 #### **Wisdom**
 You gain +1 to your charisma up to a maximum of 21. 
 
 **Eyes of the Void**: You gain 60ft darkvision and see through both magical and nonmagical darkness.  
 
+---
+
 #### **Intellicence**
 You gain +1 to your charisma up to a maximum of 21. 
 
 **Sight of the Watcher**: You can cast the arcane eye once a day without expending a spell slot.
+
+---
 
 #### **Charisma**
 
