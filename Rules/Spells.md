@@ -10,7 +10,7 @@ _Wizard, Sorcerer, Warlock_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|0|1 Action|15 feet cone|V,S|Instantanious|Necrotic|Dexterity|
+|0|1 Action|15 feet cone|V,S|Instantanious|Evocation|Dexterity|
 
 Red lightning courses from your hand and skocks creatures in a 15ft cone in front of you. All creatures within the area must make a dexterity saving throw or takes 1d6 lightning damage.
 
