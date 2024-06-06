@@ -31,8 +31,11 @@ Your fighting-style improves at keeping your foes close to you. You gain an 15 f
 
 ## Voidtouched
 
+*This Subclass is meant for the sorcer found in PH-Playtest 7
+**This Subclass is balanced around the standard array ability setting. Things may get out of hand if you choose to use another method.
+
 ### Riftwalk
-- **1st-level Voidtouched feature**
+- **3rd-level Voidtouched feature**
 
 When you cast a spell of 1st level or higher, you may spend one sorcery point to teleport to a location you can see within 30ft of you. 
 
@@ -67,14 +70,14 @@ Whenever you gain an ability score of 16 in any class you gain benefits dependin
 #### **Strength**
 You gain +1 to your charisma up to a maximum of 21. 
 
-**Voidskin** You become resistant to acid and necrotic damage, whenever you take acid og necrotic damage your next attack roll is made with advantage. 
+**Voidskin**: At the end of a long rest, you can choose one damage type and gain resistance to that damage type. Once a turn when you deal acid, force or necrotic damage to a target. You can choose to push the target 10 feet away from you.
 
 ---
 
 #### **Dexterity**
 You gain +1 to your charisma up to a maximum of 21. 
 
-**Killer Instinct**: Whenever you roll initiative, you gain temporary hit points equal to your sorcerer level. As long as you have these temporary hit points you gain 10ft additional walking speed. 
+**Killer Instinct**: You gain +5ft walking speed and whenever you roll initiative, you gain temporary hit points equal to your sorcerer level.
 
 ---
 
@@ -88,17 +91,65 @@ You gain +1 to your charisma up to a maximum of 21.
 #### **Wisdom**
 You gain +1 to your charisma up to a maximum of 21. 
 
-**Eyes of the Void**: You gain 60ft darkvision and see through both magical and nonmagical darkness.  
+**Eyes of the Void**: You gain +2 to perception checks. Additionally you gain 60ft darkvision and see through both magical and nonmagical darkness.
 
 ---
 
-#### **Intellicence**
+#### **Intelligence**
 You gain +1 to your charisma up to a maximum of 21. 
 
-**Sight of the Watcher**: You can cast the arcane eye once a day without expending a spell slot.
+**Sight of the Watcher**: You get +1 to all ability checks. Additionally you can cast the arcane eye once a day without expending a spell slot.
 
 ---
 
 #### **Charisma**
 
-**Void Attuned**: Whenever you deal damage with a spell you can change the damage type to acid or necortic damage. 
+**Void Attuned**: Whenever you deal damage with a spell you can change the damage type to acid, force or necortic damage. 
+
+---
+
+### Adaptive Transformation
+- **14th-level Voidtouched feature**
+
+Whenever you gain an ability score of 18 in any class you gain benefits depending on that ability. 
+
+---
+
+#### **Strength**
+You gain +1 to your charisma up to a maximum of 21. 
+
+**Voidling Limbs**: Black and Purple tendrils grow from your back, granting you 10ft reach, climbing speed equal to your walking speed and +5 to athletic checks. 
+
+---
+
+#### **Dexterity**
+You gain +1 to your charisma up to a maximum of 21. 
+
+**Flying Symbiosis**: You gain flying speed equal to your walking speed.
+
+---
+
+#### **Constitution**
+You gain +1 to your charisma up to a maximum of 21.  
+
+**Exploding Entrance**: Whenever you _Riftwalk_ your rift implodes whenere you end your teleport. All creatures within 5 feet of your landing spot suffers force damage equal to your proficiency bonus.
+
+---
+
+#### **Wisdom**
+You gain +1 to your charisma up to a maximum of 21. 
+
+**Riftwalker Upgrade**: You gain +2 to perception checks. Additionally you gain 60ft darkvision and see through both magical and nonmagical darkness.
+
+---
+
+#### **Intelligence**
+You gain +1 to your charisma up to a maximum of 21. 
+
+**Null Magic Sphere**: Whenever you _Riftwalk_ you can hurl out a null magic orb towards a target within 120ft of you. The target must succeed a dexterity saving throw against you spell save dc, or looses concentration on any spell or effect they are concentration on. 
+
+---
+
+#### **Charisma**
+
+**Voids Embrace**: Once a turn when you deal acid, force or necrotic damage you can attempt to charm or frighten a target. The target must succeed a wisdom saving throw or becomes charmed or frightened. 
