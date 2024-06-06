@@ -31,26 +31,61 @@ Your fighting-style improves at keeping your foes close to you. You gain an 15 f
 
 ## Voidtouched
 
-### Adapting Evolution
+### Riftwalk
 - **1st-level Voidtouched feature**
 
-Whenever you gain an ability score of 16 in any class you gain benefits depending on that ability. 
-
-**Strength**: Your lifting carrying and draggin capacity counts as if you were one size larger.
-
-**Dexterity**: You become proficient in dexterity saving throws. 
-
-**Constitution**: Whenever you are about to gain a point of exhaustion, you may roll 1d6, on a result of 5 or 6 you do not gain the exhaustion. 
-
-**Wisdom**: 
-
-**Intelligence**:
-
-**Charisma**:   
+When you cast a spell of 1st level or higher, you may spend one sorcery point to teleport to a location you can see within 30ft of you. 
 
 ---
 
-### Riftwalk
+### Voidtouched Magic
+
+You learn additional spells when you reach certain levels in this class, as shown on the Clockwork Spells table. Each of these spells counts as a sorcerer spell for you, but it doesn’t count against the number of sorcerer spells you know.
+
+Whenever you gain a sorcerer level, you can replace one spell you gained from this feature with another spell of the same level. The new spell must be an Conjuration or a Transmutation spell from the sorcerer, warlock, or wizard spell list.
+
+**Voidtouched Spells**
+
+|Sorcerer Level|Spells|
+|---|---|
+|1st|Arms of Hadar, Dark Sphere|
+|3rd|Rapture, Vortex Warp|
+|5th|Hunger of Hadar, Miasma|
+|7th|Black tentacles, Summon Aberration|
+|9th|Syntaic Static, Wall of Force|
+
+---
+
+### Adaptive Transformation
 - **6th-level Voidtouched feature**
 
-### 
+Whenever you gain an ability score of 16 in any class you gain benefits depending on that ability. 
+
+#### **Strength**
+You gain +1 to your charisma up to a maximum of 21. 
+
+**Voidskin** You become resistant to acid and necrotic damage, whenever you take acid og necrotic damage your next attack roll is made with advantage. 
+
+#### **Dexterity**
+You gain +1 to your charisma up to a maximum of 21. 
+
+**Killer Instinct**: Whenever you roll initiative, you gain temporary hit points equal to your sorcerer level. As long as you have these temporary hit points you gain 10ft additional walking speed. 
+
+#### **Constitution**
+You gain +1 to your charisma up to a maximum of 21.  
+
+**Growing Vitality**: Whenever you kill a creature, you gain maximum hit points equal to your charisma modifier until the end of your next long rest.
+
+#### **Wisdom**
+You gain +1 to your charisma up to a maximum of 21. 
+
+**Eyes of the Void**: You gain 60ft darkvision and see through both magical and nonmagical darkness.  
+
+#### **Intellicence**
+You gain +1 to your charisma up to a maximum of 21. 
+
+**Sight of the Watcher**: You can cast the arcane eye once a day without expending a spell slot.
+
+#### **Charisma**
+
+**Void Attuned**: Whenever you deal damage with a spell you can change the damage type to acid or necortic damage. 
