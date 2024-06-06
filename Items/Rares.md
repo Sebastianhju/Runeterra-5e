@@ -824,7 +824,7 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 
 **Mana**: You gain one additional spell slot. The level of the spell slot is equal to half your proficiency bonus rounded up.
 
-**Wisdom of Ages**: When rolling damage for your cantrips you can add your spell casting modifier to the damage. 
+**Wisdom of Ages**: Once a turn when you roll damage for your cantrips you can add your spell casting modifier to the result.
 
 _You gain +1 to you spell attack rolls and spell save DC_
 
