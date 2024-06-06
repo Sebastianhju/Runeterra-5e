@@ -4,6 +4,20 @@
 
 ## Cantrips
 
+**Deaths Hand**
+
+_Wizard, Sorcerer, Warlock_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|0|1 Action|15 feet cone|V,S|Instantanious|Necrotic|Dexterity|
+
+Red lightning courses from your hand and skocks creatures in a 15ft cone in front of you. All creatures within the area must make a dexterity saving throw or takes 1d6 lightning damage.
+
+**Cantrip Scaling.** The damage increases by 1d6 at level 5, 11 and 17. 
+
+---
+
 **Infected Bonesaw**
 
 _Wizard, Sorcerer, Warlock, Cleric (Grave & Death Domain)_
