@@ -39,6 +39,7 @@ When you cast a spell of 1st level or higher, you may spend one sorcery point to
 ---
 
 ### Voidtouched Magic
+- **1st-level Voidtouched feature**
 
 You learn additional spells when you reach certain levels in this class, as shown on the Clockwork Spells table. Each of these spells counts as a sorcerer spell for you, but it doesn’t count against the number of sorcerer spells you know.
 
