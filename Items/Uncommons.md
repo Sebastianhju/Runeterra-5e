@@ -104,7 +104,9 @@
 - 500 Gold
 - Cloak
 
-**Momentery Focus**: As a bonus action you can enter a state of focus. This state of focus counts as concentration and can be broken from the same conditions. While in this state of focus, you gain a boon on all attack rolls and gain +1 critical strike chance. 
+**Charges**: This item has 4 charges and regain all charges at the end of a long rest. 
+
+**Momentery Focus**: As a bonus action you can spent two charges to enter a state of focus. This state of focus counts as if you were concentration and can be broken from the same conditions, but isn't con. While in this state of focus, you gain a boon on all attack rolls and gain +1 critical strike chance. 
 
 ---
 
