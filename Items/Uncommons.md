@@ -271,9 +271,9 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 ---
 
-## Glowing Mode
+## Glowing Mote
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Glowing Mode.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Glowing Mote.png" Align=right width=8% height=8%>
 
 **Charges**: This item has 2 charges and regains all charges when you finish a long rest.
 
