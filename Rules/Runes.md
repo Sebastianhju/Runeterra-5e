@@ -437,9 +437,7 @@ The damage increases by 1d6 at level 5, 9, 13 and 17.
 
 ### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Resolve/Guardian.png" Align=left width=15% height=15%>
 
-Once per combat when you or an ally within 30 feet of you takes damage, before you can choose grant yourself and that ally temporary hit points. The target taking damage gains temporary hit points equal to five times your proficiency bonus plus you level and the other gains half that amount rounded down.
-
-.
+Once per combat when you or an ally within 30 feet of you takes damage, before you can choose grant yourself and that ally temporary hit points. The target taking damage gains temporary hit points equal to three plus three times your level and the other gains half that amount rounded down.
 
 ---
 
