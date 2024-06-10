@@ -456,8 +456,6 @@ The damage increases by 1d6 at level 5, 9, 13 and 17.
 
 Whenever you end your turn within 15 feet of a construct or object that can be destroyed, they gain a stack of demolish (Up to a maximum of five). The next time you deal damage a target with demolish, they take 1d10 additional damage for every stack of demolish the target have.
 
-You can target creatures held item with this attack
-
 ---
 
 ### Font Of Life  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Resolve/FontOfLife.png" Align=left width=7% height=7%>
