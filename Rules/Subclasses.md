@@ -37,7 +37,7 @@ Your fighting-style improves at keeping your foes close to you. You gain an 15 f
 ### Riftwalk
 - **3rd-level Voidtouched feature**
 
-When you cast a spell of 1st level or higher, you may spend one sorcery point to teleport to a location you can see within 30ft of you. 
+When you cast a spell of 1st level or higher with a casting time of an action, you may spend one sorcery point to teleport to a location you can see within 30ft of you. 
 
 ---
 
