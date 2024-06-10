@@ -213,7 +213,7 @@ _You gain +2 to your insight checks_
 
 **Annull**: Whenever you are required to make a saving throw, you can choose to spend three charges and you automaticly succeed the saving throw instead. If you would take half damage by succeeding the saving throw, you take no damage instead. 
 
-**Banshees Song**: You know the speak with dead cantrip and can cast it at will. 
+**Banshees Song**: You know the speak with dead spell and can cast it at will. 
 
 ---
 
