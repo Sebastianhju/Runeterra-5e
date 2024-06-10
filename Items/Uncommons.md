@@ -7,7 +7,7 @@
 - 500 Gold
 - Wondrous 
 
-**Tomes Knowledge**: You can prepare one additional spell that is of a maximum spell level equal to your proficiency bonus from your known spells and can cast it once per long rest without expending a spell slot. 
+**Tomes Knowledge**: You can prepare one additional spell that is a maximum of 3rd level and can cast it once per long rest without expending a spell slot. 
 
 ---
 
@@ -268,6 +268,16 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 **Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
 
 **Shock**: When you have 100 stacks of energized your next attack with _Galvanic Dagger_ deals 1d8 additional lightining damage. 
+
+---
+
+## Glowing Mode
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Glowing Mode.png" Align=right width=8% height=8%>
+
+**Charges**: This item has 2 charges and regains all charges when you finish a long rest.
+
+**Haste**: Whenever you must spend charges of any other item or rune, you can spend charges from this item instead.
 
 ---
 
