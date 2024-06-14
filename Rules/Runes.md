@@ -39,17 +39,17 @@
 
 ### Fleet Footwork  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Precision/FleetFootwork.png" Align=left width=15% height=15%>
 
-Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move and ten stacks for every attack you hit, up to a maximum of 100 stacks. When you have maximum stacks, the next time you deal damage, you gain 10 feet movement speed and you deal 1d6 additional damage, and heal equal to the additional damage dealt plus your proficiency bonus.
+Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move and ten stacks for every attack you hit, up to a maximum of 100 stacks. When you have maximum stacks, the next time you deal damage, you gain 10 feet movement speed and you deal 1d6 additional damage, and heal equal to the additional damage dealt.
 
-The damage increases by 1d6 at level 5, 9, 13 and 17. 
+The damage increases by 1d6 at level 5, 11 and 17. 
 
 ---
 
 ### Conqueror  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Precision/Conqueror.png" Align=left width=15% height=15%>
 
-Once per attack, whenever you damage enemies, you gain stacks of Conqueror. Three stacks for ranged attacks, and four stacks for melee attacks. Whenever you get 12 stacks, you deal 1d6 additional damage whenever you deal damage, and you heal for the additional damage dealt. If you don't deal damage within the next minute, you loose all stacks of Conqueror.
+Once a turn, whenever you damage enemies, you gain a stack of Conqueror. At the start of your turn when you have three stacks, you deal 1d6 additional damage whenever you deal damage that turn, and you heal for the additional damage dealt. If you don't deal damage within the next minute, you loose all stacks of Conqueror.
 
-The damage dice increases to 1d8 at level 5, 1d10 at level 9, 1d12 at level 13 and 2d12 at level 17.
+The damage dice increases to 1d8 at level 5, 1d10 at level 11 and 1d12 at level 17.
 
 ---
 
@@ -57,7 +57,7 @@ The damage dice increases to 1d8 at level 5, 1d10 at level 9, 1d12 at level 13 a
 
 Whenever you damage a creature, they gain a stack of pressure that lasts until you damage another creature. When a creature gains three stacks of pressure, they take 1d6 force damage and all attacks against them gains a boon for a minute. 
 
-The damage increases by 1d6 at level 5, 9, 13 and 17. 
+The damage increases by 1d6 at level 5, 11 and 17. 
 
 (For AoE effects you choose a single target that gets the stack)
 
@@ -172,7 +172,7 @@ When you damage an enemy you can choose to give them a mark of electrocute. When
 
 Whenever you score a takedown you gain a stack of Harvest. 
 
-Once a turn when you damage a target you can choose to deal 1d6 force damage to that target. Once used this effect cannot be used again until you score a takdown or finish a long rest. This damage can only be dealt once to each individual target. The damage increases to 1d6 when you gain 10 stacks, and then again with 1d6 for every 25th stack beyond that.  
+Once a turn when you damage a target you can choose to deal 1d6 force damage to that target. Once used this effect cannot be used again until you score a takdown or finish a long rest. This damage can only be dealt once to each individual target. The damage increases with 1d6 for every 25th stack you have.  
 
 ---
 
@@ -182,7 +182,7 @@ You can always dash as a bonus action.
 
 Once per combat when you dash you can choose to activate *Predator*, gaining boon on all attacks until the end of your turn and the next time you deal damage you deal 1d6 additional damage for every 30 feet traveled that turn, up to 90 feet. 
 
-The damage for each treshhold increases by 1d6 at level 5, 9, 13 and 17.
+The damage for each treshhold increases by 1d6 at level 5, 11 and 17.
 
 ---
 
@@ -305,9 +305,9 @@ Aerys damage and sheilding scales along with your proiciency bonus in level 5, 9
 
 ### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Sorcery/ArcaneComet.png" Align=left width=15% height=15%>
 
-Once per combat, as an action you can summon an arcane comet that crashes into a 30 foot radius, all creatures in the effect must make a dexterity saving throw or take 2d6 bludgeoning damage and are knocked prone. The save DC equals 8 + twice your proficiency bonus or your spell save DC. 
+Once per combat, as an action you can summon an arcane comet that crashes into a 30 foot radius, all creatures in the effect must make a dexterity saving throw or take 3d6 bludgeoning damage and are knocked prone. The save DC equals 8 + twice your proficiency bonus or your spell save DC. 
 
-The damage increases by 3d6 at levels 5, 9, 13 and 17
+The damage increases by 3d6 at levels 5, 11 and 17
 
 ---
 
@@ -429,9 +429,7 @@ You gain +1 crit chance while it is storming
 
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Resolve/VeteranAftershock.png" Align=left width=15% height=15%>
 
-Once per combat when you immobilize a creature you gain temporary hit points equal to six times your proficiency bonus. At the end of your next turn a shockwave pulses from you, all creatures you choose within 10 feet of you must make a constitution saving throw or take 2d6 force damage, halved on a save. 
-
-The damage increases by 1d6 at level 5, 9, 13 and 17.
+Once a turn when you immibilize a creature, you can imcrease your armor class by 1 until the end of combat. The maximum of armor class you can gain from this effecet equal to your proficiency bonus. 
 
 ---
 
@@ -443,11 +441,11 @@ Once per combat when you or an ally within 30 feet of you takes damage, before y
 
 ### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=15% height=15%>
 
-Once a round when you damage an enemy and once a round when you take damage from an enemy, you gain a stack of Grasp. When you are at three stacks, your next damaging effect deals additional 1d6 + proficiency necrotic damage. You heal equal to the damage dealt from this effect.
+Once a round when you damage an enemy and once a round when you take damage from an enemy, you gain a stack of Grasp. When you are at three stacks, your next damaging effect deals additional 1d6. You heal equal to the damage dealt from this effect.
 
 In addition you gain a stack of Undying whenever you drain an opponent using this ability. When you gain 10 stacks you gain maximum hit points equal to your level, and then again for every 25th stack.
 
-The damage increases by 1d6 at level 5, 9, 13 and 17.
+The damage increases by 1d6 at level 5, 11 and 17.
 
 ---
 
@@ -550,7 +548,7 @@ You gain immunity to the frightened and charmed condition and you cannot be move
 
 When you immobilize a target, you can choose to cover the terrain beneath them in ice. A 15 foot radius centered around the enemy is turned to difficult terrain for enemies. All enemy targets standing within the area gains a bane to attack rolls and attacks against them gains a boon. This effect lasts until you use this effect again.  
 
-The area of effect increases by 5 feet at levels 5, 9, 13 and 17. 
+The area of effect increases by 5 feet at levels 5, 11 and 17. 
 
 ---
 
@@ -560,9 +558,9 @@ At the end of a long rest you gain a [Summoner Spells](https://github.com/Sebast
 
 To determine if you can select your summoner spell gained you must hit a 4 or higher at level 5, 2 or higher at level 9, you always choose at level 13 and above. 
 
-You gain an additional summoner spell at the end of your long rests at level 5, 9, and 13. At level 17 you gain all summoner spells whenever you finish a long rest.
+You gain an additional summoner spell at the end of your long rests at level 5, 11 and 17.
 
-To determine if you can select your summoner spell gained you must hit a 4 or higher at level 5, 2 or higher at level 9, you always choose at level 13 and above. 
+To determine if you can select your summoner spell gained you must hit a 4 or higher at level 5, you always choose at level 11 and above. 
 
 |1d10 Roll|Summoner Spell|-|1d10 Roll|Summoner Spell|
 |---|---|---|---|---|
