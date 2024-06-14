@@ -6,7 +6,7 @@
 
 **Deaths Hand**
 
-_Wizard, Sorcerer, Warlock_
+_Druid, Wizard, Sorcerer, Warlock_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
