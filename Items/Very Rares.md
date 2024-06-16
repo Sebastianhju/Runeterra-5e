@@ -384,7 +384,7 @@ _You have +2 to hit and damage rolls using this weapon_
 
 **Charges**: This item has 3 charges and regains all charges when you finish a long rest.
 
-**Haste:** Whenever you must spend charges of any other item or rune, you can spend charges from this item instea
+**Haste:** Whenever you must spend charges of any other item or rune, you can spend charges from this item instead.
 
 **Devotion**: As an action you can spend one charge to pray for aid and protection over your allies. Up to 6 targets within 60 feet of you gain temporary hit points equal to three times your proficiency bonus. As long as they have the temporary hit points, they can add 1d6 to all d20 roll they make.
 
