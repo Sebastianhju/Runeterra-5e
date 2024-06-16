@@ -928,9 +928,9 @@ _You gain +1 to spell attack rolls and save dc_
 
 **Inspirational**: You gain +2 to persuation, intimidation and deception checks
 
-**Song of Victory** As a bonus action you can spend a charge to hasten your party. Singing a song of victory you grant 6 targets within 30ft of you temporary hit points equal to 3 times your proficiency bonus and 30 feet movement speed until the end of their next turn. 
+**Song of Victory** As a bonus action you can spend three charges to hasten your party. Singing a song of victory you grant 6 targets within 30ft of you temporary hit points equal to three times your proficiency bonus and 30 feet movement speed until the end of their next turn. 
 
-**Song of Inspiration**: Whenever you target an ally with a spell or grant them bardic inspiration, they also gain 10 feet movement speed until the end of their turn. And you regain one charge on this item.
+**Song of Inspiration**: Whenever you target an ally with a spell or grant them bardic inspiration, they also gain 10 feet movement speed until the end of their turn and you regain one charge on this item.
 
 ---
 
