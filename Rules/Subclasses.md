@@ -115,36 +115,31 @@ Whenever you gain an ability score of 18 in any class you gain benefits dependin
 
 ---
 
-#### **Strength**
-You gain +1 to your charisma up to a maximum of 21. 
+#### **Strength*  
 
 **Voidling Limbs**: Black and Purple tendrils grow from your back, granting you 10ft reach, climbing speed equal to your walking speed and +5 to athletic checks. 
 
 ---
 
 #### **Dexterity**
-You gain +1 to your charisma up to a maximum of 21. 
 
 **Flying Symbiosis**: You gain flying speed equal to your walking speed.
 
 ---
 
 #### **Constitution**
-You gain +1 to your charisma up to a maximum of 21.  
 
 **Exploding Entrance**: Whenever you _Riftwalk_ your rift implodes whenere you end your teleport. All creatures within 5 feet of your landing spot suffers force damage equal to your proficiency bonus.
 
 ---
 
 #### **Wisdom**
-You gain +1 to your charisma up to a maximum of 21. 
 
-**Riftwalker Upgrade**: You gain +2 to perception checks. Additionally you gain 60ft darkvision and see through both magical and nonmagical darkness.
+**Riftwalker Upgrade**: Whenever you riftwalk you can teleport 60ft instead of 30. 
 
 ---
 
 #### **Intelligence**
-You gain +1 to your charisma up to a maximum of 21. 
 
 **Null Magic Sphere**: Whenever you _Riftwalk_ you can hurl out a null magic orb towards a target within 120ft of you. The target must succeed a dexterity saving throw against you spell save dc, or looses concentration on any spell or effect they are concentration on. 
 
@@ -157,8 +152,9 @@ You gain +1 to your charisma up to a maximum of 21.
 ---
 
 ### True Voidling
+- **14th-level Voidtouched feature**
 
-You completly embrace the embrace of the void, making you a True Voidling. As a bonus action you can spend a sorcery point to transform into a voidling creature for a minute. While you are in this transformation you gain the following effects. 
+Once per long rest you can take the form of a true voidling, unleashing your true potential. As a bonus action you can spend a sorcery point to transform into a voidling creature for a minute. While you are in this transformation you gain the following effects. 
 - You gain resistance to all incoming damage.
 - You can use _Riftwalk_ without expending sorcery points. 
 - As a bonus action during your turns, you can attempt to corrupt a creature within 60ft of you. If the target is an ally, they gain the ability to _Riftwalk_ as a bonus action, and they gain all benefits from your active _Adaptive Transformations_ for a minute. If the target is an enemy they must succeed a wisdom saving throw against your spell save DC. If they fail you dominate them and choose how they use their next turn, then the effect falls of. Once a creature has ben corrupted, they cannot become corrupted in this way until they finish a long rest. You can only have one corrupted target at the same time. 
