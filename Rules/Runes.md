@@ -53,6 +53,14 @@ The damage dice increases to 1d8 at level 5, 1d10 at level 11 and 1d12 at level 
 
 ---
 
+### Lethal Tempo  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Precision/LethalTempo.png" Align=left width=15% height=15%>
+
+Once a turn, whenever you damage enemies, you gain a stack of Tempo. At the start of your turn when you have three stacks, you can make one additional attack the first time you take the attack action and you gain 10ft additional range on weapon attacks, halved for meele attacks. 
+
+The additional range increases by 10ft at level 5, 11 and 17. 
+
+---
+
 ### Press the Attack  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Precision/PressTheAttack.png" Align=left width=15% height=15%>
 
 Whenever you damage a creature, they gain a stack of pressure that lasts until you damage another creature. When a creature gains three stacks of pressure, they take 1d6 force damage and all attacks against them gains a boon for a minute. 
