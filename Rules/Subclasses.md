@@ -68,35 +68,30 @@ Whenever you gain an ability score of 16 in any class you gain benefits dependin
 ---
 
 #### **Strength**
-You gain +1 to your charisma up to a maximum of 21. 
 
 **Voidskin**: At the end of a long rest, you can choose one damage type and gain resistance to that damage type. Once a turn when you deal acid, force or necrotic damage to a target. You can choose to push the target 10 feet away from you.
 
 ---
 
 #### **Dexterity**
-You gain +1 to your charisma up to a maximum of 21. 
 
 **Killer Instinct**: You gain +5ft walking speed and whenever you roll initiative, you gain temporary hit points equal to your sorcerer level.
 
 ---
 
 #### **Constitution**
-You gain +1 to your charisma up to a maximum of 21.  
 
 **Growing Vitality**: Whenever you kill a creature, you gain maximum hit points equal to your charisma modifier until the end of your next long rest.
 
 ---
 
 #### **Wisdom**
-You gain +1 to your charisma up to a maximum of 21. 
 
 **Eyes of the Void**: You gain +2 to perception checks. Additionally you gain 60ft darkvision and see through both magical and nonmagical darkness.
 
 ---
 
 #### **Intelligence**
-You gain +1 to your charisma up to a maximum of 21. 
 
 **Sight of the Watcher**: You get +1 to all ability checks. Additionally you can cast the arcane eye once a day without expending a spell slot.
 
@@ -117,11 +112,15 @@ Whenever you gain an ability score of 18 in any class you gain benefits dependin
 
 #### **Strength*  
 
+You gain +1 to your charisma up to a maximum of 21. 
+
 **Voidling Limbs**: Black and Purple tendrils grow from your back, granting you 10ft reach, climbing speed equal to your walking speed and +5 to athletic checks. 
 
 ---
 
 #### **Dexterity**
+
+You gain +1 to your charisma up to a maximum of 21. 
 
 **Flying Symbiosis**: You gain flying speed equal to your walking speed.
 
@@ -129,17 +128,23 @@ Whenever you gain an ability score of 18 in any class you gain benefits dependin
 
 #### **Constitution**
 
+You gain +1 to your charisma up to a maximum of 21. 
+
 **Exploding Entrance**: Whenever you _Riftwalk_ your rift implodes whenere you end your teleport. All creatures within 5 feet of your landing spot suffers force damage equal to your proficiency bonus.
 
 ---
 
 #### **Wisdom**
 
+You gain +1 to your charisma up to a maximum of 21. 
+
 **Riftwalker Upgrade**: Whenever you riftwalk you can teleport 60ft instead of 30. 
 
 ---
 
 #### **Intelligence**
+
+You gain +1 to your charisma up to a maximum of 21. 
 
 **Null Magic Sphere**: Whenever you _Riftwalk_ you can hurl out a null magic orb towards a target within 120ft of you. The target must succeed a dexterity saving throw against you spell save dc, or looses concentration on any spell or effect they are concentration on. 
 
