@@ -172,7 +172,9 @@ When you damage an enemy you can choose to give them a mark of electrocute. When
 
 Whenever you score a takedown you gain a stack of Harvest. 
 
-Once a turn when you damage a target you can choose to deal 1d6 force damage to that target. Once used this effect cannot be used again until you score a takdown or finish a long rest. This damage can only be dealt once to each individual target. The damage increases with 1d6 for every 25th stack you have.  
+Once a turn when you damage a target you can choose to deal 1d6 force damage to that target plus 1 for every 20th stack of Harvest 
+
+The damage for each threshold increases by 1d6 at level 5, 11 and 17.
 
 ---
 
@@ -180,7 +182,7 @@ Once a turn when you damage a target you can choose to deal 1d6 force damage to 
 
 You can always dash as a bonus action.
 
-Once per combat when you dash you can choose to activate *Predator*, gaining boon on all attacks until the end of your turn and the next time you deal damage you deal 1d6 additional damage for every 30 feet traveled that turn, up to 90 feet. 
+Once per combat when you dash you can choose to activate *Predator*, gaining boon on all attacks until the end of your turn and the next time you deal damage you deal 1d6 additional damage for every 30 feet traveled that turn, up to 90 feet. You can also expend movement speed instead of traveling to gain the same effect. 
 
 The damage for each threshold increases by 1d6 at level 5, 11 and 17.
 
@@ -441,9 +443,11 @@ Once per combat when you or an ally within 30 feet of you takes damage, before y
 
 ### Grasp of the Undying  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Resolve/GraspOfTheUndying.png" Align=left width=15% height=15%>
 
+You maximum hit points increases equal to twice your level. 
+
 Once a round when you damage an enemy and once a round when you take damage from an enemy, you gain a stack of Grasp. When you are at three stacks, your next damaging effect deals additional 1d6. You heal equal to the damage dealt from this effect.
 
-In addition you gain a stack of Undying whenever you drain an opponent using this ability. When you gain 10 stacks you gain maximum hit points equal to your level, and then again for every 25th stack.
+In addition you gain a stack of Undying whenever you drain an opponent using this ability. You gain +1 maximum hit points for every 5th stack of Undying. 
 
 The damage increases by 1d6 at level 5, 11 and 17.
 
@@ -501,9 +505,9 @@ Whenever you take damage you can spend two charges to reduce the damage by an am
 
 ### Overgrowth  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Resolve/Overgrowth.png" Align=left width=7% height=7%>
 
-You gain maximum hit points equal to your level. 
+You gain maximum hit points equal to 1 times your level. 
 
-Whenever you score a _takedown_ on a creature, you gain a stack of _Overgrowth_. For every 25th stack, you gain maximum hit points equal to your level. 
+This amount increases to 2 times your level at level 5, 3 times your level at level 11 and 4 times your level at level 17. 
 
 ---
 
