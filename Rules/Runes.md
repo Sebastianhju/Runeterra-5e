@@ -182,7 +182,7 @@ You can always dash as a bonus action.
 
 Once per combat when you dash you can choose to activate *Predator*, gaining boon on all attacks until the end of your turn and the next time you deal damage you deal 1d6 additional damage for every 30 feet traveled that turn, up to 90 feet. 
 
-The damage for each treshhold increases by 1d6 at level 5, 11 and 17.
+The damage for each threshold increases by 1d6 at level 5, 11 and 17.
 
 ---
 
@@ -429,7 +429,7 @@ You gain +1 crit chance while it is storming
 
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Resolve/VeteranAftershock.png" Align=left width=15% height=15%>
 
-Once a turn when you immibilize a creature, you can imcrease your armor class by 1 until the end of combat. The maximum of armor class you can gain from this effecet equal to your proficiency bonus. 
+Once a turn when you immobilize a creature, you can increase your armor class by 1 until the end of combat. The maximum of armor class you can gain from this effect equal to your proficiency bonus. 
 
 ---
 
