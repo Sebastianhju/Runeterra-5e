@@ -182,7 +182,7 @@ Whenever you score a takedown you gain a stack of Harvest.
 
 Once a turn when you damage a target you can choose to deal 1d6 force damage to that target plus 1 for every 20th stack of Harvest 
 
-The damage for each threshold increases by 1d6 at level 5, 11 and 17.
+The damage increases by 1d6 at level 5, 11 and 17.
 
 ---
 
