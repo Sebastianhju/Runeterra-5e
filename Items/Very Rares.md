@@ -428,11 +428,13 @@ _You get +1 to your saving throws_
 - 4000 Gold
 - Dagger
 
-**Ichatian Bite**: When you cast a leveled spell, _Nashor's Tooth_ deals 1d6 additional necrotic damage and you gain an additional attack when you take your next attack action. 
+**Charges**: This item has four charges and regains all charges when you finish a long rest. 
 
-**Spellblade**: You can use your spellcasting modifier for attack and damage rolls.
+**Ichatian Bite**: When you hit an attack with _Nashor's Tooth_ you can spend two charges to deal 4d6 poison damage. 
 
-_You gian +2 to attack and damage rolls using this magical weapon_
+**Void Corruption**: Once a turn when you hit an attack with _Nashor's Tooth_ you can eighter apply one stack of carve, or double the amount of carve the creatures has. 
+
+_You gain +2 to attack and damage rolls using this magical weapon_
 
 ---
 
