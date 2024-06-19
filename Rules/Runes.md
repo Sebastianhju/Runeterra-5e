@@ -180,7 +180,7 @@ When you damage an enemy you can choose to give them a mark of electrocute. When
 
 Whenever you score a takedown you gain a stack of Harvest. 
 
-Once a turn when you damage a target you can choose to deal 1d6 force damage to that target plus 1 for every 20th stack of Harvest 
+Once a turn when you damage a target you can choose to deal 1d6 force damage to that target plus 1 for every 20th stack of Harvest. Dark Harves can only trigger once on the same target each combat. Whenever you use this feature, it cannot be used again until you score a takedown or finish a long rest. 
 
 The damage increases by 1d6 at level 5, 11 and 17.
 
@@ -439,7 +439,9 @@ You gain +1 crit chance while it is storming
 
 ### Aftershock  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Resolve/VeteranAftershock.png" Align=left width=15% height=15%>
 
-Once a turn when you immobilize a creature, you can increase your armor class by 1 until the end of combat. The maximum of armor class you can gain from this effect equal to your proficiency bonus. 
+Once a turn when you immobilize a creature, you can increase your armor class by 1 until the end of combat. 
+
+The maximum of armor class you can gain from this effect equal to your proficiency bonus. 
 
 ---
 
