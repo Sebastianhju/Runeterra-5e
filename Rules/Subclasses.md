@@ -63,7 +63,25 @@ Whenever you gain a sorcerer level, you can replace one spell you gained from th
 ### Adaptive Transformation I
 - **6th-level Voidtouched feature**
 
-Whenever you gain an ability score of 16 in any class you gain benefits depending on that ability. 
+Choose one of the following subclass options
+
+#### Watcher
+
+You gain 60ft darkvision and can see trough magical and non-magical darkness. 
+
+You know the arcane eye spell and can cast it at 4th level once per long rest without expending a spell slot.
+
+#### Hunter
+
+Whenever you roll for initiative, and whenever you score a takedown you gain temporary hit points equal to your charisma modifier.
+
+You know the greater invisibility spell and can cast it at 4th level once per long rest without expending a spell slot.
+
+#### Destroyer 
+
+Whenever you deal damage, you can choose to change the damage type to acid, necrotic or force damage. 
+
+You know the elemental bane spell and can cast it at 4th level once per long rest without expending a spell slot. Whenever you cast elemental bane, you can also choose necrotic or force damage as the damage type. 
 
 ---
 
