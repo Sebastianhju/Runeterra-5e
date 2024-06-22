@@ -85,92 +85,24 @@ You know the elemental bane spell and can cast it at 4th level once per long res
 
 ---
 
-#### **Strength**
-
-**Voidskin**: At the end of a long rest, you can choose one damage type and gain resistance to that damage type. Once a turn when you deal acid, force or necrotic damage to a target. You can choose to push the target 10 feet away from you.
-
----
-
-#### **Dexterity**
-
-**Killer Instinct**: You gain +5ft walking speed and whenever you roll initiative, you gain temporary hit points equal to your sorcerer level.
-
----
-
-#### **Constitution**
-
-**Growing Vitality**: Whenever you kill a creature, you gain maximum hit points equal to your charisma modifier until the end of your next long rest.
-
----
-
-#### **Wisdom**
-
-**Eyes of the Void**: You gain +2 to perception checks. Additionally you gain 60ft darkvision and see through both magical and nonmagical darkness.
-
----
-
-#### **Intelligence**
-
-**Sight of the Watcher**: You get +1 to all ability checks. Additionally you can cast the arcane eye once a day without expending a spell slot.
-
----
-
-#### **Charisma**
-
-**Void Attuned**: Whenever you deal damage with a spell you can change the damage type to acid, force or necortic damage. 
-
----
-
 ### Adaptive Transformation II
 - **14th-level Voidtouched feature**
 
-Whenever you gain an ability score of 18 in any class you gain benefits depending on that ability. 
+Choose one of the following subclass options 
 
----
+#### Summoner
 
-#### **Strength*  
+When you cast the summon abboration spell you can cast it for free once per long rest at a level equal to you highest leveled spell slot. Casting the spell in this way removes the concentration and duration tag. The spell lasts until you take a long rest or the summon is reduced to 0hp
 
-You gain +1 to your charisma up to a maximum of 21. 
+#### Disintegrator
 
-**Voidling Limbs**: Black and Purple tendrils grow from your back, granting you 10ft reach, climbing speed equal to your walking speed and +5 to athletic checks. 
+As an action you can spend any amount of sorcery points to manifest a disintegration ray from your location, the ray last for a minute and takes your concentration. The disintegration ray is a 30ft long 15ft wide line of destruction. All targets within the ray must make a dexterity saving throw or take 1d8 force damage for each sorcery point used on this effect, halved on a success. 
 
----
+During your turn, you can move the disintegration rays end point to another location within 30ft of it. Additionally, if you teleport or move, the ray still stands at the same end point while you move.
 
-#### **Dexterity**
+#### Camouflager
 
-You gain +1 to your charisma up to a maximum of 21. 
-
-**Flying Symbiosis**: You gain flying speed equal to your walking speed.
-
----
-
-#### **Constitution**
-
-You gain +1 to your charisma up to a maximum of 21. 
-
-**Exploding Entrance**: Whenever you _Riftwalk_ your rift implodes whenere you end your teleport. All creatures within 5 feet of your landing spot suffers force damage equal to your proficiency bonus.
-
----
-
-#### **Wisdom**
-
-You gain +1 to your charisma up to a maximum of 21. 
-
-**Riftwalker Upgrade**: Whenever you riftwalk you can teleport 60ft instead of 30. 
-
----
-
-#### **Intelligence**
-
-You gain +1 to your charisma up to a maximum of 21. 
-
-**Null Magic Sphere**: Whenever you _Riftwalk_ you can hurl out a null magic orb towards a target within 120ft of you. The target must succeed a dexterity saving throw against you spell save dc, or looses concentration on any spell or effect they are concentration on. 
-
----
-
-#### **Charisma**
-
-**Voids Embrace**: Once a turn when you deal acid, force or necrotic damage you can attempt to charm or frighten a target. The target must succeed a wisdom saving throw or becomes charmed or frightened. 
+Whenever you use the rift walk effect, you become invisible until the end of your next turn. When you exit stealth, you attack rolls critically hit if the attack roll is 5 or more higher than the tagets AC. 
 
 ---
 
