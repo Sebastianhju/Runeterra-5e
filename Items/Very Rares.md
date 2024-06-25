@@ -48,7 +48,7 @@ _You have +2 to attack rolls and damage rolls using this magical weapon_
 
 **Awe**: Your spells deal additional damage equal to the spells level.
 
-**Lifeline**: Whenever you take damage that would reduce your hit points to zero, you first gain temporary hit points equal to half your maximum mana. Once this effect is used, it cannot be used again until you finish a short rest. 
+**Lifeline**: Whenever you take damage that would reduce your hit points to zero, you first gain temporary hit points equal to five times your highest spell slot level. 
 
 _You have +2 to spell attack rolls and spell save DC when attuned to this item_
 
