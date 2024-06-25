@@ -96,9 +96,7 @@ When you cast the summon abboration spell you can cast it for free once per long
 
 #### Disintegrator
 
-As an action you can spend any amount of sorcery points to manifest a disintegration ray from your location, the ray last for a minute and takes your concentration. The disintegration ray is a 30ft long 15ft wide line of destruction. All targets within the ray must make a dexterity saving throw or take 1d8 force damage for each sorcery point used on this effect, halved on a success. 
-
-During your turn, you can move the disintegration rays end point to another location within 30ft of it. Additionally, if you teleport or move, the ray still stands at the same end point while you move.
+As an action you can spend any amount of sorcery points up to half your sorcer level to manifest a disintegration ray from your location, the ray last for a minute and takes your concentration. The disintegration ray is a 60ft long 15ft wide line of destruction. All targets within the ray must make a dexterity saving throw or take 1d10 force damage for each sorcery point used on this effect, halved on a success. You can repeat the damage as a bonus action during your turns. While you are concentrating on this effect you cannot move or teleport, doing so stops the effect immidiatly. 
 
 #### Camouflager
 
@@ -107,7 +105,7 @@ Whenever you use the rift walk effect, you become invisible until the end of you
 ---
 
 ### True Voidling
-- **14th-level Voidtouched feature**
+- **18th-level Voidtouched feature**
 
 Once per long rest you can take the form of a true voidling, unleashing your true potential. As a bonus action you can spend a sorcery point to transform into a voidling creature for a minute. While you are in this transformation you gain the following effects. 
 - You gain resistance to all incoming damage.
