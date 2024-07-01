@@ -669,9 +669,9 @@ _You gain +2 to your unarmed attack and damage rolls_
 
 **Stormcaller**: As an action you can spend two charges to call upon a stormy cloud that covers your area for one hour. 
 
-**Stormraider**: This weapon has a +1 crit chance and deals 1d6 additional lightning damage once a turn while in stormy weather. 
+**Stormraider**: This weapon and spell attacks has a +1 crit chance and deals 1d6 additional lightning damage once a turn while in stormy weather. 
 
-**Squall**: Once a round when you damage a target you can spend two charges to give the target a mark of **Squall**. At the start of your next turn, they take 2d10 lightning damage. If the creature already died, the lightning instead explodes in a 15 feet radius. All enemy creatures must succeed a dexterity saving throw or take 2d10 lightning damage, halved on a success. The dc equals to 10 + twice your proficiency bonus, or your spellcasting save. If you or an ally of yours is hit by this lightning surge, you gain temporary hit points instead of taking damage.
+**Squall**: Once a round when you damage a target you can spend two charges to give the target a mark of **Squall**. At the start of your next turn, they take 3d10 lightning damage. If the creature already died, the lightning instead explodes in a 15 feet radius. All enemy creatures must succeed a dexterity saving throw or take 3d10 lightning damage, halved on a success. The dc equals to 10 + twice your proficiency bonus, or your spellcasting save. If you or an ally of yours is hit by this lightning surge, you gain temporary hit points instead of taking damage.
 
 _You gain +2 to attack and damage rolls using this weapon_
 
