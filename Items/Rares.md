@@ -283,7 +283,7 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 **Charges**: This items has 10 charges and regains all charges when you finish a long rest This item cannot spend charges from other runes and items.
 
-**Eternity**: When you take 10 dmg you may spend a charge to regain a level 1 spell slot, for every 10 more damage you may regain a slot of the damage divided by 10 (rounded down), the amount of charges used equals the spells level
+**Eternity**: Whenever you cast a spell you heal equal to two times the spells level. When you take 10 dmg you may spend a charge to regain a level 1 spell slot, for every 10 more damage you may regain a slot of the damage divided by 10 (rounded down), the amount of charges used equals the spells level
 
 
 _You get +1 to your spell attack and spell save dc_
