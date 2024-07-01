@@ -523,7 +523,7 @@ You force your will towards a target you can see and unleash your power towards 
 
 **Rite of the Arcane**
 
-_Wizard, Sorcerer_
+_Wizard, Sorcerer, Cleric (Tempest Domain)_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
