@@ -377,6 +377,22 @@ _You gain +1 to attack and damage rolls with this weapon_
 
 ---
 
+## Dream Maker
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Dream Maker.png" Align=right width=8% height=8%>
+
+- 4500 Gold
+- Wondrous
+- Attunement
+
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest.  
+
+**Dream Maker**: You can spend an action and two charges to attempt to sleep a target within touch range. They must succed a charisma saving throw, dc equals 9 + two times your proficiency, or falls unconcious for a minute or until someone spends their action to wake them up.
+
+**Calming Touch** You can spend one charge to cast the _calm emotions_ spell as an action. 
+
+---
+
 ## Echoes of Helia
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Echoes of Helia.png" Align=right width=8% height=8%>
