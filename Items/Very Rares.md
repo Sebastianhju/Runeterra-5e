@@ -118,6 +118,21 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 ---
 
+## Dawncore
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Dawncore.png" Align=right width=8% height=8%>
+
+- Wondrous Item
+- Attunement
+
+**Replenish**: Whenever you finish a short rest, you regain a spell slot of a spell level equal to your proficiency bonus. 
+
+**First Light**: Whenever you cast a spell of second level or higher that damages or heals, you can choose to spend a first level spell slot to enchance the spell cast. If the spell is a healing spell, the spell heals for 10 more hit points. If the spell is a damaging spell it deals 10 more damage. 
+
+_You gain +2 to spell attack rolls and save DC_ 
+
+---
+
 ## Decimate Axe
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Decimate Axe.png" Align=right width=8% height=8%>
