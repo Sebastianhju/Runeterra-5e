@@ -565,6 +565,19 @@ _You gain +2 to your spell attack and save dc_
 
 ---
 
+## Rite of Ruin
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Rite of Ruin.png" Align=right width=8% height=8%>
+
+- Arcane Focus
+- Attunement
+
+**Wrath And Ruin:** Your damaging spells that require saving throws can critically hit. If the target rolling the saving throw gets a 1 on their save dice, the spell critically hits, doubling the amount of damage dice towards that target. This critically strike can be hightened by other crit effects, making the spell crit on a saving throw of 2 or higher, but no more than 5. 
+
+_You gain +2 to spell attack and saving throws_
+
+---
+
 ## Signature of the Visionary
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Signature of the Visionary.png" Align=right width=8% height=8%>
