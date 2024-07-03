@@ -136,7 +136,9 @@ _You gain +3 to spell attack rolls spell save dc_
 
 **Rebirth**: The first time your hit points would be reduced to zero, you are instead left on 1 hit point. You become invulnerable and all incoming healing is doubled until the end of your next turn. Once this effect is used, it cannot be used again until you finish a long rest. 
 
-**Flight**: You gain 30 feet flying speed
+**Guradians Protection**: You gain +2 to your armor class and saving throws
+
+**Flight**: You gain 60 feet flying speed
 
 _You have +3 to hit and damage rolls with this magical weapon_ 
 
@@ -286,7 +288,7 @@ _You gain +3 to your spell attack rolls and spell save DC_
 - Wonderous Item
 - Attunement
 
-**Knowledge is Power**: All your ability scores increases by 1 while attuned to this item
+**Knowledge is Power**: All your ability scores increases by 2 up to a maximum of 30 while attuned to this item
 
 **Fast Casting**: You gain an additional bonus action that can be used to cast any cantrip, ignoring their casting time.
 
@@ -402,9 +404,8 @@ _The saving thow and skill check DC 15_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Triforce.png" Align=right width=8% height=8%>
 
 - Wonderous Item
-- Attunement
 
-**Trifold Strike**: Whenever you hit an attack roll, you gain a stacks of _Regeneration_, 5 feet movement speed and the cooldowns of your runes and items are reduced by 6 seconds. 
+**Trifold Strike**: Whenever you hit an attack roll, you gain a stacks of _Regeneration_, 10 feet movement speed and recharge one charge on one item or rune you have.  
 
 **Extra Attack**: You can make an extra attack as a part of the attack action.
 
