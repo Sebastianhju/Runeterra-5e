@@ -467,6 +467,21 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 
 ---
 
+## Overlord's Bloodmail
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Overlord's Bloodmail.png" Align=right width=8% height=8%>
+
+- Scale mail
+- Attunement
+
+**Tyranny**: Whenever you make melee attack rolls, you can add your constitution modifier to the attack roll. 
+
+**Retribution**: You constitution ability increases by 2 up to a maximum of 22. 
+
+_You gain +1 to your armor class while wielding this armor_ 
+
+---
+
 ## Prowler's Claw
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Prowlers Claw.png" Align=right width=8% height=8%>
@@ -875,6 +890,23 @@ _You have +2 to attack and damage rolls with this magical weapon_
 **Serrated Edge**: Whenever you critically hit with an arrow from this quiver, the target hit gains grievous wounds and starts bleeding. While bleeding they gain disadvantage on attack rolls, and takes 2d6 necrotic damage at the start of their turns. The target can stop the bleeding by making a successful wisdom medicine check, the dc is equal to 10 + twice your proficiency bonus. 
 
 **Critical**: Attacks using arrows from this arrow has +2 crit chance. 
+
+---
+
+## Zak'Zak's Realmspike
+
+- Attunement
+- Wondrous
+  
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Yun Tal Wildarrows.png" Align=right width=8% height=8%>
+
+**Charges**: This item has 3 charges and regains all charges when you finish a long rest
+
+**Void Exsposion**: You know the planeshift spell and can cast it once per long rest without expending a spell slot to travel to _The Void_.
+
+**Void Explotion**: When you deal spell damage to a target, you can spend a charge to summon a void gate under them and another at a locatoin you can see within 30 feet of you. The target must succeed a dexterity saving throw, dc equals to 10 + twice your proficiency bonus, or are teleported to the second void gate.
+
+_You gain +2 to your spell attack rolls and saving throw DC_
 
 ---
 
