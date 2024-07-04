@@ -118,6 +118,20 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 ---
 
+## Darksteel Talons
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Darksteel Talons.png" Align=right width=8% height=8%>
+
+- Dagger
+
+**Gash**: Attacks with this dagger deals 1d4 additional damage for every fourth armor class you have beyond 10. 
+
+**Protecting Claws**: You gain +2 armor class while wielding the talons. 
+
+_You have +2 to hit and damage rolls with this magical weapon_ 
+
+---
+
 ## Dawncore
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Dawncore.png" Align=right width=8% height=8%>
