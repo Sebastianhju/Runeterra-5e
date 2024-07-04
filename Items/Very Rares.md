@@ -904,7 +904,7 @@ _You have +2 to attack and damage rolls with this magical weapon_
 
 **Void Exsposion**: You know the planeshift spell and can cast it once per long rest without expending a spell slot to travel to _The Void_ or back again.
 
-**Void Explotion**: When you deal spell damage to a target, you can spend a charge to summon a void gate under them and another at a locatoin you can see within 30 feet of you. The target must succeed a dexterity saving throw, dc equals to 10 + twice your proficiency bonus, or are teleported to the second void gate.
+**Void Explotion**: When you deal spell damage to a target, you can spend a charge to summon a void gate under them and another at a location you can see within 30 feet of you. The target must succeed a dexterity saving throw, dc equals to 10 + twice your proficiency bonus, or are teleported to the second void gate.
 
 _You gain +2 to your spell attack rolls and saving throw DC_
 
