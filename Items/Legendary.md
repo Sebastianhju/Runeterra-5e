@@ -288,7 +288,7 @@ _You gain +3 to your spell attack rolls and spell save DC_
 - Wonderous Item
 - Attunement
 
-**Knowledge is Power**: All your ability scores increases by 2 up to a maximum of 30 while attuned to this item
+**Knowledge is Power**: You Wizdom and Intelligence ability scores increase by 4 up to a maximum of 24. 
 
 **Fast Casting**: You gain an additional bonus action that can be used to cast any cantrip, ignoring their casting time.
 
