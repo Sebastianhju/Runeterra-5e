@@ -866,6 +866,18 @@ _You have +2 to attack and damage rolls with this magical weapon_
 
 ---
 
+## Yun Tal Wildarrows
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Yun Tal Wildarrows.png" Align=right width=8% height=8%>
+
+- Wondrous (Quiver)
+
+**Serrated Edge**: Whenever you critically hit with an arrow from this quiver, the target hit gains grievous wounds and starts bleeding. While bleeding they gain disadvantage on attack rolls, and takes 2d6 necrotic damage at the start of their turns. The target can stop the bleeding by making a successful wisdom medicine check, the dc is equal to 10 + twice your proficiency bonus. 
+
+**Critical**: Attacks using arrows from this arrow has +2 crit chance. 
+
+---
+
 ## Zephyr
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Zephyr.png" Align=right width=8% height=8%>
