@@ -422,6 +422,20 @@ _You get +1 to your saving throws_
 
 ---
 
+## Malignance
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Malignance.png" Align=right width=8% height=8%>
+
+- Wondrous
+
+**Charges**: This item has 4 charges and regains all charges when you finish a long rest.
+
+**Hatefog**: As an action you can spend two charges to unleash a red vicious gas in a 20ft cone in front of you. All targets in the cloud must succeed a constitution saving throw, dc equals 10 + twice your proficiency bonus, or becomes berserk. A berserk unit must take the same action that they took last turn, but has to target a creature of your choosing on their next turn, the target moves to get in reach if possible. 
+
+**Bailout**: As a bonus action you can unleash toxins in the mask until the end of your next turn. During this duration you gain one additional action during your turns. Additionally if you would take damage that would reduce your hit points below zero, you stay at 1HP and you gain temporary hit points equal to ten times your proficiency bonus. As long as you have the temporary hit points, you take 10 damage at the end of your turns. If you score a takedown while you have the temporary hit points, you remove all temporary hit points and instead gain HP equal to the remaining temporary hit points. 
+
+---
+
 ## Molten Helm
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Molten Helm.png" Align=right width=8% height=8%>
@@ -466,6 +480,18 @@ _You get +1 to your saving throws_
 _You gain +2 to attack and damage rolls using this magical weapon_
 
 ---
+
+## Navori Flickerblade
+
+- Flickerblade (Handaxe)
+
+**Transcendence**: Whenever you hit an attack with Navori Flickerblade you can recharge one charge on a item or a rune you have. 
+
+**Lojality**: Whenever you make a thrown attack with Navori Flickerblade the weapon boomerangs and returns back to you. If you critically hit an attack, you can make one additional attack roll at disadvantage as the Flickerblade returns to you. 
+
+**Critical**: You gain +1 critical hit chance when you make attacks with _Navori Flickerblade_
+
+_You gain +2 to attack and damage rolls using this magical weapon_
 
 ## Overlord's Bloodmail
 
