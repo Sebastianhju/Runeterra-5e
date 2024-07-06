@@ -355,6 +355,10 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 - **75 Stacks**: This weapon gain 2 more maximum charges
 - **90 Stacks**: Your Piercing darkness deals and heals 2d8 additional damage and you gain +1 crit chance
 
+_You gain +3 to attack and damage rolls using this magical weapon_
+
+---
+
 ## Runaan's Hurricane
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Runaan's Hurricane.png" Align=right width=8% height=8%>
