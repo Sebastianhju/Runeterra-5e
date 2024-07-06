@@ -846,7 +846,7 @@ _You gain +2 to attack and damage rolls using this weapon_
 - Quiver
 - Attunement
 
-**True Silver:** Every time you hit a creature with an arrow/bolt/bullet from this quiver the creature gets a stack of true silver. When a creature has 3 stacks of true silver they take force equal to half their armor class. If you attack a different creature, the creature loses all stacks of true silver.
+**True Silver:** Every time you hit a creature with an arrow/bolt/bullet from this quiver the creature gets a stack of true silver. When a creature has 3 stacks of true silver they take force equal to their armor class minus 5 and remove all stacks. If their armorclass is lower than 5 they take no damage. If the target is a shapeshifter or affected by polymorph they are returned to their true form.
 
 **Monster hunter:** Whenever you hit an undead, monstrosity or shapeshifer with an arrow/bolt/bullet from this quiver they get grieveus wounds.
 
