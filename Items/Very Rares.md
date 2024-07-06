@@ -1,4 +1,4 @@
-  # Very Rare Upgradables
+# Very Rare Upgradables
 
 ## Fimbulwinter
 
@@ -837,6 +837,20 @@ _You gain +2 to your armor class while wearing this piece of armor_
 **Health**: You gain maximum hit points equal to your level.
 
 _You gain +2 to attack and damage rolls using this weapon_
+
+---
+## True Silver Bolts
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/True Silver Bolts.png" Align=right width=8% height=8%>
+
+- Quiver
+- Attunement
+
+**True Silver:** Every time you hit a creature with an arrow/bolt/bullet from this quiver the creature gets a stack of true silver. When a creature has 3 stacks of true silver they take force equal to half their armor class. If you attack a different creature, the creature loses all stacks of true silver.
+
+**Monster hunter:** Whenever you hit an undead, monstrosity or shapeshifer with an arrow/bolt/bullet from this quiver they get grieveus wounds.
+
+_You get +1 to ranged attack rolls_
 
 ---
 
