@@ -1,4 +1,4 @@
-# Very Rare Upgradables
+  # Very Rare Upgradables
 
 ## Fimbulwinter
 
@@ -141,7 +141,7 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 **Replenish**: Whenever you finish a short rest, you regain a spell slot of a spell level equal to your proficiency bonus. 
 
-**First Light**: Whenever you cast a spell of second level or higher that damages or heals, you can choose to spend a first level spell slot to enchance the spell cast. If the spell is a healing spell, the spell heals for 10 more hit points. If the spell is a damaging spell it deals 10 more damage. 
+**First Light**: Whenever you cast a spell of second level or higher that damages or heals, you can choose to spend anotehr spell slot to enchance the spell cast. The spell slot gives you a pool equal to 10 times the spell slots level, you can increase the damage or healing by that amount on chosen targets of the spell. 
 
 _You gain +2 to spell attack rolls and save DC_ 
 
@@ -432,7 +432,7 @@ _You get +1 to your saving throws_
 
 **Hatefog**: As an action you can spend two charges to unleash a red vicious gas in a 20ft cone in front of you. All targets in the cloud must succeed a constitution saving throw, dc equals 10 + twice your proficiency bonus, or becomes berserk. A berserk unit must take the same action that they took last turn, but has to target a creature of your choosing on their next turn, the target moves to get in reach if possible. 
 
-**Bailout**: As a bonus action you can unleash toxins in the mask until the end of your next turn. During this duration you gain one additional action during your turns. Additionally if you would take damage that would reduce your hit points below zero, you stay at 1HP and you gain temporary hit points equal to ten times your proficiency bonus. As long as you have the temporary hit points, you take 10 damage at the end of your turns. If you score a takedown while you have the temporary hit points, you remove all temporary hit points and instead gain HP equal to the remaining temporary hit points. 
+**Bailout**: As a bonus action you can unleash toxins in the mask until the end of your next turn. During this duration you gain one additional action during your turns. Additionally if you would take damage that would reduce your hit points below zero, you stay at 1HP and you gain temporary hit points equal to ten times your proficiency bonus. As long as you have the temporary hit points, you take 10 damage at the end of your turns. If you score a takedown while you have the temporary hit points, you remove all temporary hit points and instead gain HP equal to the remaining temporary hit points. Once you have done this action, it cannot be done again until you finish a long rest.
 
 ---
 
@@ -915,7 +915,7 @@ _You have +2 to attack and damage rolls with this magical weapon_
 
 **Serrated Edge**: Whenever you critically hit with an arrow from this quiver, the target hit gains grievous wounds and starts bleeding. While bleeding they gain disadvantage on attack rolls, and takes 2d6 necrotic damage at the start of their turns. The target can stop the bleeding by making a successful wisdom medicine check, the dc is equal to 10 + twice your proficiency bonus. 
 
-**Critical**: Attacks using arrows from this arrow has +2 crit chance. 
+**Critical**: Attacks using arrows from this arrow has +1 crit chance. 
 
 ---
 
