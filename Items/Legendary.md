@@ -335,6 +335,26 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 
 ---
 
+## Relic Cannon
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Relic Cannon.png" Align=right width=8% height=8%>
+
+- Musket
+- Attunement
+
+**Charges**: This item has 2 charges and regains all charges when you finish a long rest.
+
+**Piercing Darkness**: You can spend 2 charges to replace one of your attacks with a 30ft long beam of light. Every enemy caught in the beam must make a dexterity saving throw, dc equals 11 + twice your proficiency bonus, or takes 2d8 radiant damage. Allies caught in the beam heals for 2d8 hit points.
+
+**Absolution**: Whenever you deal damage to a target with this weapon you give them a mark of _Soulgorge_, unless they already have a mark. Whenever you hit a creature with a mark of _Soulgourge_ you gain a stack of _Absolution_. For every stack of _Absolution_ the Relic cannon gets the following effects. 
+
+- **15 Stacks**: This weapons close, far and piercing darknesses range increases by 30ft
+- **30 Stacks**: This weapon gains 2 more maximum charges
+- **45 Stacks**: Your Piercing darkness deals and heals 2d8 additional damage.
+- **60 Stakcs**: This weapons close, far and piercing darknesses range increases by 30ft and you gain +1 crit chance
+- **75 Stacks**: This weapon gain 2 more maximum charges
+- **90 Stacks**: Your Piercing darkness deals and heals 2d8 additional damage and you gain +1 crit chance
+
 ## Runaan's Hurricane
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Runaan's Hurricane.png" Align=right width=8% height=8%>
