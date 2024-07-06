@@ -483,6 +483,8 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 
 ## Navori Flickerblade
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Navori Flickerblade.png" Align=right width=8% height=8%>
+
 - Flickerblade (Handaxe)
 
 **Transcendence**: Whenever you hit an attack with Navori Flickerblade you can recharge one charge on a item or a rune you have. 
@@ -492,6 +494,8 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 **Critical**: You gain +1 critical hit chance when you make attacks with _Navori Flickerblade_
 
 _You gain +2 to attack and damage rolls using this magical weapon_
+
+---
 
 ## Overlord's Bloodmail
 
