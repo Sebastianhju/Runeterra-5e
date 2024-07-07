@@ -975,7 +975,7 @@ _You gain +1 to damage and attack rolls using this weapon_
 
 **Boundless Vitality**: Once a turn when heal or gain temporary hit points, you can increase that by an amount equal to your proficiency bonus. 
 
-**Health**: Your maximum hit points increases an amount equal to twice your level. 
+**Health**: Your maximum hit points increases an amount equal to your level. 
 
 _You gain +1 to your armor class while wearing this armor_
 
