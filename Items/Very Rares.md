@@ -925,6 +925,22 @@ _You have +2 to attack and damage rolls with this magical weapon_
 
 ---
 
+## Whisper
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Whisper.png" Align=right width=8% height=8%>
+
+- Pistol (Exandria)
+
+**Deadly Flourish**: When you take the attack action, instead of using your multiattack you only get one attack. For each attack you would do on that attack action, _Whisper_ deals 1d10 damage. For example, if you would do two attacks it does 2d10 damage. 
+
+**Death in Four Acts**: _Whisper_ has four attacks and you must spend an action to reload it in all cases. However Whisper always crits if you were to hit the fourth and last attack before you reload. 
+
+**Curtain Call**: As an action you extend _Whisper_ to a sniper and make four attacks against targets within 300ft of you. Each attack deals 2d10 damage and the fourth attack critically hits on a hit. You can do this action once before you must finish a long rest. 
+
+_You gain +2 to attack and damage rolls using this weapon_
+
+---
+
 ## Yun Tal Wildarrows
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Yun Tal Wildarrows.png" Align=right width=8% height=8%>
