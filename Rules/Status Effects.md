@@ -20,6 +20,8 @@ A Buzzed targets movement speed is halved. A creature can remove Buzz if they en
 
 Your armor class is reduced by one for every other stack of carve you have, up to a maximum of eight. Whenever you start your turn, you remove one stack of carve. You can remove all stacks of carve by using lesser restoration or similar effects. 
 
+Your armor class is reduced by one for every third stack of carve you have, up to a maximum of 12 stacks. You can remove all stacks of carve by casting a spell or any effect like lesser restoration.
+
 ---
 
 # Frostbite
