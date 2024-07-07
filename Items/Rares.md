@@ -474,6 +474,7 @@ _You get +2 to your arcana and religion checks_
 
 - 4500 Gold
 - Wondrous item
+- Attunement
 
 **Giants Might**: While wielding this item your strength score is set to 18. Additionally you carring capacity counts as if you were large size. 
 
