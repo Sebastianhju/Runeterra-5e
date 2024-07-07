@@ -815,6 +815,22 @@ _You gain +1 to your armor class while wielding this piece of armor_
 
 ---
 
+## Sword of Blossoming Dawn
+
+- Longsword
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Sword of Blossoming Dawn.png" Align=right width=8% height=8%>
+
+**Effervescence**: Whenever you cast a healing spell of first level or higher, you can make one additional attack when you take your next attack action. 
+
+**Peppermint**: Whenever you hit an attack with this weapon you can heal one ally other than yourself within 30 feet of you an amount equal to twice your proficiency bonus. 
+
+**Healing Power**: Your healing spells heal for 3 additional hit points. 
+
+_You gain +2 to attack and damage rolls using this weapon_
+
+---
+
 ## Thornmail
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Thornmail.png" Align=right width=8% height=8%>
