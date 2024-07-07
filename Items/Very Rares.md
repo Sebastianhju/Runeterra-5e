@@ -483,6 +483,8 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 
 ## Navori Flickerblade
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Navori Flickerblade.png" Align=right width=8% height=8%>
+
 - Flickerblade (Handaxe)
 
 **Transcendence**: Whenever you hit an attack with Navori Flickerblade you can recharge one charge on a item or a rune you have. 
@@ -492,6 +494,8 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 **Critical**: You gain +1 critical hit chance when you make attacks with _Navori Flickerblade_
 
 _You gain +2 to attack and damage rolls using this magical weapon_
+
+---
 
 ## Overlord's Bloodmail
 
@@ -811,6 +815,22 @@ _You gain +1 to your armor class while wielding this piece of armor_
 
 ---
 
+## Sword of Blossoming Dawn
+
+- Longsword
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Sword of Blossoming Dawn.png" Align=right width=8% height=8%>
+
+**Effervescence**: Whenever you cast a healing spell of first level or higher, you can make one additional attack when you take your next attack action. 
+
+**Peppermint**: Whenever you hit an attack with this weapon you can heal one ally other than yourself within 30 feet of you an amount equal to twice your proficiency bonus. 
+
+**Healing Power**: Your healing spells heal for 3 additional hit points. 
+
+_You gain +2 to attack and damage rolls using this weapon_
+
+---
+
 ## Thornmail
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Thornmail.png" Align=right width=8% height=8%>
@@ -921,6 +941,22 @@ _You have +2 to attack and damage rolls with this magical weapon_
 
 ---
 
+## Whisper
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Whisper.png" Align=right width=8% height=8%>
+
+- Pistol (Exandria)
+
+**Deadly Flourish**: When you take the attack action, instead of using your multiattack you only get one attack. For each attack you would do on that attack action, _Whisper_ deals 1d10 damage. For example, if you would do two attacks it does 2d10 damage. 
+
+**Death in Four Acts**: _Whisper_ has four attacks and you must spend an action to reload it in all cases. However Whisper always crits if you were to hit the fourth and last attack before you reload. 
+
+**Curtain Call**: As an action you extend _Whisper_ to a sniper and make four attacks against targets within 300ft of you. Each attack deals 2d10 damage and the fourth attack critically hits on a hit. You can do this action once before you must finish a long rest. 
+
+_You gain +2 to attack and damage rolls using this weapon_
+
+---
+
 ## Yun Tal Wildarrows
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Yun Tal Wildarrows.png" Align=right width=8% height=8%>
@@ -938,7 +974,7 @@ _You have +2 to attack and damage rolls with this magical weapon_
 - Attunement
 - Wondrous
   
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Yun Tal Wildarrows.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Zak'Zak's Realmspike.png" Align=right width=8% height=8%>
 
 **Charges**: This item has 3 charges and regains all charges when you finish a long rest
 
