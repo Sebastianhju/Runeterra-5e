@@ -974,7 +974,7 @@ _You gain +2 to attack and damage rolls using this weapon_
 - Attunement
 - Wondrous
   
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Yun Tal Wildarrows.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Zak'Zak's Realmspike.png" Align=right width=8% height=8%>
 
 **Charges**: This item has 3 charges and regains all charges when you finish a long rest
 
