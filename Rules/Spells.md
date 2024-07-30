@@ -467,11 +467,11 @@ _Sorcerer, Warlock_
 
 |level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
 |---|---|---|---|---|---|---|
-|5th|1 Action|Self, 20ft|V,S|1 Minute(C)|Necromancy|Constitution|
+|5th|1 Action|Self, 20ft|V,S|1 Minute(C)|Necromancy|None|
 
-You turn into a demonic version of yourself and winds of dread surround you and all creatures within 20ft of you, you can choose up to five creatures that are unaffected by the spell. Any creature that starts their turn within you range must make a constitution saving throw or takes 5d8 necrotic damage, halved on a save. Whenever a creature fails their saving throw, you heal equal to you proficiency bonus.
+You turn into a demonic version of yourself and winds of dread surround you and all creatures within 20ft of you causing ranged attacks made by creatures other than you to have disadvantage. You gain maximum health equal to five time the spells level during its duration, and during your turn you can cause up to three targets within range to take necrotic damage equal to the spells level, you heal equal to the damage dealt. 
 
-**At Higher Levels.** When cast with a spell slot of 6th level or higher the damage increases by 1d8 for each level above 5th.
+**At Higher Levels.** When cast with a spell slot of 6th level or higher you can target one additional target with the damaging effect of this spell.
 
 ---
 
@@ -525,7 +525,7 @@ You force your will towards a target you can see and unleash your power towards 
 
 _Wizard, Sorcerer, Cleric (Tempest Domain)_
 
-|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|level|Casting Time|Range/Area|Components|Duration|School|Attack|
 |---|---|---|---|---|---|---|
 |6th|1 action|300ft|V,S,M|1 round (C)|Evocation|Attack|
 
