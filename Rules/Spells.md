@@ -94,6 +94,18 @@ You send out an arcane orb towards a creature that you can see within range. On 
 
 ---
 
+**High Note**
+
+_Bard_
+
+|level|Casting Time|Range/Area|Components|Duration|School|Attack/Save|
+|---|---|---|---|---|---|---|
+|1st|1 Action|Self, 30ft|V,S|Instantanious|Evocation|Strength|
+
+In the climaxe of your performance you hit a high note. You can choose to spend a use of your Bardic Inspiration to give all allies within the spells range a bardic inspiration dice. All enemies within range must make a strength saving throw or are pushed out of the spells range and are knocked prone. 
+
+---
+
 **Rewind**
 
 _Wizard, Sorcerer, Artificer, Cleric (Order, Forge)_
