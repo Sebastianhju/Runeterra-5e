@@ -164,6 +164,8 @@ _You gain +2 to spell attack rolls and save DC_
 
 _You gain +2 to attack and damage rolls using this weapon_
 
+---
+
 ## Decimate Axe
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Decimate Axe.png" Align=right width=8% height=8%>
