@@ -147,6 +147,23 @@ _You gain +2 to spell attack rolls and save DC_
 
 ---
 
+## Deadly Venom
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Deadly Venom.png" Align=right width=8% height=8%>
+
+- 10,000 Gold
+- Crossbow
+
+**Charges**: This item has 6 charges and regain all charges when you finish a long rest. 
+
+**Poisonus Venom**: Whenever you hit a target with an attack using _Deadly Venom_ the target becomes _Poisoned_ for a minute. 
+
+**Contamination**: As a bonus action you can spend 3 charges to send out a lethal toxin towards every poisoned target within 60ft of you. The target suffers poison damage equal to two times your proficiency bonus. If the target is bloodied they take damage equal to five times your proficiency bonus instead.
+
+**Spray and Pray**: As a Bonus Action you can unhinge _Deadly Venom_ causing it to rapidly fire stronger crossbow bolts. For a minute you ignore the Loadning property of this weapon. Additionaly until the end of your next turn whenever you make an attack roll, you make a single attack roll against targets in a 60ft long line, damaging each individual it would hit. Once this action is used it cannot be used again until you finish a long rest. 
+
+_You gain +2 to attack and damage rolls using this weapon_
+
 ## Decimate Axe
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Decimate Axe.png" Align=right width=8% height=8%>
@@ -159,7 +176,7 @@ _You gain +2 to spell attack rolls and save DC_
 
 **Decimating Gulliotine**: Once per long rest you can spend your action to do a cleaving strike. You roll to hit against a target, and if the attack hits it deals 2d12 plus 10 force damage for each stack of hemorage it has.
 
-_You gain +2 to attack adnd damage rolls using this weapon_
+_You gain +2 to attack and damage rolls using this weapon_
 
 ---
 
