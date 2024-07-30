@@ -784,6 +784,29 @@ _You gain +1 to you spell attacks and spell save DCs_
 
 ---
 
+## Parrrley 
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Parrrley.png" Align=right width=8% height=8%>
+
+- 4000 Gold
+- Pistol (Exandria)
+
+**Cannon Barrage**: You can spend a bonus action to call upon a cannon barrage, causing cannon balls to fall from the sky for the next three turns. At the start of each of your turns two targets of your choice that you can see must make a dexterity saving throw, DC equal to 9 + twice your proficiency bonus, or takes 2d10 bludgeoning damage. Once this action is used it cannot be used again until you finish a long rest. 
+
+**Silver Serpents**: Whenever you score a takedown with _Parrrley_ you gain a _Silver Serpent_. You can spend 25 _Silver Serpant_ to upgrade Parrley with one of the options below. You can aquire all upgrades. 
+
+- **DEATH'S DAUGHTER**: Targets hit by _Cannon Barrage_ takes 3d10 bludgeoning damage instead and are slowed by 10ft until the end of their turn on a failed save. Allies hit gains 10ft additional walking speed until the end of their turn.
+
+- **FIRE AT WILL**: You can selct three targets instead of two during _Cannon Barrage_. A successfull save now results in the target taking half damage. Allies hit heals for no less than 10HP no matter what the dice rolls. 
+
+- **RAISE MORAL**: You can now target allies with _Cannon Barrage_ firing sweet unpealed oranges to feed their belly. Allies hit heals for the same amount a cannon ball would deal as damage.
+
+- **SHARPENT BULLET**: This weapon gains +2 to attack and damage rolls instead of +1. This upgrade only be bought after all other upgrades are bought. 
+
+_You gain +1 to attack and damage rolls using this weapon_
+
+---
+
 ## Phage
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Phage.png" Align=right width=8% height=8%>
