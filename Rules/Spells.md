@@ -102,7 +102,9 @@ _Bard_
 |---|---|---|---|---|---|---|
 |1st|1 Action|Self, 30ft|V,S|Instantanious|Evocation|Strength|
 
-In the climaxe of your performance you hit a high note. You can choose to spend a use of your Bardic Inspiration to give all allies within the spells range a bardic inspiration dice. All enemies within range must make a strength saving throw or are pushed out of the spells range and are knocked prone. 
+In the climaxe of your performance you hit a high note. You can choose to spend a use of your Bardic Inspiration to give an ally within the spells range a bardic inspiration dice. All enemies within range must make a strength saving throw or are pushed out of the spells range and are knocked prone. 
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, for each level above 1st you can give another ally within range a bardic inspiration dice without expending uses of bardic inspiration. 
 
 ---
 
@@ -481,9 +483,9 @@ _Sorcerer, Warlock_
 |---|---|---|---|---|---|---|
 |5th|1 Action|Self, 20ft|V,S|1 Minute(C)|Necromancy|None|
 
-You turn into a demonic version of yourself and winds of dread surround you and all creatures within 20ft of you causing ranged attacks made by creatures other than you to have disadvantage. You gain maximum health equal to five time the spells level during its duration, and once during your turn you can cause up to three targets within range to take necrotic damage equal to the spells level, you heal equal to the damage dealt. 
+You turn into a demonic version of yourself and winds of dread surround you and all creatures around you. You gain 60ft flying speed, maximum health equal to five time the spells level during its duration, and once during your turn you can cause up to three targets within range to take necrotic damage equal to the spells level, you heal equal to the damage dealt. 
 
-**At Higher Levels.** When cast with a spell slot of 6th level or higher you can target one additional target with the damaging effect of this spell.
+**At Higher Levels.** When cast with a spell slot of 6th level or higher you can target one additional target with the damaging effect of this spell for each level above 5th.
 
 ---
 
