@@ -469,7 +469,7 @@ _Sorcerer, Warlock_
 |---|---|---|---|---|---|---|
 |5th|1 Action|Self, 20ft|V,S|1 Minute(C)|Necromancy|None|
 
-You turn into a demonic version of yourself and winds of dread surround you and all creatures within 20ft of you causing ranged attacks made by creatures other than you to have disadvantage. You gain maximum health equal to five time the spells level during its duration, and during your turn you can cause up to three targets within range to take necrotic damage equal to the spells level, you heal equal to the damage dealt. 
+You turn into a demonic version of yourself and winds of dread surround you and all creatures within 20ft of you causing ranged attacks made by creatures other than you to have disadvantage. You gain maximum health equal to five time the spells level during its duration, and once during your turn you can cause up to three targets within range to take necrotic damage equal to the spells level, you heal equal to the damage dealt. 
 
 **At Higher Levels.** When cast with a spell slot of 6th level or higher you can target one additional target with the damaging effect of this spell.
 
