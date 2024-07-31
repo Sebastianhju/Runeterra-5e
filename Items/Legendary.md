@@ -3,16 +3,17 @@
 ## Black Spear
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Black Spear.png" Align=right width=8% height=8%>
 
-- 4500 Gold
 - Spear
 
-**Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
+**Charges**: This item has 6 charges and regains all charges when you finish a long rest. 
 
 **Martial Poise**: Whenever you make an attack with _Black Spear_ you can teleport to a location within 10 feet. 
 
 **Spectral Spears**: Whenever you throw the *Black Spear* it teleports back to your hand when it hits a target or the attack misses. When the attack hits a sprectral spear lingers in the black spears place. 
 
-**Rend**: As a bonus action, you can spend three charges to pull out all spectral spears from all creatures within 60 feet of you. A target then takes 2d6 force damage for each spear in them. If you kill a creature with rend you recharge all charges on this item.
+**Rend**: As a bonus action, you can spend three charges to pull out all spectral spears from all creatures within 60 feet of you. A target then takes 10 force damage for each spear in them. 
+
+**Oathsworn Protector**: At the end of each long rest, you may select an ally of yours to be your Oathsworn Protector. The Oathsworn Protectors damaging effects _Soulmarks_ the target for a minute. Whenever you damage a _Soulmarked_ creature with _Black Spear_, you and the Oathsworn Protector heals equal to twice your proficiency bonus. 
 
 _You have +3 to hit and damage rolls with this magical weapon_ 
 
@@ -25,9 +26,9 @@ _You have +3 to hit and damage rolls with this magical weapon_
 - Longsword
 - Attunement
 
-**Mists Edge**: Whenever you damage a creauture with _Blade of the Ruined King_, they take 1d8 additional necrotic damage and you heal for that amount.  
+**Mists Edge**: Whenever you damage a creauture with _Blade of the Ruined King_, they take 1d8 additional necrotic damage and you heal equal to your proficinency bonus. Additionally you ignore immunities and resistances to necrotic damage.
 
-**Siphon**: Damaging creatures gives them a stack of _Siphon_. Whenever a creature gains three stacks they take 2d8 necrotic damage and are blinded for a minute. A creature can only suffer from _Siphon_ once per combat.
+**Siphon**: Damaging creatures gives them a stack of _Siphon_. Whenever a creature gains three stacks they take 3d8 necrotic damage and are blinded for a minute. A creature can only suffer from _Siphon_ once per combat.
 
 **Extra Attack**: You can make an extra attack as a part of the attack action.
 
@@ -151,7 +152,7 @@ _You have +3 to hit and damage rolls with this magical weapon_
 - Scimitar
 - Attunement
 
-**Wrath**: This scimitar deals an additional 2d6 fire damage
+**Wrath**: This scimitar deals an additional 2d6 fire damage. However, attacks with _Guinsoo's Rageblade_ cannnot criticallyt hit. 
 
 **Seething Strike**: Whenever you take the attack action you can choose to make one or more of the attacks with disadvantage. For each attack you make with disadvantage using this feature, you can make an additional attack with disadvantage. 
 
@@ -322,9 +323,9 @@ _You have +2 to your armor class while wearing this shield_
 - Greataxe
 - Attunement
 
-**Cleave**: Whenever you hit a creature with an attack using Ravenous Hydra, all enemies within 5 feet of the target takes damage equal to your strength modifier. Youl heal 1 hit points for each creature within 5 feet of the original target. 
+**Cleave**: Whenever you hit a creature with an attack using Ravenous Hydra, all enemies within 5 feet of the target takes damage equal to your strength modifier. Youl heal 2 hit points for each creature within 5 feet of the original target. 
 
-**Lifesteal**: Whenever you hit an attack with _Ravenous Hydra_ you regain health equal to half your proficiency bonus
+**Lifesteal**: Whenever you hit an attack with _Ravenous Hydra_ you regain health equal to half your proficiency bonus rounded down.
 
 **Hunger**: Whenever you score a takedown, you gain a stack of _Satisfaction_, up to a maximum of 15. If your hitpoints reaches zero, you loose ten stacks. For every stack of _Satisfaction_ you gain the following features:
 - (5): You gain +3 to hit and damage rolls
