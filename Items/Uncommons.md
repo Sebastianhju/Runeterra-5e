@@ -358,6 +358,8 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 **Overhead Smash**: Whenever you critically hit with *Nimbus Staff* you deal 1d6 additional bludgeoning damage and recharge two charges. 
 
+_Carve: Your armor class is reduced by one for every third stack of carve you have, up to a maximum of twelve._
+
 ---
 
 ## Null-Magic Mantle
