@@ -68,9 +68,25 @@ _You have +2 to spell attack rolls and spell save DC when attuned to this item_
 
 **Health**: You gain hit points equal to your level. 
 
-_Carve: Your armor class is reduced by one for every other stack of carve you have, up to a maximum of eight. Whenever you start your turn, you remove one stack of carve_
+_Carve: Your armor class is reduced by one for every third stack of carve you have, up to a maximum of twelve._
 
 _You gain +2 to hit and attack rolls using this magical weapon_
+
+---
+
+## Black Hole Gauntlet
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Black Hole Gauntlet.png" Align=right width=8% height=8%>
+
+- Gauntlets
+
+**Dark Star**: Once a day when you clearly can see a start in the sky, you can cast the Divination spell. 
+
+**Health**: You gain maximum hit points equal to your level.
+
+**Accretion**: Whenever you hit a melee attack or immobilize a creature, you gain a stack of _Accretion_. Whenever you have five stacks of _Accretion_ your size increases by one and you gain maximum hit points equal to two times your level for a minute, additionally you gain five stacks of regeneration. 
+
+_You gain +2 to unarmed attack and damage rolls using these gauntlets_
 
 ---
 
