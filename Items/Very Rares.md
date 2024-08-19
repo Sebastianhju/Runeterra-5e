@@ -79,12 +79,13 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Black Hole Gauntlet.png" Align=right width=8% height=8%>
 
 - Gauntlets
+- Attunement
 
 **Dark Star**: Once a day when you clearly can see a start in the sky, you can cast the Divination spell. 
 
 **Health**: You gain maximum hit points equal to your level.
 
-**Accretion**: Whenever you hit a melee attack or immobilize a creature, you gain a stack of _Accretion_. Whenever you have five stacks of _Accretion_ your size increases by one and you gain maximum hit points equal to two times your level for a minute, additionally you gain five stacks of regeneration. 
+**Accretion**: Whenever you hit a melee attack or immobilize a creature, you gain a stack of _Accretion_. Whenever you have five stacks of _Accretion_ your size increases by one and you gain maximum hit points equal to two times your level for a minute. Additionally you can replace one of your attacks with a pulling grasp. A creature within 30ft of you is pulled into melee range of you and are restrained until the end of their turn.
 
 _You gain +2 to unarmed attack and damage rolls using these gauntlets_
 
