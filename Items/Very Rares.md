@@ -540,9 +540,11 @@ _You get +1 to your saving throws_
 
 **Charges**: This item has four charges and regains all charges when you finish a long rest. 
 
-**Ichatian Bite**: When you hit an attack with _Nashor's Tooth_ you can spend two charges to deal 4d6 poison damage. 
+**Ichatian Bite**: When you hit an attack with _Nashor's Tooth_ you can spend two charges to deal 1d6 poison damage for each stack of _Carve_ the target has, then removing all their stacks of _Carve_.
 
-**Void Corruption**: Once a turn when you hit an attack with _Nashor's Tooth_ you can eighter apply one stack of carve, or double the amount of carve the creatures has. 
+**Void Corruption**: Once a turn when you hit an attack with _Nashor's Tooth_ you can eighter apply one stack of _Carve_, or double the amount of _Carve_ the creatures has. 
+
+_Carve: Your armor class is reduced by one for every third stack of carve you have, up to a maximum of twelve._
 
 _You gain +2 to attack and damage rolls using this magical weapon_
 
@@ -684,6 +686,8 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 **End of the Line**: Whenever you roll initiative, golden light from the blade marks the opponents leader as the _Regent_. The _Regent_ immidiatly gains 3 stacks of _Carve_. When the _Regent_ is reduced to 0hp, your attacks with _Regicide_ deals bonus damage equal to twice your proficiency bonus for the rest of combat.
 
 _You gain +2 to attack and damage rolls using this weapon_
+
+_Carve: Your armor class is reduced by one for every third stack of carve you have, up to a maximum of twelve._
 
 ---
 
