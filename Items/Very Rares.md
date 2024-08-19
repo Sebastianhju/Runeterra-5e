@@ -199,6 +199,20 @@ _You gain +2 to attack and damage rolls using this weapon_
 
 ---
 
+## Diamond-Tipped Spear
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Diamond-Tipped Spear.png" Align=right width=8% height=8%>
+
+- Spear
+
+**Reach**: This Weapon has the *Reach* property
+
+**Sweet Spot**: Whenever you make a melee attack with this weapon, it deals one additional damage dice for every 5th feet you are away from them. 
+
+_You gain +2 to attack and damage rolls using this weapon_
+
+---
+
 ## Edge of Night
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Edge og Night.png" Align=right width=8% height=8%>
