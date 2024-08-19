@@ -1050,7 +1050,7 @@ _You gain +2 to inititative rolls_
 
 _You gain +1 to hit and damage rolls using this magical weapon_
 
-_Carve_: Your armor class is reduced by one for every other stack of carve you have, up to a maximum of eight. Whenever you start your turn, you remove one stack of carve
+_Carve: Your armor class is reduced by one for every third stack of carve you have, up to a maximum of twelve._
 
 ---
 
