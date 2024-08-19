@@ -85,7 +85,7 @@ _You gain +2 to hit and attack rolls using this magical weapon_
 
 **Health**: You gain maximum hit points equal to your level.
 
-**Accretion**: Whenever you hit a melee attack or immobilize a creature, you gain a stack of _Accretion_. Whenever you have five stacks of _Accretion_ your size increases by one and you gain maximum hit points equal to two times your level for a minute. Additionally you can replace one of your attacks with a pulling grasp. A creature within 30ft of you is pulled into melee range of you and are restrained until the end of their turn.
+**Accretion**: Whenever you hit a melee attack or immobilize a creature, you gain a stack of _Accretion_. Whenever you have five stacks of _Accretion_ your size increases by one and you gain maximum hit points equal to two times your level for a minute. Additionally you can do a gravital pull as a bonus action. All creatures within 30ft of you is pulled towards you and are slowed for 15ft. 
 
 _You gain +2 to unarmed attack and damage rolls using these gauntlets_
 
