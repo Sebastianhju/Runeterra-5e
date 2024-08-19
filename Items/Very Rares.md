@@ -229,6 +229,23 @@ _You gain +2 to attack and damage rolls using this weapon_
 
 ---
 
+## Empyrean Promise
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Empyrean Promise.png" Align=right width=8% height=8%>
+
+- Ring
+- Attunement
+
+**Charges**: This item has 2 charges and regains all charges when you finish a long rest.
+
+**Haste:** Whenever you must spend charges of any other item or rune, you can spend charges from this item instead.
+
+**Healing Power**: Your healing spells heal 3 more hit points.
+
+**Vigilance**: As a bonus action you can spend a charge and a spell slot of any level to target an ally you can see. Both you and that ally gains temporary hit points equal to ten times the spell slots level, then you teleport, swapping places. 
+
+---
+
 ## Essence Reaver
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Essence Reaver.png" Align=right width=8% height=8%>
@@ -655,6 +672,18 @@ _You gain +2 to hit and damage rolls using this magical weapon_
 **Harmony**: Whenever you heal a creature, you can spend a first level spell slot or higher to heal the maximum amount of hit points possible.
 
 **Healing Power**: Your healing spells heal 2 more hit points.
+
+---
+
+## Regicide
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Regicide.png" Align=right width=8% height=8%>
+
+- Longsword
+
+**End of the Line**: Whenever you roll initiative, golden light from the blade marks the opponents leader as the _Regent_. The _Regent_ immidiatly gains 3 stacks of _Carve_. When the _Regent_ is reduced to 0hp, your attacks with _Regicide_ deals bonus damage equal to twice your proficiency bonus for the rest of combat.
+
+_You gain +2 to attack and damage rolls using this weapon_
 
 ---
 
