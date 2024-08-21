@@ -12,7 +12,7 @@
 
 **Awe**: Your maximum hit points increases by to times your level.
 
-**Everlasting**: Whenever you spend a spell slot, you gain temporary hit points equal to five times the spells level.
+**Everlasting**: Whenever you spend a spell slot, you gain temporary hit points equal to five times the spells level, stacking with other temporary hit points gained from other features than this. 
 
 _While wearing this armor you have a +2 to your armor class_
 
