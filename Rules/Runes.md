@@ -41,6 +41,8 @@
 
 Whenever you move and attack you gain *Energize* Stacks. You gain 1 stack for every feet you move and ten stacks for every attack you hit, up to a maximum of 100 stacks. When you have maximum stacks, the next time you deal damage, you gain 10 feet movement speed and you deal 1d6 additional damage, and heal equal to the additional damage dealt.
 
+**Alteration**: Whenever you activate _fleet footwork_ you dont provoke opportunity attacks and gain 10ft additional speed
+
 The damage increases by 1d6 at level 5, 11 and 17. 
 
 ---
@@ -49,6 +51,8 @@ The damage increases by 1d6 at level 5, 11 and 17.
 
 When you hit attack rolls during your first attack or spell action you gain stacks of _Conqueror_. You gain 4 stacks for melee and 3 stacks for ranged attacks. When you have 12 stacks of _Conqueror_ you deal 1d6 additional damage whenever you deal damage that turn, and you heal for the additional damage dealt. If you don't deal damage within the next minute, you loose all stacks of Conqueror.
 
+**Alteration**: When _Conqueror_ is fully stacked, you gain temporary hit points equal to two times your level.
+
 The damage dice increases to 1d8 at level 5, 1d10 at level 11 and 1d12 at level 17.
 
 ---
@@ -56,6 +60,8 @@ The damage dice increases to 1d8 at level 5, 1d10 at level 11 and 1d12 at level 
 ### Lethal Tempo  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Precision/LethalTempo.png" Align=left width=15% height=15%>
 
 When you hit attack rolls during your first attack or spell action you gain stacks of _Tempo_. You gain 4 stacks for melee and 3 stacks for ranged attacks. When you have 12 stacks of _Tempo_ you can make one additional attack the first time you take the attack action each round, and you gain 10ft additional range on weapon attacks, haved for melee attacks. If you don't deal damage within the next minute, you loose all stacks of _Tempo_.
+
+**Alteration**: When _Lethal Tempo_ is fully stacked, you gain +2 to all attack rolls. 
 
 The additional range increases by 10ft at level 5, 11 and 17. 
 
@@ -66,6 +72,8 @@ The additional range increases by 10ft at level 5, 11 and 17.
 Whenever you damage a creature, they gain a stack of pressure that lasts until you damage another creature. When a creature gains three stacks of pressure, they take 1d6 force damage and all attacks against them gains a boon for a minute. 
 
 The damage increases by 1d6 at level 5, 11 and 17. 
+
+**Alteration**: If you hit three consecutive attacks against a creature without missing or targeting another creature, the third attack is always a critical hit. 
 
 (For AoE effects you choose a single target that gets the stack)
 
@@ -172,7 +180,9 @@ Whenever you take a long rest, you can remove one additional point of exhaustion
 
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Domination/Electrocute.png" Align=left width=15% height=15%>
 
-When you damage an enemy you can choose to give them a mark of electrocute. When you damage a creature with a mark of electrocute you consume the charge and deal damage equal to two times you proficiency bonus to the closest enemy within 30 feet of the original target. If there is no targets within range, the original target takes the damage instead. 
+When you damage an enemy during your turn you can choose to give them a mark of electrocute. When you damage a creature with a mark of electrocute you consume the charge and deal damage equal to two times you proficiency bonus to the closest enemy within 60ft of the original target. If there is no targets within range, the original target takes the damage instead. 
+
+**Alteration**: The ligtning spreads to a third target within 60ft of the original target as well. If there is no targets within range, the original target takes the damage instead
 
 ---
 
@@ -181,6 +191,8 @@ When you damage an enemy you can choose to give them a mark of electrocute. When
 Whenever you score a takedown you gain a stack of Harvest. 
 
 Once a turn when you damage a target you can choose to deal 1d6 force damage to that target plus 1 for every 20th stack of Harvest. Dark Harves can only trigger once on the same target each combat. Whenever you use this feature, it cannot be used again until you score a takedown or finish a long rest. 
+
+**Alteration**: _Dark Harvest_ also deals damage to targets within 5ft of the original target. 
 
 The damage increases by 1d6 at level 5, 11 and 17.
 
@@ -192,6 +204,8 @@ You can always dash as a bonus action.
 
 Once per combat when you dash you can choose to activate *Predator*, gaining boon on all attacks until the end of your turn and the next time you deal damage you deal 1d6 additional damage for every 30 feet traveled that turn, up to 90 feet. You can also expend movement speed instead of traveling to gain the same effect. 
 
+**Alteration** Whenever you dash you dont provoke opportunity attacks and you can travel up to 120 feet when calculating _Predators_ damage. 
+
 The damage for each threshold increases by 1d6 at level 5, 11 and 17.
 
 ---
@@ -199,6 +213,8 @@ The damage for each threshold increases by 1d6 at level 5, 11 and 17.
 ## Hail of Blades <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Domination/HailOfBlades.png" Align=left width=15% height=15%>
 
 The first time you act in combat, you gain a boon on every action you make and you can eighter make additional attacks equal to half your proficiency bonus rounded down as a part of your first attack action or cast spells of first level or higher as both your bonus action and action. The spells must still meet their casting time conditions.
+
+**Alteration**: During your first turn in combat all damaging effects you deal also applies 2 stacks of carve.
 
 ---
 
@@ -307,7 +323,9 @@ As an action you can spend one charge to kill a ward that you know the location 
 ### Summon Aery  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Sorcery/SummonAery.png" Align=left width=15% height=15%>
 Once per long rest you can cast the find familliar spell, summoning [Aery](https://www.dndbeyond.com/monsters/3896400-aery), without using components. Aery is a spirit that can shield your allies or deal damage to enemies. 
 
-Aerys hit points scales with your level. Their hit point maximum equals 5 times your level. 
+Aerys hit points scales with your level. Their hit point maximum equals 5 times your level.  
+
+**Alteration**: When Aery is clinged to an ally, they gain a boon to all saving throws. When Aery deals damage to a target, they gain a bane on their next attack roll.
 
 Aerys damage and sheilding scales along with your proiciency bonus in level 5, 9, 13 and 17.
 
@@ -315,7 +333,9 @@ Aerys damage and sheilding scales along with your proiciency bonus in level 5, 9
 
 ### Arcane Comet <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Sorcery/ArcaneComet.png" Align=left width=15% height=15%>
 
-Once per combat, as an action you can summon an arcane comet that crashes into a 30 foot radius, all creatures in the effect must make a dexterity saving throw or take 3d6 bludgeoning damage and are knocked prone. The save DC equals 8 + twice your proficiency bonus or your spell save DC. 
+Once per combat, as an action you can summon an arcane comet that crashes into a 20 foot radius, all creatures in the effect must make a dexterity saving throw or take 3d6 bludgeoning damage and are knocked prone. The save DC equals 8 + twice your proficiency bonus or your spell save DC. 
+
+**Alteration**: The radius increases to 30ft and targets of your choosing is immune to the _Arcane Comet_
 
 The damage increases by 3d6 at levels 5, 11 and 17
 
@@ -326,6 +346,8 @@ The damage increases by 3d6 at levels 5, 11 and 17
 Whenever you damage a creature, they gain a stack of *phase* that lasts until you damage another creature. When a creature gains three stacks of *phase* you enter *Phase Rush* for a minute. 
 
 While in Phase Rush you can dash as a bonus action, you dont provoke oppourtunity attacks and you are immune to the grappled and restrained conditions. Whenever you take damage while phasing you reduce that by an amount equal to your proficiency bonus. 
+
+**Alteration**: While in _Phase Rush_, you gain flying speed equal to your walking speed. 
 
 (For AoE effects you choose a single target that gets the stack)
 
@@ -443,11 +465,15 @@ Once a turn when you immobilize a creature, you can increase your armor class by
 
 The maximum of armor class you can gain from this effect equal to your proficiency bonus. 
 
+**Alteration**: As a bonus action you can remove all the armor class gained from this _Aftershock_. All targets wihtin 15ft of you must make a save, dc equals 10 + twice your proficiency bonus, or take 3d6 damage for every armor class loosed in this way, halved on a save. 
+
 ---
 
 ### Guardian  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Resolve/Guardian.png" Align=left width=15% height=15%>
 
 Once per combat when you or an ally within 30 feet of you takes damage, before you can choose grant yourself and that ally temporary hit points. The target taking damage gains temporary hit points equal to three plus three times your level and the other gains half that amount rounded down.
+
+**Alteration**: Targtets that have temporary hit points gains resistances to bludgeoning, piercing and slashing damage as long as they have these temorary hit points.
 
 ---
 
@@ -458,6 +484,8 @@ You maximum hit points increases equal to twice your level.
 Once a round when you damage an enemy and once a round when you take damage from an enemy, you gain a stack of Grasp. When you are at three stacks, your next damaging effect deals additional 1d6. You heal equal to the damage dealt from this effect.
 
 In addition you gain a stack of Undying whenever you drain an opponent using this ability. You gain +1 maximum hit points for every 5th stack of Undying. 
+
+**Alteration**: When you activate _Grasp_, you can choose to heal another ally within 60ft of you instead of yourself. Additionally the damaged target is slowed for 15ft. 
 
 The damage increases by 1d6 at level 5, 11 and 17.
 
@@ -560,7 +588,9 @@ You gain immunity to the frightened and charmed condition and you cannot be move
 ## Keystones 
 ### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Inspiration/GlacialAugment.png" Align=left width=15% height=15%>
 
-When you immobilize a target, you can choose to cover the terrain beneath them in ice. A 15 foot radius centered around the enemy is turned to difficult terrain for enemies. All enemy targets standing within the area gains a bane to attack rolls and attacks against them gains a boon. This effect lasts until you use this effect again.  
+When you immobilize a target, you can choose to cover the terrain beneath them in ice. A 15 foot radius centered around the enemy is turned to difficult terrain for enemies. All enemy targets standing within the area gains a bane to attack rolls and attacks against them gains a boon. This effect lasts until you use this effect again. 
+
+**Alteration**: When _Glacial Augment_ is activated a hailstorm appear in a 120ft tall sylinder in the area as long as it is active. All creatures that start their turn in there that are concetrating or flying must make a constitution saving throw, dc 10 + twice your proficiency bonus, on a failed save they loose concentration and drop to the ground if they were flying. 
 
 The area of effect increases by 5 feet at levels 5, 11 and 17. 
 
@@ -584,13 +614,15 @@ To determine if you can select your summoner spell gained you must hit a 4 or hi
 |4|Flash||9|Teleport|
 |5|Ghost||10|Clarity|
 
+**Alteration**: When you use a summoner spell you can cast a spell with a spell level equal to half your proficiency bonus rounded up as a part of that action. The spell must be on your spell list and targets the same targets. The rules for leveled spells still applies. 
+
 ---
 
 ### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Inspiration/FirstStrike.png" Align=left width=15% height=15%>
 
 You gain a +5 bonus to initiative rolls. Whenever you deal damage to a creature that hasn't taken a turn in combat yet you ignore their resistances and immunities. For the first attack you gain gold equal to two times the damage dealt times your proficiency bonus. 
 
-.
+**Alteration**: You instead gain gold equal to four times the damage dealt times your proficiency bonus. 
 
 ---
 
