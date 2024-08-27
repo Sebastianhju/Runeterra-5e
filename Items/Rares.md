@@ -226,7 +226,7 @@ _You gain +2 to your insight checks_
 
 **Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
 
-**Damm the Weak**: Whenever you hit an attack with a blighted arrow you can force them to make a constitution saving throw, Dc equals 9 plus two times your proficiency. On a failed save the target is *Cursed* as if under the Bane spell for a minute.
+**Damm the Weak**: Whenever you hit an attack with a blighted arrow you can spend a charge to force them to make a constitution saving throw, Dc equals 9 plus two times your proficiency. On a failed save the target is *Cursed* as if under the Bane spell for a minute.
 
 **Blighted Arrow**: You can choose to have your arrows deal necrotic damage instead of piercing damage. 
 
