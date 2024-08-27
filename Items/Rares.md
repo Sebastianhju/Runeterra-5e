@@ -462,7 +462,7 @@ _You get +2 to your arcana and religion checks_
 
 **Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
 
-**Dynamic**: Whenever you have 100 stacks of energized, your next attack with _Fulmination_ deals force damage instead of slashing. If you hit a target that did not get hit by your previous _Enegized_ attack you dont consume any energize stacks. 
+**Dynamic**: Whenever you have 100 stacks of energized, your next attack with _Fulmination_ deals force damage instead of slashing. First time you hit a new target for the round, you regenerate all _Energized_ charges. 
 
 _You gain +1 to attack and damage rolls using this weapon_
 
