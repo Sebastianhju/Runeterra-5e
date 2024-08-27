@@ -180,9 +180,9 @@ Whenever you take a long rest, you can remove one additional point of exhaustion
 
 ### Electrocute <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Domination/Electrocute.png" Align=left width=15% height=15%>
 
-When you damage an enemy during your turn you can choose to give them a mark of electrocute. When you damage a creature with a mark of electrocute you consume the charge and deal damage equal to two times you proficiency bonus to the closest enemy within 60ft of the original target. If there is no targets within range, the original target takes the damage instead. 
+When you damage an enemy during your turn you can choose to give them a mark of electrocute. When you damage a creature with a mark of electrocute you consume the charge and deal damage equal to two times you proficiency bonus to the two closest enemies within 60ft of the original target. If there is no targets within range, the original target takes additional damage equal to two times your proficiency bonus instead. 
 
-**Alteration**: The ligtning spreads to a third target within 60ft of the original target as well. If there is no targets within range, the original target takes the damage instead
+**Alteration**: The ligtning spreads to a third target within 60ft of the original target as well.
 
 ---
 
