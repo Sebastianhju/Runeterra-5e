@@ -439,6 +439,21 @@ _You get +2 to your arcana and religion checks_
 
 ---
 
+## Fishbones
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Forbidden Idol.png" Align=right width=8% height=8%>
+
+- 4500 Gold
+- Hand Mortar (Exandria)
+
+**Charges**: This item has 3 charges and regains all charges when you finish a long rest. 
+
+**Blast Away!**: When you take the attack action you can spend a charge to double the close and longe range of _Fishbones_ and apply _Burning_ to all targets that take damage from the first attack.
+
+_You gain +1 to attack and damage rolls using this weapon_
+
+---
+
 ## Forbidden Idol
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Forbidden Idol.png" Align=right width=8% height=8%>
@@ -511,6 +526,21 @@ _You gain +1 to hit and damage rolls using this magical weapon._
 _You gain +2 to initiative_
 
 ---
+
+## Hexbolt Companion
+
+- 4500 Gold
+- Hand Crossbow
+
+**Covering Fire**: As long as you have an ally within 5ft of you when making an attack roll with this weapon, you gain a boon on the attack roll. 
+
+**Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
+
+**Jolt**: When you are at 100 stacks of _energized_, your next attack with _Hexbolt Companion_ also deals 1d8 lightning and applies 2 stacks of carve to the target.
+
+_You gain +1 to attack and damage rolls using this weapon_
+
+--
 
 ## Hextech Rocketbelt
 
