@@ -536,7 +536,7 @@ _You gain +2 to initiative_
 
 **Energized**: Whenever you move you gain a stack of _energized_ for every feet you move and whenever you attack you gain ten stacks of _energized_, up to a maximum of 100.
 
-**Jolt**: When you are at 100 stacks of _energized_, your next attack with _Hexbolt Companion_ also deals 1d8 lightning and applies 2 stacks of carve to the target.
+**Hexbolt**: When you are at 100 stacks of _energized_, your next attack with _Hexbolt Companion_ also deals 1d8 lightning and applies 2 stacks of carve to the target. If an ally is within 5ft og you it applies 3 stacks of carve instead. 
 
 _You gain +1 to attack and damage rolls using this weapon_
 
