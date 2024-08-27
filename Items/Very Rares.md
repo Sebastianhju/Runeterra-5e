@@ -263,6 +263,23 @@ _You have +2 to hit and attack rolls using this magical weapon_
 
 ---
 
+## Force of Entropy
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Force of Entropy.png" Align=right width=8% height=8%>
+
+- Warhammer
+- Attunement
+
+**Health**: You gain maximum hit points equal to your level. 
+
+**Atrophy**: Whenever you _Immobilize_ a creature, you can roll 1d20. If you "critically hit" the duration of the immobilization is increased by half the original duration, to a minimum of 6 additional seconds.
+
+**Crit Chance**: You gain +1 crit chance
+
+_You gain +2 to attack and damage rolls using this weapon_
+
+---
+
 ## Gargoyle Stoneplate
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Gargoyle Stoneplate.png" Align=right width=8% height=8%>
