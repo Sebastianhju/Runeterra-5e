@@ -18,6 +18,7 @@
 |---|---|---|
 |**[Fleet Footwork](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Runes.md#fleet-footwork--)**|Deal more damage and heal by moving in combat|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Precision/FleetFootwork.png" width=50% height=50%>|
 |**[Conqueror](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Runes.md#conqueror--)**|Deal substained damage and healing in longer fights|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Precision/Conqueror.png" width=50% height=50%>|
+|**[Lethal Tempo](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Runes.md#lethal-tempo--)**|Gain additional attacks and range in longer fights|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Precision/LethalTempo.png" width=50% height=50%>|
 |**[Press The Attack](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Runes.md#Press-The-Attack--)**|Deal more damage by focusing on the same target|<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Precision/PressTheAttack.png" width=50% height=50%>|
 
 
