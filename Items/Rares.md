@@ -1318,11 +1318,8 @@ _You gain +1 to hit and damage rolls using this magical weapon_
 
 - 4000 Gold
 - Woundrous item
-- Attunement
 
-**Health**: You gain health equal to your level.
-
-**Mana**: You gain one additional fist level spell slot
+**Mana**: You gain one additional spell of a spell level equal to your proficiency bonus.
 
 **Frostfire Tempest**: When you cast a spell slot of your highest level fire and ice starts to burst around you until the end of your next turn. All enemy creatures who start their turn within 5 feet of you must make a constitution saving throw against your spell save dc. Taking 2d6 fire damage and 2d6 cold damge, halved on a success
 
