@@ -129,7 +129,7 @@ _You have +2 to hit and damage rolls with this magical weapon_
 - Wondrous Item
 - Attunement
 
-**Blessing**: You learn the bless spell and can cast it once a day without using a spell slot. Whenever you cast bless, you can spend an additional third level spell slot, or higher, to empower it. An empowered bless spells dice increases to 1d6 and heals the blessed creature equal to the number rolled on the bless dice whenever they make an attack roll or saving throw. 
+**Blessing**: You learn the bless spell and can cast it once a day without using a spell slot. Whenever you cast bless, you can spend an additional second level spell slot, or higher, to empower it. An empowered bless spells dice increases to 1d6 and gives user temporary hit points equal to the roll. 
 
 **Chosen**: You are always under the blessed condition. 
 
@@ -158,7 +158,7 @@ _You have +2 to hit and damage rolls with this magical weapon_
 
 **Replenish**: Whenever you finish a short rest, you regain a spell slot of a spell level equal to your proficiency bonus. 
 
-**First Light**: Whenever you cast a spell of second level or higher that damages or heals, you can choose to spend anotehr spell slot to enchance the spell cast. The spell slot gives you a pool equal to 10 times the spell slots level, you can increase the damage or healing by that amount on chosen targets of the spell. 
+**First Light**: Whenever you cast a single target spell of first level or higher that damages or heals, you can choose to spend another spell slot to enchance the spell cast. The spell slot gives you a pool equal to 10 times the spell slots level, you can increase the damage or healing by that amount on chosen targets of the spell. 
 
 _You gain +2 to spell attack rolls and save DC_ 
 
@@ -193,7 +193,7 @@ _You gain +2 to attack and damage rolls using this weapon_
 
 **Hemorage**: Whenever you hit a creature with this weapon, they gain a stack of Hemorage up to a maximum of three. When a creature with hemorage move, for every stack of hemorage they have they take 1 damage for every 5 feet they move.
 
-**Decimating Gulliotine**: Once per long rest you can spend your action to do a cleaving strike. You roll to hit against a target, and if the attack hits it deals 2d12 plus 10 force damage for each stack of hemorage it has.
+**Decimating Gulliotine**: You can spend your action to do a cleaving strike. You roll to hit against a target, and if the attack hits it deals 2d12 plus 10 force damage for each stack of hemorage it has. If the attack hit, you cannot do this action again until you finish a long rest. 
 
 _You gain +2 to attack and damage rolls using this weapon_
 
@@ -207,7 +207,7 @@ _You gain +2 to attack and damage rolls using this weapon_
 
 **Reach**: This Weapon has the *Reach* property
 
-**Sweet Spot**: Whenever you make a melee attack with this weapon, it deals one additional damage dice for every 5th feet you are away from them. 
+**Sweet Spot**: Whenever you make a melee attack with this weapon, it deals two additional damage dice for every 5th feet you are away from them. 
 
 _You gain +2 to attack and damage rolls using this weapon_
 
@@ -272,7 +272,7 @@ _You have +2 to hit and attack rolls using this magical weapon_
 
 **Health**: You gain maximum hit points equal to your level. 
 
-**Atrophy**: Whenever you _Immobilize_ a creature, you can roll 1d20. If you "critically hit" the duration of the immobilization is increased by half the original duration, to a minimum of 6 additional seconds.
+**Atrophy**: Whenever you _Immobilize_ a creature, you can roll 1d20. If you "critically hit" the duration or range of the immobilization is increased by half the original duration, to a minimum of 6 additional seconds.
 
 **Crit Chance**: You gain +1 crit chance
 
@@ -309,7 +309,7 @@ _You gain +2 to your armor class while wearing this piece of armor_
 
 **Siege Weapon**: The gloves deal double damage to objects and constructs. 
 
-**Tunneler**: When given time the gloves can make simple tunnels. The gloves can carve through dirt and rock, spending a minute to carve out a 5ft cube. Carving through metal takes ten minutes for a 5ft cube. 
+**Tunneler**: You gain 30ft burrowing speed.
 
 _You get +2 to unarmed attack and damage rolls_ 
 
@@ -340,9 +340,9 @@ _You gain +2 to hit and damage rolls with this magical weapon_
 
 **Colossal Consumption**: Whenever you end your turn, all creatures within 10 feet of you are granted a _mark of the colossus_. Whenever you hit an attack roll against a creature with a mark you consume the mark, and they take one additional damage for every 25th maximum hit points you have, and you get a stack of _Heartsteel_. 
 
-**Colossal Might**: For every 5th stack of _Heartsteel_ you have you gaain +1 maximum HP 
+**Colossal Might**: For every 5th stack of _Heartsteel_ you have you gain +1 maximum HP 
 
-**Health**: You gain maximum hit points equal to two times your level. 
+**Health**: You gain maximum hit points equal to your level. 
 
 _You gain +1 to your armor class_
 
@@ -430,8 +430,6 @@ _While wieldign this bow you gain +1 to your armor class_
 **Pledge**: As a ritual during your long rest, you can select an ally to be named _Worthy_. The worthy creature can add 1d6 to all ability checks and saving throws until you select a new _Worthy_ target. 
 
 **Sacrifice**: Whenever the _Worthy_ ally is within 120 feet of you and takes damage, you take half of that damage as nonmigatiable damage and they take half damage instead. Whenever the _Worthy_ ally deals damage to a creature, you heal equal twice to your proficiency bonus, up to a maximum of two times each round. 
-
-**Health**: You gain maximum hit points equal to your level. 
 
 _You get +1 to your armor class_
 
@@ -524,27 +522,11 @@ _You get +1 to your saving throws_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Molten Helm.png" Align=right width=8% height=8%>
 
-- xx Gld
 - Wondrous
 
 **Dragon Shape**: You can spend your wildshape to become a _Red Dragon Wyrmling_.
 
 **Fire Adaption**: You are immune to fire damage. 
-
----
-
-## Mikael's Blessing
-
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Mikael's Blessing.png" Align=right width=8% height=8%>
-
-- 4000 Gold
-- Wondrous
-
-**Purify**: You know the lesser restoration spell and can cast it once a long rest as an reaction without spending any spell slots.
-
-**Enhanced Cleansing**: Your lesser and greater restoration spells gains 30 feet range. Additionally you gain the ability to upcast the spells, giving them one additional target for each spell level. 
-
-**Healing Power**: Your healing spells heal 3 more hit points.
 
 ---
 
@@ -573,7 +555,7 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 
 - Flickerblade (Handaxe)
 
-**Transcendence**: Whenever you hit an attack with Navori Flickerblade you can recharge one charge on a item or a rune you have. 
+**Transcendence**: The first time during your turn that you hit an attack with Navori FLickerblade, you may recharge two charges on an item or rune that you have. 
 
 **Lojality**: Whenever you make a thrown attack with Navori Flickerblade the weapon boomerangs and returns back to you. If you critically hit an attack, you can make one additional attack roll at disadvantage as the Flickerblade returns to you. 
 
@@ -590,7 +572,7 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 - Scale mail
 - Attunement
 
-**Tyranny**: Whenever you make melee attack rolls, you can add your constitution modifier to the attack roll. 
+**Tyranny**: Whenever you make melee attack rolls, you can add your constitution modifier to the damage roll. 
 
 **Retribution**: You constitution ability increases by 2 up to a maximum of 22. 
 
@@ -607,7 +589,7 @@ _You gain +1 to your armor class while wielding this armor_
 
 **Charges**: This item has six charges and regains all charges when you finish a long rest. 
 
-**Leaping Strike**: If you are hidden from a target, you can spend three charges to teleport 30 feet to a location within 5 feet of the target as an action. You can then make an attak wih _Prowler's Claw_, critting on a successfull hit. 
+**Leaping Strike**: If you are hidden from a target, you can spend three charges to teleport 30 feet to a location within 5 feet of the target as an action. You can then make an attack with _Prowler's Claw_, critting on a successfull hit. 
 
 _You gain +2 to attack and damage rolls using this weapon_
 
@@ -716,9 +698,13 @@ _Carve: Your armor class is reduced by one for every third stack of carve you ha
 - Arcane Focus
 - Attunement
 
-**Riftmaker**: Your teleportation spells gains double range. 
+**Charges**: This item has three charges and regains all charges when you finish a long rest.
 
-**Hunger of the Void**: When you deal damage with a spell you gain a stack of _hunger_ up to a maximum of five. When you have 5 stacks of _hunger_ your next spells consumes all charges and deals 3d6 additional necrotic damage and you heal for the same amount. If the spell has multiple damage sources, the first source of damage consumes the charges.
+**Empowered Teleportation**: Your teleportation spells and abilities gains double range. 
+
+**Hunger of the Void**: Whenever you teleport, you gain a stack of _Hunger_ up to a maximum of 3. Whenever you have 3 stacks of _Hunger_ your first damaging spell effect each turn deals 2d6 additional necrotic damage, and you heal equal to that amount. 
+
+**Riftmaker**: As a bonus action you can spend 3 charges to open a rift within 5ft of you. Until the end of your next turn, you and all other creatures can walk trough the rift to teleport to a location they can see within 30ft of the Rift.  
 
 _You gain +2 to your spell attack and save dc_
 
@@ -780,12 +766,11 @@ _You gain +2 to attack and damage rolls using this magical weapon_
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Spectre's Cowl.png" Align=right width=8% height=8%>
 
-- 4000 Gold
 - Wondrous Item 
 
 **Incorporeal**: Whenever you take damage, you gain a stacks of regeneration. During your turn, you can spend two stacks of regeneration to gain the ability to phase through walls and creatures until the end of your turn, while phasing you cannot be restrained or grappled. 
 
-**Health**: You gain maximum hit points equal to two times your level. 
+**Health**: You gain maximum hit points equal to your level. 
 
 _Regeneration: At the start of your turn, your regain hit points equal to your regeneration stacks, and reduce the amount of stacks by one. The maximum amount of regeneration stacks you can have, equals to two plus your proficiency bonus._
 
@@ -959,6 +944,7 @@ _You gain +2 to your armor class while wearing this piece of armor_
 _You gain +2 to attack and damage rolls using this weapon_
 
 ---
+
 ## True Silver Bolts
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/True Silver Bolts.png" Align=right width=8% height=8%>
@@ -1047,9 +1033,9 @@ _You have +2 to attack and damage rolls with this magical weapon_
 
 - Pistol (Exandria)
 
-**Deadly Flourish**: When you take the attack action, instead of using your multiattack you only get one attack. For each attack you would do on that attack action, _Whisper_ deals 1d10 damage. For example, if you would do two attacks it does 2d10 damage. 
+**Deadly Flourish**: When you take the attack action, instead of using your multiattack you only get one attack. For each attack you would do beyond the first, it deals 2d10 additional damage. For example you deal 3d10 damage if you have 2 attacks in your attack action. 
 
-**Death in Four Acts**: _Whisper_ has four attacks and you must spend an action to reload it in all cases. However Whisper always crits if you were to hit the fourth and last attack before you reload. 
+**Death in Four Acts**: _Whisper_ has four bullets and you must spend an action to reload it in all cases. However Whisper always crits if you were to hit the fourth and last attack before you reload. 
 
 **Curtain Call**: As an action you extend _Whisper_ to a sniper and make four attacks against targets within 300ft of you. Each attack deals 2d10 damage and the fourth attack critically hits on a hit. You can do this action once before you must finish a long rest. 
 
