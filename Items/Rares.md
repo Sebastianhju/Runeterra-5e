@@ -10,7 +10,7 @@
 
 **Mana**: You gain one additional first level spell slot and a spell slot with spell level equal to half your proficicency bonus rounded up.
 
-**Awe**: Your hit points increases by two times your level. 
+**Awe**: Your hit points increases by your level. 
 
 **Focus:** When you reach level 8 this item upgrades to **Fimbulwinter**
 
