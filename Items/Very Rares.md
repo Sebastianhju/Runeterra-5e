@@ -10,7 +10,7 @@
 
 **Mana**: You gain one additional first level spell slot, a spell slot with spell level equal to half your proficicency bonus rounded up and a spell slot of your highest spell level.
 
-**Awe**: Your maximum hit points increases by to times your level.
+**Awe**: Your maximum hit points increases by your level.
 
 **Everlasting**: Whenever you spend a spell slot, you gain temporary hit points equal to five times the spells level, stacking with other temporary hit points gained from other features than this. 
 
