@@ -538,7 +538,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 **Charges**: This rune has four charges, you regain all charges at the end of a long rest. 
 
-Whenever you take damage you can spend two charges to reduce the damage by an amount equal to four times your proficiency bonus. You can only do this once per instance of damage.  nm
+Whenever you take damage you can spend two charges to reduce the damage by an amount equal to four times your proficiency bonus. You can only do this once per instance of damage.
 
 ---
 
