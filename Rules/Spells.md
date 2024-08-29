@@ -452,7 +452,7 @@ _Bard, Cleric, Ranger, Druid_
 |4th|1 Action|Self, 30ft|V,S|1 Round (C)|Conjuration|Strenght|
 
 You call upona Monsoon in a 30ft sphere that moves with you. Any tagets of your choice within 30ft of you must make a strength saving throw or are pushed 45 feet away from you, if they are pushed into a wall or object they suffer 2d8 bludgeoning damage. . 
-You can then heal up to six allies (including yourself) witin the Monsoon for 2d8 hit points plus your spellcasting modifier, and then again as a bonus during your next turn. All ranged attack that goes through the monsoon are made with a bane. 
+You can then heal up to six allies (including yourself) witin the Monsoon for 2d8 hit points plus your spellcasting modifier, and then again as a bonus action during your next turn. All ranged attack that goes through the monsoon are made with a bane. 
 
 **At Higher Levels.** When cast with a spell level of 5th or higher the first instance of healing is increased by 1d8 for each level above 4th. 
 
