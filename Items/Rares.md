@@ -648,7 +648,7 @@ _You have +1 to hit and damage rolls using this magical Weapon_
 - Wondrous
 - Attunement
 
-**First in Line**: When you enter wild shape you gain temporary hit points equal to five times your proficiency bonus. Additionally, once per turn when you hit a melee attack while wildshaped you heal equal to your proficiency bonus. 
+**First in Line**: When you enter wild shape you heal equal to three times your proficiency bonus. Additionally, once per turn when you hit a melee attack while wildshaped you heal equal to your proficiency bonus. 
 
 **Health**: You gain health equal to your level
 
