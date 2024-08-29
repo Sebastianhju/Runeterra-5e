@@ -744,6 +744,21 @@ _You have +1 to attack and damage rolls with this magical weapon_
 
 ---
 
+## Mikael's Blessing
+
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Mikael's Blessing.png" Align=right width=8% height=8%>
+
+- 4500 Gold
+- Wondrous
+
+**Purify**: You know the lesser restoration spell and can cast it once a long rest as an reaction without spending any spell slots.
+
+**Enhanced Cleansing**: Your lesser and greater restoration spells gains 30 feet range. Additionally you gain the ability to upcast the spells, giving them one additional target for each spell level. 
+
+**Healing Power**: Your healing spells heal 3 more hit points.
+
+---
+
 ## Mortal Reminder
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Mortal Reminder.png" Align=right width=8% height=8%>
