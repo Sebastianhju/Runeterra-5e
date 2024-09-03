@@ -94,9 +94,14 @@ _You armor class increases with +1 while wearing the Pauldrons_
 - Wondrous
 - Attunement
 
-**Abominal Transformation**: Whenever you wildshape you can turn into any monstrosity as long as their Challenge Rating meets the restrictions of the wild shape table. 
+**Abominal Transformation**: You can wildshape into mor excotic creatures whene you use your wildshape ability. You can transform into one of the creatures below, as long as they match the CR credentials of the wild shape feature. 
 
-_You gain +1 to spell attack and spell save DC_
+|Wildshape|CR|-|Wildshape|CR| 
+|Young Kruthik|1/8|-|Grick|2|
+|Male Steeder|1/4|-|Hook Horror|3|
+|Rust Monster|1/2|-|Girallon|4|
+|Crag Cat|1|-|Bulette|5|
+
 
 ---
 
