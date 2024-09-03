@@ -529,6 +529,8 @@ _You gain +2 to initiative_
 
 ## Hexbolt Companion
 
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Hexbolt Companion.png" Align=right width=8% height=8%>
+
 - 4500 Gold
 - Hand Crossbow
 
