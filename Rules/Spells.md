@@ -557,7 +557,7 @@ _Warlock, Cleric_
 |---|---|---|---|---|---|---|
 |6th|1 action|30ft|V,S|1 minute|Transmutation|---|
 
-You leap into the air and slam down to the ground. For each enemy within 30ft of you, you can summon an Elder God Tentacle anywhere within range. The cap is hightened to two times your proficiency bonus. For the next minute, all of your tentacles deals 1d8 additional damage, and have 60ft reach. Additionally thei heal themselves and you for two times proficiency bonus. 
+You leap into the air and slam down to the ground. For each enemy within 30ft of you, you can summon an Elder God Tentacle anywhere within range. The cap is hightened to two times your proficiency bonus. For the next minute, all of your tentacles deals 1d8 additional damage, and have 60ft reach. Additionally they heal themselves and you for two times proficiency bonus. 
 
 ---
 
