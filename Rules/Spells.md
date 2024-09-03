@@ -146,7 +146,7 @@ _Warlock, Cleric_
 |---|---|---|---|---|---|---|
 |1st|1 Action|60 feet|V,S|1 minute|Conjuration|---|
 
-Call upon the Elder Gods and summon a tentacle at a point you can see within range. The tentacle has hit points equal to 5 plus 5 times your level and AC equal to 12 plus your proficiency bonus. During your turn you can spend your bonus action to command all Tentacles to strike an enemy within their reach.
+Call upon the Elder Gods and summon a tentacle at a point you can see within range. The tentacle has hit points equal to 5 plus 5 times the spells level and AC equal to 12 plus the spells level. During your turn you can spend your bonus action to command all Tentacles to strike an enemy within their reach.
 
 You can have a maximum of tentacels equal to your proficiency bonus.
 
