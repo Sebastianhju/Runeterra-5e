@@ -268,7 +268,7 @@ _You get +1 to your spell attack and spell save dc_
 - 4500 Gold
 - Warhammer
 
-**Hammering Haste**: When you hit an attack roll with _Caulfields Warhammer_ you can recharge one charge on one rune or item you have. 
+**Hammering Haste**: Twice a turn when you hit an attack roll with _Caulfields Warhammer_ you can recharge one charge on one rune or item you have. 
 
 _You gain +1 to hit and damage rolls using this magical weapon_
 
