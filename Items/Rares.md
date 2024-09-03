@@ -97,6 +97,7 @@ _You armor class increases with +1 while wearing the Pauldrons_
 **Abominal Transformation**: You can wildshape into mor excotic creatures whene you use your wildshape ability. You can transform into one of the creatures below, as long as they match the CR credentials of the wild shape feature. 
 
 |Wildshape|CR|-|Wildshape|CR| 
+|---|---|---|---|---| 
 |Young Kruthik|1/8|-|Grick|2|
 |Male Steeder|1/4|-|Hook Horror|3|
 |Rust Monster|1/2|-|Girallon|4|
