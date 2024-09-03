@@ -441,7 +441,7 @@ _You get +2 to your arcana and religion checks_
 
 ## Fishbones
 
-<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Forbidden Idol.png" Align=right width=8% height=8%>
+<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Fishbones.png" Align=right width=8% height=8%>
 
 - 4500 Gold
 - Hand Mortar (Exandria)
