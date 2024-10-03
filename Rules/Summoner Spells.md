@@ -19,7 +19,7 @@ You can remove all negative effects affecting yourself or a creature within 60 f
 ---
 
 # Exhaust<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-Summoners/Exhaust_HD.png" align=right width=10% height=10%>
-As a *Bonus Action* you can exhaust a creature within 15 feet of you for a minute. Their speed is reduced by 10, their armor class and to hit bonus is reduced by an amount equal to your half your proficiency bonus rounded up.
+You can exhaust a creature within 60 feet of you for a minute. Their speed is reduced by 10, their armor class and to hit bonus is reduced by an amount equal to your half your proficiency bonus rounded up.
 
 ---
 
