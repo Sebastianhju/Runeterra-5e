@@ -29,7 +29,7 @@ You teleport to a location within 30 feet of you, you do not need to see the loc
 ---
 
 # Ghost<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-Summoners/Ghost_HD.png" align=right width=10% height=10%>
-You become invisible and gain 30ft additional walking speed for a minute.
+You gain 30ft additional walking speed for a minute and become invisible for a minute or until you cast a spell, make an attack roll or force another creature to make a saving throw.
 
 ---
 
@@ -44,7 +44,7 @@ You apply ignite to a target within 60 feet of you. All incoming healing is halv
 ---
 
 # Smite<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-Summoners/Smite_HD.png" align=right width=10% height=10%>
-Lightning strikes from above. Choose a target within 60ft of yourself, that target takes 4d10 + your level lightning damage. If the target is a beast, monstrosity or ooze, they take 8d10 + your level lightning damage.
+Lightning strikes from above. Choose a target within 60ft of yourself, that target takes 3d10 + your level lightning damage. If the target is a aberration, beast, dragon, ooze or monstrosity they take 6d10 + your level lightning damage.
 
 ---
 
