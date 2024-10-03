@@ -14,7 +14,7 @@ You create a see-through Barrier in a 15 feet radius sphere centered around you 
 
 # Cleanse <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-Summoners/Cleanse.png" align=right width=10% height=10%>
 
-You can remove all negative effects affecting yourself or a creature within 60 feet of you. This doesn´t not remove curses or wounds. 
+You can remove all negative effects affecting yourself or a creature within 60 feet of you. This doesn´t not remove curses or wounds. If there is no negative conditions to remove, you gain a ward that causes you to succeed the next saving throw you are forced to make.
 
 ---
 
@@ -24,7 +24,7 @@ You can exhaust a creature within 60 feet of you for a minute. Their speed is re
 ---
 
 # Flash<img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-Summoners/Flash_HD.png" align=right width=10% height=10%>
-You teleport to a location within 30 feet of you, you do not need to see the location. If the location targeted is a wall, you are instead placed at the nearest open area.
+You teleport to a location within 60 feet of you, you do not need to see the location. If the location targeted is a wall, you are instead placed at the nearest open area. You leave a decoy behind where you teleported from that has an armor class of 12 and 1HP.
 
 ---
 
