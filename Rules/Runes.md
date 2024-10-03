@@ -571,13 +571,7 @@ The area of effect increases by 5 feet at levels 5, 11 and 17.
 
 ### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=15% height=15%>
 
-At the end of a long rest you gain a [Summoner Spells](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Summoner%20Spells.md) for that day, if you dont use them before you take your next long rest it vanishes. First you roll a d6, if you roll a 6 you can select your summoner spells gained. If you roll lower, you must roll a 1d10 to determine you summoner spell according to the table below.  
-
-To determine if you can select your summoner spell gained you must hit a 4 or higher at level 5, 2 or higher at level 9, you always choose at level 13 and above. 
-
-You gain an additional summoner spell at the end of your long rests at level 5, 11 and 17.
-
-To determine if you can select your summoner spell gained you must hit a 4 or higher at level 5, you always choose at level 11 and above. 
+At any time you can cast a [Summoner Spells](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Summoner%20Spells.md) at random. You can do this once per long rest, and only once each round in combat. To determine what summoner spell is cast, roll 1d10. 
 
 |1d10 Roll|Summoner Spell|-|1d10 Roll|Summoner Spell|
 |---|---|---|---|---|
@@ -587,6 +581,7 @@ To determine if you can select your summoner spell gained you must hit a 4 or hi
 |4|Flash||9|Teleport|
 |5|Ghost||10|Clarity|
 
+You can cast one additional summoner spell each long rest at levels 5, 11 and 17. 
 ---
 
 ### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Inspiration/FirstStrike.png" Align=left width=15% height=15%>
