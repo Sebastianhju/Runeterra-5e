@@ -582,6 +582,7 @@ At any time you can cast a [Summoner Spells](https://github.com/Sebastianhju/Run
 |5|Ghost||10|Clarity|
 
 You can cast one additional summoner spell each long rest at levels 5, 11 and 17. 
+
 ---
 
 ### First Strike  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Inspiration/FirstStrike.png" Align=left width=15% height=15%>
