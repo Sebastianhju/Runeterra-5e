@@ -86,14 +86,16 @@
 
 ---
 
-## Cleaving Longsword
+## Reckless Longsword
 
 <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-items/Long Sword.png" Align=right width=8% height=8%>
 
 - 500 Gold
 - Longsword
 
-**Cleave**: When you hit a target with the _Cleaved Longsword_ you can force the blade to another target within 5 feet of the original target, dealing damage equal to your strength modifier. 
+**Charges**: This item has 4 charges and regain all charges at the end of a long rest. 
+
+**Deep Cut**: When you hit a target with the _Cleaved Longsword_ you can spend two charges to buzz the target. 
 
 ---
 
@@ -217,7 +219,7 @@ _Regeneration: At the start of your turn, your regain hit points equal to your r
 
 **Charges**: This item has 3 charges and regain all charges at the end of a long rest.
 
-**Pulverize**: Whenever you hit a melee attack, you can spend a chrage to attempt to knock the target 15 feet up in the air until the end of their turn. The target must succeed a strength saving throw, dc equals to 8 + twice your proficiency bonus, or is knocked airborne.
+**Pulverize**: Whenever you hit a melee attack, you can spend a charge to attempt to knock the target 15 feet up in the air until the end of their turn. The target must succeed a strength saving throw, dc equals to 8 + twice your proficiency bonus, or is knocked airborne.
 
 ---
 
@@ -381,7 +383,7 @@ _Carve: Your armor class is reduced by one for every third stack of carve you ha
 
 **Ace**: Whenver you hit an attack, you gain a stack of *Ace*. You gain two stacks if your attack is made against a creature that you are hidden from. 
 
-**Headshot**: When you have 10 stacks, the next attack that hits with peacemaker consumes all stacks of *Ace* and critically hits. If it already would critically hit, it does not consume any *Ace* stacks. 
+**Headshot**: When you have 8 stacks, the next attack that hits with peacemaker consumes all stacks of *Ace* and critically hits. If it already would critically hit, it does not consume any *Ace* stacks. 
 
 ---
 
