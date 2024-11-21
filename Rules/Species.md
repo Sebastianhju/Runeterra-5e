@@ -31,7 +31,7 @@
 
 **Powerful Build**: You count as one size larger when determining your carrying capacity and the weight you can push, drag and lift. 
 
-**Regeneration**: As a bonus action, your body regenerates the wounds you've suffered. You regain hit points equal to 1d10 plus your level. You can do this a number of times equal to your proficiency bonus before you must finish a short rest.  
+**Regeneration**: As a bonus action, your body regenerates the wounds you've suffered. You regain hit points equal to 1d10 plus your level. You can do this a number of times equal to your proficiency bonus before you must finish a long rest.
 
 ---
 ## Subspecies
@@ -55,7 +55,7 @@
 
 **Sneaky**: You are proficient in the Stealth skill. In addition, without squeezing, you can move trough and stop in a space large enough for a small creature. 
 
-**Tumble**: When you hit a Large or smaller creature with an attack roll and deal damage to it, you can attempt to knock that target prone. The target must be no more than five feet away from you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier it falls prone. You can do this an amount equal to you proficiency bonus before you must take a long rest.  
+**Weapon Master**: You gain weapon mastery with a weapon of your choice. 
 
 **Languages**: Your character can read, speak and write Ixtali
 
@@ -77,15 +77,11 @@
 
 **Languages**: Your character can read, speak and write Va-Nox and Yoyeesh
 
-**Fey Ancestry**: You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
+**Fey Ancestry**: You have advantage on saving throws against charming of frightening effects.
 
-**Immortality**: Yordles live immortal lives. Whenever you would die, they are instead teleported back to Bandle City. 
+**Magical Talent**: You know the prestidigitation cantrip, whenever you use an enchantment or illusion cantrip, you can attempt to make it last for a a minute longer by succeeding a dc 10 arcana check. 
 
-**Magical Talent**: You can attune to almost any magical item due to your magical ancestory. You ignore all feat, class, race, and level requirements on the use of magic items.
-
-**Arcane Adept**: You are proficient in the Arcana skill. 
-
-**Glamour**: The Human race se you as a human as well, unless you choose to lift this enchantment for that individual. 
+**Arcane Potential**: As an reaction when you are hit by an attack, you may roll 1d6. If the result is lower than or equal to your proficiency bonus you teleport to a location you can see within 30ft of you and you take half damage from the attack. You can do this successfully a number of times equal to your proficiency bonus.
 
 ---
 
@@ -111,51 +107,39 @@
 ---
 ## Subspecies
 
-### Shinmon
-|*The Shimon vastaya reside in Ionia. These apelike Vastaya are a wise, cautious people, and as pacifists, chose to build their society away from landwalkers, cultivating their society atop the tallest trees in Ionia. The Shimon see life as an evolutionary climb to wisdom, thus upon death, the Shimon believe they become stones, returning to the soil to begin the climb of life again.*|
-|---|
-
-**Climbers**: You gain climbing speed equal to your walking speed. 
-
-**Natural Acrobats**: You are proficient in the acrobatics skill and your jumping distance is doubled. Additionally, whenever you take the jump action, you can use your dexterity instead of your strength to calculate your jumping distance. 
-
----
-
-## Marai
+## Sea
 |The Marai vastaya have cultural ties with Mount Targon. The Moonstone protects its people from Voidborn, which come from the dark depths of the Guardian's Sea. However, the moonstone's energy needs to be replenished over time, so a Tidecaller of each generation is tasked to retrieve a new one from the contemporary vessel for the Targonian Aspect of the Moon.|
 |---|
 
-**Swimmer**: You gain swimming speed equal to your walking speed.
+**Swimmer**: You gain 30ft swimming speed.
 
-**Darkvision**: You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern Colors in that darkness only as shades of gray. 
+**Darkvision**: You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray. 
 
-**Oceanborn**: You know the shape water cantrip and when you hit level 5 you learn the *tidal wave* spell and can cast it once a day without spending mana. Wisdom is your spellcasting ability for these spells.
+**Oceanborn**: You know the shape water cantrip and when you hit level 5 you learn the *tidal wave* spell and can cast it once a day without spending mana. Wisdom is your spellcasting ability for these spells unless you are a spellcasting class.
 
 ---
 
-## Ottrani
+## Land
 |The Ottarni are goatlike Vastayans that resides on Mount Targon. They are often shepards and farmers that take care of thos who dare climb the celstials challenge. Ottarni are often peaceful and joyfull begins that rather would sit down with a cup of tea, than storm a dragons den.|
 |---|
 
-**Mountain Climber**: You are not affected by difficult terrained caused by rocky terrain or furniture. 
+**Mountain Climber**: You ignore difficult terrain and gain 10ft additional walking speed.
 
 **Caretakers**: You are proficient with the animal handling skill. 
 
-**Animal Whisperer**: You know the first level spell *Speak with Animals* and can castat will without spending mana. 
+**Animal Whisperer**: You know the first level spell *Speak with Animals* and can cast it a number of times equal to your proficiency bonus per long rest without expending spell slots. 
 
 ---
 
-## Lhotlan
+## Sky
 |The Lhotlan vastaya have cultural and existential ties with Ionia. Being one of the oldest Vastayan tribes in existence, they have deep ties with their ancestral roots and protect their cultural heritage from the ever encroaching human population of the continent. These birdlike Vastayans are proud of their tribe and history, and often like to show of their feathers|
 |---|
 
-**Burst of Flight**: As a bonus action you can give yourself a burst of movement speed and flight until the end of your turn. You gain 15 feet additional movement speed and can fly until the end of your turn. However you must end your turn on a surface or take falling damage at the end of your turn. You can do this an amount if times equal to your proficiency bonus before finishing a long rest. 
+**Burst of Flight**: During your turn you can give yourself a burst of movement speed and flight until the end of your turn. You gain 15 feet additional movement speed and can fly until the end of your turn. However you must end your turn on a surface or take falling damage at the end of your turn. You can do this an amount if times equal to your proficiency bonus before finishing a long rest. 
 
 **Slow Fall**: You take half damage from falling damage. 
 
 **Performers**: You are proficient with the performance skill. 
-
-**Strong Bond**: You gain a pool of inspiration dice that you can spend as a bonus action to help a creatue within 30 feet of you. The target gets + 1d6 to their next ability check. You can do this a numbers of times equal to your proficiency bonus before you must finish a short rest. 
 
 ---
 
@@ -171,5 +155,14 @@
 **You can also select the following races from Dungeons and Dragons:**
 - Minotaur (Noxus)
 - Warforged (Piltover & Zaun)
-- Undead lineage (Shadowiles)
-- Centaur (Ionia) 
+- Lineages (Shadow isles or other)
+- Any animal humanoid (Vastayan alternative)
+- Dragonborn (Shyvana relative idk, or maybe some kind of vastayan) *Probably very rare
+- Goliath (Troll alternative)
+- Orc (Troll alternative) 
+- Halfing (Yordle alternative)
+- Gnome (Yordle alternative)
+- Dwarf (Human alternative)
+- Elf (Human alternative)
+- Tiefling (Choose your demons) 
+- Other species (just ask your DM dude)
