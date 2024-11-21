@@ -48,9 +48,9 @@ The damage increases by 1d6 at level 5, 11 and 17.
 
 ### Conqueror  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Precision/Conqueror.png" Align=left width=15% height=15%>
 
-When you hit attack rolls during your first attack or spell action you gain stacks of _Conqueror_. You gain 4 stacks for melee and 3 stacks for ranged attacks. When you have 12 stacks of _Conqueror_ you deal 1d6 additional damage whenever you deal damage that turn, and you heal for the additional damage dealt. If you don't deal damage within the next minute, you loose all stacks of Conqueror.
+When you hit attack rolls during your first attack or spell action you gain stacks of _Conqueror_. You gain 4 stacks for melee and 3 stacks for ranged attacks. When you have 12 stacks of _Conqueror_ you deal 2 additional damage whenever you deal damage that turn, and you heal for the additional damage dealt. If you don't deal damage within the next minute, you loose all stacks of Conqueror.
 
-The damage dice increases to 1d8 at level 5, 1d10 at level 11 and 1d12 at level 17.
+The additional damage increases by 1 at level 5, level 11 and level 17.
 
 ---
 
@@ -563,15 +563,15 @@ You gain immunity to the frightened and charmed condition and you cannot be move
 ## Keystones 
 ### Glacial Augment  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Inspiration/GlacialAugment.png" Align=left width=15% height=15%>
 
-When you immobilize a target, you can choose to cover the terrain beneath them in ice. A 15 foot radius centered around the enemy is turned to difficult terrain for enemies. All enemy targets standing within the area gains a bane to attack rolls and attacks against them gains a boon. This effect lasts until you use this effect again. 
+When you immobilize a target, you can choose to cover the terrain beneath them in ice. A 15 foot diameter centered around the enemy is turned to difficult terrain for enemies. All enemy targets standing within the area gains a bane to attack rolls and attacks against them gains a boon. This effect lasts until you use this effect again. 
 
-The area of effect increases by 5 feet at levels 5, 11 and 17. 
+The area of effect increases by 10 feet at levels 5, 11 and 17. 
 
 ---
 
 ### Unsealed Spellbook  <img src="https://github.com/Sebastianhju/Runeterra-5e/blob/main/Images/img-runes/Inspiration/UnsealedSpellbook.png" Align=left width=15% height=15%>
 
-At any time you can cast a [Summoner Spells](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Summoner%20Spells.md) at random. You can do this once per long rest, and only once each round in combat. To determine what summoner spell is cast, roll 1d10. 
+As a bonus action you can cast a random [Summoner Spell](https://github.com/Sebastianhju/Runeterra-5e/blob/main/Rules/Summoner%20Spells.md). You can do this once per long rest, and only once each round in combat. To determine what summoner spell is cast, roll 1d10. 
 
 |1d10 Roll|Summoner Spell|-|1d10 Roll|Summoner Spell|
 |---|---|---|---|---|
