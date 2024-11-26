@@ -61,7 +61,7 @@ _You have +1 to spell attack rolls and +1 to your spell save DC when attuned to 
 - A fully stacked Spellthiev's Edge
 - Dagger
 
-**True Ice**: Your first damaging each combat deals 2d6 additional cold damage and gives you gold equal to two times the damage dealt. 
+**True Ice**: The first time you deal damage each combat you deal 2d6 additional cold damage and gives you gold equal to two times the total damage dealt. 
 
 **Warding**: As an action, you can place down a stealth ward. You can do this a number of times equal to your proficiency bonus before finishing a long rest
 
